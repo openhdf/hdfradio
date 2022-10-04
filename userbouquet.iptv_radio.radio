@@ -1,6 +1,6 @@
 #NAME Streams (Radio)
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 25.09.2022 by Team www.hdfreaks.cc
+#DESCRIPTION Update 04.10.2022 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
@@ -287,6 +287,8 @@
 #DESCRIPTION laut.fm - Antenne Oldies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bestof80s.stream.laut.fm/best_of_80s
 #DESCRIPTION laut.fm - Best of 80s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bo.stream.laut.fm/b_o
+#DESCRIPTION laut.fm - BO RADIO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1000countryhits.stream.laut.fm/1000countryhits
 #DESCRIPTION laut.fm - 1000 Country Hits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1000goldschlager.stream.laut.fm/1000goldschlager
@@ -307,6 +309,8 @@
 #DESCRIPTION laut.fm - Radio Bagwahn
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rockbismetal.stream.laut.fm/rockbismetal
 #DESCRIPTION laut.fm - Rock bis Metal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rockcorner.stream.laut.fm/rockcorner
+#DESCRIPTION laut.fm – Rockcorner - MUSIK RADIO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skyradiofm.stream.laut.fm/skyradiofm
 #DESCRIPTION laut.fm - Skyradiofm
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//blues.stream.laut.fm/blues?
@@ -736,13 +740,19 @@
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION radio.de
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//live.wostreaming.net/manifest/ppm-jazz24aac-hlsc1.m3u8
-#DESCRIPTION Jazz24
+#DESCRIPTION radio.de Jazz24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vip2.fastcast4u.com/proxy/classicrockdoug?mp=/1
-#DESCRIPTION Classic Rock Florida HD
+#DESCRIPTION radio.de Classic Rock Florida HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5109_128
-#DESCRIPTION AceRadio-Classic RnB
+#DESCRIPTION radio.de AceRadio-Classic RnB
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//eu10.fastcast4u.com%3a8120/stream/1/
-#DESCRIPTION B4B Radio Disco Funk
+#DESCRIPTION radio.de B4B Radio Disco Funk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge59.streamonkey.net/gong-live?aggregator=RadioDe
+#DESCRIPTION radio.de 106,9 Radio Gong Würzburg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge10.streamonkey.net/gong-inthemix?aggregator=RadioDe
+#DESCRIPTION radio.de Radio Gong Würzburg - In The Mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge68.streamonkey.net/gong-oldschool?aggregator=RadioDe
+#DESCRIPTION radio.de Radio Gong Würzburg - Oldschool Gong
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Deutschlandfunk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3?aggregator=web
@@ -1002,53 +1012,53 @@
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION WeaReoNe
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//listen.technobase.fm/tunein-mp3
-#DESCRIPTION TECHNOBASE.FM
+#DESCRIPTION WeaReoNe - TECHNOBASE.FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//listen.housetime.fm/tunein-mp3
-#DESCRIPTION HOUSETIME.FM
+#DESCRIPTION WeaReoNe - HOUSETIME.FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//listen.hardbase.fm/tunein-mp3
-#DESCRIPTION HARDBASE.FM
+#DESCRIPTION WeaReoNe - HARDBASE.FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//listen.trancebase.fm/tunein-mp3
-#DESCRIPTION TRANCEBASE.FM
+#DESCRIPTION WeaReoNe - TRANCEBASE.FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//listen.coretime.fm/tunein-mp3
-#DESCRIPTION CORETIME.FM
+#DESCRIPTION WeaReoNe - CORETIME.FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//listen.clubtime.fm/tunein-mp3
-#DESCRIPTION CLUBTIME.FM
+#DESCRIPTION WeaReoNe - CLUBTIME.FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//listen.teatime.fm/tunein-mp3
-#DESCRIPTION TEATIME.FM
+#DESCRIPTION WeaReoNe - TEATIME.FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//listen.replay.fm/tunein-mp3
-#DESCRIPTION REPLAY.FM
+#DESCRIPTION WeaReoNe - REPLAY.FM
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION egoFM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//egofm-live.cast.addradio.de/egofm/live/mp3/high/stream.mp3
-#DESCRIPTION egoFM Live Stream
+#DESCRIPTION egoFM - Live Stream
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cast.egofm.de/egofmhalloffame.mp3
-#DESCRIPTION egoFM Hall of Fame
+#DESCRIPTION egoFM - Hall of Fame
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cast.egofm.de/egofmsoundtrack.mp3
-#DESCRIPTION egoFM Soundtrack
+#DESCRIPTION egoFM - Soundtrack
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//egofm-sun.cast.addradio.de/egofm/sun/mp3/high/stream.mp3
-#DESCRIPTION egoSUN
+#DESCRIPTION egoFM - egoSUN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//egofm-flash.cast.addradio.de/egofm/flash/mp3/high/stream.mp3
-#DESCRIPTION egoFLASH
+#DESCRIPTION egoFM - egoFLASH
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//egofm-soul.cast.addradio.de/egofm/soul/mp3/high/stream.mp3
-#DESCRIPTION egoSOUL
+#DESCRIPTION egoFM - egoSOUL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//egofm-ais-edge-4009-fra-dtag-cdn.cast.addradio.de/egofm/riff/mp3/high/stream.mp3
-#DESCRIPTION egoRIFF
+#DESCRIPTION egoFM - egoRIFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//egofm-rap.cast.addradio.de/egofm/rap/mp3/high/stream.mp3
-#DESCRIPTION egoRAP
+#DESCRIPTION egoFM - egoRAP
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//egofm-snow.cast.addradio.de/egofm/snow/mp3/high/stream.mp3
-#DESCRIPTION egoSNOW
+#DESCRIPTION egoFM - egoSNOW
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//egofm-pure.cast.addradio.de/egofm/pure/mp3/high/stream.mp3
-#DESCRIPTION egoPURE
+#DESCRIPTION egoFM - egoPURE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cast.egofm.de/egofmseewald.mp3
-#DESCRIPTION egoFM SEEWALD
+#DESCRIPTION egoFM - SEEWALD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cast.egofm.de/egofmrnb.mp3
-#DESCRIPTION egoRNB
+#DESCRIPTION egoFM - egoRNB
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cast.egofm.de/egofmchillout.mp3
-#DESCRIPTION egoCHILLOUT
+#DESCRIPTION egoFM - egoCHILLOUT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cast.egofm.de/egofmjazz.mp3
-#DESCRIPTION egoJAZZ
+#DESCRIPTION egoFM - egoJAZZ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cast.egofm.de/egofmkavka.mp3
-#DESCRIPTION egoFM Kavka
+#DESCRIPTION egoFM - Kavka
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION JAM FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.jam.fm/jamfm-live/mp3-192
@@ -1102,55 +1112,55 @@
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Los 40
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//25493.live.streamtheworld.com/LOS40AAC.aac
-#DESCRIPTION Los 40 Principales España
+#DESCRIPTION Los 40 - Principales España
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//25633.live.streamtheworld.com/LOS40_CLASSICAAC.aac
-#DESCRIPTION Los 40 Classic
+#DESCRIPTION Los 40 - Classic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//20103.live.streamtheworld.com/LOS40_DANCEAAC.aac
-#DESCRIPTION Los 40 Dance
+#DESCRIPTION Los 40 - Dance
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//20103.live.streamtheworld.com/LOS40_CAT.mp3
-#DESCRIPTION Los 40 ELS40 Catalunya
+#DESCRIPTION Los 40 - ELS40 Catalunya
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Absolut Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01.live-sm.absolutradio.de/absolut-hot?
-#DESCRIPTION Absolut Hot
+#DESCRIPTION Absolut - Hot
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.live-sm.absolutradio.de/absolut-bella?
-#DESCRIPTION Absolut Bella
+#DESCRIPTION Absolut - Bella
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge03.live-sm.absolutradio.de/absolut-relax?
-#DESCRIPTION Absolut Relax
+#DESCRIPTION Absolut - Relax
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge67.live-sm.absolutradio.de/absolut-top?
-#DESCRIPTION Absolut Top
+#DESCRIPTION Absolut - Top
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge11.live-sm.absolutradio.de/absolut-germany?
-#DESCRIPTION Absolut Germany
+#DESCRIPTION Absolut - Germany
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.live-sm.absolutradio.de/absolut-oldieclassics?
-#DESCRIPTION Absolut Oldie Classics
+#DESCRIPTION Absolut - Oldie Classics
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge68.live-sm.absolutradio.de/absolut-musicxl?
-#DESCRIPTION Absolut Music XL
+#DESCRIPTION Absolut - Music XL
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION M1.FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/charts.mp3
-#DESCRIPTION M1.FM Charts
+#DESCRIPTION M1.FM - Charts
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/hits.mp3
-#DESCRIPTION M1.FM The Hits
+#DESCRIPTION M1.FM - The Hits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/clubmix.mp3
-#DESCRIPTION M1.FM Clubmix
+#DESCRIPTION M1.FM - Clubmix
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/softpop.mp3
-#DESCRIPTION M1.FM Softpop
+#DESCRIPTION M1.FM - Softpop
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/chillout.mp3
-#DESCRIPTION M1.FM Chillout
+#DESCRIPTION M1.FM - Chillout
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/kuschelschlager.mp3
-#DESCRIPTION M1.FM Kuschelschlager
+#DESCRIPTION M1.FM - Kuschelschlager
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/urban.mp3
-#DESCRIPTION M1.FM Urban
+#DESCRIPTION M1.FM - Urban
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/rock.mp3
-#DESCRIPTION M1.FM Rock
+#DESCRIPTION M1.FM - Rock
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/schlagerparty.mp3
-#DESCRIPTION M1.FM Schlagerparty
+#DESCRIPTION M1.FM - Schlagerparty
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/80er.mp3
-#DESCRIPTION M1.FM 80er
+#DESCRIPTION M1.FM - 80er
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/90er.mp3
-#DESCRIPTION M1.FM 90er
+#DESCRIPTION M1.FM - 90er
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/oldies.mp3
-#DESCRIPTION M1.FM Oldies
+#DESCRIPTION M1.FM - Oldies
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION I LOVE MUSIC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.ilovemusic.de/iloveradio1.mp3
@@ -1226,73 +1236,73 @@
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION samo fm
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/darkzone-128-mp3
-#DESCRIPTION The Dark Zone
+#DESCRIPTION samo fm - The Dark Zone
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/groovesalad-128-mp3
-#DESCRIPTION Groove Salad
+#DESCRIPTION samo fm - Groove Salad
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/dronezone-128-mp3
-#DESCRIPTION Drone Zone
+#DESCRIPTION samo fm - Drone Zone
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/dubstep-128-mp3
-#DESCRIPTION Dub Step Beyond
+#DESCRIPTION samo fm - Dub Step Beyond
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/beatblender-128-mp3
-#DESCRIPTION Beat Blender
+#DESCRIPTION samo fm - Beat Blender
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/spacestation-128-mp3
-#DESCRIPTION Space Station Soma
+#DESCRIPTION samo fm - Space Station Soma
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/u80s-128-mp3
-#DESCRIPTION Underground 80s
+#DESCRIPTION samo fm - Underground 80s
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/brfm-128-mp3
-#DESCRIPTION Black Rock FM
+#DESCRIPTION samo fm - Black Rock FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/suburbsofgoa-128-mp3
-#DESCRIPTION Suburbs of Goa
+#DESCRIPTION samo fm - Suburbs of Goa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice6.somafm.com/synphaera-128-mp3
-#DESCRIPTION Synphaera Radio
+#DESCRIPTION samo fm - Synphaera Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice6.somafm.com/gsclassic-128-mp3
-#DESCRIPTION Groove Salad Classic
+#DESCRIPTION samo fm - Groove Salad Classic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/lush-128-mp3
-#DESCRIPTION Lush
+#DESCRIPTION samo fm - Lush
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/fluid-128-mp3
-#DESCRIPTION Fluid
+#DESCRIPTION samo fm - Fluid
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice6.somafm.com/poptron-128-mp3
-#DESCRIPTION Pop Tron
+#DESCRIPTION samo fm - Pop Tron
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice6.somafm.com/metal-128-mp3
-#DESCRIPTION Metal Detector
+#DESCRIPTION samo fm - Metal Detector
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/covers-128-mp3
-#DESCRIPTION Covers
+#DESCRIPTION samo fm - Covers
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/cliqhop-128-mp3
-#DESCRIPTION cliqhop idm
+#DESCRIPTION samo fm - cliqhop idm
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice1.somafm.com/bootliquor-128-mp3
-#DESCRIPTION Boot Liquor
+#DESCRIPTION samo fm - Boot Liquor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/illstreet-128-mp3
-#DESCRIPTION Illinois Street Lounge
+#DESCRIPTION samo fm - Illinois Street Lounge
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/deepspaceone-128-mp3
-#DESCRIPTION Deep Space One
+#DESCRIPTION samo fm - Deep Space One
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice6.somafm.com/vaporwaves-128-mp3
-#DESCRIPTION Vaporwaves
+#DESCRIPTION samo fm - Vaporwaves
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice1.somafm.com/7soul-128-mp3
-#DESCRIPTION Seven Inch Soul
+#DESCRIPTION samo fm - Seven Inch Soul
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice1.somafm.com/seventies-128-mp3
-#DESCRIPTION Left Coast 70s
+#DESCRIPTION samo fm - Left Coast 70s
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice6.somafm.com/reggae-128-mp3
-#DESCRIPTION Heavyweight Reggae
+#DESCRIPTION samo fm - Heavyweight Reggae
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice6.somafm.com/secretagent-128-mp3
-#DESCRIPTION Secret Agent
+#DESCRIPTION samo fm - Secret Agent
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/thetrip-128-mp3
-#DESCRIPTION The Trip
+#DESCRIPTION samo fm - The Trip
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/sonicuniverse-128-mp3
-#DESCRIPTION Sonic Universe
+#DESCRIPTION samo fm - Sonic Universe
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice1.somafm.com/missioncontrol-128-mp3
-#DESCRIPTION Mission Control
+#DESCRIPTION samo fm - Mission Control
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice6.somafm.com/digitalis-128-mp3
-#DESCRIPTION Digitalis
+#DESCRIPTION samo fm - Digitalis
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice6.somafm.com/folkfwd-128-mp3
-#DESCRIPTION Folk Forward
+#DESCRIPTION samo fm - Folk Forward
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/thistle-128-mp3
-#DESCRIPTION ThistleRadio
+#DESCRIPTION samo fm - ThistleRadio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/brfm-128-mp3
-#DESCRIPTION Black Rock FM
+#DESCRIPTION samo fm - Black Rock FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice1.somafm.com/specials-128-mp3
-#DESCRIPTION SomaFM Specials
+#DESCRIPTION samo fm - Specials
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice1.somafm.com/live-128-mp3
-#DESCRIPTION SomaFM Live
+#DESCRIPTION samo fm - Live
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION FluxFM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.fluxfm.de/live/aac-64/streams.fluxfm.de/
