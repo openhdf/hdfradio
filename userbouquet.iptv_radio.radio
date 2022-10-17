@@ -1,6 +1,6 @@
 #NAME Streams (Radio)
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 14.10.2022 by Team www.hdfreaks.cc
+#DESCRIPTION Update 17.10.2022 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
@@ -1387,6 +1387,8 @@
 #DESCRIPTION Mixed Channels - 98.8 KISS FM - Der Beat von Berlin!
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hdradioclassicrock-rfritschka.radioca.st
 #DESCRIPTION Mixed Channels - HD Radio - Classic Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bytefm.cast.addradio.de/bytefm/main/mid/stream.mp3?ar-distributor=ffa0
+#DESCRIPTION Mixed Channels - ByteFM – für gute Musik
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//air.jazz.w3.at/jazzw3.mp3
 #DESCRIPTION Mixed Channels - JazzW3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.srg-ssr.ch/m/rsj/mp3_128
