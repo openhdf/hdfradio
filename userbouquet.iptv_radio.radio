@@ -1,6 +1,6 @@
 #NAME Streams (Radio)
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 17.10.2022 by Team www.hdfreaks.cc
+#DESCRIPTION Update 21.10.2022 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
@@ -825,91 +825,113 @@
 #DESCRIPTION Radio Arabelle - Arabella Christmas
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Österreich
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radio2.stream24.net%3a9120/live.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radio2.stream24.net%3a9120/live.mp3:Österreich - Radio ECHOPLUS
 #DESCRIPTION Österreich - Radio ECHOPLUS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.antenne.at/as
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.antenne.at/as:Österreich - Antenne Steiermark
 #DESCRIPTION Österreich - Antenne Steiermark
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.antenne.at/ak
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.antenne.at/ak:Österreich - Antenne Kärnten
 #DESCRIPTION Österreich - Antenne Kärnten
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge03.streamonkey.net/klassikradio-live?aggregator=Webseite&mode=preroll&aw_0_1st.skey=1632326664&cb=132510104
-#DESCRIPTION Österreich - Klassik Radio Live
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-purebach-mp3-192-6431132?sABC=614o56q8%230%23p9386s85po510334o04o478r20885774%23fryrpg&mode=preroll&aw_0_1st.skey=1632327384&cb=528248951&amsparams=playerid%3aselect;skey%3a1632327384
-#DESCRIPTION Österreich - Johann Sebastian Bach
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-purebeethoven-mp3-192-9883270?sABC=614o561r%230%23p9386s85po510334o04o478r20885774%23fryrpg&mode=preroll&aw_0_1st.skey=1632327197&cb=501279145&amsparams=playerid%3aselect;skey%3a1632327198
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-purebach-mp3-128-7912278:Österreich - Klassik Radio Bach
+#DESCRIPTION Österreich - Klassik Radio Bach
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-purebeethoven-mp3-192-9883270?:Österreich - Ludwig van Beethoven
 #DESCRIPTION Österreich - Ludwig van Beethoven
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-piano-mp3-192-1690902?sABC=614o5641%230%23p9386s85po510334o04o478r20885774%23fryrpg&mode=preroll&aw_0_1st.skey=1632327232&cb=162913951&amsparams=playerid%3aselect;skey%3a1632327233
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-piano-mp3-192-1690902:Österreich - Piano
 #DESCRIPTION Österreich - Piano
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-opera-mp3-192-1730403?sABC=614o575p%230%23p9386s85po510334o04o478r20885774%23fryrpg&mode=preroll&aw_0_1st.skey=1632327503&cb=592421448&amsparams=playerid%3aselect;skey%3a1632327516
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-opera-mp3-192-1730403:Österreich - Meisterwerke der Oper
 #DESCRIPTION Österreich - Meisterwerke der Oper
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-pureverdi-mp3-192-6581813?sABC=614o578o%230%23p9386s85po510334o04o478r20885774%23fryrpg&mode=preroll&aw_0_1st.skey=1632327562&cb=428512236&amsparams=playerid%3aselect;skey%3a1632327563
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-pureverdi-mp3-192-6581813:Österreich - Guiseppe Verdi
 #DESCRIPTION Österreich - Guiseppe Verdi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-weinabend-mp3-192-7500291?sABC=614o57op%230%23p9386s85po510334o04o478r20885774%23fryrpg&mode=preroll&aw_0_1st.skey=1632327612&cb=443809310&amsparams=playerid%3aselect;skey%3a1632327612
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-weinabend-mp3-192-7500291:Österreich - Klassik zum Weinabend
 #DESCRIPTION Österreich - Klassik zum Weinabend
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-christmas-mp3-192-8981917?sABC=614o57s9%230%23p9386s85po510334o04o478r20885774%23fryrpg&mode=preroll&aw_0_1st.skey=1632327673&cb=710924841&amsparams=playerid%3aselect;skey%3a1632327673
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-christmas-mp3-192-8981917:Österreich - Christmass Classic
 #DESCRIPTION Österreich - Christmass Classic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//webradio.antennevorarlberg.at/christkindl
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//webradio.antennevorarlberg.at/christkindl:Österreich - Antenne Vorarlberg - Christkindlradio
 #DESCRIPTION Österreich - Antenne Vorarlberg - Christkindlradio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//onair.krone.at/kronehit.mp3
-#DESCRIPTION Österreich - Kronehit
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//onair.krone.at/kronehit-fresh.mp3
-#DESCRIPTION Österreich - Kronehit-Fresh
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//onair.krone.at/kronehit-dance.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//onair.krone.at/kronehit.mp3:Österreich - Kronehit-Digital
+#DESCRIPTION Österreich - Kronehit-Digital
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.111.216/bigcitybeats:Österreich - Kronehit-BigCity Beats Live
+#DESCRIPTION Österreich - Kronehit-BigCity Beats Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit12.mp3:Österreich - Kronehit-Summer Live 
+#DESCRIPTION Österreich - Kronehit-Summer Live 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit-ultra-hd.aac:Österreich - Kronehit-UHD Live 
+#DESCRIPTION Österreich - Kronehit-UHD Live 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit23.mp3:Österreich - Kronehit-Dance
 #DESCRIPTION Österreich - Kronehit-Dance
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//onair.krone.at/kronehit-90sdance.mp3
-#DESCRIPTION Österreich - Kronehit-90sDance
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//onair.krone.at/kronehit-vollgas.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit22.mp3:Österreich - Kronehit-Fresh
+#DESCRIPTION Österreich - Kronehit-Fresh
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit12.mp3:Österreich - Kronehit-Christmas
+#DESCRIPTION Österreich - Kronehit-Christmas 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit14.mp3:Österreich - Kronehit-Love
+#DESCRIPTION Österreich - Kronehit-Love
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit03.mp3:Österreich - Kronehit-Disco
+#DESCRIPTION Österreich - Kronehit-Disco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit99.mp3:Österreich - Kronehit-Charts
+#DESCRIPTION Österreich - Kronehit-Charts
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit02.mp3:Österreich - Kronehit-Most Wanted
+#DESCRIPTION Österreich - Kronehit-Most Wanted
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit11.mp3:Österreich - Kronehit-Vollgas
 #DESCRIPTION Österreich - Kronehit-Vollgas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//musikwelle.com%3a8443/ukw
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit13.mp3:Österreich - Kronehit-Greatest Hits
+#DESCRIPTION Österreich - Kronehit-Greatest Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit21.mp3:Österreich - Kronehit-Eurodance
+#DESCRIPTION Österreich - Kronehit-Eurodance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit05.mp3:Österreich - Kronehit-Latino
+#DESCRIPTION Österreich - Kronehit-Latino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit1058.mp3:Österreich - Kronehit-UKW
+#DESCRIPTION Österreich - Kronehit-UKW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit04.mp3:Österreich - Kronehit-Retro
+#DESCRIPTION Österreich - Kronehit-Retro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//musikwelle.com%3a8443/ukw:Österreich - Musikwelle
 #DESCRIPTION Österreich - Musikwelle
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/oe1-q2a
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/oe1-q2a:Österreich - Ö1
 #DESCRIPTION Österreich - Ö1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/oe3-q2a
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/oe3-q2a:Österreich - Ö3
 #DESCRIPTION Österreich - Ö3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/campus-q2a
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/campus-q2a:Österreich - Campus
 #DESCRIPTION Österreich - Campus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/fm4-q2a
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/fm4-q2a:Österreich - FM4
 #DESCRIPTION Österreich - FM4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ors-sn09.ors-shoutcast.at/bgl-q2a
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ors-sn09.ors-shoutcast.at/bgl-q2a:Österreich - Radio Burgenland
 #DESCRIPTION Österreich - Radio Burgenland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/ktn-q2a
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/ktn-q2a:Österreich - Radio Kärnten
 #DESCRIPTION Österreich - Radio Kärnten
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/noe-q2a
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/noe-q2a:Österreich - Radio Niederösterreich
 #DESCRIPTION Österreich - Radio Niederösterreich
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//orf-live.ors-shoutcast.at/ooe-q2a
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//orf-live.ors-shoutcast.at/ooe-q2a:Österreich - Radio Oberösterreich
 #DESCRIPTION Österreich - Radio Oberösterreich
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//orf-live.ors-shoutcast.at/sbg-q2a
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//orf-live.ors-shoutcast.at/sbg-q2a:Österreich - Radio Salzburg
 #DESCRIPTION Österreich - Radio Salzburg
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//orf-live.ors-shoutcast.at/stm-q2a
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//orf-live.ors-shoutcast.at/stm-q2a:Österreich - Radio Steiermark
 #DESCRIPTION Österreich - Radio Steiermark
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//orf-live.ors-shoutcast.at/tir-q2a
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//orf-live.ors-shoutcast.at/tir-q2a:Österreich - Radio Tirol
 #DESCRIPTION Österreich - Radio Tirol
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//orf-live.ors-shoutcast.at/vbg-q2a
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//orf-live.ors-shoutcast.at/vbg-q2a:Österreich - Radio Vorarlberg
 #DESCRIPTION Österreich - Radio Vorarlberg
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//orf-live.ors-shoutcast.at/wie-q2a
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//orf-live.ors-shoutcast.at/wie-q2a:Österreich - Radio Wien
 #DESCRIPTION Österreich - Radio Wien
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge02.streamonkey.net/radio886-onair/stream/mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge02.streamonkey.net/radio886-onair/stream/mp3:Österreich - radio 88.6 Live
 #DESCRIPTION Österreich - radio 88.6 Live
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radio886.at/streams/88.6_Hard_Rock/mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge06.streamonkey.net/radio886-hardrock/stream/mp3:Österreich - Radio 88.6 Hardrock
 #DESCRIPTION Österreich - Radio 88.6 Hardrock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radio886.at/streams/88.6_Classic_Rock/mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge67.streamonkey.net/radio886-classicrock/stream/mp3:Österreich - 88.6 Classic Rock
 #DESCRIPTION Österreich - 88.6 Classic Rock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radio886.at/streams/88.6_rot-weiss-rot/mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge04.streamonkey.net/radio886-rotweissrock/stream/mp3:Österreich - 88.6 ROT-WEISS-ROT
 #DESCRIPTION Österreich - 88.6 ROT-WEISS-ROT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radio886.at/streams/88.6_New_Rock/mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge06.streamonkey.net/radio886-newrock/stream/mp3:Österreich - 88.6 New Rock
 #DESCRIPTION Österreich - 88.6 New Rock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3:Österreich - Radio Stephansdom
 #DESCRIPTION Österreich - Radio Stephansdom
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//u1-tirol-stream20.radiohost.de/u1-tirol-live_mp3-192?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//u1-tirol-stream20.radiohost.de/u1-tirol-live_mp3-192?:Österreich - Radio U1
 #DESCRIPTION Österreich - Radio U1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a19000/stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a19000/stream:Österreich - Welle 1 Austria
 #DESCRIPTION Österreich - Welle 1 Austria
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a19128/stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a19128/stream:Österreich - Welle 1 Graz
 #DESCRIPTION Österreich - Welle 1 Graz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a17128/stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a17128/stream:Österreich - Welle 1 Linz
 #DESCRIPTION Österreich - Welle 1 Linz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a15256/stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a15256/stream:Österreich - Welle 1 Kärnten
 #DESCRIPTION Österreich - Welle 1 Kärnten
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a18128/stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a18128/stream:Österreich - Welle 1 Salzburg
 #DESCRIPTION Österreich - Welle 1 Salzburg
 #SERVICE 1:64:D:0:0:0:0:0:0:0:: 
 #DESCRIPTION RauteMusik
@@ -1371,6 +1393,8 @@
 #DESCRIPTION FluxFM - John Reed Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION ⇒ Mixed Channels
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fmradiohub.in/play?url=http://ic2.mainstreamnetwork.com/wyxx-fm
+#DESCRIPTION Mixed Channels - 97.7 Rock - WYXX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//webstream.galaxy-oberfranken.de/galaxy-oberfranken.mp3
 #DESCRIPTION Mixed Channels - Galaxy-Oberfranken
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//metallica.hostingradio.ru/metallica96.aacp
