@@ -1,6 +1,6 @@
 #NAME Streams (Radio)
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 21.10.2022 by Team www.hdfreaks.cc
+#DESCRIPTION Update 23.10.2022 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
@@ -119,6 +119,8 @@
 #DESCRIPTION Radio BOB! - Symphonic Metal-Stream
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-rockparty-mp3-hq
 #DESCRIPTION Radio BOB! - Rockparty-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-blues-mp3-hq
+#DESCRIPTION Radio BOB! - Blues-Stream
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-festival-mp3-hq
 #DESCRIPTION Radio BOB! - Festival-Stream
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-wacken-mp3-hq
@@ -1393,7 +1395,7 @@
 #DESCRIPTION FluxFM - John Reed Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION ⇒ Mixed Channels
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fmradiohub.in/play?url=http://ic2.mainstreamnetwork.com/wyxx-fm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ic2.mainstreamnetwork.com/wyxx-fm
 #DESCRIPTION Mixed Channels - 97.7 Rock - WYXX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//webstream.galaxy-oberfranken.de/galaxy-oberfranken.mp3
 #DESCRIPTION Mixed Channels - Galaxy-Oberfranken
@@ -1417,3 +1419,5 @@
 #DESCRIPTION Mixed Channels - JazzW3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.srg-ssr.ch/m/rsj/mp3_128
 #DESCRIPTION Mixed Channels - Radio Swiss Jazz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer.psyradio.org%3a8030/;listen.mp3:psyradio * fm - psytrance
+#DESCRIPTION Mixed Channels - psyradio * fm - psytrance
