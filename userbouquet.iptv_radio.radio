@@ -1,6 +1,6 @@
 #NAME Streams (Radio)
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 23.10.2022 by Team www.hdfreaks.cc
+#DESCRIPTION Update 24.10.2022 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
@@ -347,10 +347,24 @@
 #DESCRIPTION Rock Antenne
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s9-webradio.rockantenne.de/rockantenne
 #DESCRIPTION Rock Antenne - Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s6-webradio.rockantenne.de/rockantenne-hamburg
+#DESCRIPTION Rock Antenne - Hamburg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1-webradio.rockantenne.de/rockantenne-bayern
+#DESCRIPTION Rock Antenne - Bayern
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3-webradio.rockantenne.de/gothic
+#DESCRIPTION Rock Antenne - Gothic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s6-webradio.rockantenne.de/country-antenne
+#DESCRIPTION Rock Antenne - COUNTRY ANTENNE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.rockantenne.de/heavy-metal/stream/mp3
 #DESCRIPTION Rock Antenne - Heavy Metal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s10-webradio.rockantenne.de/symphonic-rock/stream?
-#DESCRIPTION Rock Antenne - Symphonic Rock Webradio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s7-webradio.rockantenne.de/sound-of-summer
+#DESCRIPTION Rock Antenne - Sound of Summer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1-webradio.rockantenne.de/lagerfeuer-rock
+#DESCRIPTION Rock Antenne - Lagerfeuer Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s5-webradio.rockantenne.de/deutschrock
+#DESCRIPTION Rock Antenne - Deutschrock Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s4-webradio.rockantenne.de/alternative
+#DESCRIPTION Rock Antenne - Alternative
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2-webradio.rockantenne.de/70er-rock/stream?
 #DESCRIPTION Rock Antenne - 70er Rock
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s8-webradio.rockantenne.de/80er-rock/stream?
@@ -361,18 +375,36 @@
 #DESCRIPTION Rock Antenne - Modern Rock
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3-webradio.rockantenne.de/grunge/stream?
 #DESCRIPTION Rock Antenne - Grunge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s10-webradio.rockantenne.de/live-rock/stream?
-#DESCRIPTION Rock Antenne - Live Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3-webradio.rockantenne.de/hair-metal
+#DESCRIPTION Rock Antenne - Hair Metal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3-webradio.rockantenne.de/blues-rock/stream?
 #DESCRIPTION Rock Antenne - Blues Rock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1-webradio.rockantenne.de/melodic-rock/stream?
-#DESCRIPTION Rock Antenne - Melodic Rock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s6-webradio.rockantenne.de/soft-rock/stream?
-#DESCRIPTION Rock Antenne - Soft Rock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.rockantenne.de/munich-city-nights/stream/mp3
-#DESCRIPTION Rock Antenne - Munich City Nights
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s8-webradio.rockantenne.de/punkrock
+#DESCRIPTION Rock Antenne - Punk Rock Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s5-webradio.rockantenne.de/biker-rock
+#DESCRIPTION Rock Antenne - Biker Rock
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.rockantenne.de/classic-perlen/stream/mp3
 #DESCRIPTION Rock Antenne - Classic Perlen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s10-webradio.rockantenne.de/live-rock/stream?
+#DESCRIPTION Rock Antenne - Live Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1-webradio.rockantenne.de/melodic-rock/stream?
+#DESCRIPTION Rock Antenne - Melodic Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.rockantenne.de/munich-city-nights/stream/mp3
+#DESCRIPTION Rock Antenne - Munich City Nights
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s10-webradio.rockantenne.de/symphonic-rock/stream?
+#DESCRIPTION Rock Antenne - Symphonic Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1-webradio.rockantenne.de/rockandroll
+#DESCRIPTION Rock Antenne - Rock N Roll
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s7-webradio.rockantenne.de/young-stars
+#DESCRIPTION Rock Antenne - Young & Home Stars
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s6-webradio.rockantenne.de/soft-rock/stream?
+#DESCRIPTION Rock Antenne - Soft Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s7-webradio.rockantenne.de/antenne-nrw
+#DESCRIPTION Rock Antenne - Antenne NRW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s7-webradio.rockantenne.de/oldie-antenne
+#DESCRIPTION Rock Antenne - Oldie Antenne
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s7-webradio.rockantenne.de/coversongs
+#DESCRIPTION Rock Antenne - Coversong
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.rockantenne.de/xmas-rock/stream/mp3
 #DESCRIPTION Rock Antenne - Xmas Rock
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
