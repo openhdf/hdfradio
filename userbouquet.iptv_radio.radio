@@ -1,6 +1,6 @@
 #NAME Streams (Radio)
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 25.10.2022 20:15 by Team www.hdfreaks.cc
+#DESCRIPTION Update 25.10.2022 21:33 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
@@ -775,7 +775,7 @@
 #DESCRIPTION Radio Regenbogen - Christmas Hits
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION radio.de
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//live.wostreaming.net/manifest/ppm-jazz24aac-hlsc1.m3u8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.wostreaming.net/direct/ppm-jazz24mp3-ibc1
 #DESCRIPTION radio.de - Jazz24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vip2.fastcast4u.com/proxy/classicrockdoug?mp=/1
 #DESCRIPTION radio.de - Classic Rock Florida HD
