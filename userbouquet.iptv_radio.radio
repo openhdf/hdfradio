@@ -1,6 +1,6 @@
 #NAME Streams (Radio)
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 24.10.2022 19:15 by Team www.hdfreaks.cc
+#DESCRIPTION Update 25.10.2022 20:15 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
@@ -1435,6 +1435,8 @@
 #DESCRIPTION Mixed Channels - Maximum Metallica
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hdradioclassicrock-rfritschka.radioca.st
 #DESCRIPTION Mixed Channels - HD Radio - Classic Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//solid24.streamupsolutions.com/proxy/nilxzqeg?mp=/;type=mp3
+#DESCRIPTION Bar Legend Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION ⇒ Mixed Channels Pop
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ice4.abradio.cz/depeche128.mp3
