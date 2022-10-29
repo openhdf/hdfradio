@@ -1,6 +1,6 @@
 #NAME HDF Radio
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 29.10.2022 09:10 by Team www.hdfreaks.cc
+#DESCRIPTION Update 29.10.2022 21:50 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
@@ -195,42 +195,80 @@
 #DESCRIPTION Antenne Bayern
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/antenne/stream/mp3
 #DESCRIPTION Antenne Bayern - Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/oldie-antenne/stream/mp3
+#DESCRIPTION Antenne Bayern - Oldie Antenne
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/nur-die-musik/stream/mp3
+#DESCRIPTION Antenne Bayern - Nur die Musik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/in-the-mix/stream/mp3
+#DESCRIPTION Antenne Bayern - Hitmix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/herbst-hits/stream/mp3
+#DESCRIPTION Antenne Bayern - Herbstmusik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/greatest-hits/stream/mp3
+#DESCRIPTION Antenne Bayern - Greatest-Hits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/80er-kulthits/stream/mp3
-#DESCRIPTION Antenne Bayern - 80er Kulthits
+#DESCRIPTION Antenne Bayern - 80er Hits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/90er-hits/stream/mp3
 #DESCRIPTION Antenne Bayern - 90er Hits
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/black-beatz/stream/mp3
-#DESCRIPTION Antenne Bayern - Black Beatz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/chillout/stream/mp3
-#DESCRIPTION Antenne Bayern - Chillout
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/coffee/stream/mp3
-#DESCRIPTION Antenne Bayern - Coffee Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/fresh/stream/mp3
-#DESCRIPTION Antenne Bayern - Fresh
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/classic-rock-live/stream/mp3
-#DESCRIPTION Antenne Bayern - Classic Rock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/event/stream/mp3
-#DESCRIPTION Antenne Bayern - Event
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/hitmix/stream/mp3
-#DESCRIPTION Antenne Bayern - Hitmix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/lounge/stream/mp3
-#DESCRIPTION Antenne Bayern - Lounge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/lovesongs/stream/mp3
-#DESCRIPTION Antenne Bayern - Love Songs
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/oldies-but-goldies/stream/mp3
-#DESCRIPTION Antenne Bayern - Oldies but Goldies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/relax/stream/mp3
-#DESCRIPTION Antenne Bayern - Relax
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/das-schlager-karussell/stream/mp3
-#DESCRIPTION Antenne Bayern - Schlager Karussel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/top-40/stream/mp3
 #DESCRIPTION Antenne Bayern - Top 40
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/weihnachts-hits/stream/mp3
-#DESCRIPTION Antenne Bayern - Weihnachtshits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/chillout/stream/mp3
+#DESCRIPTION Antenne Bayern - Chillout
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/classic-rock-live/stream/mp3
+#DESCRIPTION Antenne Bayern - Classic Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/coffee/stream/mp3
+#DESCRIPTION Antenne Bayern - Coffee Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/lovesongs/stream/mp3
+#DESCRIPTION Antenne Bayern - Love Songs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/happy-hits/stream/mp3
+#DESCRIPTION Antenne Bayern - Happy-Hits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/workout-hits/stream/mp3
 #DESCRIPTION Antenne Bayern - Workout
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/lounge/stream/mp3
+#DESCRIPTION Antenne Bayern - Lounge
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/relax/stream/mp3
+#DESCRIPTION Antenne Bayern - Relax
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/hits-fuer-kids/stream/mp3
 #DESCRIPTION Antenne Bayern - Hits für Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/deutsch-pop/stream/mp3
+#DESCRIPTION Antenne Bayern - Deutsch Pop Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/bayern-sound/stream/mp3
+#DESCRIPTION Antenne Bayern - Bayerische Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/halli-galli-gaudi/stream/mp3
+#DESCRIPTION Antenne Bayern - Halli Galli Gaudi Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/party-hits/stream/mp3
+#DESCRIPTION Antenne Bayern - Party Musik Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/event/stream/mp3
+#DESCRIPTION Antenne Bayern - Après Ski
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/oktoberfest-hits/stream/mp3
+#DESCRIPTION Antenne Bayern - Wiesn Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/mallorca-party/stream/mp3
+#DESCRIPTION Antenne Bayern - Mallorca Party
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/faschings-hits/stream/mp3
+#DESCRIPTION Antenne Bayern - Faschings Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s7-webradio.antenne.de/fresh
+#DESCRIPTION Antenne Bayern - Fresh 4 You
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/dance-xxl/stream/mp3
+#DESCRIPTION Antenne Bayern - Dance-XXL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/pop-xxl/stream/mp3
+#DESCRIPTION Antenne Bayern - Pop-XXL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/black-beatz/stream/mp3
+#DESCRIPTION Antenne Bayern - Black Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/das-schlager-karussell/stream/mp3
+#DESCRIPTION Antenne Bayern - Schlagersahne
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/70er-hits/stream/mp3
+#DESCRIPTION Antenne Bayern - 70er Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/2000er-hits/stream/mp3
+#DESCRIPTION Antenne Bayern - 2000er Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/2010er-hits/stream/mp3
+#DESCRIPTION Antenne Bayern - 2010er Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/top-1000/stream/mp3
+#DESCRIPTION Antenne Bayern - Top 1000
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/fruehlings-hits/stream/mp3
+#DESCRIPTION Antenne Bayern - Frühlings Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/sommer-hits/stream/mp3
+#DESCRIPTION Antenne Bayern - Sommer Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/weihnachts-hits/stream/mp3
+#DESCRIPTION Antenne Bayern - Weihnachts Hits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/leikis-top-100/stream/mp3
 #DESCRIPTION Antenne Bayern - Leikis Top 100
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/indras-top-100/stream/mp3
@@ -351,6 +389,8 @@
 #DESCRIPTION Rock Antenne - Hamburg
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1-webradio.rockantenne.de/rockantenne-bayern
 #DESCRIPTION Rock Antenne - Bayern
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2-webradio.rockantenne.at/rockantenne-oesterreich
+#DESCRIPTION Rock Antenne - Österreich
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3-webradio.rockantenne.de/gothic
 #DESCRIPTION Rock Antenne - Gothic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s6-webradio.rockantenne.de/country-antenne
@@ -775,6 +815,8 @@
 #DESCRIPTION Radio Regenbogen - Christmas Hits
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION radio.de
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//solid24.streamupsolutions.com/proxy/nilxzqeg?mp=/;type=mp3
+#DESCRIPTION radio.de - Bar Legend Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.wostreaming.net/direct/ppm-jazz24mp3-ibc1
 #DESCRIPTION radio.de - Jazz24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vip2.fastcast4u.com/proxy/classicrockdoug?mp=/1
@@ -1435,8 +1477,6 @@
 #DESCRIPTION Mixed Channels - Maximum Metallica
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hdradioclassicrock-rfritschka.radioca.st
 #DESCRIPTION Mixed Channels - HD Radio - Classic Rock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//solid24.streamupsolutions.com/proxy/nilxzqeg?mp=/;type=mp3
-#DESCRIPTION Bar Legend Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION ⇒ Mixed Channels Pop
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ice4.abradio.cz/depeche128.mp3
