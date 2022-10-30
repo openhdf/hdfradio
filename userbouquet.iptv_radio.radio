@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 30.10.2022 09:10 by Team www.hdfreaks.cc
+#DESCRIPTION Update 30.10.2022 09:30 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
@@ -559,6 +559,18 @@
 #DESCRIPTION Radio SAW - Weihnachten
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.barbaradio.de/strandbar/mp3-192/radiosaw_homepage/
 #DESCRIPTION Radio SAW - Strandbar
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Sunshine Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/live/mp3-192/homepage/
+#DESCRIPTION Sunshine Live - Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/house/mp3-192/homepage/
+#DESCRIPTION Sunshine Live - House
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/edm/mp3-192/homepage/
+#DESCRIPTION Sunshine Live - EDM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/relax/mp3-192/homepage/
+#DESCRIPTION Sunshine Live - Relax
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/90er/mp3-192/homepage/
+#DESCRIPTION Sunshine Live - 90er
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION SWR Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dispatcher.rndfnk.com/swr/swraktuell/live/mp3/128/stream.mp3
