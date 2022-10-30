@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 30.10.2022 09:30 by Team www.hdfreaks.cc
+#DESCRIPTION Update 30.10.2022 10:20 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
@@ -569,8 +569,40 @@
 #DESCRIPTION Sunshine Live - EDM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/relax/mp3-192/homepage/
 #DESCRIPTION Sunshine Live - Relax
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/80er/mp3-192/homepage/
+#DESCRIPTION Sunshine Live - 80er
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/90er/mp3-192/homepage/
 #DESCRIPTION Sunshine Live - 90er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/technoqueens/mp3-192/homepage/
+#DESCRIPTION Sunshine Live - Female Power	
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/winterchill/mp3-192/homepage/
+#DESCRIPTION Sunshine Live - Winterchill
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/natureone/mp3-192/homepage/
+#DESCRIPTION Sunshine Live - Nature One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/sp8/mp3-192/homepage/
+#DESCRIPTION Sunshine Live - Chillout
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/amsterdam/mp3-192/homepage/
+#DESCRIPTION Sunshine Live - Bunker
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/xmas/mp3-192/homepage/
+#DESCRIPTION Sunshine Live - Psytrance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/ibiza/mp3-192/homepage/
+#DESCRIPTION Sunshine Live - Ibiza
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/classics/mp3-192/homepage/
+#DESCRIPTION Sunshine Live - Classics
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/trance/mp3-192/homepage/
+#DESCRIPTION Sunshine Live - Trance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/techno/mp3-192/homepage/
+#DESCRIPTION Sunshine Live - Techno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/ibiza/mp3-192/homepage/
+#DESCRIPTION Sunshine Live - Ibiza
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/sp2/mp3-192/homepage/
+#DESCRIPTION Sunshine Live - Summer Beats
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/twenty/mp3-192/homepage/
+#DESCRIPTION Sunshine Live - 22 Jahre sunshine live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/sp6/mp3-192/homepage/
+#DESCRIPTION Sunshine Live - Charts
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/sp6/mp3-192/homepage/
+#DESCRIPTION Sunshine Live - Remix
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION SWR Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dispatcher.rndfnk.com/swr/swraktuell/live/mp3/128/stream.mp3
