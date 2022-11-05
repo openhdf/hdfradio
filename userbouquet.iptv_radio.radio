@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 30.10.2022 13:00 by Team www.hdfreaks.cc
+#DESCRIPTION Update 05.11.2022 07:00 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
@@ -601,8 +601,6 @@
 #DESCRIPTION Sunshine Live - 22 Jahre sunshine live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/sp6/mp3-192/homepage/
 #DESCRIPTION Sunshine Live - Charts
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/sp6/mp3-192/homepage/
-#DESCRIPTION Sunshine Live - Remix
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION SWR Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dispatcher.rndfnk.com/swr/swraktuell/live/mp3/128/stream.mp3
