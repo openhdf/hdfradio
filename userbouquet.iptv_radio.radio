@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 10.11.2022 19:15 by Team www.hdfreaks.cc
+#DESCRIPTION Update 12.11.2022 12:30 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
@@ -869,6 +869,98 @@
 #DESCRIPTION planet radio - plus heartbreak
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.planetradio.de/plrchannels/hqflashbackfriday.aac
 #DESCRIPTION planet radio - flashback friday
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.planetradio.de/plrchannels/hqitunes.aac
+#DESCRIPTION planet radio - livecharts
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.planetradio.de/plrchannels/hqtheclub.aac
+#DESCRIPTION planet radio - the club
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.planetradio.de/plrchannels/hqearlymorningbreaks.aac
+#DESCRIPTION planet radio - early morning breaks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.planetradio.de/plrchannels/hqoldschool.aac
+#DESCRIPTION planet radio - oldschool
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.planetradio.de/plrchannels/hqnightwax.aac
+#DESCRIPTION planet radio - nightwax
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.planetradio.de/plrchannels/hqblackbeats.aac
+#DESCRIPTION planet radio - black beats
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION HIT RADIO FFH und FFH+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/radioffh/hqlivestream.aac
+#DESCRIPTION HIT RADIO FFH - Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhplus/hq80er.aac
+#DESCRIPTION HIT RADIO FFH - FFH+ 80ER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhplus/hq90er.aac
+#DESCRIPTION HIT RADIO FFH - FFH+ 90ER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhplus/hqcharts.aac
+#DESCRIPTION HIT RADIO FFH - FFH+ CHARTS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhplus/hqrock.aac
+#DESCRIPTION HIT RADIO FFH - FFH+ ROCK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhplus/hqxmas.aac
+#DESCRIPTION HIT RADIO FFH - FFH+ WEIHNACHTEN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqxmas.aac
+#DESCRIPTION HIT RADIO FFH - FFH WEIHNACHTSRADIO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqkuschelrock.aac
+#DESCRIPTION HIT RADIO FFH - FFH KUSCHELROCK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqkuschelpop.aac
+#DESCRIPTION HIT RADIO FFH - FFH KUSCHELPOP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqbestof.aac
+#DESCRIPTION HIT RADIO FFH - FFH BEST OF 2022
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqjustwhite.aac
+#DESCRIPTION HIT RADIO FFH - FFH JUST WHITE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqtop1000.aac
+#DESCRIPTION HIT RADIO FFH - FFH TOP 1000
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqoldies.aac
+#DESCRIPTION HIT RADIO FFH - FFH OLDIES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqvoting.aac
+#DESCRIPTION HIT RADIO FFH - FFH LEIDER GEIL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqhappyhits.aac
+#DESCRIPTION HIT RADIO FFH - FFH HAPPY HITS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/jokefm/hqlivestream.aac
+#DESCRIPTION HIT RADIO FFH - JOKE FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqtop40.aac
+#DESCRIPTION HIT RADIO FFH - FFH TOP 40
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqparty.aac
+#DESCRIPTION HIT RADIO FFH - FFH PARTY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hq80er.aac
+#DESCRIPTION HIT RADIO FFH - FFH DIE 80ER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hq90er.aac
+#DESCRIPTION HIT RADIO FFH - FFH JUST 90s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hq2000er.aac
+#DESCRIPTION HIT RADIO FFH - FFH DIE 2000ER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqfruehlingsfeeling.aac
+#DESCRIPTION HIT RADIO FFH - FFH FRÜHLINGS FEELING
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqsummerfeeling.aac
+#DESCRIPTION HIT RADIO FFH - FFH SUMMER FEELING
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqchillandgrill.aac
+#DESCRIPTION HIT RADIO FFH - FFH CHILL & GRILL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqeurodance.aac
+#DESCRIPTION HIT RADIO FFH - FFH EURODANCE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqrock.aac
+#DESCRIPTION HIT RADIO FFH - FFH ROCK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqworkout.aac
+#DESCRIPTION HIT RADIO FFH - FFH WORKOUT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqschlager.aac
+#DESCRIPTION HIT RADIO FFH - FFH SCHLAGERKULT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqdeutsch.aac
+#DESCRIPTION HIT RADIO FFH - FFH DEUTSCH PUR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqbrandneu.aac
+#DESCRIPTION HIT RADIO FFH - FFH BRANDNEU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqlounge.aac
+#DESCRIPTION HIT RADIO FFH - FFH LOUNGE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqacoustichits.aac
+#DESCRIPTION HIT RADIO FFH - FFH ACOUSTIC HITS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqsoundtrack.aac
+#DESCRIPTION HIT RADIO FFH - FFH SOUNDTRACK
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION harmony.fm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.harmonyfm.de/harmonyfm/hqlivestream.aac
+#DESCRIPTION harmony.fm - Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.harmonyfm.de/hrmplus/hq70er.aac
+#DESCRIPTION harmony.fm - 70er+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.harmonyfm.de/hrmplus/hq90er.aac
+#DESCRIPTION harmony.fm - 90er+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.harmonyfm.de/hrmplus/hqxmas.aac
+#DESCRIPTION harmony.fm - Weihnachten
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.harmonyfm.de/hrmchannels/hqschlager.aac
+#DESCRIPTION harmony.fm - Schlager Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION radio.de
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//solid24.streamupsolutions.com/proxy/nilxzqeg?mp=/;type=mp3
