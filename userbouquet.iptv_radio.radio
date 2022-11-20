@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 20.11.2022 08:04 by Team www.hdfreaks.cc
+#DESCRIPTION Update 20.11.2022 08:50 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
@@ -1647,8 +1647,8 @@
 #DESCRIPTION Mixed Channels - JazzW3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.srg-ssr.ch/m/rsj/mp3_128
 #DESCRIPTION Mixed Channels - Radio Swiss Jazz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer.psyradio.org%3a8010/;listen.mp3
-#DESCRIPTION Mixed Channels - psyradio * fm - finest electroniX on web
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer.psyradio.org%3a8010/stream/1/
+#DESCRIPTION Mixed Channels - psyradio * Psy Trance
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rqstream.radioq.de/stream/192.mp3
 #DESCRIPTION Mixed Channels - Radio Q - Wir sind der Campus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/johnleehooker/icecast.audio?
