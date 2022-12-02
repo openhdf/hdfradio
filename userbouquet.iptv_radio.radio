@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 20.11.2022 08:50 by Team www.hdfreaks.cc
+#DESCRIPTION Update 02.12.2022 18:40 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
@@ -1641,6 +1641,10 @@
 #DESCRIPTION Mixed Channels - Galaxy-Oberfranken
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topradio-de-hz-fal-stream02-cluster01.radiohost.de/kissfm_mp3-192
 #DESCRIPTION Mixed Channels - 98.8 KISS FM - Der Beat von Berlin!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radiob2-schlagermixx.cast.addradio.de/radiob2/schlagermixx/mp3/high/stream.mp3
+#DESCRIPTION Mixed Channels - Schlager Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.104.6rtl.com/rtl-live/mp3-128/konsole/
+#DESCRIPTION Mixed Channels - 104.6 RTL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bytefm.cast.addradio.de/bytefm/main/mid/stream.mp3?ar-distributor=ffa0
 #DESCRIPTION Mixed Channels - ByteFM – für gute Musik
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//air.jazz.w3.at/jazzw3.mp3
