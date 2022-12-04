@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 03.12.2022 09:35 by Team www.hdfreaks.cc
+#DESCRIPTION Update 04.12.2022 14:15 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
@@ -1069,7 +1069,7 @@
 #DESCRIPTION Österreich - Klassik zum Weinabend
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-christmas-mp3-192-8981917:Österreich - Christmass Classic
 #DESCRIPTION Österreich - Christmass Classic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//webradio.antennevorarlberg.at/christkindl:Österreich - Antenne Vorarlberg - Christkindlradio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01.radio.antennevorarlberg.at/av-christkindl:Österreich - Antenne Vorarlberg - Christkindlradio
 #DESCRIPTION Österreich - Antenne Vorarlberg - Christkindlradio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//onair.krone.at/kronehit.mp3:Österreich - Kronehit-Digital
 #DESCRIPTION Österreich - Kronehit-Digital
