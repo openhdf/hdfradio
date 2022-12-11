@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 09.12.2022 12:30 by Team www.hdfreaks.cc
+#DESCRIPTION Update 11.12.2022 09:30 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
@@ -1659,6 +1659,48 @@
 #DESCRIPTION Mixed Channels - Radio Q - Wir sind der Campus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/johnleehooker/icecast.audio?
 #DESCRIPTION Mixed Channels - Exclusively John Lee Hooker online Radio
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Schottland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s39.myradiostream.com%3a10532/;
+#DESCRIPTION Schottland - New Scotland Radio live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ice-the.musicradio.com/SmoothScotlandMP3
+#DESCRIPTION Schottland - Smooth Radio Scotland live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//listen-pureradio.sharp-stream.com/pure_radio.mp3
+#DESCRIPTION Schottland - Pure Radio Scotland live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge-ads-05-gos2.sharp-stream.com/nationscotlandi.aac
+#DESCRIPTION Schottland - Nation Radio Scotland live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//everestcast.shoutcastservices.com%3a1355/stream
+#DESCRIPTION Schottland - Expat Radio Scotland live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radio.canstream.co.uk%3a9129/live.mp3
+#DESCRIPTION Schottland - Jambo! Radio Scotland live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c26.radioboss.fm:8313/stream
+#DESCRIPTION Schottland - Super Sound Radio Scotland live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs18.aac
+#DESCRIPTION Schottland - BFBS Scotland live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media-ice.musicradio.com/HeartEdinburgh
+#DESCRIPTION Schottland - Heart Scotland - East live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice-sov.musicradio.com/HeartGlasgowMP3
+#DESCRIPTION Schottland - Heart Scotland - West live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s4.radio.co/s311a77fcf/listen
+#DESCRIPTION Schottland - Beat 106 Scotland live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ais-sa2.cdnstream1.com/1981_128.mp3
+#DESCRIPTION Schottland - School Of Rock live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//icecast.bdfm.radio%3a8000/blackdiamondfm
+#DESCRIPTION Schottland - Black Diamond live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//uksouth.streaming.broadcast.radio/celtic
+#DESCRIPTION Schottland - Celtic Music Radio live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.radio.co/s61c103204/listen
+#DESCRIPTION Schottland - Forth Valley Radio live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media-ice.musicradio.com/HeartOxfordshireMP3
+#DESCRIPTION Schottland - FOX FM 102.6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge-bauerall-01-gos2.sharp-stream.com/clyde1.aac
+#DESCRIPTION Schottland - Clyde 1 102.5 FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//listen-pureradio.sharp-stream.com/pure_radio.mp3
+#DESCRIPTION Schottland - Pure Radio Scotland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming02.zfast.co.uk/proxy/twolochs1?mp=/stream
+#DESCRIPTION Schottland - Two Lochs Radio 106.6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge-bauerall-01-gos2.sharp-stream.com/tayfm.aac
+#DESCRIPTION Schottland - Tay 102.8 FM
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Slowakei
 #DESCRIPTION Radio Antena Rock Hard
