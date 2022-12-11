@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 11.12.2022 09:30 by Team www.hdfreaks.cc
+#DESCRIPTION Update 11.12.2022 10:15 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
@@ -1673,7 +1673,7 @@
 #DESCRIPTION Schottland - Expat Radio Scotland live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//radio.canstream.co.uk%3a9129/live.mp3
 #DESCRIPTION Schottland - Jambo! Radio Scotland live
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c26.radioboss.fm:8313/stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c26.radioboss.fm%3a8313/stream
 #DESCRIPTION Schottland - Super Sound Radio Scotland live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs18.aac
 #DESCRIPTION Schottland - BFBS Scotland live
