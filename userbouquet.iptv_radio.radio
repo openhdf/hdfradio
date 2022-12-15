@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 14.12.2022 16:40 by Team www.hdfreaks.cc
+#DESCRIPTION Update 15.12.2022 17:15 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
@@ -1705,6 +1705,16 @@
 #DESCRIPTION Schottland - Two Lochs Radio 106.6
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge-bauerall-01-gos2.sharp-stream.com/tayfm.aac
 #DESCRIPTION Schottland - Tay 102.8 FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fs1.stream24.net%3a8700/live.mp3
+#DESCRIPTION Schottland - Schottenradio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jenny.torontocast.com%3a8094/stream
+#DESCRIPTION Schottland - Highlander Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice5.somafm.com/thistle-128-mp3
+#DESCRIPTION Schottland - SomaFM ThistleRadio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//celtic-sounds.stream.laut.fm/celtic-sounds
+#DESCRIPTION Schottland - Celtic Sounds
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//celtic-sound.stream.laut.fm/celtic-sound
+#DESCRIPTION Schottland - Celtic-Sound
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Slowakei
 #DESCRIPTION Radio Antena Rock Hard
