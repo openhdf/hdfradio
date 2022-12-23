@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 22.12.2022 18:20 by Team www.hdfreaks.cc
+#DESCRIPTION Update 23.12.2022 14:50 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
@@ -1707,8 +1707,20 @@
 #DESCRIPTION Mixed Channels - Radio Q - Wir sind der Campus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/johnleehooker/icecast.audio?
 #DESCRIPTION Mixed Channels - Exclusively John Lee Hooker online Radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-64.zeno.fm/w28r6fcm738uv
-#DESCRIPTION Mixed Channels - Radio Namibe 88.5 FM
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION ⇒ Mixed Channels International
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-41.zeno.fm/tkyvagcm738uv
+#DESCRIPTION Mixed Channels - Rádio Namibe 88.5 FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mediaserv33.live-streams.nl%3a8089/stream
+#DESCRIPTION Mixed Channels - Rádio Ecclesia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//audio8.cmaudioevideo.com/proxy/radiohui/stream
+#DESCRIPTION Mixed Channels - Rádio Huila 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//paineldj5.com.br%3a20087/stream
+#DESCRIPTION Mixed Channels - Rádio Huambo – RNA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//paineldj5.com.br%3a20096/stream
+#DESCRIPTION Mixed Channels - Rádio Benguela – RNA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//paineldj5.com.br%3a20087/stream
+#DESCRIPTION Mixed Channels - Rádio Canal A – RNA
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION SATzentrale
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//satzentrale.stream.laut.fm/satzentrale
