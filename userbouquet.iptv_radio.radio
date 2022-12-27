@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 27.12.2022 15:35 by Team www.hdfreaks.cc
+#DESCRIPTION Update 27.12.2022 16:33 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
@@ -1807,7 +1807,32 @@
 #DESCRIPTION Schottland - Celtic-Sound
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Slowakei
-#DESCRIPTION Radio Antena Rock Hard
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.slovakradio.sk%3a8000/Slovensko_128.mp3:SRo 1 - Radio Slovensko
+#DESCRIPTION SRo 1 - Radio Slovensko
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast.stv.livebox.sk/regina-ba_128.mp3:SRo 2 - Radio Regina Zapad
+#DESCRIPTION SRo 2 - Radio Regina
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.slovakradio.sk%3a8000/Devin_128.mp3:SRo 3 - Rádio Devín
+#DESCRIPTION SRo 3 - Rádio Devín
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//icecast.stv.livebox.sk/fm_128.mp3:SRo 4 - Radio FM 
+#DESCRIPTION SRo 4 - Radio FM 
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast.stv.livebox.sk/patria_128.mp3:SRo 5 - Radio Patria
+#DESCRIPTION SRo 5 - Radio Patria
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast.stv.livebox.sk/rsi_128.mp3:SRo 6 - Radio Slovakia International
+#DESCRIPTION SRo 6 - Radio Slovakia International
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.slovakradio.sk%3a8000/Klasika_128.mp3:SRo 7 - Radio Pyramida
+#DESCRIPTION SRo 7 - Radio Pyramida
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast.stv.livebox.sk/junior_128.mp3:SRo 9 - Radio Junior
+#DESCRIPTION SRo 9 - Radio Junior
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.aetter.sk%3a8000/aetter:Radio Aetter
+#DESCRIPTION Radio Aetter
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.bbfm.sk/bbfm128.mp3:BB FM radio
+#DESCRIPTION BB FM radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//solid1.streamupsolutions.com/proxy/lesgqyll/BAradio:Bratislavske Radio
+#DESCRIPTION Bratislavske Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//stream.radia.sk%3a9001/demomusic-387:Demomusic radio
+#DESCRIPTION Demomusic radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.21.sk/detskeradio-128.mp3:Detske Radio
+#DESCRIPTION Detske Radio
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream2.bestfm.sk%3a80/128.mp3:Radio Best FM
 #DESCRIPTION Radio Best FM
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//109.71.67.102%3a8000/beta_live_high.mp3:Radio Beta
@@ -1816,32 +1841,22 @@
 #DESCRIPTION Radio Beta - Ceske a Slovenske hity
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//109.71.67.102%3a8000/beta_80a90.mp3:Radio Beta - Hity 80s a 90s
 #DESCRIPTION Radio Beta - Hity 80s a 90s
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.radioaktual.sk%3a8000/aktual128.mp3:Radio Beta - Hrame Jubilantom
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//109.71.67.102%3a8000/beta_jubilanti.mp3:Radio Beta - Hrame Jubilantom
 #DESCRIPTION Radio Beta - Hrame Jubilantom
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//109.71.67.102%3a8000/beta_sladaky.mp3:Radio Beta - Sladaky
-#DESCRIPTION Radio Beta - Sladaky
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//62.197.207.17%3a8000/live:Radio Bunker
-#DESCRIPTION Radio Bunker
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//server1.internetoveradio.sk%3a8977/;stream/1:Demomusic Radio
-#DESCRIPTION Demomusic Radio
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.slovakradio.sk%3a8000/Devin_256.mp3:Dobre radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//radiobiblia.online%3a8000/stream.ogg:Radio Biblia
+#DESCRIPTION Radio Biblia
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.dobreradio.sk%3a8813/dobreradio.mp3:Dobre radio
 #DESCRIPTION Dobre radio
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.dobreradio.sk%3a8813/dobreradio.mp3:Europa2 Sk
-#DESCRIPTION Europa2 Sk
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//85.248.7.162%3a8000/96.mp3:Radio Expres
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//stream.bauermedia.sk/europa2.mp3:Europa 2
+#DESCRIPTION Europa 2
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.expres.sk/128.mp3:Radio Expres
 #DESCRIPTION Radio Expres
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//audio.lumen.sk%3a8000/ff128.mp3:FF radio
-#DESCRIPTION FF radio
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//server1.internetoveradio.sk%3a8802/chillout:Fitradio Chill out
-#DESCRIPTION Fitradio Chill out
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//server1.internetoveradio.sk%3a8809/crossfit:Fitradio Crossfit
-#DESCRIPTION Fitradio Crossfit
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//server1.internetoveradio.sk%3a8802/pumping:Fitradio Pumping
-#DESCRIPTION Fitradio Pumping
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//server1.internetoveradio.sk%3a8809/running:Fitradio Running
-#DESCRIPTION Fitradio Running
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//server1.internetoveradio.sk%3a8803/ffr.mp3:Fit Family Radio
-#DESCRIPTION Fit Family Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//solid1.streamupsolutions.com/proxy/utwrguip/stream:Fit Radio
+#DESCRIPTION Fit Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast2.radionet.sk/freshradio.sk:FRESH radio
+#DESCRIPTION FRESH radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//radioserver.online%3a8826/festdobre.mp3:Radio Fest Dobra Muzika
+#DESCRIPTION Radio Fest Dobra Muzika
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast.stv.livebox.sk/fm_128.mp3:Radio FM
 #DESCRIPTION Radio FM
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.funradio.sk%3a8000/fun128.mp3:Fun Radio
@@ -1850,125 +1865,131 @@
 #DESCRIPTION Fun Radio 80 - 90 roky
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.funradio.sk%3a8000/cs128.mp3:Fun Radio CZ-SK
 #DESCRIPTION Fun Radio CZ-SK
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.funradio.sk%3a8000/dance128.mp3:funradio
-#DESCRIPTION funradio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.funradio.sk%3a8000/dance128.mp3:Fun Radio - Dance
+#DESCRIPTION Fun Radio - Dance
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//stream.laut.fm/hitradioslovakia:Hitradio Slovakia
+#DESCRIPTION Hitradio Slovakia
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ply.infovojna.bz%3a8000/live:Info Vojna sk
+#DESCRIPTION Info Vojna sk
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.tlis.sk/tlis.mp3:TLIS Radio
+#DESCRIPTION TLIS Radio
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//88.212.34.18%3a8050/mp3midband:G-Radio
 #DESCRIPTION G-Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//stream.sepia.sk%3a8000/kanada64.mp3:Kanada
+#DESCRIPTION Kanada
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//play.radio7.sk/64:Radio 7
+#DESCRIPTION Radio 7
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//78.24.9.110%3a31088/;stream/1:Radio Janko Hrasko
 #DESCRIPTION Radio Janko Hrasko
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.frontinus.sk%3a8000/frontinus128.mp3:Radio Frontinus
+#DESCRIPTION Radio Frontinus
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//radioserver.online%3a8804/;stream/1:Radio Sirava
+#DESCRIPTION Radio Sirava
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.alternet.sk%3a8000/radiokosice-128.mp3:Radio Kosice
+#DESCRIPTION Radio Kosice
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//radioserver.online%3a8824/;:Radio Logos
+#DESCRIPTION Radio Logos
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//extra.mediacp.eu/stream/RadioParada,o.z.:Radio Parada - Vyšny Hrusov
+#DESCRIPTION Radio Parada - Vyšny Hrusov
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//sc1.ipip.cz%3a8030/;:Radio Pohoda
+#DESCRIPTION Radio Pohoda
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//radioserver.online%3a8822/;:Radio Pokoj
+#DESCRIPTION Radio Pokoj
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//s32.myradiostream.com%3a10486/;:Radio Tatras International
+#DESCRIPTION Radio Tatras International
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//dreamsiteradiocp5.com/proxy/radiomariaslomp3?mp=/stream.mp3:Radio Maria
+#DESCRIPTION Radio Maria
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.bauermedia.sk/melody-hi.mp3:Radio Melody
 #DESCRIPTION Radio Melody
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast.stv.livebox.sk/junior_128.mp3:Radio Junior
-#DESCRIPTION Radio Junior
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//listen.radioking.com/radio/276343/stream/321985:Radio Muzika
+#DESCRIPTION Radio Muzika
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//nradio.ice.infomaniak.ch/nradio-32.aac:N-Radio 
+#DESCRIPTION N-Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//stream.sepia.sk%3a8000/jazz192.mp3:Radio Jazz
+#DESCRIPTION Radio Jazz
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//radio.treecom.net/jupiter_128.mp3:Radio Jupiter
 #DESCRIPTION Radio Jupiter
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.radiokiss.sk%3a8000/kissmp3_128.mp3:Radio Kiss
-#DESCRIPTION Radio Kiss
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//shout.alconet.sk/radioliptov:Radio Liptov
+#DESCRIPTION Radio Liptov
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast.stv.livebox.sk/litera_128.mp3:Radio Litera
 #DESCRIPTION Radio Litera
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//audio.lumen.sk%3a8000/live128.mp3:Radio Lumen
 #DESCRIPTION Radio Lumen
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//185.98.208.12%3a8000/;stream/1:Radio Modra
 #DESCRIPTION Radio Modra
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.sepia.sk%3a8000/newmodel128.mp3:New Model Radio
-#DESCRIPTION New Model Radio
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//nonstop.out.airtime.pro%3a8000/nonstop_a:Nonstop Radio
 #DESCRIPTION Nonstop Radio
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//217.75.92.14%3a8000/nr160kb:Radio One
-#DESCRIPTION Radio One
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//217.75.92.14%3a8000/retro:Radio One Retro
-#DESCRIPTION Radio One Retro
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//217.75.92.14%3a8000/rrock:Radio One Rock
-#DESCRIPTION Radio One Rock
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast.stv.livebox.sk/patria_128.mp3:Radio Patria
-#DESCRIPTION Radio Patria
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.radiopiestany.sk%3a8000/live.mp3:Radio Piestany
 #DESCRIPTION Radio Piestany
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.sepia.sk%3a8000/plus128.mp3:Radio Plus
-#DESCRIPTION Radio Plus
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//server1.internetoveradio.sk%3a8822/;stream/1:Radio Pokoj
-#DESCRIPTION Radio Pokoj
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast.stv.livebox.sk/pyramida_128.mp3:Radio Pyramida
 #DESCRIPTION Radio Pyramida
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//allnet.radionet.sk%3a8000/radiorebeca.mp3:Radio Rebeca
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//mpc2.mediacp.eu%3a8200/rebecaweb:Radio Rebeca
 #DESCRIPTION Radio Rebeca
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast.stv.livebox.sk/regina-ba_128.mp3:Radio Regina Zapad
-#DESCRIPTION Radio Regina Zapad
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast.stv.livebox.sk/regina-bb_128.mp3:Radio Regina Stred
-#DESCRIPTION Radio Regina Stred
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast.stv.livebox.sk/regina-ke_128.mp3:Radio Regina Vychod
-#DESCRIPTION Radio Regina Vychod
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast6.play.cz/rockarena.mp3:Rock Arena
-#DESCRIPTION Rock Arena
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//allnet.radionet.sk%3a8000/radioroma128.mp3:Radio Roma
-#DESCRIPTION Radio Roma
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.rusyn.fm/rusyny.mp3:Rusyn FM
 #DESCRIPTION Rusyn FM
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast.radiosity.sk%3a8000/hq.mp3:Radio SiTy
-#DESCRIPTION Radio SiTy
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//server1.internetoveradio.sk%3a8819/radiosk:Radio.sk
-#DESCRIPTION Radio.sk
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//radiosity.online%3a8000/aac:Radio SiTy
+#DESCRIPTION Radio Si Ty
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.skyradio.sk%3a8000/sky128:SKY Radio
 #DESCRIPTION SKY Radio
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//78.47.79.190%3a8004/;stream/:Slobodny vysielac
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//vysielanie.online/radio/8010/aac:Slobodny vysielac
 #DESCRIPTION Slobodny vysielac
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast.stv.livebox.sk/rsi_128.mp3:Radio Slovakia International
-#DESCRIPTION Radio Slovakia International
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast.stv.livebox.sk/slovensko_128.mp3:Radio Slovensko
 #DESCRIPTION Radio Slovensko
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.radiosport.sk%3a8000/Sport192.mp3:Radio Sport
-#DESCRIPTION Radio Sport
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//play.sport-stream.sk%3a8000/sportstream128.mp3:Sport stream
-#DESCRIPTION Sport stream
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//stream.subfm.sk/subfm:Radio SUB FM
+#DESCRIPTION Radio SUB FM
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.trnavskeradio.sk/trnavske:Trnavske Radio
 #DESCRIPTION Trnavske Radio
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//radiovalec.out.airtime.pro%3a8000/radiovalec_a:Radio Valec
-#DESCRIPTION Radio Valec
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//server1.internetoveradio.sk%3a8816/dance.mp3:tvojeRADIO.com Dance
-#DESCRIPTION tvojeRADIO.com Dance
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//server1.internetoveradio.sk%3a8816/gold.mp3:tvojeRADIO.com Gold 80/90
-#DESCRIPTION tvojeRADIO.com Gold 80/90
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//server1.internetoveradio.sk%3a8816/hiphop.mp3:tvojeRADIO.com Hip-Hop
-#DESCRIPTION tvojeRADIO.com Hip-Hop
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//server1.internetoveradio.sk%3a8816/pohoda.mp3:tvojeRADIO.com Lovesongs
-#DESCRIPTION tvojeRADIO.com Lovesongs
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//server1.internetoveradio.sk%3a8816/pophits.mp3:tvojeRADIO.com Pophits (Pop / Oldies)
-#DESCRIPTION tvojeRADIO.com Pophits (Pop / Oldies)
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//server1.internetoveradio.sk%3a8816/skcz.mp3:tvojeRADIO.com SK/CZ (Pop / Oldies)
-#DESCRIPTION tvojeRADIO.com SK/CZ (Pop / Oldies)
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//server1.internetoveradio.sk%3a8816/repete.mp3:tvojeRADIO.com Repete
-#DESCRIPTION tvojeRADIO.com Repete
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.sepia.sk%3a8000/viva128.mp3:Radio Viva Metropol
-#DESCRIPTION Radio Viva Metropol
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.radiovlna.sk/vlna-hi.mp3:Radio Vlna
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.sepia.sk%3a8000/viva128.mp3:Radio Viva
+#DESCRIPTION Radio Viva
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//stream.radiovlna.sk/vlna-hi.mp3:Radio Vlna
 #DESCRIPTION Radio Vlna
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.radioservices.sk/goldenhits.mp3:Radio Vlna Golden Hits (Pop / Oldies)
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//stream.radiovlna.sk/gold-hi.mp3:Radio Vlna Golden Hits (Pop / Oldies)
 #DESCRIPTION Radio Vlna Golden Hits (Pop / Oldies)
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.radiowow.sk%3a8200/:Radio WOW
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//radioserver.online%3a8816/radiowow.mp3:Radio WOW
 #DESCRIPTION Radio WOW
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//158.193.82.41%3a8000/chillout.mp3:RadioChillout
-#DESCRIPTION RadioChillout
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//158.193.82.41%3a8000/dnb.mp3:RadioDnB
-#DESCRIPTION RadioDnB
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//158.193.82.41%3a8000/metal.mp3:RadioMetal
-#DESCRIPTION RadioMetal
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//158.193.82.41%3a8000/oldies.mp3:RadioOldies
-#DESCRIPTION RadioOldies
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//80.242.44.249%3a8000/;stream/1:Radio Yes
 #DESCRIPTION Radio Yes
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//158.193.82.41%3a8000/radiox_128.mp3:Radio X
+#DESCRIPTION Radio X
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//158.193.82.41%3a8000/alternative.mp3:Radio X - Alternative
+#DESCRIPTION Radio X - Alternative
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//158.193.82.41%3a8000/chillout.mp3:X - Chillout
+#DESCRIPTION Radio X - Chillout
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//158.193.82.41%3a8000/dance.mp3:Radio X - Dance X
+#DESCRIPTION Radio X - Dance X
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//158.193.82.41%3a8000/dnb.mp3:Radio X - DNB
+#DESCRIPTION Radio X - DNB
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//158.193.82.41%3a8000/ludovky.mp3:Radio X - Folklore
+#DESCRIPTION Radio X - Folklore
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//158.193.82.41%3a8000/metal.mp3:Radio X - Metal
+#DESCRIPTION Radio X - Metal
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//158.193.82.41%3a8000/oldies.mp3:Radio X - Oldies
+#DESCRIPTION Radio X - Oldies
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//s28.myradiostream.com%3a18084/;:RTI Gold
+#DESCRIPTION RTI Gold
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.sepia.sk%3a8000/rvhudba320.mp3:Rvhudba
+#DESCRIPTION Rvhudba
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.zahorackeradio.sk%3a8000/zr128.mp3:Zahoracke Radio
 #DESCRIPTION Zahoracke Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Tschechien
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rfe-channel-09.akacast.akamaistream.net/7/872/229659/v1/ibb.akacast.akamaistream.net/rfe_channel_09.mp3:Radio Free Europe / Radio Liberty
+#DESCRIPTION Radio Free Europe / Radio Liberty
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice6.abradio.cz/beat128.mp3:Radio Beat
 #DESCRIPTION Radio Beat
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/oldiesradio128.mp3:Oldies radio
 #DESCRIPTION Oldies radio
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast5.play.cz/impuls128.mp3:Impuls Radio
 #DESCRIPTION Impuls Radio
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast4.play.cz/frekvence1-128.mp3:Frekvence1
-#DESCRIPTION Frekvence1
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast3.play.cz/evropa2-128.mp3:Evropa 2
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.actve.net/fm-frekvence1-128:Frekvence 1
+#DESCRIPTION Frekvence 1
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.actve.net/web-e2-csweb:Frekvence 1 - Ceskoslovenske Hity
+#DESCRIPTION Frekvence 1 - Ceskoslovenske Hity
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.actve.net/web-f1-legendy:Frekvence 1 - Youradio Legendy
+#DESCRIPTION Frekvence 1 - Youradio Legendy
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.actve.net/web-80:Frekvence 1 - Youradio Osmdesatky
+#DESCRIPTION Frekvence 1 - Youradio Osmdesatky
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.actve.net/fm-evropa2-128:Evropa 2
 #DESCRIPTION Evropa 2
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.actve.net/web-e2-hot:Evropa 2 - Youradio HOT
 #DESCRIPTION Evropa 2 - Youradio HOT
@@ -1980,43 +2001,71 @@
 #DESCRIPTION Evropa 2 - Youradio Ceskoslovenske hity
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.actve.net/web-e2-flashback:Evropa 2 - Youradio Flashback
 #DESCRIPTION Evropa 2 - Youradio Flashback
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast6.play.cz%3a8000/cesky-impuls.mp3:Cesky Impuls
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast6.play.cz/cesky-impuls.mp3:Cesky Impuls
 #DESCRIPTION Cesky Impuls
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast7.play.cz%3a443/cro1-128.mp3:Cesky rozhlas 1 - Radiozurnal
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rozhlas.stream/radiozurnal_mp3_128.mp3:Cesky rozhlas 1 - Radiozurnal
 #DESCRIPTION Cesky rozhlas 1 - Radiozurnal
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast8.play.cz/crosport128.mp3:Radiozurnal � olympijsky special
-#DESCRIPTION Radiozurnal � olympijsky special
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast7.play.cz%3a443/cro2-128.mp3:Cesky rozhlas 2 - Praha
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast7.play.cz%3a8000/cro2-128.mp3:Cesky rozhlas 2 - Praha
 #DESCRIPTION Cesky rozhlas 2 - Praha
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast5.play.cz%3a8000/cro3-128.mp3:Cesky rozhlas 3 - Vltava
 #DESCRIPTION Cesky rozhlas 3 - Vltava
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast2.play.cz%3a8000/croregina128.mp3:CRo Regina DAB Praha
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast2.play.cz/cro7-128.mp3:Cesky rozhlas 7 - Radio Prague International
+#DESCRIPTION Cesky rozhlas 7 - Radio Prague International
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rozhlas.stream/regina_mp3_128.mp3:CRo Regina DAB Praha
 #DESCRIPTION CRo Regina DAB Praha
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast5.play.cz%3a8000/crowave-128.mp3:CRo Wave
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rozhlas.stream/wave_mp3_256.mp3:CRo Wave
 #DESCRIPTION CRo Wave
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast2.play.cz%3a8000/crojazz128aac:CRo Jazz
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rozhlas.stream/jazz_mp3_128.mp3:CRo Jazz
 #DESCRIPTION CRo Jazz
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast5.play.cz%3a8000/croddur-128.mp3:CRo D-dur
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rozhlas.stream/ddur_mp3_32.mp3:CRo D-dur
 #DESCRIPTION CRo D-dur
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast1.play.cz%3a443/croplus128.mp3:CRo Plus
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rozhlas.stream/plus_mp3_128.mp3:CRo Plus
 #DESCRIPTION CRo Plus
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast5.play.cz%3a8000/crojuniormaxi128.mp3:CRo Radio Junior
 #DESCRIPTION CRo Radio Junior
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast7.play.cz/crojuniormini128.mp3:CRo Radio Junior Pisnicky
+#DESCRIPTION CRo Radio Junior Pisnicky
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rozhlas.stream/pohoda_mp3_128.mp3:CRo Radio Pohoda
+#DESCRIPTION CRo Radio Pohoda
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rozhlas.stream/region_high.aac:CRo Region
+#DESCRIPTION CRo Region
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rozhlas.stream/plzen_mp3_128.mp3:CRo Plzen
+#DESCRIPTION CRo Plzen
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rozhlas.stream/brno_mp3_128.mp3:CRo Brno
+#DESCRIPTION CRo Brno
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rozhlas.stream/cb_mp3_128.mp3:CRo Ceske Budejovice
+#DESCRIPTION CRo Ceske Budejovice
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rozhlas.stream/pardubice_mp3_128.mp3:CRo Ceske Pardubice
+#DESCRIPTION CRo Pardubice
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rozhlas.stream/liberec_mp3_128.mp3:CRo Liberec
+#DESCRIPTION CRo Liberec
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rozhlas.stream/ov_mp3_128.mp3:CRo Ostrava
+#DESCRIPTION CRo Ostrava
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rozhlas.stream/olomouc_mp3_128.mp3:CRo Olomouc
+#DESCRIPTION CRo Olomouc
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rozhlas.stream/sever_mp3_128.mp3:CRo Sever
+#DESCRIPTION CRo Sever
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rozhlas.stream/hk_mp3_128.mp3:CRo Hradec Kralove
+#DESCRIPTION CRo Hradec Kralove
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rozhlas.stream/kv_mp3_128.mp3:CRo Karlovy vary
+#DESCRIPTION CRo Karlovy vary
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.actve.net/fm-zet:Radio ZET
+#DESCRIPTION Radio ZET
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz%3a8000/prachen128.mp3:Rock Radio
+#DESCRIPTION Rock Radio
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast8.play.cz/classic128.mp3:Classic Praha
 #DESCRIPTION Classic Praha
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast7.play.cz/croretro128.mp3:Radio Retro
 #DESCRIPTION Radio Retro
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast1.play.cz/signal128.mp3:Signal Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast1.play.cz/signal192.mp3:Signal Radio
 #DESCRIPTION Signal Radio
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast3.play.cz/signal-brno192.mp3:Signal Radio Brno
-#DESCRIPTION Signal Radio Brno
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//212.111.2.151%3a8000/radiozlin_256.mp3:Radio Zlin
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/radiozlin128.mp3:Radio Zlin
 #DESCRIPTION Radio Zlin
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast2.play.cz/proglas128:Proglas
-#DESCRIPTION Proglas
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast2.play.cz/proglas128:Radio Proglas
+#DESCRIPTION Radio Proglas
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice3.abradio.cz/jazzinec128.mp3:E-Radio JAZZINEC
 #DESCRIPTION E-Radio JAZZINEC
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//mp3stream4.abradio.cz/hiphopvibes128.mp3:HipHopVibes Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//mp3stream4.abradio.cz%3a8000/hiphopvibes128.mp3:Hip Hop Vibes Radio
 #DESCRIPTION HipHopVibes Radio
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast2.play.cz/Underground128.mp3:Undergroundradio
 #DESCRIPTION Undergroundradio
@@ -2024,7 +2073,7 @@
 #DESCRIPTION Radio Samson FM
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice3.abradio.cz/route128.mp3:Radio 66
 #DESCRIPTION Radio 66
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//mp3stream4.abradio.cz/country128.mp3:Radio Country
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast4.play.cz/country128.mp3:Radio Country
 #DESCRIPTION Radio Country
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//mp3stream2.abradio.cz/folk128.mp3:Radio Folk
 #DESCRIPTION Radio Folk
@@ -2034,7 +2083,7 @@
 #DESCRIPTION Radio Povidka
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice3.abradio.cz/pohadka128.mp3:Radio Pohadka
 #DESCRIPTION Radio Pohadka
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast5.play.cz%3a8000/dechovka128.mp3:Radio Dechovka
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast5.play.cz/dechovka128.mp3:Radio Dechovka
 #DESCRIPTION Radio Dechovka
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast3.play.cz/radio-nostalgie128.mp3:Radio Nostalgie
 #DESCRIPTION Radio Nostalgie
@@ -2044,60 +2093,64 @@
 #DESCRIPTION Radio Petrov
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast6.play.cz/radiodixie192.mp3:Radio Dixie
 #DESCRIPTION Radio Dixie
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast4.play.cz%3a8000/kiss128.mp3:Radio Kiss
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast1.play.cz/kiss128.mp3:Radio Kiss
 #DESCRIPTION Radio Kiss
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast8.play.cz/radiorubi128.mp3:Radio Rubi
 #DESCRIPTION Radio Rubi
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast8.play.cz/contact128.mp3:Radio Contact Liberec
-#DESCRIPTION Radio Contact Liberec
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast6.play.cz/radio-kromeriz128.mp3:Radio Kromeriz
 #DESCRIPTION Radio Kromeriz
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast6.play.cz/jih128.mp3:Radio JIH
 #DESCRIPTION Radio JIH
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast6.play.cz/jihcimbalka128.mp3:Radio JIH Cimbalka
+#DESCRIPTION Radio JIH Cimbalka
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast4.play.cz/krokodyl128.mp3:Radio Krokodyl
 #DESCRIPTION Radio Krokodyl
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice3.abradio.cz/tloskov128.mp3:Radio Tloskov
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/tloskov128.mp3:Radio Tloskov
 #DESCRIPTION Radio Tloskov
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast8.play.cz/radio7-128.mp3:Radio 7
+#DESCRIPTION Radio 7
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice4.abradio.cz/coop128.mp3:COOP TIP Radio
 #DESCRIPTION COOP TIP Radio
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice4.abradio.cz/cooptuty128.mp3:Coop TUTY Radio
 #DESCRIPTION Coop TUTY Radio
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice4.abradio.cz/merkur-casino128.mp3:Radio Merkur
 #DESCRIPTION Radio Merkur
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//mp3stream3.abradio.cz/expert-128.mp3:Radio Expert
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice3.abradio.cz/expert-128.mp3:Radio Expert
 #DESCRIPTION Radio Expert
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast6.play.cz/dabplus-top40.mp3:DAB Plus Top 40
 #DESCRIPTION DAB Plus Top 40
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/fajn128.mp3:Fajn Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/fajnagara128.mp3:Fajn Radio
 #DESCRIPTION Fajn Radio
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/fajnfresh128.mp3:Fajn Radio Fresh
 #DESCRIPTION Fajn Radio Fresh
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/fajnparty128.mp3:Fajn Party
-#DESCRIPTION Fajn Party
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/fajnhity128.mp3:Fajn Radio - Hity
+#DESCRIPTION Fajn Radio - Hity
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/fajn128.mp3:Fajn Radio Karlovarsko
+#DESCRIPTION Fajn Radio Karlovarsko
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice4.abradio.cz/golf128.mp3:Radio Golf
 #DESCRIPTION Radio Golf
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/blanikfm128.mp3:Radio Blanik
 #DESCRIPTION Radio Blanik
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/blanikcz128.mp3:Radio Blanik Cz
-#DESCRIPTION Radio Blanik Cz
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/cityfm128.mp3:Hitradio City
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/blanikcz128.mp3:Radio Blanik CZ
+#DESCRIPTION Radio Blanik CZ
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice3.abradio.cz/blanikliberec128.mp3:Radio Blanik Liberec
+#DESCRIPTION Radio Blanik Liberec
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/citybrno128.mp3:Hitradio City
 #DESCRIPTION Hitradio City
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/city80128.mp3:Hitradio City Osmdesatka
 #DESCRIPTION Hitradio City Osmdesatka
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz%3a8000/city90128.mp3:Hitradio City Devadesatka
 #DESCRIPTION Hitradio City Devadesatka
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/citymi128.mp3:Radio City milenium
-#DESCRIPTION Radio City milenium
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz%3a8000/crystal128.mp3:Hitradio Crystal
+#DESCRIPTION Hitradio Crystal
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/citymi128.mp3:Hitradio City milenium
+#DESCRIPTION Hitradio City milenium
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/cityzl128.mp3:Hitradio City Zona lasky
 #DESCRIPTION Hitradio City Zona lasky
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/hitpoprock128.mp3:Hitradio PopRock
 #DESCRIPTION Hitradio PopRock
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/hitzl128.mp3:Hitradio Zona lasky
 #DESCRIPTION Hitradio Zona lasky
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/hit80128.mp3:Hitradio Osmdesatka
-#DESCRIPTION Hitradio Osmdesatka
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/hit90128.mp3:Hitradio Devadesatka
-#DESCRIPTION Hitradio Devadesatka
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/cernahora128.mp3:Hitradio Cerna Hora
 #DESCRIPTION Hitradio Cerna Hora
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/magic128.mp3:Hitradio Magic
@@ -2110,12 +2163,20 @@
 #DESCRIPTION Hitradio Dragon
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/citybrno128.mp3:Hitradio City
 #DESCRIPTION Hitradio City
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/faktor128a.mp3:Hitradio Faktor
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz%3a8000/faktor128.mp3:Hitradio Faktor
 #DESCRIPTION Hitradio Faktor
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/hitradiofm128.mp3:Hitradio FM
 #DESCRIPTION Hitradio FM
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/fmplus128.mp3:Hitradio FM Plus
 #DESCRIPTION Hitradio FM Plus
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz%3a8000/faktor128.mp3:Hitradio Faktor
+#DESCRIPTION Hitradio Faktor
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.actve.net/fm-bonton-128:Hitradio Bonton
+#DESCRIPTION Hitradio Bonton
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/hit10128.mp3:Hitradio Desitka
+#DESCRIPTION Hitradio Desitka
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_ORION_128.mp3:Hitradio Orion
+#DESCRIPTION Hitradio Orion
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast8.play.cz/expres128mp3:Expres FM
 #DESCRIPTION Expres FM
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast2.play.cz%3a8000/Clubradio.mp3:Club Radio
@@ -2132,41 +2193,43 @@
 #DESCRIPTION Clubbeat Radio
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice3.abradio.cz/shadowbox128.mp3:Drumandbass Radio SHADOWBOX
 #DESCRIPTION Drumandbass Radio SHADOWBOX
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//mp3stream4.abradio.cz/dance128.mp3:Dance Club Radio
-#DESCRIPTION Dance Club Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.actve.net/dance-radio128.mp3:Dance Radio
+#DESCRIPTION Dance Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.danceradio.nl%3a9920:Dance Radio FM
+#DESCRIPTION Dance Radio FM
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz%3a8000/helax128.mp3:7
 #DESCRIPTION 7
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast3.play.cz/hey-radio128.mp3:HEY Radio
 #DESCRIPTION HEY Radio
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast8.play.cz/hana160.mp3:Radio Hana
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast8.play.cz/hana128.mp3:Radio Hana
 #DESCRIPTION Radio Hana
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast8.play.cz/skyrock128.mp3:Radio Hana - Skyrock
 #DESCRIPTION Radio Hana - Skyrock
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast7.play.cz%3a8000/casbrno128.mp3:Radio Cas (Brno)
-#DESCRIPTION Radio Cas (Brno)
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast7.play.cz%3a8000/casradio128.mp3:Radio Cas (Ostrava
-#DESCRIPTION Radio Cas (Ostrava
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast7.play.cz%3a8000/casrock128.mp3:Radio Cas Rock
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast1.play.cz%3a8000/radio1.mp3:Radio 1
+#DESCRIPTION Radio 1
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast7.play.cz/casradio128.mp3:Radio Cas
+#DESCRIPTION Radio Cas
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast7.play.cz/casrock128.mp3:Radio Cas Rock
 #DESCRIPTION Radio Cas Rock
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast8.play.cz/rocknatvrdo.mp3:Cas Rock NATVRDO
 #DESCRIPTION Cas Rock NATVRDO
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast2.play.cz/rockzone128.mp3:RockZone
-#DESCRIPTION RockZone
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast5.play.cz/rockzone128.mp3:Rock Zone
+#DESCRIPTION Rock Zone
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//mp3stream4.abradio.cz/bestofrock128.mp3:Radio Best of Rock
 #DESCRIPTION Radio Best of Rock
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/metalomanie128.mp3:Metalomanie
-#DESCRIPTION Metalomanie
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/metalomanie128.mp3:Radio Metalomanie
+#DESCRIPTION Radio Metalomanie
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/rockzabava128.mp3:Rockova zabava
 #DESCRIPTION Rockova zabava
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice3.abradio.cz/alternative128.mp3:Alternative Times Radio
 #DESCRIPTION Alternative Times Radio
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//mp3stream3.abradio.cz/epigon128.mp3:WebRadio Epigon
-#DESCRIPTION WebRadio Epigon
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice3.abradio.cz%3a8000/ponterec128.mp3:Radio Ponte Records
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//mp3stream3.abradio.cz/epigon128.mp3:Radio Epigon
+#DESCRIPTION Radio Epigon
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice3.abradio.cz/ponterec128.mp3:Radio Ponte Records
 #DESCRIPTION Radio Ponte Records
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/znamkapunku128.mp3:Znamka Punku
 #DESCRIPTION Znamka Punku
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//212.111.2.151%3a8000/rockmax_256.mp3:RockMax Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/rockmax128.mp3:RockMax Radio
 #DESCRIPTION RockMax Radio
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//212.111.2.151%3a8000/rm_old_256.mp3:RockMax Oldies Radio
 #DESCRIPTION RockMax Oldies Radio
@@ -2180,3 +2243,171 @@
 #DESCRIPTION Radio Madonna
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//mp3stream4.abradio.cz%3a8000/depeche128.mp3:Radio Depeche Mode
 #DESCRIPTION Radio Depeche Mode
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast4.play.cz/spin128.mp3:Spin Radio
+#DESCRIPTION Spin Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/gold128.mp3:Rock Radio Gold
+#DESCRIPTION Rock Radio Gold
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast9.play.cz/zun192.mp3:Z U N
+#DESCRIPTION Z U N
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast8.play.cz/color128.mp3:Color Music Radio
+#DESCRIPTION Color Music Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast7.play.cz/relax128.mp3:Radio Relax
+#DESCRIPTION Radio Relax
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.sepia.sk%3a8000/kanada128.mp3:Radio Ceska Kanada
+#DESCRIPTION Radio Ceska Kanada
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast9.play.cz/netro-life-radio.mp3:Netro Life Radio
+#DESCRIPTION Netro Life Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.actve.net/web-pg-pohadky:Pigy Radio
+#DESCRIPTION Pigy Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//radiootava.trefcon.cz%3a8889/radio.mp3:Radio Blatna
+#DESCRIPTION Radio Blatna
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//icecast3.play.cz/radiojihlava128.mp3:Radio Jihlava
+#DESCRIPTION Radio Jihlava
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//server.radioorlicko.cz/stream192.mp3:Radio Orlicko
+#DESCRIPTION Radio Orlicko
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//www.hraj.me%3a8000/dratak:Ak FM
+#DESCRIPTION Ak FM
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//germany.topradio.cz%3a8000/allatra128:Allatra Radio
+#DESCRIPTION Allatra Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//144.91.73.167%3a7778/channel1-128k:Atma FM - Channel 1
+#DESCRIPTION Atma FM - Channel 1
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast7.play.cz/bikersradiodoupe128.mp3:Bikers Radio DOUP
+#DESCRIPTION Bikers Radio DOUP
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ipip.cz%3a7980/;:Blue Radio
+#DESCRIPTION Blue Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.laut.fm/ceske-radio-pasov:Ceske Radio Pasov
+#DESCRIPTION Ceske Radio Pasov
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//radio.chatujme.cz%3a8001/chatradio:Chat Radio
+#DESCRIPTION Chat Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.topradio.cz%3a8000/crazy128:Crazy Radio
+#DESCRIPTION Crazy Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice4.abradio.cz/dance128.mp3:Dance Club Radio
+#DESCRIPTION Dance Club Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.zeno.fm/324n33e5wp8uv:DAT Radio
+#DESCRIPTION DAT Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//evcast.mediacp.eu%3a1580/stream:farnost Dolni Nemci
+#DESCRIPTION farnost Dolni Nemci
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//server25530.streamplus.de/;:DWGradio
+#DESCRIPTION DWGradio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.actve.net/distribuceS4-E2DU-192.mp3:E - Duha
+#DESCRIPTION E - Duha
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.topradio.cz%3a8000/csradio128:CeskoSlovenske Radio
+#DESCRIPTION CeskoSlovenske Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//maggie.torontocast.com%3a8006/stream:Fenix Radio
+#DESCRIPTION Fenix Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//mem-185.47.222.75.jmnet.cz%3a8750/;:Flash Radio FM
+#DESCRIPTION Flash Radio FM
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//164.68.122.137%3a8061/;:Freerave.cz
+#DESCRIPTION Freerave.cz
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//funkstar.radioca.st/stream;:Funkstar Radio
+#DESCRIPTION Funkstar Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.halloradiohultschin.cz%3a8000/halloradio.mp3:Halloradio Hlucin
+#DESCRIPTION Halloradio Hlucin
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//daniel.torontocast.com%3a1055/stream:JuKej Radio
+#DESCRIPTION JuKej Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast8.play.cz/limonadovyjoe128.mp3:Limonadovy JOE
+#DESCRIPTION Limonadovy JOE
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//fr.radio-streamhosting.com%3a8040/;:Metal Heart Radio
+#DESCRIPTION Metal Heart Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//fr.radio-streamhosting.com%3a8000/metalheartradioczsk128mp3:Metal Heart Radio - Czechoslovak channel
+#DESCRIPTION Metal Heart Radio - Czechoslovak channel
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast9.play.cz/music-dreamer.mp3:Music Dreamer
+#DESCRIPTION Music Dreamer
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//server.nonstopradio.cz%3a8080/;:Nonstopradio CZ
+#DESCRIPTION Nonstopradio CZ
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.actve.net/web-pg-disko:Pigy cz - Disko Trysko
+#DESCRIPTION Pigy cz - Disko Trysko
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.actve.net/web-pg-pisnicky:Pigy Radio - Pisnicky
+#DESCRIPTION Pigy Radio - Pisnicky
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//mp3stream3.abradio.cz/applaus128.mp3:Radio Applaus
+#DESCRIPTION Radio Applaus
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//stream.radiojar.com/9nayamd31tzuv:Radio B
+#DESCRIPTION Radio B
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice6.abradio.cz/benesov128.mp3:Radio Benesov City
+#DESCRIPTION Radio Benesov City
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//radio.clickandcountry.cz%3a8000/clickandcountry.mp3:Radio Click & Country
+#DESCRIPTION Radio Click & Country
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//westradio.cz/radio/8010/radio.mp3:Radio Diana – Comedy Club
+#DESCRIPTION Radio Diana – Comedy Club
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//westradio.cz/radio/8020/radio.mp3:Radio Diana – Dance Club
+#DESCRIPTION Radio Diana – Dance Club
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//westradio.cz/radio/8000/radio.mp3:Radio Diana – Retro Club
+#DESCRIPTION Radio Diana – Retro Club
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//mp3stream3.abradio.cz/expert-128.mp3:Radio Dobris
+#DESCRIPTION Radio Dobris
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//mp3stream4.abradio.cz/domino128.mp3:Radio Domino
+#DESCRIPTION Radio Domino
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//sc.ipip.cz%3a8046/;:Radio Cesky Jukebox
+#DESCRIPTION Radio Cesky Jukebox
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast1.play.cz/fajnrock128.mp3:Radio FRM
+#DESCRIPTION Radio FRM
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//ruby.torontocast.com%3a1330/stream:Radio Good Water
+#DESCRIPTION Radio Good Water
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//sc.ipip.cz%3a8078/;:Radio Hady
+#DESCRIPTION Radio Hady
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/helax128.mp3:Radio Helax
+#DESCRIPTION Radio Helax
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ipip.cz%3a8006/;:Dance Freestyle FM
+#DESCRIPTION Dance Freestyle FM
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//sc.ipip.cz%3a8080/;:Mustang
+#DESCRIPTION Mustang
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//sc.ipip.cz%3a8022/;:Psytrance Radio CZ
+#DESCRIPTION Psytrance Radio CZ
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice6.abradio.cz/kasparlive128.mp3:Radio Kaspar
+#DESCRIPTION Radio Kaspar
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//s4.myradiostream.com%3a4342/listen.mp3:Radio Life Trance FM
+#DESCRIPTION Radio Life Trance FM
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast3.play.cz/radiomb.mp3:Radio Life MB
+#DESCRIPTION Radio MB
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast9.play.cz/radio-ostravan.mp3:Radio Life Ostravan
+#DESCRIPTION Radio Ostravan
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast2.play.cz/country128aac:Radio Profil
+#DESCRIPTION Radio Profil
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//radior.video.muni.cz%3a8000/FSS_mp3-128.mp3:Radio R
+#DESCRIPTION Radio R
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//sabbroadcast.eu%3a8003/stream:Radio SAB Digital
+#DESCRIPTION Radio SAB Digital
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/shadowbox128.mp3:Radio Shadowbox cz
+#DESCRIPTION Radio Shadowbox cz
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.topradio.cz%3a8000/smile192:Radio Smile
+#DESCRIPTION Radio Smile
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//109.228.50.159%3a8000/stream.mp3:Radio Sound Wave
+#DESCRIPTION Radio Sound Wave
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//radior.video.muni.cz%3a8000/FSS_mp3-64.mp3:Radio Student
+#DESCRIPTION Radio Student
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//goqstream1.vshosting.cz%3a9490/;:Radio Svit
+#DESCRIPTION Radio Svit
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//12901.cloudrad.io%3a9306/live:Radio Trojka
+#DESCRIPTION Radio Trojka
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice3.abradio.cz/zelenahora128.mp3:Radio Zelena hora
+#DESCRIPTION Radio Zelena hora
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/znamkapunku128.mp3:Radio Zelena Punku
+#DESCRIPTION Radio Znamka Punku
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice5.abradio.cz/romaradio128.mp3:Radio Roma
+#DESCRIPTION Radio Roma
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast6.play.cz/seejay128.mp3:See Jay Radio
+#DESCRIPTION See Jay Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//quasar.shoutca.st%3a8193/stream:Solar Walk Radio
+#DESCRIPTION Solar Walk Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//svobodneradio.radioca.st%3a8859/;:Spolek Svobodne Radio
+#DESCRIPTION Spolek Svobodne Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//sc.ipip.cz%3a8004/;:Star The Mix
+#DESCRIPTION Star The Mix
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.svobodny-vysilac.cz%3a8000/live.mp3:Svobodny vysilac CS
+#DESCRIPTION Svobodny vysilac CS
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.skyradio.gr%3a8114/stream:The Best Firearms
+#DESCRIPTION The Best Firearms
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//centovacast.divinestreams.co.uk%3a7812/;:TLIG Radio Czech
+#DESCRIPTION TLIG Radio Czech
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast2.play.cz/Underground128.mp3:Underground Radio
+#DESCRIPTION Underground Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.wehouseradio.com/;:We House Radio
+#DESCRIPTION We House Radio
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//worldradio100.radioca.st/;:Worldradio EU
+#DESCRIPTION Worldradio EU
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.actve.net/web-yr-youradio1:Youradio 1
+#DESCRIPTION Youradio 1
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/znamkapunku128.mp3:Znamka Punku
+#DESCRIPTION Znamka Punku
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.zunradio.cz/zun1.aac:Zoner Underground Network
+#DESCRIPTION Zoner Underground Network
