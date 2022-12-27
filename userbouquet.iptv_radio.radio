@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 23.12.2022 14:50 by Team www.hdfreaks.cc
+#DESCRIPTION Update 27.12.2022 15:35 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
@@ -1731,6 +1731,28 @@
 #DESCRIPTION SATzentrale - Deluxe
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//satzentrale-nature.stream.laut.fm/satzentrale-nature
 #DESCRIPTION SATzentrale - Nature
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION partyvibe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.partyvibe.com%3a8060/;listen.pls?sid=1
+#DESCRIPTION partyvibe - reggae
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.partyvibe.com%3a8069/;listen.pls?sid=1
+#DESCRIPTION partyvibe - ambient
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.partyvibe.com%3a8062/;listen.pls?sid=1
+#DESCRIPTION partyvibe - psychedelic trance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.partyvibe.com%3a8061/;listen.pls?sid=1
+#DESCRIPTION partyvibe - drum and bass
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.partyvibe.com%3a8064/;listen.pls?sid=1
+#DESCRIPTION partyvibe - jazz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.partyvibe.com%3a8067/;listen.pls?sid=1
+#DESCRIPTION partyvibe - dubstep and breakbeat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.partyvibe.com%3a8063/;listen.pls?sid=1
+#DESCRIPTION partyvibe - rap
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.partyvibe.com%3a8068/;listen.pls?sid=1
+#DESCRIPTION partyvibe - techno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.partyvibe.com%3a8065/;listen.pls?sid=1
+#DESCRIPTION partyvibe - pop
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.partyvibe.com%3a8066/;listen.pls?sid=1
+#DESCRIPTION partyvibe - rock
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Schottland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s39.myradiostream.com%3a10532/;
