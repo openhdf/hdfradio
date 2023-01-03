@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 02.01.2023 18:35 by Team www.hdfreaks.cc
+#DESCRIPTION Update 03.01.2023 18:33 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
@@ -1805,6 +1805,64 @@
 #DESCRIPTION Schottland - Tay 102.8 FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming02.zfast.co.uk/proxy/twolochs1?mp=/stream
 #DESCRIPTION Schottland - Two Lochs Radio 106.6
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION RMF
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_fm
+#DESCRIPTION RMF FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_2
+#DESCRIPTION RMF 2 Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_3
+#DESCRIPTION RMF 3 Pop-Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_4
+#DESCRIPTION RMF 4 Dance & RNB
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_5
+#DESCRIPTION RMF 5 Łagodne Przeboje
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_24
+#DESCRIPTION RMF 24.pl
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_20lat
+#DESCRIPTION RMF 30 lat
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_2010
+#DESCRIPTION RMF 10s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_50s
+#DESCRIPTION RMF 50s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_60s
+#DESCRIPTION RMF 60s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_70s
+#DESCRIPTION RMF 70s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_70s_disco
+#DESCRIPTION RMF 70s Disco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_80s
+#DESCRIPTION RMF 80s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_80s_disco
+#DESCRIPTION RMF 80s Disco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_90s
+#DESCRIPTION RMF 90s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_90s_dance
+#DESCRIPTION RMF 90s Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_2000
+#DESCRIPTION RMF 2000
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_alternatywa
+#DESCRIPTION RMF Alternatywa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_top_5_rock
+#DESCRIPTION RMF Bajkowe Piosenki
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_nostalgia
+#DESCRIPTION RMF Ballady
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_beatlemania
+#DESCRIPTION RMF Beatlemania
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/best_of_rmfon
+#DESCRIPTION RMF Best Of RMFon
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_blues
+#DESCRIPTION RMF Blues
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_bravo
+#DESCRIPTION RMF Bravo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_celtic
+#DESCRIPTION RMF Celtic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_chillout
+#DESCRIPTION RMF Chillout
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_classic
+#DESCRIPTION RMF Classic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_classic_rock
+#DESCRIPTION RMF Classic Rock
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Slowakei
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.slovakradio.sk%3a8000/Slovensko_128.mp3:SRo 1 - Radio Slovensko
