@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 03.01.2023 18:45 by Team www.hdfreaks.cc
+#DESCRIPTION Update 14.01.2023 13:05 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
@@ -107,6 +107,8 @@
 #DESCRIPTION Radio BOB! - Alternative Rock-Stream
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-bestofrock-mp3-hq:Radio BOB! - Best of Rock-Stream
 #DESCRIPTION Radio BOB! - Best of Rock-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-rockoldies-mp3-hq:Radio BOB! - Rock Oldies-Stream
+#DESCRIPTION Radio BOB! - Rock Oldies-Stream
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-blues-mp3-hq:Radio BOB! - Blues-Stream
 #DESCRIPTION Radio BOB! - Blues-Stream
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-classicrock-mp3-hq:Radio BOB! - Classic Rock-Stream
@@ -2603,3 +2605,33 @@
 #DESCRIPTION Znamka Punku
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.zunradio.cz/zun1.aac:Zoner Underground Network
 #DESCRIPTION Zoner Underground Network
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION HiRes Radio Stations (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8160/flac:SuperStereo 1 Hi Res New Wave,Adult Pop
+#DESCRIPTION SuperStereo 1 Hi Res New Wave,Adult Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8157/flac:SuperStereo 2 Hi Res Oldie 50´s,60´s
+#DESCRIPTION SuperStereo 2 Hi Res Oldie 50´s,60´s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8539/flac:SuperStereo 3 Hi Res Pop,Dance,House
+#DESCRIPTION SuperStereo 3 Hi Res Pop,Dance,House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8030/flac:SuperStereo 4 Hi Res Aor,West Coast
+#DESCRIPTION SuperStereo 4 Hi Res Aor,West Coast
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8511/canal1:SuperStereo 5 Hi Res Rock
+#DESCRIPTION SuperStereo 5 Hi Res Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8157/flac6:SuperStereo 6 Hi Res The Best Instrumental Music In High Resolution
+#DESCRIPTION SuperStereo 6 Hi Res The Best Instrumental Music In High Resolution
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8030/flac7:SuperStereo 7 Hi Res Jazz
+#DESCRIPTION SuperStereo 7 Hi Res Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server9.streamserver24.com%3a18900/motherearth:Mother Earth Radio
+#DESCRIPTION Mother Earth Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server9.streamserver24.com%3a18910/motherearth.klassik:Mother Earth Klassik
+#DESCRIPTION Mother Earth Klassik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server9.streamserver24.com%3a18920/motherearth.instrumental:Mother Earth Instrumental
+#DESCRIPTION Mother Earth Instrumental
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioparadise.com/flacm:Radio Paradise Main Mix FLAC
+#DESCRIPTION Radio Paradise Main Mix FLAC
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioparadise.com/mellow-flacm:Radio Paradise Mellow Mix FLAC
+#DESCRIPTION Radio Paradise Mellow Mix FLAC
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioparadise.com/rock-flacm:Radio Paradise Rock Mix FLAC
+#DESCRIPTION Radio Paradise Rock Mix FLAC
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioparadise.com/global-flacm:Radio Paradise Global Mix FLAC
+#DESCRIPTION Radio Paradise Global Mix FLAC
