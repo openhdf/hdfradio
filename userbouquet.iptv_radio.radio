@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 14.01.2023 13:05 by Team www.hdfreaks.cc
+#DESCRIPTION Update 14.01.2023 13:20 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
@@ -1671,6 +1671,14 @@
 #DESCRIPTION Mixed Channels - Soft Classic Rock
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.244.80.131%3a8020/stream
 #DESCRIPTION Mixed Channels - Radio Shadow Deep Tracks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//strw1.openstream.co/2401?aw_0_1st.collectionid
+#DESCRIPTION Mixed Channels - Elvis Radio 24h
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/elvispresley/icecast.audio
+#DESCRIPTION Mixed Channels - Elvis Presley exclusive.radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.249.7.68/alwayselvisradio
+#DESCRIPTION Mixed Channels - Radio Alfa - Always Elvis Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//94.23.159.187%3a9978
+#DESCRIPTION Mixed Channels - Elvis And Company
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION ⇒ Mixed Channels Pop
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ice4.abradio.cz/depeche128.mp3
