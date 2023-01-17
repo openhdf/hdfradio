@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 14.01.2023 15:30 by Team www.hdfreaks.cc
+#DESCRIPTION Update 17.01.2023 18:45 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
@@ -2621,10 +2621,6 @@
 #DESCRIPTION SuperStereo 3 Hi Res Pop,Dance,House
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8030/flac:SuperStereo 4 Hi Res Aor,West Coast
 #DESCRIPTION SuperStereo 4 Hi Res Aor,West Coast
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8511/canal1:SuperStereo 5 Hi Res Rock
-#DESCRIPTION SuperStereo 5 Hi Res Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8157/flac6:SuperStereo 6 Hi Res The Best Instrumental Music In High Resolution
-#DESCRIPTION SuperStereo 6 Hi Res The Best Instrumental Music In High Resolution
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8030/flac7:SuperStereo 7 Hi Res Jazz
 #DESCRIPTION SuperStereo 7 Hi Res Jazz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server9.streamserver24.com%3a18900/motherearth:Mother Earth Radio
@@ -2641,6 +2637,50 @@
 #DESCRIPTION Radio Paradise Rock Mix FLAC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioparadise.com/global-flacm:Radio Paradise Global Mix FLAC
 #DESCRIPTION Radio Paradise Global Mix FLAC
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//chillout.zone/chillout_plus:Chill Out Zone Plus FLAC
+#DESCRIPTION Chill Out Zone Plus FLAC
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cityradio.ddns.net%3a8000/cityradio48flac:City Radio Chile
+#DESCRIPTION City Radio Chile
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.audiomastering.lt%3a8000/pure:Radio Audiomastering Dance/Electronic
+#DESCRIPTION Radio Audiomastering Dance/Electronic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio-edge-cmc51.fra.h.radiomast.io/radioblues-flac:Radio BluesFlac
+#DESCRIPTION Radio BluesFlac
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s2.audiostream.hu/bdpstrock_FLAC:BDPST ROCK
+#DESCRIPTION BDPST ROCK
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.danubiusradio.hu/danubius_HiFi:Danubius Rádió
+#DESCRIPTION Danubius Rádió
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s2.audiostream.hu/juventus_FLAC:Juventus Rádió
+#DESCRIPTION Juventus Rádió
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.freemusicradio.nl%3a8100/stream.oga:Free Music Radio Top 40 hits
+#DESCRIPTION Free Music Radio Top 40 hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frequence3.net-radio.fr/frequence3.flac:Fréquence 3
+#DESCRIPTION Fréquence 3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frequence3.net-radio.fr/frequence3dance.flac:Fréquence 3 – Dance
+#DESCRIPTION Fréquence 3 – Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frequence3.net-radio.fr/frequence3gold.flac:Fréquence 3 – Gold
+#DESCRIPTION Fréquence 3 – Gold
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frequence3.net-radio.fr/frequence3urban.flac:Fréquence 3 – Urban
+#DESCRIPTION Fréquence 3 – Urban
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frequence3.net-radio.fr/frequence3world.flac:Fréquence 3 – World
+#DESCRIPTION Fréquence 3 – World
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice2.ikoula.net-radio.fr/h2oradio.flac:H2O Radio
+#DESCRIPTION H2O Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//maggie.torontocast.com%3a8076/flac:JB Radio-2
+#DESCRIPTION JB Radio-2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/progressive-flac:SECTOR Progressive channel
+#DESCRIPTION SECTOR Progressive channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/space-flac:SECTOR Space channel
+#DESCRIPTION SECTOR Space channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/nota-flac:SECTOR Nota channel
+#DESCRIPTION SECTOR Nota channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/geny-flac:SECTOR Geny channel (80er)
+#DESCRIPTION SECTOR Geny channel (80er)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/next-flac:SECTOR Next channel (90er)
+#DESCRIPTION SECTOR Next channel (90er)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/zed-160:SECTOR Zed (10er)
+#DESCRIPTION SECTOR Zed (10er)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/zed-160:SECTOR Zed (10er)
+#DESCRIPTION SECTOR Zed (10er)
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Exclusive Radio
 #SERVICE 4097:0:1:6:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/chart/icecast.audio:Chart
