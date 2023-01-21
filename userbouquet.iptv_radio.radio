@@ -1,6 +1,12 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 17.01.2023 18:45 by Team www.hdfreaks.cc
+#DESCRIPTION Update 21.01.2023 21:20 by Team www.hdfreaks.cc
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION ogg Test-Streams
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//joyhits.online/joyhits.flac.ogg
+#DESCRIPTION OGG - Joyhits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.easyradio.bg/flac?type=.ogg
+#DESCRIPTION OGG - Easyradio
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
