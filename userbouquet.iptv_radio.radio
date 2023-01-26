@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 21.01.2023 21:20 by Team www.hdfreaks.cc
+#DESCRIPTION Update 26.01.2023 19:47 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION ogg Test-Streams
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//joyhits.online/joyhits.flac.ogg
@@ -2629,6 +2629,8 @@
 #DESCRIPTION SuperStereo 4 Hi Res Aor,West Coast
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8030/flac7:SuperStereo 7 Hi Res Jazz
 #DESCRIPTION SuperStereo 7 Hi Res Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.magic-radio.net/flac:Magic Radio Oldies Hits
+#DESCRIPTION Magic Radio Oldies Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server9.streamserver24.com%3a18900/motherearth:Mother Earth Radio
 #DESCRIPTION Mother Earth Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server9.streamserver24.com%3a18910/motherearth.klassik:Mother Earth Klassik
@@ -2671,8 +2673,30 @@
 #DESCRIPTION Fréquence 3 – World
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice2.ikoula.net-radio.fr/h2oradio.flac:H2O Radio
 #DESCRIPTION H2O Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//maggie.torontocast.com%3a8076/flac:JB Radio-2
-#DESCRIPTION JB Radio-2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.cor.insanityradio.com/insanity.flac:Insanity Radio
+#DESCRIPTION Insanity Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//maggie.torontocast.com%3a8076/flac:JB Radio2
+#DESCRIPTION JB Radio2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.stormtx.co.uk%3a8009/juice-lossless:Juice 1038
+#DESCRIPTION Juice 1038
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mscp3.live-streams.nl%3a8360/flac.flac:Naim Radio
+#DESCRIPTION Naim Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mscp3.live-streams.nl%3a8250/class-flac.flac:Naim Classical
+#DESCRIPTION Naim Classical
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mscp3.live-streams.nl%3a8340/jazz-flac.flac:Naim Jazz
+#DESCRIPTION Naim Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro3.flac:ČRo Vltava
+#DESCRIPTION ČRo Vltava
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro-d-dur.flac:ČRo D-dur
+#DESCRIPTION ČRo D-dur
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro-jazz.flac:ČRo Jazz
+#DESCRIPTION ČRo Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro-radio-wave.flac:ČRo Radio Wave
+#DESCRIPTION ČRo Radio Wave
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro2-256.ogg:ČRo Dvojka  (ogg)
+#DESCRIPTION ČRo Dvojka  (ogg)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro-radio-junior-256.ogg:ČRo Rádio Junior  (ogg)
+#DESCRIPTION ČRo Rádio Junior  (ogg)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/progressive-flac:SECTOR Progressive channel
 #DESCRIPTION SECTOR Progressive channel
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/space-flac:SECTOR Space channel
@@ -2685,8 +2709,20 @@
 #DESCRIPTION SECTOR Next channel (90er)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/zed-160:SECTOR Zed (10er)
 #DESCRIPTION SECTOR Zed (10er)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/zed-160:SECTOR Zed (10er)
-#DESCRIPTION SECTOR Zed (10er)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//thecheese.ddns.net%3a8004/stream:The Cheese  (New Zealand)
+#DESCRIPTION The Cheese  (New Zealand)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//admin.biasradio.com/radio/8000/flac:Radio Bias
+#DESCRIPTION Radio Bias
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio3.radio-calico.com%3a8443/calico:Radio Calico Florida
+#DESCRIPTION Radio Calico Florida
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radioip.no%3a443/flac:Radio Haugaland Norway
+#DESCRIPTION Radio Haugaland Norway
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiosputnik.nl%3a8002/flac:Radio Sputnik  Holland
+#DESCRIPTION Radio Sputnik  Holland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//maxxima.mine.nu%3a8000/maxx.ogg:MaXXima (ogg)
+#DESCRIPTION MaXXima (ogg)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mscp4.live-streams.nl%3a8140/flac.ogg:PureClassix Radio  80’s music (ogg)
+#DESCRIPTION PureClassix Radio  80’s music (ogg)
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Exclusive Radio
 #SERVICE 4097:0:1:6:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/chart/icecast.audio:Chart
