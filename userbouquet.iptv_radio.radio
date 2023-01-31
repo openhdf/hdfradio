@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 26.01.2023 19:47 by Team www.hdfreaks.cc
+#DESCRIPTION Update 31.01.2023 19:47 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION ogg Test-Streams
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//joyhits.online/joyhits.flac.ogg
@@ -2629,6 +2629,20 @@
 #DESCRIPTION SuperStereo 4 Hi Res Aor,West Coast
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8030/flac7:SuperStereo 7 Hi Res Jazz
 #DESCRIPTION SuperStereo 7 Hi Res Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv30.live-streams.nl%3a8086:Hi Online Radio Pop (320 kbps)
+#DESCRIPTION Hi Online Radio Pop (320 kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv30.live-streams.nl%3a8088:Hi Online Radio Classical (320 kbps)
+#DESCRIPTION Hi Online Radio Classical (320 kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv30.live-streams.nl%3a8000:Hi Online Radio Gold (320 kbps)
+#DESCRIPTION Hi Online Radio Gold (320 kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv38.live-streams.nl%3a8027:Hi Online Radio Worlbeat (320 kbps)
+#DESCRIPTION Hi Online Radio Worlbeat (320 kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv33.live-streams.nl%3a8034:Hi Online Radio Latin (320 kbps)
+#DESCRIPTION Hi Online Radio Latin (320 kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv38.live-streams.nl%3a8006:Hi Online Radio Jazz (320 kbps)
+#DESCRIPTION Hi Online Radio Jazz (320 kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv33.live-streams.nl%3a8036:Hi Online Radio Lounge (320 kbps)
+#DESCRIPTION Hi Online Radio Lounge (320 kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.magic-radio.net/flac:Magic Radio Oldies Hits
 #DESCRIPTION Magic Radio Oldies Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server9.streamserver24.com%3a18900/motherearth:Mother Earth Radio
