@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 31.01.2023 19:47 by Team www.hdfreaks.cc
+#DESCRIPTION Update 02.02.2023 18:45 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION ogg Test-Streams
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//joyhits.online/joyhits.flac.ogg
@@ -81,103 +81,109 @@
 #DESCRIPTION 80s80s - Italo Disco
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Radio BOB!
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-national-mp3-hq:Radio BOB! - Livestream National
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-national/mp3-192:Radio BOB! - Livestream National
 #DESCRIPTION Radio BOB! - Livestream National
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-live-mp3-hq:Radio BOB! - Livestream Hessen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-live/mp3-192:Radio BOB! - Livestream Hessen
 #DESCRIPTION Radio BOB! - Livestream Hessen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/bob-live-nrw-mitte-mp3-hq:Radio BOB! - Livestream NRW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/live-nrw-mitte/mp3-192:Radio BOB! - Livestream NRW
 #DESCRIPTION Radio BOB! - Livestream NRW
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-shlive-mp3-hq:Radio BOB! - Livestream SH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-national/mp3-192:Radio BOB! - Livestream SH
 #DESCRIPTION Radio BOB! - Livestream SH
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-donots-mp3-hq:Radio BOB! - Donots Rockshow Stream Moderator Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/donots/mp3-192:Radio BOB! - Donots Rockshow Stream
 #DESCRIPTION Radio BOB! - Donots Rockshow Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-dunklepritter-mp3-hq:Radio BOB! - Der Dunkle Parabelritter Moderator Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/ritter/mp3-192:Radio BOB! - Der Dunkle Parabelritter
 #DESCRIPTION Radio BOB! - Der Dunkle Parabelritter
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-fury-mp3-hq:Radio BOB! - Fury in the Slaughterhouse Moderator Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/fury/mp3-192:Radio BOB! - Fury in the Slaughterhouse-Stream
 #DESCRIPTION Radio BOB! - Fury in the Slaughterhouse-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-bosshoss-mp3-hq:Radio BOB! - The BossHoss Moderator Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bosshoss/mp3-192:Radio BOB! - The BossHoss Moderator Stream
 #DESCRIPTION Radio BOB! - The BossHoss Moderator Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-sammet-mp3-hq:Radio BOB! - Tobias Sammet Moderator Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/sammet/mp3-192:Radio BOB! - Tobias Sammet Moderator Stream
 #DESCRIPTION Radio BOB! - Tobias Sammet Moderator Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-event01-mp3-hq:Radio BOB! - Christmas Rock Stream (Eventstream)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-christmas/mp3-192:Radio BOB! - Christmas Rock Stream (Eventstream)
 #DESCRIPTION Radio BOB! - Christmas Rock Stream (Eventstream)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-70srock-mp3-hq:Radio BOB! - 70er Rock-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/70errock/mp3-192:Radio BOB! - 70er Rock-Stream
 #DESCRIPTION Radio BOB! - 70er Rock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-80srock-mp3-hq:Radio BOB! - 80er Rock-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-80srock/mp3-192:Radio BOB! - 80er Rock-Stream
 #DESCRIPTION Radio BOB! - 80er Rock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-90srock-mp3-hq:Radio BOB! - 90er Rock-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-90srock/mp3-192:Radio BOB! - 90er Rock-Stream
 #DESCRIPTION Radio BOB! - 90er Rock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-2000rock-mp3-hq:Radio BOB! - 2000er Rock-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/2000er/mp3-192:Radio BOB! - 2000er Rock-Stream
 #DESCRIPTION Radio BOB! - 2000er Rock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-alternativerock-mp3-hq:Radio BOB! - Alternative Rock-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-alternative/mp3-192:Radio BOB! - Alternative Rock-Stream
 #DESCRIPTION Radio BOB! - Alternative Rock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-bestofrock-mp3-hq:Radio BOB! - Best of Rock-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-bestofrock/mp3-192:Radio BOB! - Best of Rock-Stream
 #DESCRIPTION Radio BOB! - Best of Rock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-rockoldies-mp3-hq:Radio BOB! - Rock Oldies-Stream
-#DESCRIPTION Radio BOB! - Rock Oldies-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-blues-mp3-hq:Radio BOB! - Blues-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/blues/mp3-192:Radio BOB! - Blues-Stream
 #DESCRIPTION Radio BOB! - Blues-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-classicrock-mp3-hq:Radio BOB! - Classic Rock-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-classicrock/mp3-192:Radio BOB! - Classic Rock-Stream
 #DESCRIPTION Radio BOB! - Classic Rock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-college-mp3-hq:Radio BOB! - College Rock-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/collegerock/mp3-192:Radio BOB! - College Rock-Stream
 #DESCRIPTION Radio BOB! - College Rock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-country-mp3-hq:Radio BOB! - Country Rock-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/country/mp3-192:Radio BOB! - Country Rock-Stream
 #DESCRIPTION Radio BOB! - Country Rock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-deathmetal-mp3-hq:Radio BOB! - Death Metal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/deathmetal/mp3-192:Radio BOB! - Death Metal
 #DESCRIPTION Radio BOB! - Death Metal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-deutschrock-mp3-hq:Radio BOB! - Deutschrock-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-deutsch/mp3-192:Radio BOB! - Deutschrock-Stream
 #DESCRIPTION Radio BOB! - Deutschrock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-emo-mp3-hq:Radio BOB! - Emo-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/emo/mp3-192:Radio BOB! - Emo-Stream
 #DESCRIPTION Radio BOB! - Emo-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-festival-mp3-hq:Radio BOB! - Festival-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-festival/mp3-192:Radio BOB! - Festival-Stream
 #DESCRIPTION Radio BOB! - Festival-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-gothic-mp3-hq:Radio BOB! - Gothic-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/gothic/mp3-192:Radio BOB! - Gothic-Stream
 #DESCRIPTION Radio BOB! - Gothic-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-grunge-mp3-hq:Radio BOB! - Grunge-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-grunge/mp3-192:Radio BOB! - Grunge-Stream
 #DESCRIPTION Radio BOB! - Grunge-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-hardrock-mp3-hq:Radio BOB! - Hardrock-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-hardrock/mp3-192:Radio BOB! - Hardrock-Stream
 #DESCRIPTION Radio BOB! - Hardrock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-hartesaite-mp3-hq:Radio BOB! - Harte Saite-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-hartesaite/mp3-192:Radio BOB! - Harte Saite-Stream
 #DESCRIPTION Radio BOB! - Harte Saite-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-kuschelrock-mp3-hq:Radio BOB! - Kuschelrock-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-kuschelrock/mp3-192:Radio BOB! - Kuschelrock-Stream
 #DESCRIPTION Radio BOB! - Kuschelrock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-metal-mp3-hq:Radio BOB! - Metal-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-metal/mp3-192:Radio BOB! - Metal-Stream
 #DESCRIPTION Radio BOB! - Metal-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-metalcore-mp3-hq:Radio BOB! - Metalcore-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/metalcore/mp3-192:Radio BOB! - Metalcore-Stream
 #DESCRIPTION Radio BOB! - Metalcore-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-mittelalter-mp3-hq:Radio BOB! - Mittelalter-Rock-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/mittelalter/mp3-192:Radio BOB! - Mittelalter-Rock-Stream
 #DESCRIPTION Radio BOB! - Mittelalter-Rock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-newcomer-mp3-hq:Radio BOB! - Newcomer-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/newcomer/mp3-192:Radio BOB! - Newcomer-Stream
 #DESCRIPTION Radio BOB! - Newcomer-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-powermetal-mp3-hq:Radio BOB! - Power Metal-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/powermetal/mp3-192:Radio BOB! - Power Metal-Stream
 #DESCRIPTION Radio BOB! - Power Metal-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-progrock-mp3-hq:Radio BOB! - Prog-Rock-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/progrock/mp3-192/:Radio BOB! - Prog-Rock-Stream
 #DESCRIPTION Radio BOB! - Prog-Rock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-punk-mp3-hq:Radio BOB! - Punk-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-punk/mp3-192:Radio BOB! - Punk-Stream
 #DESCRIPTION Radio BOB! - Punk-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-rockabilly-mp3-hq:Radio BOB! - Rockabilly-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-rockabilly/mp3-192:Radio BOB! - Rockabilly-Stream
 #DESCRIPTION Radio BOB! - Rockabilly-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-rockhits-mp3-hq:Radio BOB! - Rock Hits-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-rockhits/mp3-192:Radio BOB! - Rock Hits-Stream
 #DESCRIPTION Radio BOB! - Rock Hits-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-rockparty-mp3-hq:Radio BOB! - Rockparty-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/rockoldies/mp3-192:Radio BOB! - Rock Oldies-Stream
+#DESCRIPTION Radio BOB! - Rock Oldies-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/rockparty/mp3-192:Radio BOB! - Rockparty-Stream
 #DESCRIPTION Radio BOB! - Rockparty-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-singersong-mp3-hq:Radio BOB! - Singer und Songwriter-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-singersong/mp3-192:Radio BOB! - Singer und Songwriter-Stream
 #DESCRIPTION Radio BOB! - Singer und Songwriter-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-southernrock-mp3-hq:Radio BOB! - Southern Rock-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/ska/mp3-192:Radio BOB! - Ska-Stream
+#DESCRIPTION Radio BOB! - Ska-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/southernrock/mp3-192:Radio BOB! - Southern Rock-Stream
 #DESCRIPTION Radio BOB! - Southern Rock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-symphmetal-mp3-hq:Radio BOB! - Symphonic Metal-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/symphmetal/mp3-192:Radio BOB! - Symphonic Metal-Stream
 #DESCRIPTION Radio BOB! - Symphonic Metal-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-chillout-mp3-hq:Radio BOB! - Unplugged-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-chillout/mp3-192:Radio BOB! - Unplugged-Stream
 #DESCRIPTION Radio BOB! - Unplugged-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-wacken-mp3-hq:Radio BOB! - Wacken Open Air-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-wacken/mp3-192:Radio BOB! - Wacken Open Air-Stream
 #DESCRIPTION Radio BOB! - Wacken Open Air-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-acdc-mp3-hq:Radio BOB! - AC/DC-Collection
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/100/mp3-192/mp3-192:Radio BOB! - Event-Stream 1
+#DESCRIPTION Radio BOB! - Event-Stream 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/101/mp3-192/mp3-192:Radio BOB! - Event-Stream 2
+#DESCRIPTION Radio BOB! - Event-Stream 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-acdc/mp3-192:Radio BOB! - AC/DC-Collection
 #DESCRIPTION Radio BOB! - AC/DC-Collection
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-metallica-mp3-hq:Radio BOB! - Metallica-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/metallica/mp3-192:Radio BOB! - Metallica-Stream
 #DESCRIPTION Radio BOB! - Metallica-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-motoerhead-mp3-hq:Radio BOB! - Motörhead-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/motoerhead/mp3-192:Radio BOB! - Motörhead-Stream
 #DESCRIPTION Radio BOB! - Motörhead-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bob.hoerradar.de/radiobob-queen-mp3-hq:Radio BOB! - Queen-Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-queen/mp3-192:Radio BOB! - Queen-Stream
 #DESCRIPTION Radio BOB! - Queen-Stream
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Radio PSR
