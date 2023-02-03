@@ -1,6 +1,16 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 02.02.2023 18:45 by Team www.hdfreaks.cc
+#DESCRIPTION Update 03.02.2023 18:22 by Team www.hdfreaks.cc
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION RadioMonster.FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ic5.radiomonster.fm/tophits.ultra
+#DESCRIPTION RadioMonster.FM TopHits (320kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ic1.radiomonster.fm/dance.ultra
+#DESCRIPTION RadioMonster.FM Dance (320kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ic5.radiomonster.fm/evergreens.ultra
+#DESCRIPTION RadioMonster.FM Evergreens (320kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ic3.radiomonster.fm/schlager.ultra
+#DESCRIPTION RadioMonster.FM Schlager (320kbps)
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION ogg Test-Streams
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//joyhits.online/joyhits.flac.ogg
