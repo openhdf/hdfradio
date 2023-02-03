@@ -1,16 +1,42 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 03.02.2023 18:22 by Team www.hdfreaks.cc
+#DESCRIPTION Update 03.02.2023 18:30 by Team www.hdfreaks.cc
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Hörspiele
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hoerspiel.stream.laut.fm/hoerspiel
+#DESCRIPTION Hörspiel-Radio - Hörspiele aus allen Genres
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//soundtalesproductions.stream.laut.fm/soundtalesproductions
+#DESCRIPTION Soundtalesproductions
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dthoerspieler.stream.laut.fm/dthoerspieler
+#DESCRIPTION DT Hörspieler
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//brainflowermedia.stream.laut.fm/brainflowermedia
+#DESCRIPTION Brainflowermedia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hoerbuchzauber.stream.laut.fm/hoerbuchzauber
+#DESCRIPTION Hoerbuchzauber
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Radio Schlagerparadies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioplayer-schlagerparty.schlagerparadies.de/schlagerparty:Radio Schlagerparadies Schlagerparty
+#DESCRIPTION Radio Schlagerparadies - Schlagerparty
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioplayer-frischgepresst.schlagerparadies.de/frischgepresst:Radio Schlagerparadies Frischgepresst
+#DESCRIPTION Radio Schlagerparadies - Frischgepresst
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioplayer-hitmixdernacht.schlagerparadies.de/hitmixdernacht:Radio Schlagerparadies Hit Mix der Nacht
+#DESCRIPTION Radio Schlagerparadies - Hit Mix der Nacht
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioplayer-oldieexpress.schlagerparadies.de/schlageroldies:Radio Schlagerparadies Schlageroldies
+#DESCRIPTION Radio Schlagerparadies - Schlageroldies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioplayer-instrumental.schlagerparadies.de/schlagerinstrumental:Radio Schlagerparadies Instrumental
+#DESCRIPTION Radio Schlagerparadies - Instrumental
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioplayer-kuschelzeit.schlagerparadies.de/schlagerballaden:Radio Schlagerparadies Schlagerballaden
+#DESCRIPTION Radio Schlagerparadies - Schlagerballaden
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION RadioMonster.FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ic5.radiomonster.fm/tophits.ultra
-#DESCRIPTION RadioMonster.FM TopHits (320kbps)
+#DESCRIPTION RadioMonster.FM - TopHits (320kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ic1.radiomonster.fm/dance.ultra
-#DESCRIPTION RadioMonster.FM Dance (320kbps)
+#DESCRIPTION RadioMonster.FM - Dance (320kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ic5.radiomonster.fm/evergreens.ultra
-#DESCRIPTION RadioMonster.FM Evergreens (320kbps)
+#DESCRIPTION RadioMonster.FM - Evergreens (320kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ic3.radiomonster.fm/schlager.ultra
-#DESCRIPTION RadioMonster.FM Schlager (320kbps)
+#DESCRIPTION RadioMonster.FM - Schlager (320kbps)
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION ogg Test-Streams
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//joyhits.online/joyhits.flac.ogg
