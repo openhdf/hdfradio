@@ -1,6 +1,18 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 03.02.2023 18:30 by Team www.hdfreaks.cc
+#DESCRIPTION Update 05.02.2023 15:55 by Team www.hdfreaks.cc
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION DELUXE MUSIC
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
+#DESCRIPTION DELUXE MUSIC - LOUNGE RADIO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-music-aac-mq:DELUXE MUSIC RADIO
+#DESCRIPTION DELUXE MUSIC - RADIO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-2000-mp3-hq:DELUXE 2000
+#DESCRIPTION DELUXE MUSIC - 2000
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-easy-mp3-hq:DELUXE EASY
+#DESCRIPTION DELUXE MUSIC - EASY
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-schlager-mp3-hq:DELUXE SCHLAGER
+#DESCRIPTION DELUXE MUSIC - SCHLAGER
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Hörspiele
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hoerspiel.stream.laut.fm/hoerspiel
