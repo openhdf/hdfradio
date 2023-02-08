@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 05.02.2023 15:55 by Team www.hdfreaks.cc
+#DESCRIPTION Update 08.02.2023 19:40 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -1745,7 +1745,7 @@
 #DESCRIPTION Mixed Channels - RADIO fresh80s
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/fleetwoodmac/icecast.audio
 #DESCRIPTION Mixed Channels - Exclusively Fleetwood Mac
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.schwarzwaldradio.com/schwarzwaldradio?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge66.streamonkey.net/fho-schwarzwaldradiolive/stream/mp3
 #DESCRIPTION Mixed Channels - Schwarzwaldradio – Classic Hits & Super Oldies
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION ⇒ Mixed Channels Miscellaneous
