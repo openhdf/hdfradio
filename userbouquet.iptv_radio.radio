@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 12.02.2023 13:30 by Team www.hdfreaks.cc
+#DESCRIPTION Update 13.02.2023 21:55 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -3831,3 +3831,47 @@
 #DESCRIPTION Exclusive Radio - 2010's
 #SERVICE 4097:0:1:1047:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/2020/icecast.audio:2020's
 #DESCRIPTION Exclusive Radio - 2020's
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Virgin Radio Italy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/VirginRockClassics.mp3:Virgin Radio Italy - Classic Rock
+#DESCRIPTION Virgin Radio Italy - Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/VirginRockHits.mp3:Virgin Radio Italy - Rock Hits
+#DESCRIPTION Virgin Radio Italy - Rock Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/Virgin_06.mp3:Virgin Radio Italy - Rock Ballads
+#DESCRIPTION Virgin Radio Italy - Rock Ballads
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/VirginRock70.mp3:Virgin Radio Italy - Rock 70
+#DESCRIPTION Virgin Radio Italy - Rock 70
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/VirginRock80.mp3:Virgin Radio Italy - Rock 80
+#DESCRIPTION Virgin Radio Italy - Rock 80
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/Virgin_03.mp3:Virgin Radio Italy - Rock 90
+#DESCRIPTION Virgin Radio Italy - Rock 90
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/Virgin_02.mp3:Virgin Radio Italy - Rock 2k
+#DESCRIPTION Virgin Radio Italy - Rock 2k
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/VirginHardRock.mp3:Virgin Radio Italy - Hard Rock
+#DESCRIPTION Virgin Radio Italy - Hard Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/VirginRockParty.mp3:Virgin Radio Italy - Rock Party
+#DESCRIPTION Virgin Radio Italy - Rock Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/VirginRockAlternative.mp3:Virgin Radio Italy - Alternative Rock
+#DESCRIPTION Virgin Radio Italy - Alternative Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/um1030.mp3:Virgin Radio Italy - Oasis
+#DESCRIPTION Virgin Radio Italy - Oasis
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/um1026.mp3:Virgin Radio Italy - AC/DC
+#DESCRIPTION Virgin Radio Italy - AC/DC
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/um1029.mp3:Virgin Radio Italy - Guns n' Roses
+#DESCRIPTION Virgin Radio Italy - Guns n' Roses
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/VirginSpecialEvent.mp3:Virgin Radio Italy - Rolling Stones
+#DESCRIPTION Virgin Radio Italy - Rolling Stones
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/VirginRogerWaters.mp3:Virgin Radio Italy - Pink Floyd
+#DESCRIPTION Virgin Radio Italy - Pink Floyd
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.unitedradio.it/Virgin_05.mp3:Virgin Radio Italy - Queen
+#DESCRIPTION Virgin Radio Italy - Queen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/um1028.mp3:Virgin Radio Italy - Aerosmith
+#DESCRIPTION Virgin Radio Italy - Aerosmith
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/um1027.mp3:Virgin Radio Italy - Bon Jovi
+#DESCRIPTION Virgin Radio Italy - Bon Jovi
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/Virgin.mp3:Virgin Radio Italy -  On-Air
+#DESCRIPTION Virgin Radio Italy -  On-Air
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.streambase.ch/vrock/mp3-192/direct/:Virgin Radio Switzerland
+#DESCRIPTION Virgin Radio Switzerland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.virginradio.co.uk/stream:Virgin Radio UK live
+#DESCRIPTION Virgin Radio UK live
