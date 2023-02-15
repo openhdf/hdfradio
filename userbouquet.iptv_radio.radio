@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 13.02.2023 21:55 by Team www.hdfreaks.cc
+#DESCRIPTION Update 15.02.2023 18:22 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -49,12 +49,6 @@
 #DESCRIPTION RadioMonster.FM - Evergreens (320kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ic3.radiomonster.fm/schlager.ultra
 #DESCRIPTION RadioMonster.FM - Schlager (320kbps)
-#SERVICE 1:64:D:0:0:0:0:0:0:0::
-#DESCRIPTION ogg Test-Streams
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//joyhits.online/joyhits.flac.ogg
-#DESCRIPTION OGG - Joyhits
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.easyradio.bg/flac?type=.ogg
-#DESCRIPTION OGG - Easyradio
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
@@ -2798,7 +2792,11 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//maxxima.mine.nu%3a8000/maxx.ogg:MaXXima (ogg)
 #DESCRIPTION MaXXima (ogg)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mscp4.live-streams.nl%3a8140/flac.ogg:PureClassix Radio  80’s music (ogg)
-#DESCRIPTION PureClassix Radio  80’s music (ogg)
+#DESCRIPTION PureClassix Radio 80’s music (ogg)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//joyhits.online/joyhits.flac.ogg
+#DESCRIPTION OGG - Joyhits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.easyradio.bg/flac?type=.ogg
+#DESCRIPTION OGG - Easyradio
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Exclusive Radio
 #SERVICE 4097:0:1:6:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/chart/icecast.audio:Chart
