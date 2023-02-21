@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 21.02.2023 20:11 by Team www.hdfreaks.cc
+#DESCRIPTION Update 21.02.2023 20:18 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -6212,7 +6212,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge64.streamonkey.net/kulthitradio-kuschelpop/stream/aacp
 #DESCRIPTION kulthit Radio - Kuschel Pop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge62.streamonkey.net/charthitradio-nrw/stream/aacp
-#DESCRIPTION charthit Radio - NRW
+#DESCRIPTION kulthit Radio charthit - NRW
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Schweiz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.srg-ssr.ch/m/regi_ost/mp3_128:SRF 1 Ostschweiz Live
