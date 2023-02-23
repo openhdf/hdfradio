@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 21.02.2023 20:18 by Team www.hdfreaks.cc
+#DESCRIPTION Update 23.02.2023 19:16 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -6265,3 +6265,235 @@
 #DESCRIPTION RSI Rete Due Live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/retetre/mp3_128:RSI Rete Tre Live
 #DESCRIPTION RSI Rete Tre Live
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Frankreich
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm.aac:RFM
+#DESCRIPTION RFM
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//stream.rfm.fr/rfm-wr3.aac:RFM - 100pct Femmes
+#DESCRIPTION RFM - 100pct Femmes
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr11.aac:RFM - 100pct Français
+#DESCRIPTION RFM - 100pct Français
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//stream.rfm.fr/rfm-wr12.aac:RFM - 100pct New Wave
+#DESCRIPTION RFM - 100pct New Wave
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr4.aac:RFM - 80s
+#DESCRIPTION RFM - 80s
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr15.aac:RFM - Cinéma
+#DESCRIPTION RFM - Cinéma
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr1.aac:RFM - Collector
+#DESCRIPTION RFM - Collector
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr7.aac:RFM - Le HIT RFM
+#DESCRIPTION RFM - Le HIT RFM
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr6.aac:RFM - Lounge
+#DESCRIPTION RFM - Lounge
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//stream.rfm.fr/rfm-wr14.aac:RFM - Musique Fraîche
+#DESCRIPTION RFM - Musique Fraîche
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//stream.rfm.fr/rfm-wr2.aac:RFM - Night Fever
+#DESCRIPTION RFM - Night Fever
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr5.aac:RFM - Party 90
+#DESCRIPTION RFM - Party 90
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr10.aac:RFM - Pop-Rock
+#DESCRIPTION RFM - Pop-Rock
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr9.aac:RFM - Run & Fit
+#DESCRIPTION RFM - Run & Fit
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr16.aac:RFM - s
+#DESCRIPTION RFM - s
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr13.aac:RFM - Slow
+#DESCRIPTION RFM - Slow
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//ais-live.cloud-services.paris:8443/rfm-wr16.aac:RFM 70's
+#DESCRIPTION RFM 70's
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//radio.mosaiquefm.net%3a8000/mosalive:Mosaique FM LIVE
+#DESCRIPTION Mosaique FM LIVE
+#SERVICE 4097:0:1:5:0:0:0:0:0:0:http%3a//stream.lazaradio.com%3a8100/live.mp3
+#DESCRIPTION Laza Radio - 192 kbit/s
+#SERVICE 4097:0:1:7:0:0:0:0:0:0:http%3a//37.187.79.93%3a8248/stream/1/:96.3 WRocK CEBU - 256 kbit/s
+#DESCRIPTION 96.3 WRocK CEBU - 256 kbit/s
+#SERVICE 4097:0:1:9:0:0:0:0:0:0:http%3a//usa15.fastcast4u.com%3a8069/stream/1/:RADIO DE LA REVELATION - 96 kbit/s
+#DESCRIPTION RADIO DE LA REVELATION - 96 kbit/s
+#SERVICE 4097:0:1:13:0:0:0:0:0:0:http%3a//162.244.80.245%3a8012/stream/1/:RTV Garuda - 96 kbit/s
+#DESCRIPTION RTV Garuda - 96 kbit/s
+#SERVICE 4097:0:1:15:0:0:0:0:0:0:http%3a//mfm.ice.infomaniak.ch/mfm-128.mp3:M RADIO - 128 kbit/s
+#DESCRIPTION M RADIO - 128 kbit/s
+#SERVICE 4097:0:1:17:0:0:0:0:0:0:http%3a//80.82.229.202%3a8000/sunhd.mp3:SUN - 160 kbit/s
+#DESCRIPTION SUN - 160 kbit/s
+#SERVICE 4097:0:1:19:0:0:0:0:0:0:http%3a//hd.lagrosseradio.info%3a8000/lagrosseradio-reggae-192.mp3:La Grosse Radio Reggae - Dub Dancehall Roots - From Paris - www.LaGrosseRadio.com - 192 kbit/s
+#DESCRIPTION La Grosse Radio Reggae - Dub Dancehall Roots - From Paris - www.LaGrosseRadio.com - 192 kbit/s
+#SERVICE 4097:0:1:21:0:0:0:0:0:0:http%3a//51.255.235.165%3a5068/stream/1/:Jazz Lounge - 320 kbit/s
+#DESCRIPTION Jazz Lounge - 320 kbit/s
+#SERVICE 4097:0:1:23:0:0:0:0:0:0:http%3a//212.83.135.226%3a7310/stream/1/:Radio Estereo Quiche 90.7 FM - LE - 320 kbit/s
+#DESCRIPTION Radio Estereo Quiche 90.7 FM - LE - 320 kbit/s
+#SERVICE 4097:0:1:25:0:0:0:0:0:0:http%3a//91.121.104.123%3a8000/stream/1/:GENERATION SOUL DISCO FUNK RADIO [HD] - 192 kbit/s
+#DESCRIPTION GENERATION SOUL DISCO FUNK RADIO [HD] - 192 kbit/s
+#SERVICE 4097:0:1:27:0:0:0:0:0:0:http%3a//radioclassique.ice.infomaniak.ch/radioclassique-high.mp3:Radio Classique - 128 kbit/s
+#DESCRIPTION Radio Classique - 128 kbit/s
+#SERVICE 4097:0:1:29:0:0:0:0:0:0:http%3a//5.39.68.114%3a8096/stream/1/:Unnamed Server - 128 kbit/s
+#DESCRIPTION Unnamed Server - 128 kbit/s
+#SERVICE 4097:0:1:31:0:0:0:0:0:0:http%3a//5.135.191.40%3a8000/stream/1/:HotHitsUK - 128 kbit/s
+#DESCRIPTION HotHitsUK - 128 kbit/s
+#SERVICE 4097:0:1:33:0:0:0:0:0:0:http%3a//5.135.155.232%3a8002/stream/1/:Arrate Irratia - 128 kbit/s
+#DESCRIPTION Arrate Irratia - 128 kbit/s
+#SERVICE 4097:0:1:35:0:0:0:0:0:0:https%3a//eu10.fastcast4u.com%3a2650/stream/1/:B4B RADIO CLUB DANCE OFFICAL - 192 kbit/s
+#DESCRIPTION B4B RADIO CLUB DANCE OFFICAL - 192 kbit/s
+#SERVICE 4097:0:1:37:0:0:0:0:0:0:http%3a//stream.radiogandia.com%3a8080/dial:Cadena DIAL Gandia - 128 kbit/s
+#DESCRIPTION Cadena DIAL Gandia - 128 kbit/s
+#SERVICE 4097:0:1:39:0:0:0:0:0:0:http%3a//ice.stream.frequence3.net%3a80/frequence3-128.mp3:FREQUENCE 3 - Une rafale de tubes - French Webradio [Powered by IKOULA] - 128 kbit/s
+#DESCRIPTION FREQUENCE 3 - Une rafale de tubes - French Webradio [Powered by IKOULA] - 128 kbit/s
+#SERVICE 4097:0:1:41:0:0:0:0:0:0:http%3a//radio-contact.ice.infomaniak.ch/radio-contact-high.mp3:Contact la radio enjoy - 128 kbit/s
+#DESCRIPTION Contact la radio enjoy - 128 kbit/s
+#SERVICE 4097:0:1:43:0:0:0:0:0:0:http%3a//37.59.37.139%3a13608/stream/1/:Radio Atravankado - 96 kbit/s
+#DESCRIPTION Radio Atravankado - 96 kbit/s
+#SERVICE 4097:0:1:45:0:0:0:0:0:0:http%3a//tachyon.shoutca.st%3a8303/xstream:Radio D+ - 96 kbit/s
+#DESCRIPTION Radio D+ - 96 kbit/s
+#SERVICE 4097:0:1:47:0:0:0:0:0:0:https%3a//eu10.fastcast4u.com%3a8120/stream/1/:B4B RADIO DISCO FUNK OFFICIAL - 192 kbit/s
+#DESCRIPTION B4B RADIO DISCO FUNK OFFICIAL - 192 kbit/s
+#SERVICE 4097:0:1:49:0:0:0:0:0:0:http%3a//149.202.71.166%3a8060/stream/1/:Radio Dzair Raina - 128 kbit/s
+#DESCRIPTION Radio Dzair Raina - 128 kbit/s
+#SERVICE 4097:0:1:51:0:0:0:0:0:0:http%3a//radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3:Radiomeuh.com - 128 kbit/s
+#DESCRIPTION Radiomeuh.com - 128 kbit/s
+#SERVICE 4097:0:1:53:0:0:0:0:0:0:http%3a//5.135.154.69%3a11590/stream/1/:Metal Express Radio - 192 kbit/s
+#DESCRIPTION Metal Express Radio - 192 kbit/s
+#SERVICE 4097:0:1:55:0:0:0:0:0:0:http%3a//149.202.71.166%3a8070/stream/1/:Radio Dzair Orientale - 128 kbit/s
+#DESCRIPTION Radio Dzair Orientale - 128 kbit/s
+#SERVICE 4097:0:1:57:0:0:0:0:0:0:https%3a//pr1cen101.emisionlocal.com/proxy/ondabierzo?mp=/stream:Onda Bierzo - 128 kbit/s
+#DESCRIPTION Onda Bierzo - 128 kbit/s
+#SERVICE 4097:0:1:59:0:0:0:0:0:0:http%3a//live.toker.fm%3a6060/stream/1/:Toker.FM - Jewish Music Online - 128 kbit/s
+#DESCRIPTION Toker.FM - Jewish Music Online - 128 kbit/s
+#SERVICE 4097:0:1:61:0:0:0:0:0:0:http%3a//i4.streams.ovh%3a8124/stream/1/:Rock Melodic Radio - AOR MELODIC ROCK HARD ROCK - 320 kbit/s
+#DESCRIPTION Rock Melodic Radio - AOR MELODIC ROCK HARD ROCK - 320 kbit/s
+#SERVICE 4097:0:1:63:0:0:0:0:0:0:https%3a//www.izlanzik.biz%3a1991/stream/1/:Radio Amazigh Music - 128 kbit/s
+#DESCRIPTION Radio Amazigh Music - 128 kbit/s
+#SERVICE 4097:0:1:65:0:0:0:0:0:0:http%3a//streaming.radionti.com/nti-128.mp3:NTI - LA NOUVELLE TENDANCE (FRANCE) - 128 kbit/s
+#DESCRIPTION NTI - LA NOUVELLE TENDANCE (FRANCE) - 128 kbit/s
+#SERVICE 4097:0:1:67:0:0:0:0:0:0:http%3a//maevatropicale.com%3a8010/stream/1/:PLAY ZOUK ANTILLES 24/7 - 128 kbit/s
+#DESCRIPTION PLAY ZOUK ANTILLES 24/7 - 128 kbit/s
+#SERVICE 4097:0:1:69:0:0:0:0:0:0:http%3a//5.39.68.114%3a8094/stream/1/:More Radio Mid Sussex (AAC) - 48 kbit/s
+#DESCRIPTION More Radio Mid Sussex (AAC) - 48 kbit/s
+#SERVICE 4097:0:1:71:0:0:0:0:0:0:http%3a//dreamsiteradiocp4.com%3a8056/stream/1/:RADIO MARIA FRANCE - 128 kbit/s
+#DESCRIPTION RADIO MARIA FRANCE - 128 kbit/s
+#SERVICE 4097:0:1:75:0:0:0:0:0:0:http%3a//maxxima.mine.nu%3a8000/maxxima.mp3:MaXXima - 192 kbit/s
+#DESCRIPTION MaXXima - 192 kbit/s
+#SERVICE 4097:0:1:77:0:0:0:0:0:0:http%3a//195.154.217.103%3a8175/stream/1/:A9RADIO - 128 kbit/s
+#DESCRIPTION A9RADIO - 128 kbit/s
+#SERVICE 4097:0:1:79:0:0:0:0:0:0:http%3a//176.31.118.39%3a14808/stream/1/:CFTA-FM - 128 kbit/s
+#DESCRIPTION CFTA-FM - 128 kbit/s
+#SERVICE 4097:0:1:81:0:0:0:0:0:0:http%3a//player.zebradio.fr%3a8000/player.mp3:ZEBRadio - 128 kbit/s
+#DESCRIPTION ZEBRadio - 128 kbit/s
+#SERVICE 4097:0:1:83:0:0:0:0:0:0:http%3a//stric6.streamakaci.com/4uclassicrock.mp3:4U Classic Rock - 128 kbit/s
+#DESCRIPTION 4U Classic Rock - 128 kbit/s
+#SERVICE 4097:0:1:85:0:0:0:0:0:0:http%3a//stream1.evasionfm.com/cf-80
+#DESCRIPTION Chante France 80s - 128 kbit/s
+#SERVICE 4097:0:1:87:0:0:0:0:0:0:http%3a//hd.lagrosseradio.info%3a8000/lagrosseradio-rock-192.mp3:La Grosse Radio Rock Alternative - Pop Hits Legends Indie - From Paris - www.lagrosseradio.com - 192 kbit/s
+#DESCRIPTION La Grosse Radio Rock Alternative - Pop Hits Legends Indie - From Paris - www.lagrosseradio.com - 192 kbit/s
+#SERVICE 4097:0:1:89:0:0:0:0:0:0:http%3a//radiolatina.info%3a8772/stream/1/:LA PACHANGUERA FM - 128 kbit/s
+#DESCRIPTION LA PACHANGUERA FM - 128 kbit/s
+#SERVICE 4097:0:1:91:0:0:0:0:0:0:http%3a//streaming.radio.rtl2.fr/fun-1-44-128:FUN [MP3 128] - 128 kbit/s
+#DESCRIPTION FUN [MP3 128] - 128 kbit/s
+#SERVICE 4097:0:1:93:0:0:0:0:0:0:http%3a//149.202.71.166%3a8000/stream/1/:radio dzair - 128 kbit/s
+#DESCRIPTION radio dzair - 128 kbit/s
+#SERVICE 4097:0:1:95:0:0:0:0:0:0:http%3a//streaming.radionomy.com/rjm-lounge:Not GamingFM - 128 kbit/s
+#DESCRIPTION Not GamingFM - 128 kbit/s
+#SERVICE 4097:0:1:97:0:0:0:0:0:0:http%3a//stric6.streamakaci.com/esperance.mp3:Radio Esperance - 128 kbit/s
+#DESCRIPTION Radio Esperance - 128 kbit/s
+#SERVICE 4097:0:1:99:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/fr/30213/mp3_128.mp3:CFM FRENCHIE 128mp3 - 128 kbit/s
+#DESCRIPTION CFM FRENCHIE 128mp3 - 128 kbit/s
+#SERVICE 4097:0:1:101:0:0:0:0:0:0:http%3a//listen.radionomy.com/wiccaradio:JamendoLounge - 128 kbit/s
+#DESCRIPTION JamendoLounge - 128 kbit/s
+#SERVICE 4097:0:1:103:0:0:0:0:0:0:http%3a//stric7.streamakaci.com%3a80/rcf.mp3:Unspecified name - 128 kbit/s
+#DESCRIPTION Unspecified name - 128 kbit/s
+#SERVICE 4097:0:1:105:0:0:0:0:0:0:http%3a//deltafmdunkerque.ice.infomaniak.ch/deltafmdunkerque-high.mp3:Delta FM Dunkerque - 320 kbit/s
+#DESCRIPTION Delta FM Dunkerque - 320 kbit/s
+#SERVICE 4097:0:1:107:0:0:0:0:0:0:http%3a//mp3.magic-radio.net:@Magic-Radio - 192 kbit/s
+#DESCRIPTION @Magic-Radio - 192 kbit/s
+#SERVICE 4097:0:1:109:0:0:0:0:0:0:http%3a//hd.lagrosseradio.info%3a8000/lagrosseradio-metal-192.mp3:La Grosse Radio Metal - Hard Heavy - From Paris - www.LaGrosseRadio.com - 192 kbit/s
+#DESCRIPTION La Grosse Radio Metal - Hard Heavy - From Paris - www.LaGrosseRadio.com - 192 kbit/s
+#SERVICE 4097:0:1:111:0:0:0:0:0:0:http%3a//37.187.16.224%3a8000/stream/1/:Radio Flash Montpellier Cevennes Mediterranee - 128 kbit/s
+#DESCRIPTION Radio Flash Montpellier Cevennes Mediterranee - 128 kbit/s
+#SERVICE 4097:0:1:113:0:0:0:0:0:0:http%3a//ledjamradio.ice.infomaniak.ch/ledjamradio.mp3:Djam Radio - 128 kbit/s
+#DESCRIPTION Djam Radio - 128 kbit/s
+#SERVICE 4097:0:1:115:0:0:0:0:0:0:http%3a//163.172.96.134%3a8110/stream/1/:MIXX FM - 128 kbit/s
+#DESCRIPTION MIXX FM - 128 kbit/s
+#SERVICE 4097:0:1:117:0:0:0:0:0:0:http%3a//eu6.fastcast4u.com%3a5002/stream:Radio Santiago - Guimaraes Portugal - 128 kbit/s
+#DESCRIPTION Radio Santiago - Guimaraes Portugal - 128 kbit/s
+#SERVICE 4097:0:1:119:0:0:0:0:0:0:http%3a//stream.radio.co/s1820bbaf2/listen:Evangelism Radio - 128 kbit/s
+#DESCRIPTION Evangelism Radio - 128 kbit/s
+#SERVICE 4097:0:1:121:0:0:0:0:0:0:https%3a//jazzradio.ice.infomaniak.ch/frequencejazz-high.mp3:JAZZ RADIO NATIONALE - 128 kbit/s
+#DESCRIPTION JAZZ RADIO NATIONALE - 128 kbit/s
+#SERVICE 4097:0:1:123:0:0:0:0:0:0:http%3a//151-80-38-142.caramania.net%3a7006/live:RadioSkyMusic Jazz - 128 kbit/s
+#DESCRIPTION RadioSkyMusic Jazz - 128 kbit/s
+#SERVICE 4097:0:1:125:0:0:0:0:0:0:http%3a//srv2.streaming-ingenierie.fr%3a8134/stream/1/:Radio Gazelle (MB RECASTER) - 128 kbit/s
+#DESCRIPTION Radio Gazelle (MB RECASTER) - 128 kbit/s
+#SERVICE 4097:0:1:127:0:0:0:0:0:0:http%3a//streaming.hotmix-radio.net/hotmixradio-hits-128.mp3:Hits - 128 kbit/s
+#DESCRIPTION Hits - 128 kbit/s
+#SERVICE 4097:0:1:129:0:0:0:0:0:0:http%3a//listen.radiohyrule.com%3a8000/listen?:Radio Hyrule - 192 kbit/s
+#DESCRIPTION Radio Hyrule - 192 kbit/s
+#SERVICE 4097:0:1:131:0:0:0:0:0:0:http%3a//51.255.235.165%3a5528/
+#DESCRIPTION Bobs Ska Radio (Low Bitrate) - 192 kbit/s
+#SERVICE 4097:0:1:133:0:0:0:0:0:0:http%3a//listen.radionomy.com/arcadie:Radio Suisse Classique - 128 kbit/s
+#DESCRIPTION Radio Suisse Classique - 128 kbit/s
+#SERVICE 4097:0:1:135:0:0:0:0:0:0:http%3a//centova17.ciclanohost.com.br%3a8085/stream/1/:Nativa FM - 128 kbit/s
+#DESCRIPTION Nativa FM - 128 kbit/s
+#SERVICE 4097:0:1:137:0:0:0:0:0:0:http%3a//91.121.165.41%3a9035/stream.mp3:TRT Tamil Olli - 128 kbit/s
+#DESCRIPTION TRT Tamil Olli - 128 kbit/s
+#SERVICE 4097:0:1:139:0:0:0:0:0:0:http%3a//149.202.71.166%3a8030/stream/1/:Radio Dzair Izuran - 128 kbit/s
+#DESCRIPTION Radio Dzair Izuran - 128 kbit/s
+#SERVICE 4097:0:1:141:0:0:0:0:0:0:http%3a//5.39.68.114%3a8090/stream/1/:More Radio Eastbourne (AAC) - 128 kbit/s
+#DESCRIPTION More Radio Eastbourne (AAC) - 128 kbit/s
+#SERVICE 4097:0:1:143:0:0:0:0:0:0:http%3a//5.196.131.97%3a8344/stream/1/:Radio Stad - 128 kbit/s
+#DESCRIPTION Radio Stad - 128 kbit/s
+#SERVICE 4097:0:1:145:0:0:0:0:0:0:http%3a//148.251.43.231%3a8750/stream/1/:Minimal Mix Radio Stream - 320 kbit/s
+#DESCRIPTION Minimal Mix Radio Stream - 320 kbit/s
+#SERVICE 4097:0:1:147:0:0:0:0:0:0:http%3a//auds1.intacs.com/caribbeanpowerjamradio:RadioCaster Stream - 128 kbit/s
+#DESCRIPTION RadioCaster Stream - 128 kbit/s
+#SERVICE 4097:0:1:149:0:0:0:0:0:0:http%3a//broadcast.infomaniak.ch/vibration-high.mp3:Vibration [Powered by Infomaniak.net] - 128 kbit/s
+#DESCRIPTION Vibration [Powered by Infomaniak.net] - 128 kbit/s
+#SERVICE 4097:0:1:151:0:0:0:0:0:0:http%3a//stream1.evasionfm.com/cf-emotion:Chante France Emotion - 128 kbit/s
+#DESCRIPTION Chante France Emotion - 128 kbit/s
+#SERVICE 4097:0:1:153:0:0:0:0:0:0:http%3a//91.121.29.104%3a8142/stream/1/:RADIO SAINT LOUIS (MB RECASTER) - 128 kbit/s
+#DESCRIPTION RADIO SAINT LOUIS (MB RECASTER) - 128 kbit/s
+#SERVICE 4097:0:1:155:0:0:0:0:0:0:http%3a//stream.radiogandia.com%3a8080/cuarenta:Los40 Gandia - 128 kbit/s
+#DESCRIPTION Los40 Gandia - 128 kbit/s
+#SERVICE 4097:0:1:157:0:0:0:0:0:0:http%3a//37.187.79.93%3a8192/stream/1/:lbi Radio - Lebanon - 128 kbit/s
+#DESCRIPTION lbi Radio - Lebanon - 128 kbit/s
+#SERVICE 4097:0:1:159:0:0:0:0:0:0:http%3a//listen.radionomy.com/SexyRadio:SexyRadio - 128 kbit/s
+#DESCRIPTION SexyRadio - 128 kbit/s
+#SERVICE 4097:0:1:161:0:0:0:0:0:0:http%3a//listen.radionomy.com%3a80/12Bar:BarbershopMood - 128 kbit/s
+#DESCRIPTION BarbershopMood - 128 kbit/s
+#SERVICE 4097:0:1:163:0:0:0:0:0:0:http%3a//listen.radionomy.com/A1900-Classical:A1900Classical - 128 kbit/s
+#DESCRIPTION A1900Classical - 128 kbit/s
+#SERVICE 4097:0:1:165:0:0:0:0:0:0:http%3a//91.121.148.49%3a7777/stream/1/:RADIO VAOVAO MAHASOA - 128 kbit/s
+#DESCRIPTION RADIO VAOVAO MAHASOA - 128 kbit/s
+#SERVICE 4097:0:1:167:0:0:0:0:0:0:http%3a//163.172.169.217%3a80/stream/1/:Ambient Modern - 128 kbit/s
+#DESCRIPTION Ambient Modern - 128 kbit/s
+#SERVICE 4097:0:1:169:0:0:0:0:0:0:https%3a//stream.fr.morow.com/morow_med.mp3:MOROW - 128 kbit/s
+#DESCRIPTION MOROW - 128 kbit/s
+#SERVICE 4097:0:1:171:0:0:0:0:0:0:http%3a//listen.radionomy.com/Classique-XIX:ClassiqueXIX - 128 kbit/s
+#DESCRIPTION ClassiqueXIX - 128 kbit/s
+#SERVICE 4097:0:1:173:0:0:0:0:0:0:http%3a//91.121.82.33%3a63224/stream/1/:Sam Meyers Classic Country - 128 kbit/s
+#DESCRIPTION Sam Meyers Classic Country - 128 kbit/s
+#SERVICE 4097:0:1:175:0:0:0:0:0:0:http%3a//abf.net-radio.fr/m2hit-256.mp3:FREQUENCE 3 - DANCE [BACKUP] - 160 kbit/s
+#DESCRIPTION FREQUENCE 3 - DANCE [BACKUP] - 160 kbit/s
+#SERVICE 4097:0:1:177:0:0:0:0:0:0:http%3a//149.202.71.166%3a8050/stream/1/:Radio Dzair Aures - 128 kbit/s
+#DESCRIPTION Radio Dzair Aures - 128 kbit/s
+#SERVICE 4097:0:1:179:0:0:0:0:0:0:http%3a//51.255.235.165%3a5528/stream/1/
+#DESCRIPTION Bobs Ska Radio - 160 kbit/s
+#SERVICE 4097:0:1:181:0:0:0:0:0:0:http%3a//listen.radionomy.com/themix90s:Jamendo Lounge - 128 kbit/s
+#DESCRIPTION Jamendo Lounge - 128 kbit/s
+#SERVICE 4097:0:1:183:0:0:0:0:0:0:http%3a//yayin.firatfm.com%3a3065/stream/1/:Radio Firat Fm 87.3 - 128 kbit/s
+#DESCRIPTION Radio Firat Fm 87.3 - 128 kbit/s
+#SERVICE 4097:0:1:185:0:0:0:0:0:0:http%3a//stric6.streamakaci.com%3a80/hagfm.mp3
+#DESCRIPTION Radio HAGFM - 256 kbit/s
+#SERVICE 4097:0:1:187:0:0:0:0:0:0:http%3a//stream.only1.fr/stream/1/:Top 80 radio - 128 kbit/s
+#DESCRIPTION Top 80 radio - 128 kbit/s
+#SERVICE 4097:0:1:189:0:0:0:0:0:0:http%3a//listen.radionomy.com/White-Fox-Radio:WhiteFoxRadio - 128 kbit/s
+#DESCRIPTION WhiteFoxRadio - 128 kbit/s
+#SERVICE 4097:0:1:191:0:0:0:0:0:0:http%3a//vh11367x.out.airtime.pro%3a8000/vh11367x_a:Airtime! - 64 kbit/s
+#DESCRIPTION Airtime! - 64 kbit/s
+#SERVICE 4097:0:1:193:0:0:0:0:0:0:http%3a//streaming.radionomy.com%3a80/bd.mp3:OyeTuRadio - 128 kbit/s
+#DESCRIPTION OyeTuRadio - 128 kbit/s
+#SERVICE 4097:0:1:195:0:0:0:0:0:0:http%3a//nr6.newradio.it%3a9104/:Radio Studio Nord - 128 kbit/s
+#DESCRIPTION Radio Studio Nord - 128 kbit/s
+#SERVICE 4097:0:1:197:0:0:0:0:0:0:http%3a//stric6.streamakaci.com%3a80/gregorien.mp3:Gregorien - 128 kbit/s
+#DESCRIPTION Gregorien - 128 kbit/s
+#SERVICE 4097:0:1:199:0:0:0:0:0:0:http%3a//stream1.evasionfm.com/cf-70
+#DESCRIPTION Chante France 70s - 128 kbit/s
+#SERVICE 4097:0:1:201:0:0:0:0:0:0:http%3a//radios.topymedia.com%3a8032/stream/1/:ATOMIC RADIO - 192 kbit/s
+#DESCRIPTION ATOMIC RADIO - 192 kbit/s
