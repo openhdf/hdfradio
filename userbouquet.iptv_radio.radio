@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 23.02.2023 19:16 by Team www.hdfreaks.cc
+#DESCRIPTION Update 25.02.2023 15:22 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -1763,8 +1763,6 @@
 #DESCRIPTION Mixed Channels - ByteFM – für gute Musik
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//air.jazz.w3.at/jazzw3.mp3
 #DESCRIPTION Mixed Channels - JazzW3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.srg-ssr.ch/m/rsj/mp3_128
-#DESCRIPTION Mixed Channels - Radio Swiss Jazz
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer.psyradio.org%3a8010/;listen.mp3
 #DESCRIPTION Mixed Channels - psyradio * fm - progressive
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer.psyradio.org%3a8020/;listen.mp3
@@ -1775,8 +1773,6 @@
 #DESCRIPTION Mixed Channels - psyradio * fm - alternative
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rqstream.radioq.de/stream/192.mp3
 #DESCRIPTION Mixed Channels - Radio Q - Wir sind der Campus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/johnleehooker/icecast.audio?
-#DESCRIPTION Mixed Channels - Exclusively John Lee Hooker online Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION ⇒ Mixed Channels International
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-41.zeno.fm/tkyvagcm738uv
