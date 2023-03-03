@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 03.03.2023 19:05 by Team www.hdfreaks.cc
+#DESCRIPTION Update 03.03.2023 21:47 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -1455,6 +1455,8 @@
 #DESCRIPTION Radio Energy - Dance
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge03.streamonkey.net/energy-digital/stream/mp3
 #DESCRIPTION Radio Energy - Sachsen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge07.streamonkey.net/energy-stuttgart/stream/mp3?aggregator=energyde
+#DESCRIPTION Radio Energy - Stuttgart
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Los 40
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//25493.live.streamtheworld.com/LOS40AAC.aac
