@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 05.03.2023 17:00 by Team www.hdfreaks.cc
+#DESCRIPTION Update 08.03.2023 18:47 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -2749,8 +2749,8 @@
 #DESCRIPTION Insanity Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//maggie.torontocast.com%3a8076/flac:JB Radio2
 #DESCRIPTION JB Radio2
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.stormtx.co.uk%3a8009/juice-lossless:Juice 1038
-#DESCRIPTION Juice 1038
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.openbroadcast.org/openbroadcast.flac
+#DESCRIPTION openbroadcast.org FLAC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mscp3.live-streams.nl%3a8360/flac.flac:Naim Radio
 #DESCRIPTION Naim Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mscp3.live-streams.nl%3a8250/class-flac.flac:Naim Classical
