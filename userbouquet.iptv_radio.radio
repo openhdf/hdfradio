@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 08.03.2023 18:47 by Team www.hdfreaks.cc
+#DESCRIPTION Update 12.03.2023 09:10 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -543,6 +543,52 @@
 #DESCRIPTION Rock Antenne - Coversong
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.rockantenne.de/xmas-rock/stream/mp3
 #DESCRIPTION Rock Antenne - Xmas Rock
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Hitradio Antenne 1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne1.de/a1stg/livestream2.mp3:Hitradio Antenne 1 - Wir lieben das Hier!
+#DESCRIPTION Hitradio Antenne 1 - Wir lieben das Hier!
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne1.de/80er/livestream2.mp3:Hitradio Antenne 1 - 80er
+#DESCRIPTION Hitradio Antenne 1 - 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne1.de/90er/livestream2.mp3:Hitradio Antenne 1 - 90er
+#DESCRIPTION Hitradio Antenne 1 - 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne1.de/2000er/livestream2.mp3:Hitradio Antenne 1 - 2000er
+#DESCRIPTION Hitradio Antenne 1 - 2000er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne1.de/top40/livestream2.mp3:Hitradio Antenne 1 - Top 40
+#DESCRIPTION Hitradio Antenne 1 - Top 40
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne1.de/rock/livestream2.mp3:Hitradio Antenne 1 - Classic Rock
+#DESCRIPTION Hitradio Antenne 1 - Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne1.de/modernrock/livestream2.mp3:Hitradio Antenne 1 - Modern Rock
+#DESCRIPTION Hitradio Antenne 1 - Modern Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne1.de/soft/livestream2.mp3:Hitradio Antenne 1 - Soft & Lazy
+#DESCRIPTION Hitradio Antenne 1 - Soft & Lazy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne1.de/weihnachtshits/livestream2.mp3:Hitradio Antenne 1 - Weihnachts-Hits
+#DESCRIPTION Hitradio Antenne 1 - Weihnachts-Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne1.de/sommerhits/livestream2.mp3:Hitradio Antenne 1 - Sommer-Hits
+#DESCRIPTION Hitradio Antenne 1 - Sommer-Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne1.de/deutschpop/livestream2.mp3:Hitradio Antenne 1 - Deutsch-Pop
+#DESCRIPTION Hitradio Antenne 1 - Deutsch-Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne1.de/partykracher/livestream2.mp3:Hitradio Antenne 1 - Party-Kracher
+#DESCRIPTION Hitradio Antenne 1 - Party-Kracher
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne1.de/unplugged/livestream2.mp3:Hitradio Antenne 1 - Unplugged-Acoustic
+#DESCRIPTION Hitradio Antenne 1 - Unplugged-Acoustic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne1.de/oldies/livestream2.mp3:Hitradio Antenne 1 - Oldies
+#DESCRIPTION Hitradio Antenne 1 - Oldies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne1.de/inthemix/livestream2.mp3:Hitradio Antenne 1 - In The Mix
+#DESCRIPTION Hitradio Antenne 1 - In The Mix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne1.de/schlager/livestream2.mp3:Hitradio Antenne 1 - Schlager
+#DESCRIPTION Hitradio Antenne 1 - Schlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne1.de/plus/livestream2.mp3:Hitradio Antenne 1 - PLUS / Wasenhits
+#DESCRIPTION Hitradio Antenne 1 - PLUS / Wasenhits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne1.de/a1stg/livestream2.mp3:Hitradio Antenne 1 - Stuttgart
+#DESCRIPTION Hitradio Antenne 1 - Stuttgart
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne1.de/a1gp/livestream2.mp3:Hitradio Antenne 1 - Göppingen
+#DESCRIPTION Hitradio Antenne 1 - Göppingen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne1.de/a1hn/livestream2.mp3:Hitradio Antenne 1 - Heilbronn
+#DESCRIPTION Hitradio Antenne 1 - Heilbronn
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne1.de/a1pf/livestream2.mp3:Hitradio Antenne 1 - Pforzheim
+#DESCRIPTION Hitradio Antenne 1 - Pforzheim
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne1.de/a1rt/livestream2.mp3:Hitradio Antenne 1 - Reutlingen
+#DESCRIPTION Hitradio Antenne 1 - Reutlingen
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION BR Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dispatcher.rndfnk.com/br/br1/obb/mp3/mid
