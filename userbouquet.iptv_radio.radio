@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 12.03.2023 09:10 by Team www.hdfreaks.cc
+#DESCRIPTION Update 21.03.2023 18:57 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -8409,3 +8409,13 @@ SERVICE 4097:0:1:289:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/dojacat/i
 #DESCRIPTION RadioMv.com | Spanish (24Kbps) - 24 kbit/s
 #SERVICE 4097:0:1:201:0:0:0:0:0:0:http%3a//fapatur.no-ip.biz%3a9000/stream/2/:FAPATUR RADIO - 64 kbit/s
 #DESCRIPTION FAPATUR RADIO - 64 kbit/s
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Radio Paradise
+#SERVICE 4097:0:1:201:0:0:0:0:0:0:http%3a//stream.radioparadise.com/mp3-192
+#DESCRIPTION Radio Paradise - Main
+#SERVICE 4097:0:1:201:0:0:0:0:0:0:http%3a//stream.radioparadise.com/mellow-192
+#DESCRIPTION Radio Paradise - Mellow
+#SERVICE 4097:0:1:201:0:0:0:0:0:0:http%3a//stream.radioparadise.com/rock-192
+#DESCRIPTION Radio Paradise - Rock
+#SERVICE 4097:0:1:201:0:0:0:0:0:0:http%3a//stream.radioparadise.com/global-192
+#DESCRIPTION Radio Paradise - Global
