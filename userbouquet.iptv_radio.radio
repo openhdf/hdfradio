@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 22.03.2023 10:52 by Team www.hdfreaks.cc
+#DESCRIPTION Update 23.03.2023 18:12 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -1817,10 +1817,6 @@
 #DESCRIPTION Mixed Channels - psyradio * fm - progressive
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer.psyradio.org%3a8020/;listen.mp3
 #DESCRIPTION Mixed Channels - psyradio * fm - chillout
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer.psyradio.org%3a8030/;listen.mp3
-#DESCRIPTION Mixed Channels - psyradio * fm - psytrance
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer.psyradio.org%3a8040/;listen.mp3
-#DESCRIPTION Mixed Channels - psyradio * fm - alternative
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rqstream.radioq.de/stream/192.mp3
 #DESCRIPTION Mixed Channels - Radio Q - Wir sind der Campus
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//autozugradio-stream31.radiohost.de/autozugradio-blau_mp3-192:Autozugradio Sylt
