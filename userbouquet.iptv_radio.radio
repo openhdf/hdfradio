@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 23.03.2023 18:12 by Team www.hdfreaks.cc
+#DESCRIPTION Update 25.03.2023 20:06 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -8459,3 +8459,21 @@ SERVICE 4097:0:1:289:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/dojacat/i
 #DESCRIPTION Rockland Radio - Mannheim / Ludwigshafen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rockland.de/trier/mp3-192:Rockland Radio - Trier
 #DESCRIPTION Rockland Radio - Trier
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Hessischer Rundfunk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/hr/hr1/live/mp3/high:hr1
+#DESCRIPTION Hessischer Rundfunk - hr1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/hr/hr2/live/mp3/high:hr2 Kultur
+#DESCRIPTION Hessischer Rundfunk - hr2 Kultur
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/hr/hr3/live/mp3/high:hr3
+#DESCRIPTION Hessischer Rundfunk - hr3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/hr/hr4/live/mp3/high:hr4 (RM-Südhessen)
+#DESCRIPTION Hessischer Rundfunk - hr4 (RM-Südhessen)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/hr/hr4/mitte/mp3/128/stream.mp3:hr4 (Mittelhessen)
+#DESCRIPTION Hessischer Rundfunk - hr4 (Mittelhessen)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/hr/hr4/nord/mp3/128/stream.mp3:hr4 (Nord-Osthessen)
+#DESCRIPTION Hessischer Rundfunk - hr4 (Nord-Osthessen)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/hr/hrinfo/live/mp3/high:hr-iNFO
+#DESCRIPTION Hessischer Rundfunk - hr-iNFO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/hr/youfm/live/mp3/high:YOU FM
+#DESCRIPTION Hessischer Rundfunk - YOU FM
