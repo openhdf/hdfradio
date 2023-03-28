@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 25.03.2023 20:06 by Team www.hdfreaks.cc
+#DESCRIPTION Update 28.03.2023 20:29 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -267,6 +267,12 @@
 #DESCRIPTION Antenne NRW - 90er
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/antenne-nrw-2000er-hits/stream/mp3
 #DESCRIPTION Antenne NRW - 2000er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s8-webradio.oldie-antenne.de/oldie-antenne:Antenne NRW - OLDIE ANTENNE
+#DESCRIPTION Antenne NRW - OLDIE ANTENNE
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s7-webradio.antenne.nrw/country-antenne:Antenne NRW - Country Antenne
+#DESCRIPTION Antenne NRW - Country Antenne
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s6-webradio.antenne.nrw/antenne-nrw-ue30-party:Antenne NRW - Ü30 Party
+#DESCRIPTION Antenne NRW - Ü30 Party
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/antenne-nrw-karneval/stream/mp3
 #DESCRIPTION Antenne NRW - Karneval
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
@@ -8477,3 +8483,17 @@ SERVICE 4097:0:1:289:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/dojacat/i
 #DESCRIPTION Hessischer Rundfunk - hr-iNFO
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/hr/youfm/live/mp3/high:YOU FM
 #DESCRIPTION Hessischer Rundfunk - YOU FM
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION rbb
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//antennebrandenburg.de/livemp3:rbb Antenne Brandenburg (Oldies, Schlager, Pop)
+#DESCRIPTION rbb - Antenne Brandenburg (Oldies, Schlager, Pop)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rbb888.de/livemp3 :rbb 88.8 Berlin (Pop, Oldies)
+#DESCRIPTION rbb - 88.8 Berlin (Pop, Oldies)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fritz.de/livemp3 :rbb Fritz (Charts, HipHop, Dance)
+#DESCRIPTION rbb - Fritz (Charts, HipHop, Dance)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//inforadio.de/livemp3:rbb 24 Inforadio (Nachrichten)
+#DESCRIPTION rbb - 24 Inforadio (Nachrichten)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rbbkultur.de/livemp3:rbb Kultur (Kultur, Klassik)
+#DESCRIPTION rbb - Kultur (Kultur, Klassik)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radioeins.de/livemp3:rbb radioeins (Indie, Alternative)
+#DESCRIPTION rbb - radioeins (Indie, Alternative)
