@@ -657,14 +657,32 @@
 #DESCRIPTION WDR 4 - Live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3
 #DESCRIPTION WDR 5 - Live
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr-cosmo-coslive.icecast.wdr.de/wdr/cosmo/coslive/mp3/128/stream.mp3
-#DESCRIPTION WDR - COSMO Live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr-wdr-event.icecast.wdr.de/wdr/wdr/event/mp3/128/stream.mp3
 #DESCRIPTION WDR - Event
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr-vera-live.icecast.wdr.de/wdr/vera/live/mp3/128/stream.mp3
 #DESCRIPTION WDR - Vera
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr-diemaus-live.icecastssl.wdr.de/wdr/diemaus/live/mp3/128/stream.mp3
 #DESCRIPTION WDR - Die Maus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wdr-cosmo-live.icecastssl.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3:COSMO
+#DESCRIPTION WDR - COSMO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wdr-cosmo-neuincosmo.icecastssl.wdr.de/wdr/cosmo/neuincosmo/mp3/128/stream.mp3
+#DESCRIPTION WDR - Neu in COSMO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wdr-cosmo-trap.icecastssl.wdr.de/wdr/cosmo/trap/mp3/128/stream.mp3
+#DESCRIPTION WDR - COSMO - fem:power
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wdr-cosmo-afrobeat.icecastssl.wdr.de/wdr/cosmo/afrobeat/mp3/128/stream.mp3
+#DESCRIPTION WDR - COSMO - Afrobeats
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wdr-cosmo-chillout.icecastssl.wdr.de/wdr/cosmo/chillout/mp3/128/stream.mp3
+#DESCRIPTION WDR - COSMO - Chill
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wdr-cosmo-special.icecastssl.wdr.de/wdr/cosmo/special/mp3/128/stream.mp3
+#DESCRIPTION WDR - COSMO - Vintage
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wdr-cosmo-dance.icecastssl.wdr.de/wdr/cosmo/dance/mp3/128/stream.mp3
+#DESCRIPTION WDR - COSMO - Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/wdr/cosmo/italia/mp3/128/stream.mp3
+#DESCRIPTION WDR - COSMO - Italia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wdr-cosmo-coslive.icecastssl.wdr.de/wdr/cosmo/coslive/mp3/128/stream.mp3
+#DESCRIPTION WDR - COSMO Konzerte
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wdr-cosmo-selektor.icecastssl.wdr.de/wdr/cosmo/selektor/mp3/128/stream.mp3
+#DESCRIPTION WDR - COSMO Selector
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Radio SAW
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.radiosaw.de/saw/mp3-192/radioSAW-Musikwelt-Webseite/stream.mp3?
