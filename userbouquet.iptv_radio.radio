@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 02.04.2023 19:00 by Team www.hdfreaks.cc
+#DESCRIPTION Update 12.04.2023 19:00 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -8515,3 +8515,19 @@ SERVICE 4097:0:1:289:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/dojacat/i
 #DESCRIPTION rbb - Kultur (Kultur, Klassik)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radioeins.de/livemp3:rbb radioeins (Indie, Alternative)
 #DESCRIPTION rbb - radioeins (Indie, Alternative)
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Radio Paloma
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.silvacast.com/RPLive/mp3-128:Radio Paloma live
+#DESCRIPTION Radio Paloma live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pool.radiopaloma.de/RP-Partyschlager.mp3:Radio Paloma Partyschlager
+#DESCRIPTION Radio Paloma Partyschlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pool.radiopaloma.de/RP-Fresh.mp3:Radio Paloma Fresh
+#DESCRIPTION Radio Paloma Fresh
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pool.radiopaloma.de/RP-Kultschlager.mp3:Radio Paloma Kultschlager
+#DESCRIPTION Radio Paloma Kultschlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pool.radiopaloma.de/RP-Kuschelschlager.mp3:Radio Paloma Kuschelschlager
+#DESCRIPTION Radio Paloma Kuschelschlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pool.radiopaloma.de/RP-Volksmusik.mp3:Radio Paloma Volksmusik
+#DESCRIPTION Radio Paloma Volksmusik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pool.radiopaloma.de/RP-XMAS.mp3:Radio Paloma X-Mas
+#DESCRIPTION Radio Paloma X-Mas
