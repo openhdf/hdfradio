@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 12.04.2023 19:00 by Team www.hdfreaks.cc
+#DESCRIPTION Update 12.04.2023 22:00 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -2867,1186 +2867,1185 @@
 #DESCRIPTION OGG - Easyradio
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Exclusive Radio
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/10cc/icecast.audio:10cc
+#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/10cc/icecast.audio:10cc
 #DESCRIPTION Exclusive Radio - 10cc
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/tencchits/icecast.audio:10cc Only Hits
+#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/tencchits/icecast.audio:10cc Only Hits
 #DESCRIPTION Exclusive Radio - 10cc Only Hits
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/2pac/icecast.audio:2pac
+#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/2pac/icecast.audio:2pac
 #DESCRIPTION Exclusive Radio - 2pac
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/2pac/icecast.audio:50 cent
+#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/2pac/icecast.audio:50 cent
 #DESCRIPTION Exclusive Radio - 50 cent
-#SERVICE 4097:0:1:54:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/aha/icecast.audio:A-Ha
+#SERVICE 4097:0:1:54:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/aha/icecast.audio:A-Ha
 #DESCRIPTION Exclusive Radio - A-Ha
-#SERVICE 4097:0:1:56:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/abba/icecast.audio:ABBA
+#SERVICE 4097:0:1:56:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/abba/icecast.audio:ABBA
 #DESCRIPTION Exclusive Radio - ABBA
-#SERVICE 4097:0:1:56:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/abbahits/icecast.audio:ABBA Only Hits
+#SERVICE 4097:0:1:56:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/abbahits/icecast.audio:ABBA Only Hits
 #DESCRIPTION Exclusive Radio - ABBA Only Hits
-#SERVICE 4097:0:1:58:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/acdc/icecast.audio:AC/DC
+#SERVICE 4097:0:1:58:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/acdc/icecast.audio:AC/DC
 #DESCRIPTION Exclusive Radio - AC/DC
-#SERVICE 4097:0:1:58:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/acdchits/icecast.audio:AC/DC Only Hits
+#SERVICE 4097:0:1:58:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/acdchits/icecast.audio:AC/DC Only Hits
 #DESCRIPTION Exclusive Radio - AC/DC Only Hits
-#SERVICE 4097:0:1:60:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/adamlambert/icecast.audio:Adam Lambert
+#SERVICE 4097:0:1:60:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/adamlambert/icecast.audio:Adam Lambert
 #DESCRIPTION Exclusive Radio - Adam Lambert
-#SERVICE 4097:0:1:62:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/adele/icecast.audio:Adele
+#SERVICE 4097:0:1:62:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/adele/icecast.audio:Adele
 #DESCRIPTION Exclusive Radio - Adele
-#SERVICE 4097:0:1:64:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/aerosmith/icecast.audio:Aerosmith
+#SERVICE 4097:0:1:64:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/aerosmith/icecast.audio:Aerosmith
 #DESCRIPTION Exclusive Radio - Aerosmith
-#SERVICE 4097:0:1:64:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/aerosmithhits/icecast.audio:Aerosmith Only Hits
+#SERVICE 4097:0:1:64:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/aerosmithhits/icecast.audio:Aerosmith Only Hits
 #DESCRIPTION Exclusive Radio - Aerosmith Only Hits
-#SERVICE 4097:0:1:68:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/algreen/icecast.audio:Al Green
+#SERVICE 4097:0:1:68:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/algreen/icecast.audio:Al Green
 #DESCRIPTION Exclusive Radio - Al Green
-#SERVICE 4097:0:1:70:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/aljarreau/icecast.audio:Al Jarreau
+#SERVICE 4097:0:1:70:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/aljarreau/icecast.audio:Al Jarreau
 #DESCRIPTION Exclusive Radio - Al Jarreau
-#SERVICE 4097:0:1:72:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/alabama/icecast.audio:Alabama
+#SERVICE 4097:0:1:72:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/alabama/icecast.audio:Alabama
 #DESCRIPTION Exclusive Radio - Alabama
-#SERVICE 4097:0:1:74:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/alanismorissette/icecast.audio:Alanis Morissette
+#SERVICE 4097:0:1:74:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/alanismorissette/icecast.audio:Alanis Morissette
 #DESCRIPTION Exclusive Radio - Alanis Morissette
-#SERVICE 4097:0:1:76:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/albertcollins/icecast.audio:Albert Collins
+#SERVICE 4097:0:1:76:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/albertcollins/icecast.audio:Albert Collins
 #DESCRIPTION Exclusive Radio - Albert Collins
-#SERVICE 4097:0:1:78:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/alecbenjamin/icecast.audio:Alec Benjamin
+#SERVICE 4097:0:1:78:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/alecbenjamin/icecast.audio:Alec Benjamin
 #DESCRIPTION Exclusive Radio - Alec Benjamin
-#SERVICE 4097:0:1:80:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/alicecooper/icecast.audio:Alice Cooper
+#SERVICE 4097:0:1:80:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/alicecooper/icecast.audio:Alice Cooper
 #DESCRIPTION Exclusive Radio - Alice Cooper
-#SERVICE 4097:0:1:80:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/alicecooperhits/icecast.audio:Alice Cooper Only Hits
+#SERVICE 4097:0:1:80:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/alicecooperhits/icecast.audio:Alice Cooper Only Hits
 #DESCRIPTION Exclusive Radio - Alice Cooper Only Hits
-#SERVICE 4097:0:1:82:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/alisonmoyet/icecast.audio:Alison Moyet
+#SERVICE 4097:0:1:82:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/alisonmoyet/icecast.audio:Alison Moyet
 #DESCRIPTION Exclusive Radio - Alison Moyet
-#SERVICE 4097:0:1:900:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/allmanbrothers/icecast.audio:Allman Brothers Band
+#SERVICE 4097:0:1:900:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/allmanbrothers/icecast.audio:Allman Brothers Band
 #DESCRIPTION Exclusive Radio - Allman Brothers Band
-#SERVICE 4097:0:1:84:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/america/icecast.audio:America
+#SERVICE 4097:0:1:84:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/america/icecast.audio:America
 #DESCRIPTION Exclusive Radio - America
-#SERVICE 4097:0:1:86:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/amywinehouse/icecast.audio:Amy Winehouse
+#SERVICE 4097:0:1:86:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/amywinehouse/icecast.audio:Amy Winehouse
 #DESCRIPTION Exclusive Radio - Amy Winehouse
-#SERVICE 4097:0:1:88:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/andreabocelli/icecast.audio:Andrea Bocelli
+#SERVICE 4097:0:1:88:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/andreabocelli/icecast.audio:Andrea Bocelli
 #DESCRIPTION Exclusive Radio - Andrea Bocelli
-#SERVICE 4097:0:1:90:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/andywilliams/icecast.audio:Andy Williams
+#SERVICE 4097:0:1:90:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/andywilliams/icecast.audio:Andy Williams
 #DESCRIPTION Exclusive Radio - Andy Williams
-#SERVICE 4097:0:1:90:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/andywilliamshits/icecast.audio:Andy Williams Only Hits
+#SERVICE 4097:0:1:90:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/andywilliamshits/icecast.audio:Andy Williams Only Hits
 #DESCRIPTION Exclusive Radio - Andy Williams Only Hits
-#SERVICE 4097:0:1:92:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/annemurray/icecast.audio:Anne Murray
+#SERVICE 4097:0:1:92:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/annemurray/icecast.audio:Anne Murray
 #DESCRIPTION Exclusive Radio - Anne Murray
-#SERVICE 4097:0:1:92:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/annielennox/icecast.audio:Annie Lennox
+#SERVICE 4097:0:1:92:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/annielennox/icecast.audio:Annie Lennox
 #DESCRIPTION Exclusive Radio - Annie Lennox
-#SERVICE 4097:0:1:92:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/arcticmonkeys/icecast.audio:Artic Monkeys
+#SERVICE 4097:0:1:92:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/arcticmonkeys/icecast.audio:Artic Monkeys
 #DESCRIPTION Exclusive Radio - Artic Monkeys
-#SERVICE 4097:0:1:94:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/arethafranklin/icecast.audio:Aretha Franklin
+#SERVICE 4097:0:1:94:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/arethafranklin/icecast.audio:Aretha Franklin
 #DESCRIPTION Exclusive Radio - Aretha Franklin
-#SERVICE 4097:0:1:94:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/arethafranklinhits/icecast.audio:Aretha Franklin Only Hits
+#SERVICE 4097:0:1:94:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/arethafranklinhits/icecast.audio:Aretha Franklin Only Hits
 #DESCRIPTION Exclusive Radio - Aretha Franklin Only Hits
-#SERVICE 4097:0:1:96:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/arianagrande/icecast.audio:Ariana Grande
+#SERVICE 4097:0:1:96:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/arianagrande/icecast.audio:Ariana Grande
 #DESCRIPTION Exclusive Radio - Ariana Grande
-#SERVICE 4097:0:1:96:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/arianagrandehits/icecast.audio:Ariana Grande Only Hits
+#SERVICE 4097:0:1:96:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/arianagrandehits/icecast.audio:Ariana Grande Only Hits
 #DESCRIPTION Exclusive Radio - Ariana Grande Only Hits
-#SERVICE 4097:0:1:98:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/avicii/icecast.audio:Avicii
+#SERVICE 4097:0:1:98:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/avicii/icecast.audio:Avicii
 #DESCRIPTION Exclusive Radio - Avicii
-#SERVICE 4097:0:1:98:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/avrillavigne/icecast.audio:Avril Lavigne 
+#SERVICE 4097:0:1:98:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/avrillavigne/icecast.audio:Avril Lavigne 
 #DESCRIPTION Exclusive Radio - Avril Lavigne
-#SERVICE 4097:0:1:100:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/bachmanturneroverdrive/icecast.audio:Bachmann-Turner Overdrive
+#SERVICE 4097:0:1:100:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bachmanturneroverdrive/icecast.audio:Bachmann-Turner Overdrive
 #DESCRIPTION Exclusive Radio - Bachmann-Turner Overdrive
-#SERVICE 4097:0:1:102:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/backstreetboys/icecast.audio:Backstreet Boys
+#SERVICE 4097:0:1:102:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/backstreetboys/icecast.audio:Backstreet Boys
 #DESCRIPTION Exclusive Radio - Backstreet Boys
-#SERVICE 4097:0:1:102:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/badbunny/icecast.audio:Bad Bunny
+#SERVICE 4097:0:1:102:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/badbunny/icecast.audio:Bad Bunny
 #DESCRIPTION Exclusive Radio - Bad Bunny
-#SERVICE 4097:0:1:102:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/badcompany/icecast.audio:Bad Company
+#SERVICE 4097:0:1:102:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/badcompany/icecast.audio:Bad Company
 #DESCRIPTION Exclusive Radio - Bad Company
-#SERVICE 4097:0:1:104:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/streisand/icecast.audio:Barbra Streisand
+#SERVICE 4097:0:1:104:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/streisand/icecast.audio:Barbra Streisand
 #DESCRIPTION Exclusive Radio - Barbra Streisand
-#SERVICE 4097:0:1:104:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/streisandhits/icecast.audio:Barbra Streisand Only Hits
+#SERVICE 4097:0:1:104:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/streisandhits/icecast.audio:Barbra Streisand Only Hits
 #DESCRIPTION Exclusive Radio - Barbra Streisand Only Hits
-#SERVICE 4097:0:1:106:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/barrymanilow/icecast.audio:Barry Manilow
+#SERVICE 4097:0:1:106:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/barrymanilow/icecast.audio:Barry Manilow
 #DESCRIPTION Exclusive Radio - Barry Manilow
-#SERVICE 4097:0:1:108:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/barrywhite/icecast.audio:Barry White
+#SERVICE 4097:0:1:108:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/barrywhite/icecast.audio:Barry White
 #DESCRIPTION Exclusive Radio - Barry White
-#SERVICE 4097:0:1:108:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/barrywhitehits/icecast.audio:Barry White Only Hits
+#SERVICE 4097:0:1:108:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/barrywhitehits/icecast.audio:Barry White Only Hits
 #DESCRIPTION Exclusive Radio - Barry White Only Hits
-#SERVICE 4097:0:1:100:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/bbking/icecast.audio:B.B. King
+#SERVICE 4097:0:1:100:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bbking/icecast.audio:B.B. King
 #DESCRIPTION Exclusive Radio - B.B. King
-#SERVICE 4097:0:1:112:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/beachboys/icecast.audio:Beach Boys
+#SERVICE 4097:0:1:112:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/beachboys/icecast.audio:Beach Boys
 #DESCRIPTION Exclusive Radio - Beach Boys
-#SERVICE 4097:0:1:112:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/beachboyshits/icecast.audio:Beach Boys Only Hits
+#SERVICE 4097:0:1:112:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/beachboyshits/icecast.audio:Beach Boys Only Hits
 #DESCRIPTION Exclusive Radio - Beach Boys Only Hits
-#SERVICE 4097:0:1:112:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/beastieboys/icecast.audio:Beastie Boys
+#SERVICE 4097:0:1:112:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/beastieboys/icecast.audio:Beastie Boys
 #DESCRIPTION Exclusive Radio - Beastie Boys
-#SERVICE 4097:0:1:112:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/beatles/icecast.audio:Beatles
+#SERVICE 4097:0:1:112:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/beatles/icecast.audio:Beatles
 #DESCRIPTION Exclusive Radio - Beatles
-#SERVICE 4097:0:1:112:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/thebeatleshits/icecast.audio:Beatles Only Hits
+#SERVICE 4097:0:1:112:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/thebeatleshits/icecast.audio:Beatles Only Hits
 #DESCRIPTION Exclusive Radio - Beatles Only Hits
-#SERVICE 4097:0:1:116:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/beegees/icecast.audio:Bee Gees
+#SERVICE 4097:0:1:116:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/beegees/icecast.audio:Bee Gees
 #DESCRIPTION Exclusive Radio - Bee Gees
-#SERVICE 4097:0:1:116:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/belindacarlisle/icecast.audio:Belinda Carlisle
+#SERVICE 4097:0:1:116:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/belindacarlisle/icecast.audio:Belinda Carlisle
 #DESCRIPTION Exclusive Radio - Belinda Carlisle
-#SERVICE 4097:0:1:118:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/benharper/icecast.audio:Ben Harper
+#SERVICE 4097:0:1:118:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/benharper/icecast.audio:Ben Harper
 #DESCRIPTION Exclusive Radio - Ben Harper
-#SERVICE 4097:0:1:120:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/bettemidler/icecast.audio:Bette Midler
+#SERVICE 4097:0:1:120:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bettemidler/icecast.audio:Bette Midler
 #DESCRIPTION Exclusive Radio - Bette Midler
-#SERVICE 4097:0:1:122:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/beyonce/icecast.audio:Beyonce
+#SERVICE 4097:0:1:122:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/beyonce/icecast.audio:Beyonce
 #DESCRIPTION Exclusive Radio - Beyonce
-#SERVICE 4097:0:1:122:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/beyoncehits/icecast.audio:Beyonce Only Hits
+#SERVICE 4097:0:1:122:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/beyoncehits/icecast.audio:Beyonce Only Hits
 #DESCRIPTION Exclusive Radio - Beyonce Only Hits
-#SERVICE 4097:0:1:126:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/bigcountry/icecast.audio:Big Country
+#SERVICE 4097:0:1:126:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bigcountry/icecast.audio:Big Country
 #DESCRIPTION Exclusive Radio - Big Country
-#SERVICE 4097:0:1:126:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/billwithers/icecast.audio:Bill Withers
+#SERVICE 4097:0:1:126:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/billwithers/icecast.audio:Bill Withers
 #DESCRIPTION Exclusive Radio - Bill Withers
-#SERVICE 4097:0:1:128:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/billyeilish/icecast.audio:Billie Eilish
+#SERVICE 4097:0:1:128:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/billyeilish/icecast.audio:Billie Eilish
 #DESCRIPTION Exclusive Radio - Billie Eilish
-#SERVICE 4097:0:1:130:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/billyidol/icecast.audio:Billy Idol
+#SERVICE 4097:0:1:130:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/billyidol/icecast.audio:Billy Idol
 #DESCRIPTION Exclusive Radio - Billy Idol
-#SERVICE 4097:0:1:132:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/billyjoel/icecast.audio:Billy Joel
+#SERVICE 4097:0:1:132:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/billyjoel/icecast.audio:Billy Joel
 #DESCRIPTION Exclusive Radio - Billy Joel
-#SERVICE 4097:0:1:134:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/bingcrosby/icecast.audio:Bing Crosby
+#SERVICE 4097:0:1:134:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bingcrosby/icecast.audio:Bing Crosby
 #DESCRIPTION Exclusive Radio - Bing Crosby
-#SERVICE 4097:0:1:138:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/theblackcrowes/icecast.audio:Black Crowes
+#SERVICE 4097:0:1:138:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/theblackcrowes/icecast.audio:Black Crowes
 #DESCRIPTION Exclusive Radio - Black Crowes
-#SERVICE 4097:0:1:138:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/blacksabbath/icecast.audio:Black Sabbath
+#SERVICE 4097:0:1:138:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/blacksabbath/icecast.audio:Black Sabbath
 #DESCRIPTION Exclusive Radio - Black Sabbath
-#SERVICE 4097:0:1:138:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/blackuhuru/icecast.audio:Black Uhuru
+#SERVICE 4097:0:1:138:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/blackuhuru/icecast.audio:Black Uhuru
 #DESCRIPTION Exclusive Radio - Black Uhuru
-#SERVICE 4097:0:1:140:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/blondie/icecast.audio:Blondie
+#SERVICE 4097:0:1:140:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/blondie/icecast.audio:Blondie
 #DESCRIPTION Exclusive Radio - Blondie
-#SERVICE 4097:0:1:140:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/blondiehits/icecast.audio:Blondie Only Hits
+#SERVICE 4097:0:1:140:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/blondiehits/icecast.audio:Blondie Only Hits
 #DESCRIPTION Exclusive Radio - Blondie Only Hits
-#SERVICE 4097:0:1:142:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/blur/icecast.audio:Blur
+#SERVICE 4097:0:1:142:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/blur/icecast.audio:Blur
 #DESCRIPTION Exclusive Radio - Blur
-#SERVICE 4097:0:1:144:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/bodiddley/icecast.audio:Bo Diddley
+#SERVICE 4097:0:1:144:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bodiddley/icecast.audio:Bo Diddley
 #DESCRIPTION Exclusive Radio - Bo Diddley
-#SERVICE 4097:0:1:146:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/bobdylan/icecast.audio:Bob Dylan
+#SERVICE 4097:0:1:146:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bobdylan/icecast.audio:Bob Dylan
 #DESCRIPTION Exclusive Radio - Bob Dylan
-#SERVICE 4097:0:1:146:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/bobdylanhits/icecast.audio:Bob Dylan Only Hits
+#SERVICE 4097:0:1:146:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bobdylanhits/icecast.audio:Bob Dylan Only Hits
 #DESCRIPTION Exclusive Radio - Bob Dylan Only Hits
-#SERVICE 4097:0:1:148:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/bobmarley/icecast.audio:Bob Marley
+#SERVICE 4097:0:1:148:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bobmarley/icecast.audio:Bob Marley
 #DESCRIPTION Exclusive Radio - Bob Marley
-#SERVICE 4097:0:1:148:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/bobmarleyhits/icecast.audio:Bob Marley Only Hits
+#SERVICE 4097:0:1:148:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bobmarleyhits/icecast.audio:Bob Marley Only Hits
 #DESCRIPTION Exclusive Radio - Bob Marley Only Hits 
-#SERVICE 4097:0:1:150:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/bobseger/icecast.audio:Bob Seger
+#SERVICE 4097:0:1:150:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bobseger/icecast.audio:Bob Seger
 #DESCRIPTION Exclusive Radio - Bob Seger
-#SERVICE 4097:0:1:154:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/bonjovi/icecast.audio:Bon Jovi
+#SERVICE 4097:0:1:154:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bonjovi/icecast.audio:Bon Jovi
 #DESCRIPTION Exclusive Radio - Bon Jovi
-#SERVICE 4097:0:1:154:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/bonjovihits/icecast.audio:Bon Jovi Only Hits
+#SERVICE 4097:0:1:154:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bonjovihits/icecast.audio:Bon Jovi Only Hits
 #DESCRIPTION Exclusive Radio - Bon Jovi Only Hits
-#SERVICE 4097:0:1:156:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/bookert/icecast.audio:Booker T & The MG's
+#SERVICE 4097:0:1:156:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bookert/icecast.audio:Booker T & The MG's
 #DESCRIPTION Exclusive Radio - Booker T & The MG's
-#SERVICE 4097:0:1:158:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/boston/icecast.audio:Boston
+#SERVICE 4097:0:1:158:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/boston/icecast.audio:Boston
 #DESCRIPTION Exclusive Radio - Boston
-#SERVICE 4097:0:1:164:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/bradpaisley/icecast.audio:Brad Paisley
+#SERVICE 4097:0:1:164:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bradpaisley/icecast.audio:Brad Paisley
 #DESCRIPTION Exclusive Radio - Brad Paisley
-#SERVICE 4097:0:1:164:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/brantleygilbert/icecast.audio:Brantley Gilbert
+#SERVICE 4097:0:1:164:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/brantleygilbert/icecast.audio:Brantley Gilbert
 #DESCRIPTION Exclusive Radio - Brantley Gilbert
-#SERVICE 4097:0:1:168:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/bread/icecast.audio:Bread
+#SERVICE 4097:0:1:168:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bread/icecast.audio:Bread
 #DESCRIPTION Exclusive Radio - Bread
-#SERVICE 4097:0:1:170:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/britney/icecast.audio:Britney Spears
+#SERVICE 4097:0:1:170:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/britney/icecast.audio:Britney Spears
 #DESCRIPTION Exclusive Radio - Britney Spears
-#SERVICE 4097:0:1:170:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/britneyspearshits/icecast.audio:Britney Spears Only Hits
+#SERVICE 4097:0:1:170:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/britneyspearshits/icecast.audio:Britney Spears Only Hits
 #DESCRIPTION Exclusive Radio - Britney Spears Only Hits
-#SERVICE 4097:0:1:172:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/brooksanddunn/icecast.audio:Brooks & Dunn
+#SERVICE 4097:0:1:172:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/brooksanddunn/icecast.audio:Brooks & Dunn
 #DESCRIPTION Exclusive Radio - Brooks & Dunn
-#SERVICE 4097:0:1:172:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/springsteen/icecast.audio:Bruce Springsteen
+#SERVICE 4097:0:1:172:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/springsteen/icecast.audio:Bruce Springsteen
 #DESCRIPTION Exclusive Radio - Bruce Springsteen
-#SERVICE 4097:0:1:172:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/springsteenhits/icecast.audio:Bruce Springsteen Only Hits
+#SERVICE 4097:0:1:172:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/springsteenhits/icecast.audio:Bruce Springsteen Only Hits
 #DESCRIPTION Exclusive Radio - Bruce Springsteen Only Hits
-#SERVICE 4097:0:1:174:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/brunomars/icecast.audio:Bruno Mars
+#SERVICE 4097:0:1:174:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/brunomars/icecast.audio:Bruno Mars
 #DESCRIPTION Exclusive Radio - Bruno Mars
-#SERVICE 4097:0:1:176:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/bryanadams/icecast.audio:Bryan Adams
+#SERVICE 4097:0:1:176:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bryanadams/icecast.audio:Bryan Adams
 #DESCRIPTION Exclusive Radio - Bryan Adams
-#SERVICE 4097:0:1:176:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/bryanadamshits/icecast.audio:Bryan Adams Only Hits
+#SERVICE 4097:0:1:176:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bryanadamshits/icecast.audio:Bryan Adams Only Hits
 #DESCRIPTION Exclusive Radio - Bryan Adams Only Hits
-#SERVICE 4097:0:1:178:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/bryanferry/icecast.audio:Bryan Ferry
+#SERVICE 4097:0:1:178:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bryanferry/icecast.audio:Bryan Ferry
 #DESCRIPTION Exclusive Radio - Bryan Ferry
-#SERVICE 4097:0:1:178:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/bts/icecast.audio:BTS
+#SERVICE 4097:0:1:178:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bts/icecast.audio:BTS
 #DESCRIPTION Exclusive Radio - BTS
-#SERVICE 4097:0:1:180:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/buddyguy/icecast.audio:Buddy Guy
+#SERVICE 4097:0:1:180:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/buddyguy/icecast.audio:Buddy Guy
 #DESCRIPTION Exclusive Radio - Buddy Guy
-#SERVICE 4097:0:1:182:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/buddyholly/icecast.audio:Buddy Holly
+#SERVICE 4097:0:1:182:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/buddyholly/icecast.audio:Buddy Holly
 #DESCRIPTION Exclusive Radio - Buddy Holly
-#SERVICE 4097:0:1:182:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/buddyhollyhits/icecast.audio:Buddy Holly Only Hits
+#SERVICE 4097:0:1:182:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/buddyhollyhits/icecast.audio:Buddy Holly Only Hits
 #DESCRIPTION Exclusive Radio - Buddy Holly Only Hits
-#SERVICE 4097:0:1:182:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/bunnywailer/icecast.audio:Bunny Wailer
+#SERVICE 4097:0:1:182:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bunnywailer/icecast.audio:Bunny Wailer
 #DESCRIPTION Exclusive Radio - Bunny Wailer
-#SERVICE 4097:0:1:182:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/burnaboy/icecast.audio:Burna Boy
+#SERVICE 4097:0:1:182:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/burnaboy/icecast.audio:Burna Boy
 #DESCRIPTION Exclusive Radio - Burna Boy
-#SERVICE 4097:0:1:182:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/burningspear/icecast.audio:Burning Spear
+#SERVICE 4097:0:1:182:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/burningspear/icecast.audio:Burning Spear
 #DESCRIPTION Exclusive Radio - Burning Spear
-#SERVICE 4097:0:1:182:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/thebyrds/icecast.audio:Byrds
+#SERVICE 4097:0:1:182:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/thebyrds/icecast.audio:Byrds
 #DESCRIPTION Exclusive Radio - Byrds
-#SERVICE 4097:0:1:184:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/calvinharris/icecast.audio:Calvin Harris
+#SERVICE 4097:0:1:184:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/calvinharris/icecast.audio:Calvin Harris
 #DESCRIPTION Exclusive Radio - Calvin Harris
-#SERVICE 4097:0:1:186:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/camilacabello/icecast.audio:Camilla Cabello
+#SERVICE 4097:0:1:186:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/camilacabello/icecast.audio:Camilla Cabello
 #DESCRIPTION Exclusive Radio - Camilla Cabello
-#SERVICE 4097:0:1:188:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/cardib/icecast.audio:Cardi B
+#SERVICE 4097:0:1:188:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/cardib/icecast.audio:Cardi B
 #DESCRIPTION Exclusive Radio - Cardi B
-#SERVICE 4097:0:1:190:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/carlysimon/icecast.audio:Carly Simon
+#SERVICE 4097:0:1:190:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/carlysimon/icecast.audio:Carly Simon
 #DESCRIPTION Exclusive Radio - Carly Simon
-#SERVICE 4097:0:1:192:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/caroleking/icecast.audio:Carole King
+#SERVICE 4097:0:1:192:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/caroleking/icecast.audio:Carole King
 #DESCRIPTION Exclusive Radio - Carole King
-#SERVICE 4097:0:1:916:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/carpenters/icecast.audio:Carpenters
+#SERVICE 4097:0:1:916:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/carpenters/icecast.audio:Carpenters
 #DESCRIPTION Exclusive Radio - Carpenters
-#SERVICE 4097:0:1:194:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/carrieunderwood/icecast.audio:Carrie Underwood
+#SERVICE 4097:0:1:194:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/carrieunderwood/icecast.audio:Carrie Underwood
 #DESCRIPTION Exclusive Radio - Carrie Underwood
-#SERVICE 4097:0:1:918:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/thecars/icecast.audio:Cars
+#SERVICE 4097:0:1:918:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/thecars/icecast.audio:Cars
 #DESCRIPTION Exclusive Radio - Cars
-#SERVICE 4097:0:1:196:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/catstevens/icecast.audio:Cat Stevens
+#SERVICE 4097:0:1:196:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/catstevens/icecast.audio:Cat Stevens
 #DESCRIPTION Exclusive Radio - Cat Stevens
-#SERVICE 4097:0:1:198:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/celeste/icecast.audio:Celeste
+#SERVICE 4097:0:1:198:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/celeste/icecast.audio:Celeste
 #DESCRIPTION Exclusive Radio - Celeste
-#SERVICE 4097:0:1:198:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/celinedion/icecast.audio:Celine Dion
+#SERVICE 4097:0:1:198:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/celinedion/icecast.audio:Celine Dion
 #DESCRIPTION Exclusive Radio - Celine Dion
-#SERVICE 4097:0:1:205:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/charleypride/icecast.audio:Charley Pride
+#SERVICE 4097:0:1:205:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/charleypride/icecast.audio:Charley Pride
 #DESCRIPTION Exclusive Radio - Charley Pride
-#SERVICE 4097:0:1:207:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/charlixcx/icecast.audio:Charli XCX
+#SERVICE 4097:0:1:207:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/charlixcx/icecast.audio:Charli XCX
 #DESCRIPTION Exclusive Radio - Charli XCX
-#SERVICE 4097:0:1:207:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/charlieputh/icecast.audio:Charlie Puth
+#SERVICE 4097:0:1:207:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/charlieputh/icecast.audio:Charlie Puth
 #DESCRIPTION Exclusive Radio - Charlie Puth
-#SERVICE 4097:0:1:207:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/charlieparker/icecast.audio:Charlie Parker
+#SERVICE 4097:0:1:207:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/charlieparker/icecast.audio:Charlie Parker
 #DESCRIPTION Exclusive Radio - Charlie Parker
-#SERVICE 4097:0:1:209:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/cheaptrick/icecast.audio:Cheap Trick
+#SERVICE 4097:0:1:209:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/cheaptrick/icecast.audio:Cheap Trick
 #DESCRIPTION Exclusive Radio - Cheap Trick
-#SERVICE 4097:0:1:211:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/cher/icecast.audio:Cher
+#SERVICE 4097:0:1:211:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/cher/icecast.audio:Cher
 #DESCRIPTION Exclusive Radio - Cher
-#SERVICE 4097:0:1:213:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/chic/icecast.audio:Chic
+#SERVICE 4097:0:1:213:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/chic/icecast.audio:Chic
 #DESCRIPTION Exclusive Radio - Chic
-#SERVICE 4097:0:1:213:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/chichits/icecast.audio:Chic Only Hits
+#SERVICE 4097:0:1:213:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/chichits/icecast.audio:Chic Only Hits
 #DESCRIPTION Exclusive Radio - Chic Only Hits
-#SERVICE 4097:0:1:215:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/chicago/icecast.audio:Chicago
+#SERVICE 4097:0:1:215:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/chicago/icecast.audio:Chicago
 #DESCRIPTION Exclusive Radio - Chicago
-#SERVICE 4097:0:1:215:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/chicagohits/icecast.audio:Chicago Only Hits
+#SERVICE 4097:0:1:215:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/chicagohits/icecast.audio:Chicago Only Hits
 #DESCRIPTION Exclusive Radio - Chicago Only Hits
-#SERVICE 4097:0:1:217:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/chickcorea/icecast.audio:Chick Corea
+#SERVICE 4097:0:1:217:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/chickcorea/icecast.audio:Chick Corea
 #DESCRIPTION Exclusive Radio - Chick Corea
-#SERVICE 4097:0:1:217:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/dixiechicks/icecast.audio:Chicks
+#SERVICE 4097:0:1:217:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/dixiechicks/icecast.audio:Chicks
 #DESCRIPTION Exclusive Radio - Chicks
-#SERVICE 4097:0:1:221:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/chrisrea/icecast.audio:Chris Rea
+#SERVICE 4097:0:1:221:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/chrisrea/icecast.audio:Chris Rea
 #DESCRIPTION Exclusive Radio - Chris Rea
-#SERVICE 4097:0:1:221:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/christinaaguilera/icecast.audio:Christina Aguilera 
+#SERVICE 4097:0:1:221:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/christinaaguilera/icecast.audio:Christina Aguilera 
 #DESCRIPTION Exclusive Radio - Christina Aguilera 
-#SERVICE 4097:0:1:227:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/chuckberry/icecast.audio:Chuck Berry
+#SERVICE 4097:0:1:227:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/chuckberry/icecast.audio:Chuck Berry
 #DESCRIPTION Exclusive Radio - Chuck Berry
-#SERVICE 4097:0:1:227:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/chuckberryhits/icecast.audio:Chuck Berry Only Hits
+#SERVICE 4097:0:1:227:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/chuckberryhits/icecast.audio:Chuck Berry Only Hits
 #DESCRIPTION Exclusive Radio - Chuck Berry Only Hits
-#SERVICE 4097:0:1:229:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/theclash/icecast.audio:Clash
+#SERVICE 4097:0:1:229:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/theclash/icecast.audio:Clash
 #DESCRIPTION Exclusive Radio - Clash
-#SERVICE 4097:0:1:229:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/cliffrichard/icecast.audio:Cliff Richard
+#SERVICE 4097:0:1:229:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/cliffrichard/icecast.audio:Cliff Richard
 #DESCRIPTION Exclusive Radio - Cliff Richard
-#SERVICE 4097:0:1:229:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/cliffrichardhits/icecast.audio:Cliff Richard Only Hits
+#SERVICE 4097:0:1:229:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/cliffrichardhits/icecast.audio:Cliff Richard Only Hits
 #DESCRIPTION Exclusive Radio - Cliff Richard Only Hits
-#SERVICE 4097:0:1:233:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/coldplay/icecast.audio:Coldplay
+#SERVICE 4097:0:1:233:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/coldplay/icecast.audio:Coldplay
 #DESCRIPTION Exclusive Radio - Coldplay
-#SERVICE 4097:0:1:233:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/coldplayhits/icecast.audio:Coldplay Only Hits
+#SERVICE 4097:0:1:233:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/coldplayhits/icecast.audio:Coldplay Only Hits
 #DESCRIPTION Exclusive Radio - Coldplay Only Hits
-#SERVICE 4097:0:1:235:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/coltford/icecast.audio:Colt Ford
+#SERVICE 4097:0:1:235:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/coltford/icecast.audio:Colt Ford
 #DESCRIPTION Exclusive Radio - Colt Ford
-#SERVICE 4097:0:1:237:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/countbasie/icecast.audio:Count Basie
+#SERVICE 4097:0:1:237:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/countbasie/icecast.audio:Count Basie
 #DESCRIPTION Exclusive Radio - Count Basie
-#SERVICE 4097:0:1:237:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/cream/icecast.audio:Cream
+#SERVICE 4097:0:1:237:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/cream/icecast.audio:Cream
 #DESCRIPTION Exclusive Radio - Cream
-#SERVICE 4097:0:1:239:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/creedence/icecast.audio:Creedence Clearwater Revival
+#SERVICE 4097:0:1:239:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/creedence/icecast.audio:Creedence Clearwater Revival
 #DESCRIPTION Exclusive Radio - Creedence Clearwater Revival
-#SERVICE 4097:0:1:243:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/csny/icecast.audio:Crosby Stills Nash and Young
+#SERVICE 4097:0:1:243:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/csny/icecast.audio:Crosby Stills Nash and Young
 #DESCRIPTION Exclusive Radio - Crosby Stills Nash and Young
-#SERVICE 4097:0:1:245:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/crowdedhouse/icecast.audio:Crowded House
+#SERVICE 4097:0:1:245:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/crowdedhouse/icecast.audio:Crowded House
 #DESCRIPTION Exclusive Radio - Crowded House
-#SERVICE 4097:0:1:247:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/curtismayfield/icecast.audio:Curtis Mayfield
+#SERVICE 4097:0:1:247:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/curtismayfield/icecast.audio:Curtis Mayfield
 #DESCRIPTION Exclusive Radio - Curtis Mayfield
-#SERVICE 4097:0:1:249:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/daftpunk/icecast.audio:Daft Punk
+#SERVICE 4097:0:1:249:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/daftpunk/icecast.audio:Daft Punk
 #DESCRIPTION Exclusive Radio - Daft Punk
-#SERVICE 4097:0:1:251:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/dallassmith/icecast.audio:Dallas Smith
+#SERVICE 4097:0:1:251:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/dallassmith/icecast.audio:Dallas Smith
 #DESCRIPTION Exclusive Radio - Dallas Smith
-#SERVICE 4097:0:1:253:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/chilldance/icecast.audio:Dance Chill
+#SERVICE 4097:0:1:253:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/chilldance/icecast.audio:Dance Chill
 #DESCRIPTION Exclusive Radio - Dance Chill
-#SERVICE 4097:0:1:255:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/davebrubeck/icecast.audio:Dave Brubeck
+#SERVICE 4097:0:1:255:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/davebrubeck/icecast.audio:Dave Brubeck
 #DESCRIPTION Exclusive Radio - Dave Brubeck
-#SERVICE 4097:0:1:257:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/davidbowie/icecast.audio:David Bowie
+#SERVICE 4097:0:1:257:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/davidbowie/icecast.audio:David Bowie
 #DESCRIPTION Exclusive Radio - David Bowie
-#SERVICE 4097:0:1:257:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/davidbowiehits/icecast.audio:David Bowie Only Hits
+#SERVICE 4097:0:1:257:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/davidbowiehits/icecast.audio:David Bowie Only Hits
 #DESCRIPTION Exclusive Radio - David Bowie Only Hits
-#SERVICE 4097:0:1:257:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/davidcassidy/icecast.audio:David Cassidy
+#SERVICE 4097:0:1:257:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/davidcassidy/icecast.audio:David Cassidy
 #DESCRIPTION Exclusive Radio - David Cassidy
-#SERVICE 4097:0:1:259:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/davidsoul/icecast.audio:David Soul
+#SERVICE 4097:0:1:259:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/davidsoul/icecast.audio:David Soul
 #DESCRIPTION Exclusive Radio - David Soul
-#SERVICE 4097:0:1:259:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/deaconblue/icecast.audio:Deacon Blue 
+#SERVICE 4097:0:1:259:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/deaconblue/icecast.audio:Deacon Blue 
 #DESCRIPTION Exclusive Radio - Deacon Blue 
-#SERVICE 4097:0:1:261:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/deanmartin/icecast.audio:Dean Martin
+#SERVICE 4097:0:1:261:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/deanmartin/icecast.audio:Dean Martin
 #DESCRIPTION Exclusive Radio - Dean Martin
-#SERVICE 4097:0:1:265:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/deeppurple/icecast.audio:Deep Purple
+#SERVICE 4097:0:1:265:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/deeppurple/icecast.audio:Deep Purple
 #DESCRIPTION Exclusive Radio - Deep Purple
-#SERVICE 4097:0:1:267:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/defleppard/icecast.audio:Def Leppard
+#SERVICE 4097:0:1:267:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/defleppard/icecast.audio:Def Leppard
 #DESCRIPTION Exclusive Radio - Def Leppard
-#SERVICE 4097:0:1:269:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/depechemode/icecast.audio:Depeche Mode
+#SERVICE 4097:0:1:269:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/depechemode/icecast.audio:Depeche Mode
 #DESCRIPTION Exclusive Radio - Depeche Mode
-#SERVICE 4097:0:1:271:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/derekandsusantrucks/icecast.audio:Derek Trucks and Susan Tedeschi
+#SERVICE 4097:0:1:271:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/derekandsusantrucks/icecast.audio:Derek Trucks and Susan Tedeschi
 #DESCRIPTION Exclusive Radio - Derek Trucks and Susan Tedeschi
-#SERVICE 4097:0:1:275:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/desmonddekker/icecast.audio:Desmond Dekker
+#SERVICE 4097:0:1:275:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/desmonddekker/icecast.audio:Desmond Dekker
 #DESCRIPTION Exclusive Radio - Desmond Dekker
-#SERVICE 4097:0:1:275:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/dianakrall/icecast.audio:Diana Krall
+#SERVICE 4097:0:1:275:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/dianakrall/icecast.audio:Diana Krall
 #DESCRIPTION Exclusive Radio - Diana Krall
-#SERVICE 4097:0:1:277:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/dianaross/icecast.audio:Diana Ross
+#SERVICE 4097:0:1:277:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/dianaross/icecast.audio:Diana Ross
 #DESCRIPTION Exclusive Radio - Diana Ross
-#SERVICE 4097:0:1:279:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/dionnewarwick/icecast.audio:Dionne Warwick
+#SERVICE 4097:0:1:279:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/dionnewarwick/icecast.audio:Dionne Warwick
 #DESCRIPTION Exclusive Radio - Dionne Warwick
-#SERVICE 4097:0:1:281:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/direstraits/icecast.audio:Dire Straits
+#SERVICE 4097:0:1:281:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/direstraits/icecast.audio:Dire Straits
 #DESCRIPTION Exclusive Radio - Dire Straits
-#SERVICE 4097:0:1:281:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/direstraitshits/icecast.audio:Dire Straits Only Hits
+#SERVICE 4097:0:1:281:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/direstraitshits/icecast.audio:Dire Straits Only Hits
 #DESCRIPTION Exclusive Radio - Dire Straits Only Hits
-#SERVICE 4097:0:1:287:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/dizzygillespie/icecast.audio:Dizzy Gillespie
+#SERVICE 4097:0:1:287:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/dizzygillespie/icecast.audio:Dizzy Gillespie
 #DESCRIPTION Exclusive Radio - Dizzy Gillespie
-SERVICE 4097:0:1:289:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/dojacat/icecast.audio:Doja Cat
+#SERVICE 4097:0:1:289:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/dojacat/icecast.audio:Doja Cat
 #DESCRIPTION Exclusive Radio - Doja Cat
-#SERVICE 4097:0:1:289:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/dollyparton/icecast.audio:Dolly Parton
+#SERVICE 4097:0:1:289:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/dollyparton/icecast.audio:Dolly Parton
 #DESCRIPTION Exclusive Radio - Dolly Parton
-#SERVICE 4097:0:1:289:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/dollypartonhits/icecast.audio:Dolly Parton Only Hits
+#SERVICE 4097:0:1:289:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/dollypartonhits/icecast.audio:Dolly Parton Only Hits
 #DESCRIPTION Exclusive Radio - Dolly Parton Only Hits
-#SERVICE 4097:0:1:291:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/donmclean/icecast.audio:Don McLean
+#SERVICE 4097:0:1:291:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/donmclean/icecast.audio:Don McLean
 #DESCRIPTION Exclusive Radio - Don McLean
-#SERVICE 4097:0:1:291:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/donnasummer/icecast.audio:Donna Summer
+#SERVICE 4097:0:1:291:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/donnasummer/icecast.audio:Donna Summer
 #DESCRIPTION Exclusive Radio - Donna Summer
-#SERVICE 4097:0:1:924:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/doobiebrothers/icecast.audio:Doobie Brothers
+#SERVICE 4097:0:1:924:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/doobiebrothers/icecast.audio:Doobie Brothers
 #DESCRIPTION Exclusive Radio - Doobie Brothers
-#SERVICE 4097:0:1:926:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/doors/icecast.audio:Doors
+#SERVICE 4097:0:1:926:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/doors/icecast.audio:Doors
 #DESCRIPTION Exclusive Radio - Doors
-#SERVICE 4097:0:1:295:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/drdre/icecast.audio:Dr. Dre
+#SERVICE 4097:0:1:295:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/drdre/icecast.audio:Dr. Dre
 #DESCRIPTION Exclusive Radio - Dr. Dre
-#SERVICE 4097:0:1:293:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/drhook/icecast.audio:Dr Hook
+#SERVICE 4097:0:1:293:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/drhook/icecast.audio:Dr Hook
 #DESCRIPTION Exclusive Radio - Dr Hook
-#SERVICE 4097:0:1:297:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/drake/icecast.audio:Drake
+#SERVICE 4097:0:1:297:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/drake/icecast.audio:Drake
 #DESCRIPTION Exclusive Radio - Drake
-#SERVICE 4097:0:1:928:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/drifters/icecast.audio:Drifters
+#SERVICE 4097:0:1:928:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/drifters/icecast.audio:Drifters
 #DESCRIPTION Exclusive Radio - Drifters
-#SERVICE 4097:0:1:299:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/dualipa/icecast.audio:Dua Lipa
+#SERVICE 4097:0:1:299:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/dualipa/icecast.audio:Dua Lipa
 #DESCRIPTION Exclusive Radio - Dua Lipa
-#SERVICE 4097:0:1:930:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/thedubliners/icecast.audio:Dubliners
+#SERVICE 4097:0:1:930:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/thedubliners/icecast.audio:Dubliners
 #DESCRIPTION Exclusive Radio - Dubliners
-#SERVICE 4097:0:1:301:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/dukeellington/icecast.audio:Duke Ellington
+#SERVICE 4097:0:1:301:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/dukeellington/icecast.audio:Duke Ellington
 #DESCRIPTION Exclusive Radio - Duke Ellington
-#SERVICE 4097:0:1:303:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/duranduran/icecast.audio:Duran Duran
+#SERVICE 4097:0:1:303:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/duranduran/icecast.audio:Duran Duran
 #DESCRIPTION Exclusive Radio - Duran Duran
-#SERVICE 4097:0:1:303:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/duranduranhits/icecast.audio:Duran Duran Only Hits
+#SERVICE 4097:0:1:303:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/duranduranhits/icecast.audio:Duran Duran Only Hits
 #DESCRIPTION Exclusive Radio - Duran Duran Only Hits
-#SERVICE 4097:0:1:303:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/dustyspringfield/icecast.audio:Dusty Springfield
+#SERVICE 4097:0:1:303:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/dustyspringfield/icecast.audio:Dusty Springfield
 #DESCRIPTION Exclusive Radio - Dusty Springfield 
-#SERVICE 4097:0:1:305:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/eagles/icecast.audio:Eagles
+#SERVICE 4097:0:1:305:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/eagles/icecast.audio:Eagles
 #DESCRIPTION Exclusive Radio - Eagles
-#SERVICE 4097:0:1:305:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/eagleshits/icecast.audio:Eagles Omly Hits
+#SERVICE 4097:0:1:305:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/eagleshits/icecast.audio:Eagles Omly Hits
 #DESCRIPTION Exclusive Radio - Eagles Only Hits
-#SERVICE 4097:0:1:307:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/earthwindandfire/icecast.audio:Earth Wind and Fire
+#SERVICE 4097:0:1:307:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/earthwindandfire/icecast.audio:Earth Wind and Fire
 #DESCRIPTION Exclusive Radio - Earth Wind and Fire
-#SERVICE 4097:0:1:307:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/earthwindandfirehits/icecast.audio:Earth Wind and Fire Only Hits
+#SERVICE 4097:0:1:307:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/earthwindandfirehits/icecast.audio:Earth Wind and Fire Only Hits
 #DESCRIPTION Exclusive Radio - Earth Wind and Fire Only Hits
-#SERVICE 4097:0:1:309:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/edsheeran/icecast.audio:Ed Sheeran
+#SERVICE 4097:0:1:309:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/edsheeran/icecast.audio:Ed Sheeran
 #DESCRIPTION Exclusive Radio - Ed Sheeran
-#SERVICE 4097:0:1:309:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/edsheeranhits/icecast.audio:Ed Sheeran Only Hits
+#SERVICE 4097:0:1:309:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/edsheeranhits/icecast.audio:Ed Sheeran Only Hits
 #DESCRIPTION Exclusive Radio - Ed Sheeran Only Hits
-#SERVICE 4097:0:1:311:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/elbow/icecast.audio:Elbow
+#SERVICE 4097:0:1:311:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/elbow/icecast.audio:Elbow
 #DESCRIPTION Exclusive Radio - Elbow
-#SERVICE 4097:0:1:315:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/ellafitzgerald/icecast.audio:Ella Fitzgerald
+#SERVICE 4097:0:1:315:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ellafitzgerald/icecast.audio:Ella Fitzgerald
 #DESCRIPTION Exclusive Radio - Ella Fitzgerald
-#SERVICE 4097:0:1:317:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/elliegoulding/icecast.audio:Ellie Goulding
+#SERVICE 4097:0:1:317:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/elliegoulding/icecast.audio:Ellie Goulding
 #DESCRIPTION Exclusive Radio - Ellie Goulding
-#SERVICE 4097:0:1:313:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/elo/icecast.audio:ELO Electric Light Orchestra
+#SERVICE 4097:0:1:313:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/elo/icecast.audio:ELO Electric Light Orchestra
 #DESCRIPTION Exclusive Radio - ELO Electric Light Orchestra
-#SERVICE 4097:0:1:313:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/elohits/icecast.audio:ELO Electric Light Orchestra Only Hits
+#SERVICE 4097:0:1:313:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/elohits/icecast.audio:ELO Electric Light Orchestra Only Hits
 #DESCRIPTION Exclusive Radio - ELO Electric Light Orchestra Only Hits
-#SERVICE 4097:0:1:319:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/eltonjohn/icecast.audio:Elton John
+#SERVICE 4097:0:1:319:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/eltonjohn/icecast.audio:Elton John
 #DESCRIPTION Exclusive Radio - Elton John
-#SERVICE 4097:0:1:319:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/eltonjohnhits/icecast.audio:Elton John Only Hits
+#SERVICE 4097:0:1:319:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/eltonjohnhits/icecast.audio:Elton John Only Hits
 #DESCRIPTION Exclusive Radio - Elton John Omly Hits
-#SERVICE 4097:0:1:321:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/elviscostello/icecast.audio:Elvis Costello
+#SERVICE 4097:0:1:321:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/elviscostello/icecast.audio:Elvis Costello
 #DESCRIPTION Exclusive Radio - Elvis Costello
-#SERVICE 4097:0:1:323:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/elvispresley/icecast.audio:Elvis Presley
+#SERVICE 4097:0:1:323:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/elvispresley/icecast.audio:Elvis Presley
 #DESCRIPTION Exclusive Radio - Elvis Presley
-#SERVICE 4097:0:1:325:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/emersonlakepalmer/icecast.audio:Emerson Lake and Palmer
+#SERVICE 4097:0:1:325:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/emersonlakepalmer/icecast.audio:Emerson Lake and Palmer
 #DESCRIPTION Exclusive Radio - Emerson Lake and Palmer
-#SERVICE 4097:0:1:327:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/eminem/icecast.audio:Eminem
+#SERVICE 4097:0:1:327:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/eminem/icecast.audio:Eminem
 #DESCRIPTION Exclusive Radio - Eminem
-#SERVICE 4097:0:1:331:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/engelberthumperdinck/icecast.audio:Engelbert Humperdinck
+#SERVICE 4097:0:1:331:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/engelberthumperdinck/icecast.audio:Engelbert Humperdinck
 #DESCRIPTION Exclusive Radio - Engelbert Humperdinck
-#SERVICE 4097:0:1:333:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/enriqueiglesias/icecast.audio:Enrique Iglesias
+#SERVICE 4097:0:1:333:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/enriqueiglesias/icecast.audio:Enrique Iglesias
 #DESCRIPTION Exclusive Radio - Enrique Iglesias
-#SERVICE 4097:0:1:335:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/erasure/icecast.audio:Erasure
+#SERVICE 4097:0:1:335:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/erasure/icecast.audio:Erasure
 #DESCRIPTION Exclusive Radio - Erasure
-#SERVICE 4097:0:1:337:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/ericclapton/icecast.audio:Eric Clapton
+#SERVICE 4097:0:1:337:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ericclapton/icecast.audio:Eric Clapton
 #DESCRIPTION Exclusive Radio - Eric Clapton
-#DESCRIPTION Exclusive Radio - Erasure
-#SERVICE 4097:0:1:337:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/ericclaptonhits/icecast.audio:Eric Clapton Only Hits
+#SERVICE 4097:0:1:337:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ericclaptonhits/icecast.audio:Eric Clapton Only Hits
 #DESCRIPTION Exclusive Radio - Eric Clapton Only Hits
-#SERVICE 4097:0:1:339:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/ettajames/icecast.audio:Etta James
+#SERVICE 4097:0:1:339:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ettajames/icecast.audio:Etta James
 #DESCRIPTION Exclusive Radio - Etta James
-#SERVICE 4097:0:1:341:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/eurythmics/icecast.audio:Eurythmics
+#SERVICE 4097:0:1:341:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/eurythmics/icecast.audio:Eurythmics
 #DESCRIPTION Exclusive Radio - Eurythmics
-#SERVICE 4097:0:1:341:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/eurythmicshits/icecast.audio:Eurythmics Only Hits
+#SERVICE 4097:0:1:341:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/eurythmicshits/icecast.audio:Eurythmics Only Hits
 #DESCRIPTION Exclusive Radio - Eurythmics Only Hits
-#SERVICE 4097:0:1:343:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/everlybrothers/icecast.audio:Everly Brothers 
+#SERVICE 4097:0:1:343:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/everlybrothers/icecast.audio:Everly Brothers 
 #DESCRIPTION Exclusive Radio - Everly Brothers 
-#SERVICE 4097:0:1:343:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/everlybrothershits/icecast.audio:EEverly Brothers Only Hits
+#SERVICE 4097:0:1:343:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/everlybrothershits/icecast.audio:EEverly Brothers Only Hits
 #DESCRIPTION Exclusive Radio - Everly Brothers Only Hits
-#SERVICE 4097:0:1:345:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/fabulousthunderbirds/icecast.audio:Fabulous Thunderbirds 
+#SERVICE 4097:0:1:345:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/fabulousthunderbirds/icecast.audio:Fabulous Thunderbirds 
 #DESCRIPTION Exclusive Radio - Fabulous Thunderbirds 
-#SERVICE 4097:0:1:345:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/fatsdomino/icecast.audio:Fats Domino
+#SERVICE 4097:0:1:345:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/fatsdomino/icecast.audio:Fats Domino
 #DESCRIPTION Exclusive Radio - Fats Domino
-#SERVICE 4097:0:1:347:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/fatswaller/icecast.audio:Fats Waller
+#SERVICE 4097:0:1:347:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/fatswaller/icecast.audio:Fats Waller
 #DESCRIPTION Exclusive Radio - Fats Waller
-#SERVICE 4097:0:1:349:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/fleetwoodmac/icecast.audio:Fleetwood Mac
+#SERVICE 4097:0:1:349:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/fleetwoodmac/icecast.audio:Fleetwood Mac
 #DESCRIPTION Exclusive Radio - Fleetwood Mac
-#SERVICE 4097:0:1:349:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/fleetwoodmachits/icecast.audio:Fleetwood Mac Only Hits
+#SERVICE 4097:0:1:349:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/fleetwoodmachits/icecast.audio:Fleetwood Mac Only Hits
 #DESCRIPTION Exclusive Radio - Fleetwood Mac Only Hits
-#SERVICE 4097:0:1:349:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/florenceandthemachine/icecast.audio:Florence + The Machine 
+#SERVICE 4097:0:1:349:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/florenceandthemachine/icecast.audio:Florence + The Machine 
 #DESCRIPTION Exclusive Radio - Florence + The Machine 
-#SERVICE 4097:0:1:351:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/floridageorgialine/icecast.audio:Florida Georgia Line
+#SERVICE 4097:0:1:351:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/floridageorgialine/icecast.audio:Florida Georgia Line
 #DESCRIPTION Exclusive Radio - Florida Georgia Line
-#SERVICE 4097:0:1:353:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/foofighters/icecast.audio:Foo Fighters
+#SERVICE 4097:0:1:353:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/foofighters/icecast.audio:Foo Fighters
 #DESCRIPTION Exclusive Radio - Foo Fighters
-#SERVICE 4097:0:1:355:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/foreigner/icecast.audio:Foreigner
+#SERVICE 4097:0:1:355:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/foreigner/icecast.audio:Foreigner
 #DESCRIPTION Exclusive Radio - Foreigner
-#SERVICE 4097:0:1:357:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/fourtops/icecast.audio:Four Tops
+#SERVICE 4097:0:1:357:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/fourtops/icecast.audio:Four Tops
 #DESCRIPTION Exclusive Radio - Four Tops
-#SERVICE 4097:0:1:357:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/fourtopshits/icecast.audio:Four Tops Only Hits
+#SERVICE 4097:0:1:357:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/fourtopshits/icecast.audio:Four Tops Only Hits
 #DESCRIPTION Exclusive Radio - Four Tops Only Hits
-#SERVICE 4097:0:1:357:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/franksinatra/icecast.audio:Frank Sinatra
+#SERVICE 4097:0:1:357:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/franksinatra/icecast.audio:Frank Sinatra
 #DESCRIPTION Exclusive Radio - Frank Sinatra
-#SERVICE 4097:0:1:357:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/franksinatrahits/icecast.audio:Frank Sinatra Only Hits
+#SERVICE 4097:0:1:357:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/franksinatrahits/icecast.audio:Frank Sinatra Only Hits
 #DESCRIPTION Exclusive Radio - Frank Sinatra Only Hits
-#SERVICE 4097:0:1:359:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/frankievalli/icecast.audio:Frankie Valli & The Four Seasons
+#SERVICE 4097:0:1:359:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/frankievalli/icecast.audio:Frankie Valli & The Four Seasons
 #DESCRIPTION Exclusive Radio - Frankie Valli & The Four Seasons
-#SERVICE 4097:0:1:357:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/franzferdinand/icecast.audio:Franz Ferdinand
+#SERVICE 4097:0:1:357:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/franzferdinand/icecast.audio:Franz Ferdinand
 #DESCRIPTION Exclusive Radio - Franz Ferdinand
-#SERVICE 4097:0:1:357:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/free/icecast.audio:Free
+#SERVICE 4097:0:1:357:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/free/icecast.audio:Free
 #DESCRIPTION Exclusive Radio - Free
-#SERVICE 4097:0:1:361:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/freyaridings/icecast.audio:Freya Ridings
+#SERVICE 4097:0:1:361:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/freyaridings/icecast.audio:Freya Ridings
 #DESCRIPTION Exclusive Radio - Freya Ridings
-#SERVICE 4097:0:1:361:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/futureislands/icecast.audio:Future Islands
+#SERVICE 4097:0:1:361:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/futureislands/icecast.audio:Future Islands
 #DESCRIPTION Exclusive Radio - Future Islands
-#SERVICE 4097:0:1:363:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/garthbrooks/icecast.audio:Garth Brooks
+#SERVICE 4097:0:1:363:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/garthbrooks/icecast.audio:Garth Brooks
 #DESCRIPTION Exclusive Radio - Garth Brooks
-#SERVICE 4097:0:1:363:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/garthbrookshits/icecast.audio:Garth Brooks Only Hits
+#SERVICE 4097:0:1:363:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/garthbrookshits/icecast.audio:Garth Brooks Only Hits
 #DESCRIPTION Exclusive Radio - Garth Brooks Only Hits
-#SERVICE 4097:0:1:363:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/garymoore/icecast.audio:Gary Moore
+#SERVICE 4097:0:1:363:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/garymoore/icecast.audio:Gary Moore
 #DESCRIPTION Exclusive Radio - Gary Moore
-#SERVICE 4097:0:1:363:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/garynuman/icecast.audio:Gary Numan
+#SERVICE 4097:0:1:363:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/garynuman/icecast.audio:Gary Numan
 #DESCRIPTION Exclusive Radio - Gary Numan
-#SERVICE 4097:0:1:365:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/genesis/icecast.audio:Genesis
+#SERVICE 4097:0:1:365:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/genesis/icecast.audio:Genesis
 #DESCRIPTION Exclusive Radio - Genesis
-#SERVICE 4097:0:1:367:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/georgebenson/icecast.audio:George Benson
+#SERVICE 4097:0:1:367:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/georgebenson/icecast.audio:George Benson
 #DESCRIPTION Exclusive Radio - George Benson
-#SERVICE 4097:0:1:369:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/georgeezra/icecast.audio:George Ezra
+#SERVICE 4097:0:1:369:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/georgeezra/icecast.audio:George Ezra
 #DESCRIPTION Exclusive Radio - George Ezra
-#SERVICE 4097:0:1:371:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/georgeharrison/icecast.audio:George Harrison
+#SERVICE 4097:0:1:371:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/georgeharrison/icecast.audio:George Harrison
 #DESCRIPTION Exclusive Radio - George Harrison
-#SERVICE 4097:0:1:373:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/georgejones/icecast.audio:George Jones
+#SERVICE 4097:0:1:373:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/georgejones/icecast.audio:George Jones
 #DESCRIPTION Exclusive Radio - George Jones
-#SERVICE 4097:0:1:375:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/georgemichael/icecast.audio:George Michael
+#SERVICE 4097:0:1:375:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/georgemichael/icecast.audio:George Michael
 #DESCRIPTION Exclusive Radio - George Michael
-#SERVICE 4097:0:1:377:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/georgestrait/icecast.audio:George Strait
+#SERVICE 4097:0:1:377:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/georgestrait/icecast.audio:George Strait
 #DESCRIPTION Exclusive Radio - George Strait
-#SERVICE 4097:0:1:379:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/gershwin/icecast.audio:Gershwin
+#SERVICE 4097:0:1:379:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/gershwin/icecast.audio:Gershwin
 #DESCRIPTION Exclusive Radio - Gershwin
-#SERVICE 4097:0:1:379:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/gladysknight/icecast.audio:Gladys Knight
+#SERVICE 4097:0:1:379:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/gladysknight/icecast.audio:Gladys Knight
 #DESCRIPTION Exclusive Radio - Gladys Knight
-#SERVICE 4097:0:1:381:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/glencampbell/icecast.audio:Glen Campbell
+#SERVICE 4097:0:1:381:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/glencampbell/icecast.audio:Glen Campbell
 #DESCRIPTION Exclusive Radio - Glen Campbell
-#SERVICE 4097:0:1:381:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/glencampbellhits/icecast.audio:Glen Campbell Only Hits
+#SERVICE 4097:0:1:381:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/glencampbellhits/icecast.audio:Glen Campbell Only Hits
 #DESCRIPTION Exclusive Radio - Glen Campbell Only Hits
-#SERVICE 4097:0:1:383:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/glennmiller/icecast.audio:Glenn Miller
+#SERVICE 4097:0:1:383:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/glennmiller/icecast.audio:Glenn Miller
 #DESCRIPTION Exclusive Radio - Glenn Miller
-#SERVICE 4097:0:1:385:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/gloriaestefan/icecast.audio:Gloria Estefan
+#SERVICE 4097:0:1:385:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/gloriaestefan/icecast.audio:Gloria Estefan
 #DESCRIPTION Exclusive Radio - Gloria Estefan
-#SERVICE 4097:0:1:385:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/gordonlightfoot/icecast.audio:Gordon Lightfoot
+#SERVICE 4097:0:1:385:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/gordonlightfoot/icecast.audio:Gordon Lightfoot
 #DESCRIPTION Exclusive Radio - Gordon Lightfoot
-#SERVICE 4097:0:1:397:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/gracevanderwaal/icecast.audio:Grace VanderWaal
+#SERVICE 4097:0:1:397:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/gracevanderwaal/icecast.audio:Grace VanderWaal
 #DESCRIPTION Exclusive Radio - Grace VanderWaal
-#SERVICE 4097:0:1:399:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/gramparsons/icecast.audio:Gram Parsons
+#SERVICE 4097:0:1:399:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/gramparsons/icecast.audio:Gram Parsons
 #DESCRIPTION Exclusive Radio - Gram Parsons
-#SERVICE 4097:0:1:404:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/gratefuldead/icecast.audio:Grateful Dead
+#SERVICE 4097:0:1:404:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/gratefuldead/icecast.audio:Grateful Dead
 #DESCRIPTION Exclusive Radio - Grateful Dead
-#SERVICE 4097:0:1:406:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/greenday/icecast.audio:Green Day
+#SERVICE 4097:0:1:406:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/greenday/icecast.audio:Green Day
 #DESCRIPTION Exclusive Radio - Green Day
-#SERVICE 4097:0:1:408:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/gregoryporter/icecast.audio:Gregory Porter
+#SERVICE 4097:0:1:408:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/gregoryporter/icecast.audio:Gregory Porter
 #DESCRIPTION Exclusive Radio - Gregory Porter
-#SERVICE 4097:0:1:410:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/gretchenpeters/icecast.audio:Gretchen Peters
+#SERVICE 4097:0:1:410:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/gretchenpeters/icecast.audio:Gretchen Peters
 #DESCRIPTION Exclusive Radio - Gretchen Peters
-#SERVICE 4097:0:1:412:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/gunsnroses/icecast.audio:Guns N' Roses
+#SERVICE 4097:0:1:412:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/gunsnroses/icecast.audio:Guns N' Roses
 #DESCRIPTION Exclusive Radio - Guns N' Roses
-#SERVICE 4097:0:1:420:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/haim/icecast.audio:Haim
+#SERVICE 4097:0:1:420:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/haim/icecast.audio:Haim
 #DESCRIPTION Exclusive Radio - Haim
-#SERVICE 4097:0:1:414:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/hallandoates/icecast.audio:Hall & Oates
+#SERVICE 4097:0:1:414:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/hallandoates/icecast.audio:Hall & Oates
 #DESCRIPTION Exclusive Radio - Hall & Oates
-#SERVICE 4097:0:1:414:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/hallandoateshits/icecast.audio:Hall & Oates Only Hits
+#SERVICE 4097:0:1:414:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/hallandoateshits/icecast.audio:Hall & Oates Only Hits
 #DESCRIPTION Exclusive Radio - Hall & Oates Only Hits
-#SERVICE 4097:0:1:420:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/halsey/icecast.audio:Halsey
+#SERVICE 4097:0:1:420:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/halsey/icecast.audio:Halsey
 #DESCRIPTION Exclusive Radio - Halsey
-#SERVICE 4097:0:1:418:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/hankwilliams/icecast.audio:Hank Williams
+#SERVICE 4097:0:1:418:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/hankwilliams/icecast.audio:Hank Williams
 #DESCRIPTION Exclusive Radio - Hank Williams
-#SERVICE 4097:0:1:424:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/harrychapin/icecast.audio:Harry Chapin
+#SERVICE 4097:0:1:424:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/harrychapin/icecast.audio:Harry Chapin
 #DESCRIPTION Exclusive Radio - Harry Chapin
-#SERVICE 4097:0:1:422:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/harryconnick/icecast.audio:Harry Connick Jr.
+#SERVICE 4097:0:1:422:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/harryconnick/icecast.audio:Harry Connick Jr.
 #DESCRIPTION Exclusive Radio - Harry Connick Jr.
-#SERVICE 4097:0:1:424:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/harrystyles/icecast.audio:Harry Styles
+#SERVICE 4097:0:1:424:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/harrystyles/icecast.audio:Harry Styles
 #DESCRIPTION Exclusive Radio - Harry Styles
-#SERVICE 4097:0:1:426:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/herbiehancock/icecast.audio:Herbie Hancock
+#SERVICE 4097:0:1:426:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/herbiehancock/icecast.audio:Herbie Hancock
 #DESCRIPTION Exclusive Radio - Herbie Hancock
-#SERVICE 4097:0:1:428:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/thehollies/icecast.audio:Hollies
+#SERVICE 4097:0:1:428:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/thehollies/icecast.audio:Hollies
 #DESCRIPTION Exclusive Radio - Hollies
-#SERVICE 4097:0:1:430:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/howlinwolf/icecast.audio:Howlin Wolf
+#SERVICE 4097:0:1:430:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/howlinwolf/icecast.audio:Howlin Wolf
 #DESCRIPTION Exclusive Radio - Howlin Wolf
-#SERVICE 4097:0:1:432:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/hueylewis/icecast.audio:Huey Lewis & The News
+#SERVICE 4097:0:1:432:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/hueylewis/icecast.audio:Huey Lewis & The News
 #DESCRIPTION Exclusive Radio - Huey Lewis & The News
-#SERVICE 4097:0:1:938:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/humanleague/icecast.audio:Human League
+#SERVICE 4097:0:1:938:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/humanleague/icecast.audio:Human League
 #DESCRIPTION Exclusive Radio - Human League
-#SERVICE 4097:0:1:436:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/imaginedragons/icecast.audio:Imagine Dragons
+#SERVICE 4097:0:1:436:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/imaginedragons/icecast.audio:Imagine Dragons
 #DESCRIPTION Exclusive Radio - Imagine Dragons
-#SERVICE 4097:0:1:438:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/innercircle/icecast.audio:Inner Cirle
+#SERVICE 4097:0:1:438:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/innercircle/icecast.audio:Inner Cirle
 #DESCRIPTION Exclusive Radio - Inner Circle
-#SERVICE 4097:0:1:440:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/INXS/icecast.audio:INXS
+#SERVICE 4097:0:1:440:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/INXS/icecast.audio:INXS
 #DESCRIPTION Exclusive Radio - INXS
-#SERVICE 4097:0:1:442:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/ironmaiden/icecast.audio:Iron Maiden
+#SERVICE 4097:0:1:442:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ironmaiden/icecast.audio:Iron Maiden
 #DESCRIPTION Exclusive Radio - Iron Maiden
-#SERVICE 4097:0:1:452:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jackjohnson/icecast.audio:Jack Johnson
+#SERVICE 4097:0:1:452:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jackjohnson/icecast.audio:Jack Johnson
 #DESCRIPTION Exclusive Radio - Jack Johnson
-#SERVICE 4097:0:1:454:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jackiewilson/icecast.audio:Jackie Wilson
+#SERVICE 4097:0:1:454:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jackiewilson/icecast.audio:Jackie Wilson
 #DESCRIPTION Exclusive Radio - Jackie Wilson
-#SERVICE 4097:0:1:456:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jacksonbrowne/icecast.audio:Jackson Browne
+#SERVICE 4097:0:1:456:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jacksonbrowne/icecast.audio:Jackson Browne
 #DESCRIPTION Exclusive Radio - Jackson Browne
-#SERVICE 4097:0:1:458:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/james/icecast.audio:James 
+#SERVICE 4097:0:1:458:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/james/icecast.audio:James 
 #DESCRIPTION Exclusive Radio - James 
-#SERVICE 4097:0:1:458:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jamesblunt/icecast.audio:James Blunt
+#SERVICE 4097:0:1:458:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jamesblunt/icecast.audio:James Blunt
 #DESCRIPTION Exclusive Radio - James Blunt
-#SERVICE 4097:0:1:460:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jamesbrown/icecast.audio:James Brown
+#SERVICE 4097:0:1:460:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jamesbrown/icecast.audio:James Brown
 #DESCRIPTION Exclusive Radio - James Brown
-#SERVICE 4097:0:1:460:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jamesbrownhits/icecast.audio:James Brown Only Hits
+#SERVICE 4097:0:1:460:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jamesbrownhits/icecast.audio:James Brown Only Hits
 #DESCRIPTION Exclusive Radio - James Brown Only Hits
-#SERVICE 4097:0:1:462:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jamestaylor/icecast.audio:James Taylor
+#SERVICE 4097:0:1:462:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jamestaylor/icecast.audio:James Taylor
 #DESCRIPTION Exclusive Radio - James Taylor
-#SERVICE 4097:0:1:462:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jamestaylorhits/icecast.audio:James Taylor Only Hits
+#SERVICE 4097:0:1:462:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jamestaylorhits/icecast.audio:James Taylor Only Hits
 #DESCRIPTION Exclusive Radio - James Taylor Only Hits
-#SERVICE 4097:0:1:464:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jamiecullum/icecast.audio:Jamie Cullum
+#SERVICE 4097:0:1:464:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jamiecullum/icecast.audio:Jamie Cullum
 #DESCRIPTION Exclusive Radio - Jamie Cullum
-#SERVICE 4097:0:1:466:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/janetjackson/icecast.audio:Janet Jackson
+#SERVICE 4097:0:1:466:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/janetjackson/icecast.audio:Janet Jackson
 #DESCRIPTION Exclusive Radio - Janet Jackson
-#SERVICE 4097:0:1:468:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jaquesloussier/icecast.audio:Jaques Loussier
+#SERVICE 4097:0:1:468:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jaquesloussier/icecast.audio:Jaques Loussier
 #DESCRIPTION Exclusive Radio - Jaques Loussier
-#SERVICE 4097:0:1:470:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jasonderulo/icecast.audio:Jason Derulo
+#SERVICE 4097:0:1:470:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jasonderulo/icecast.audio:Jason Derulo
 #DESCRIPTION Exclusive Radio - Jason Derulo
-#SERVICE 4097:0:1:470:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jasondonovan/icecast.audio:Jason Donovan
+#SERVICE 4097:0:1:470:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jasondonovan/icecast.audio:Jason Donovan
 #DESCRIPTION Exclusive Radio - Jason Donovan
-#SERVICE 4097:0:1:472:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jay-z/icecast.audio:JAY-Z
+#SERVICE 4097:0:1:472:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jay-z/icecast.audio:JAY-Z
 #DESCRIPTION Exclusive Radio - JAY-Z
-#SERVICE 4097:0:1:474:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jeanmicheljarre/icecast.audio:Jean-Michel Jarre 
+#SERVICE 4097:0:1:474:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jeanmicheljarre/icecast.audio:Jean-Michel Jarre 
 #DESCRIPTION Exclusive Radio - Jean-Michel Jarre 
-#SERVICE 4097:0:1:474:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jeffersonairplane/icecast.audio:Jefferson Airplane
+#SERVICE 4097:0:1:474:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jeffersonairplane/icecast.audio:Jefferson Airplane
 #DESCRIPTION Exclusive Radio - Jefferson Airplane
-#SERVICE 4097:0:1:476:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jenniferlopez/icecast.audio:Jennifer Lopez
+#SERVICE 4097:0:1:476:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jenniferlopez/icecast.audio:Jennifer Lopez
 #DESCRIPTION Exclusive Radio - Jennifer Lopez
-#SERVICE 4097:0:1:478:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jerryleelewis/icecast.audio:Jerry Lee Lewis
+#SERVICE 4097:0:1:478:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jerryleelewis/icecast.audio:Jerry Lee Lewis
 #DESCRIPTION Exclusive Radio - Jerry Lee Lewis
-#SERVICE 4097:0:1:480:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/thejesusandmarychain/icecast.audio:Jesus And Mary Chain
+#SERVICE 4097:0:1:480:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/thejesusandmarychain/icecast.audio:Jesus And Mary Chain
 #DESCRIPTION Exclusive Radio - Jesus And Mary Chain
-#SERVICE 4097:0:1:480:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jethrotull/icecast.audio:Jethro Tull
+#SERVICE 4097:0:1:480:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jethrotull/icecast.audio:Jethro Tull
 #DESCRIPTION Exclusive Radio - Jethro Tull
-#SERVICE 4097:0:1:482:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jimreeves/icecast.audio:Jim Reeves
+#SERVICE 4097:0:1:482:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jimreeves/icecast.audio:Jim Reeves
 #DESCRIPTION Exclusive Radio - Jim Reeves
-#SERVICE 4097:0:1:484:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/hendrix/icecast.audio:Jimi Hendrix
+#SERVICE 4097:0:1:484:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/hendrix/icecast.audio:Jimi Hendrix
 #DESCRIPTION Exclusive Radio - Jimi Hendrix
-#SERVICE 4097:0:1:486:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jimmycliff/icecast.audio:Jimmy Cliff
+#SERVICE 4097:0:1:486:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jimmycliff/icecast.audio:Jimmy Cliff
 #DESCRIPTION Exclusive Radio - Jimmy Cliff
-#SERVICE 4097:0:1:486:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jimmyrogers/icecast.audio:Jimmy Rogers
+#SERVICE 4097:0:1:486:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jimmyrogers/icecast.audio:Jimmy Rogers
 #DESCRIPTION Exclusive Radio - Jimmy Rogers
-#SERVICE 4097:0:1:486:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jjcale/icecast.audio:JJ Cale
+#SERVICE 4097:0:1:486:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jjcale/icecast.audio:JJ Cale
 #DESCRIPTION Exclusive Radio - JJ Cale
-#SERVICE 4097:0:1:488:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/joanbaez/icecast.audio:Joan Baez
+#SERVICE 4097:0:1:488:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/joanbaez/icecast.audio:Joan Baez
 #DESCRIPTION Exclusive Radio - Joan Baez
-#SERVICE 4097:0:1:490:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/joanjett/icecast.audio:Joan Jett
+#SERVICE 4097:0:1:490:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/joanjett/icecast.audio:Joan Jett
 #DESCRIPTION Exclusive Radio - Joan Jett
-#SERVICE 4097:0:1:492:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/joebonamassa/icecast.audio:Joe Bonamassa
+#SERVICE 4097:0:1:492:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/joebonamassa/icecast.audio:Joe Bonamassa
 #DESCRIPTION Exclusive Radio - Joe Bonamassa
-#SERVICE 4097:0:1:494:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/joesatriani/icecast.audio:Joe Satriani
+#SERVICE 4097:0:1:494:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/joesatriani/icecast.audio:Joe Satriani
 #DESCRIPTION Exclusive Radio - Joe Satriani
-#SERVICE 4097:0:1:496:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/joelcorry/icecast.audio:Joel Corry 
+#SERVICE 4097:0:1:496:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/joelcorry/icecast.audio:Joel Corry 
 #DESCRIPTION Exclusive Radio - Joel Corry 
-#SERVICE 4097:0:1:496:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/johncoltrane/icecast.audio:John Coltrane
+#SERVICE 4097:0:1:496:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/johncoltrane/icecast.audio:John Coltrane
 #DESCRIPTION Exclusive Radio - John Coltrane
-#SERVICE 4097:0:1:498:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/johndenver/icecast.audio:John Denver
+#SERVICE 4097:0:1:498:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/johndenver/icecast.audio:John Denver
 #DESCRIPTION Exclusive Radio - John Denver
-#SERVICE 4097:0:1:500:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/johnleehooker/icecast.audio:John Lee Hooker
+#SERVICE 4097:0:1:500:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/johnleehooker/icecast.audio:John Lee Hooker
 #DESCRIPTION Exclusive Radio - John Lee Hooker
-#SERVICE 4097:0:1:502:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/johnlegend/icecast.audio:John Legend
+#SERVICE 4097:0:1:502:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/johnlegend/icecast.audio:John Legend
 #DESCRIPTION Exclusive Radio - John Legend
-#SERVICE 4097:0:1:504:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/lennon/icecast.audio:John Lennon
+#SERVICE 4097:0:1:504:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lennon/icecast.audio:John Lennon
 #DESCRIPTION Exclusive Radio - John Lennon
-#SERVICE 4097:0:1:504:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/johnlennonhits/icecast.audio:John Lennon Only Hits
+#SERVICE 4097:0:1:504:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/johnlennonhits/icecast.audio:John Lennon Only Hits
 #DESCRIPTION Exclusive Radio - John Lennon Only Hits
-#SERVICE 4097:0:1:506:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/johnmartyn/icecast.audio:John Martyn
+#SERVICE 4097:0:1:506:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/johnmartyn/icecast.audio:John Martyn
 #DESCRIPTION Exclusive Radio - John Martyn
-#SERVICE 4097:0:1:508:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/johnmayall/icecast.audio:John Mayall
+#SERVICE 4097:0:1:508:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/johnmayall/icecast.audio:John Mayall
 #DESCRIPTION Exclusive Radio - John Mayall
-#SERVICE 4097:0:1:514:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/johnnycash/icecast.audio:Johnny Cash
+#SERVICE 4097:0:1:514:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/johnnycash/icecast.audio:Johnny Cash
 #DESCRIPTION Exclusive Radio - Johnny Cash
-#SERVICE 4097:0:1:514:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/johnnycashhits/icecast.audio:Johnny Cash Only Hits
+#SERVICE 4097:0:1:514:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/johnnycashhits/icecast.audio:Johnny Cash Only Hits
 #DESCRIPTION Exclusive Radio - Johnny Cash Only Hits
-#SERVICE 4097:0:1:516:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/johnnymathis/icecast.audio:Johnny Mathis
+#SERVICE 4097:0:1:516:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/johnnymathis/icecast.audio:Johnny Mathis
 #DESCRIPTION Exclusive Radio - Johnny Mathis
-#SERVICE 4097:0:1:518:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/johnnynash/icecast.audio:Johnny Nash
+#SERVICE 4097:0:1:518:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/johnnynash/icecast.audio:Johnny Nash
 #DESCRIPTION Exclusive Radio - Johnny Nash
-#SERVICE 4097:0:1:520:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/johnnywinter/icecast.audio:Johnny Winter
+#SERVICE 4097:0:1:520:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/johnnywinter/icecast.audio:Johnny Winter
 #DESCRIPTION Exclusive Radio - Johnny Winter
-#SERVICE 4097:0:1:520:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/joji/icecast.audio:Joji
+#SERVICE 4097:0:1:520:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/joji/icecast.audio:Joji
 #DESCRIPTION Exclusive Radio - Joji
-#SERVICE 4097:0:1:522:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jonasbrothers/icecast.audio:Jonas Brothers
+#SERVICE 4097:0:1:522:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jonasbrothers/icecast.audio:Jonas Brothers
 #DESCRIPTION Exclusive Radio - Jonas Brothers
-#SERVICE 4097:0:1:524:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jonimitchell/icecast.audio:Joni Mitchell
+#SERVICE 4097:0:1:524:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jonimitchell/icecast.audio:Joni Mitchell
 #DESCRIPTION Exclusive Radio - Joni Mitchell
-#SERVICE 4097:0:1:524:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/josefeliciano/icecast.audio:Jose Feliciano
+#SERVICE 4097:0:1:524:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/josefeliciano/icecast.audio:Jose Feliciano
 #DESCRIPTION Exclusive Radio - Jose Feliciano
-#SERVICE 4097:0:1:526:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/joshgroban/icecast.audio:Josh Groban
+#SERVICE 4097:0:1:526:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/joshgroban/icecast.audio:Josh Groban
 #DESCRIPTION Exclusive Radio - Josh Groban
-#SERVICE 4097:0:1:528:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/journey/icecast.audio:Journey
+#SERVICE 4097:0:1:528:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/journey/icecast.audio:Journey
 #DESCRIPTION Exclusive Radio - Journey
-#SERVICE 4097:0:1:530:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/judycollins/icecast.audio:Judy Collins
+#SERVICE 4097:0:1:530:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/judycollins/icecast.audio:Judy Collins
 #DESCRIPTION Exclusive Radio - Judy Collins
-#SERVICE 4097:0:1:530:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/juicewrld/icecast.audio:Juice WRLD
+#SERVICE 4097:0:1:530:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/juicewrld/icecast.audio:Juice WRLD
 #DESCRIPTION Exclusive Radio - Juice WRLD 
-#SERVICE 4097:0:1:532:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/justinbieber/icecast.audio:Justin Bieber
+#SERVICE 4097:0:1:532:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/justinbieber/icecast.audio:Justin Bieber
 #DESCRIPTION Exclusive Radio - Justin Bieber
-#SERVICE 4097:0:1:532:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/justinbieberhits/icecast.audio:Justin Bieber Only Hits
+#SERVICE 4097:0:1:532:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/justinbieberhits/icecast.audio:Justin Bieber Only Hits
 #DESCRIPTION Exclusive Radio - Justin Bieber Only Hits
-#SERVICE 4097:0:1:534:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/justintimberlake/icecast.audio:Justin Timberlake
+#SERVICE 4097:0:1:534:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/justintimberlake/icecast.audio:Justin Timberlake
 #DESCRIPTION Exclusive Radio - Justin Timberlake
-#SERVICE 4097:0:1:538:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/kaceymusgraves/icecast.audio:Kacey Musgraves 
+#SERVICE 4097:0:1:538:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kaceymusgraves/icecast.audio:Kacey Musgraves 
 #DESCRIPTION Exclusive Radio - Kacey Musgraves 
-#SERVICE 4097:0:1:538:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/kanyewest/icecast.audio:Kanye West
+#SERVICE 4097:0:1:538:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kanyewest/icecast.audio:Kanye West
 #DESCRIPTION Exclusive Radio - Kanye West
-#SERVICE 4097:0:1:540:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/kasabian/icecast.audio:Kasabian
+#SERVICE 4097:0:1:540:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kasabian/icecast.audio:Kasabian
 #DESCRIPTION Exclusive Radio - Kasabian
-#SERVICE 4097:0:1:540:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/katebush/icecast.audio:Kate Bush
+#SERVICE 4097:0:1:540:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/katebush/icecast.audio:Kate Bush
 #DESCRIPTION Exclusive Radio - Kate Bush
-#SERVICE 4097:0:1:542:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/katerusby/icecast.audio:Kate Rusby
+#SERVICE 4097:0:1:542:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/katerusby/icecast.audio:Kate Rusby
 #DESCRIPTION Exclusive Radio - Kate Rusby
-#SERVICE 4097:0:1:544:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/katyperry/icecast.audio:Katy Perry
+#SERVICE 4097:0:1:544:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/katyperry/icecast.audio:Katy Perry
 #DESCRIPTION Exclusive Radio - Katy Perry
-#SERVICE 4097:0:1:546:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/keane/icecast.audio:Keane
+#SERVICE 4097:0:1:546:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/keane/icecast.audio:Keane
 #DESCRIPTION Exclusive Radio - Keane
-#SERVICE 4097:0:1:548:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/kehlani/icecast.audio:Kehlani
+#SERVICE 4097:0:1:548:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kehlani/icecast.audio:Kehlani
 #DESCRIPTION Exclusive Radio - Kehlani
-#SERVICE 4097:0:1:550:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/keithurban/icecast.audio:Keith Urban
+#SERVICE 4097:0:1:550:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/keithurban/icecast.audio:Keith Urban
 #DESCRIPTION Exclusive Radio - Keith Urban
-#SERVICE 4097:0:1:552:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/kellyclarkson/icecast.audio:Kelly Clarkson
+#SERVICE 4097:0:1:552:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kellyclarkson/icecast.audio:Kelly Clarkson
 #DESCRIPTION Exclusive Radio - Kelly Clarkson
-#SERVICE 4097:0:1:554:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/kendricklamar/icecast.audio:Kendrick Lamar
+#SERVICE 4097:0:1:554:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kendricklamar/icecast.audio:Kendrick Lamar
 #DESCRIPTION Exclusive Radio - Kendrick Lamar
-#SERVICE 4097:0:1:556:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/kennychesney/icecast.audio:Kenny Chesney
+#SERVICE 4097:0:1:556:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kennychesney/icecast.audio:Kenny Chesney
 #DESCRIPTION Exclusive Radio - Kenny Chesney
-#SERVICE 4097:0:1:558:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/kennyg/icecast.audio:Kenny G
+#SERVICE 4097:0:1:558:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kennyg/icecast.audio:Kenny G
 #DESCRIPTION Exclusive Radio - Kenny G
-#SERVICE 4097:0:1:560:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/kennyrogers/icecast.audio:Kenny Rogers
+#SERVICE 4097:0:1:560:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kennyrogers/icecast.audio:Kenny Rogers
 #DESCRIPTION Exclusive Radio - Kenny Rogers
-#SERVICE 4097:0:1:562:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/kiefersutherland/icecast.audio:Kiefer Sutherland
+#SERVICE 4097:0:1:562:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kiefersutherland/icecast.audio:Kiefer Sutherland
 #DESCRIPTION Exclusive Radio - Kiefer Sutherland
-#SERVICE 4097:0:1:940:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/thekillers/icecast.audio:Killers
+#SERVICE 4097:0:1:940:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/thekillers/icecast.audio:Killers
 #DESCRIPTION Exclusive Radio - Killers
-#SERVICE 4097:0:1:940:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/kingsofleon/icecast.audio:Kings Of Leon
+#SERVICE 4097:0:1:940:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kingsofleon/icecast.audio:Kings Of Leon
 #DESCRIPTION Exclusive Radio - Kings Of Leon
-#SERVICE 4097:0:1:942:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/thekinks/icecast.audio:The Kinks
+#SERVICE 4097:0:1:942:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/thekinks/icecast.audio:The Kinks
 #DESCRIPTION Exclusive Radio - The Kinks
-#SERVICE 4097:0:1:564:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/kipmoore/icecast.audio:Kip Moore
+#SERVICE 4097:0:1:564:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kipmoore/icecast.audio:Kip Moore
 #DESCRIPTION Exclusive Radio - Kip Moore
-#SERVICE 4097:0:1:566:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/kiss/icecast.audio:KISS
+#SERVICE 4097:0:1:566:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kiss/icecast.audio:KISS
 #DESCRIPTION Exclusive Radio - KISS
-#SERVICE 4097:0:1:568:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/kraftwerk/icecast.audio:Kraftwerk
+#SERVICE 4097:0:1:568:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kraftwerk/icecast.audio:Kraftwerk
 #DESCRIPTION Exclusive Radio - Kraftwerk
-#SERVICE 4097:0:1:568:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/kylie/icecast.audio:Kylie Minogue
+#SERVICE 4097:0:1:568:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kylie/icecast.audio:Kylie Minogue
 #DESCRIPTION Exclusive Radio - Kylie Minogue
-#SERVICE 4097:0:1:570:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/ladyantebellum/icecast.audio:Lady A
+#SERVICE 4097:0:1:570:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ladyantebellum/icecast.audio:Lady A
 #DESCRIPTION Exclusive Radio - Lady A
-#SERVICE 4097:0:1:572:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/ladygaga/icecast.audio:Lady Gaga
+#SERVICE 4097:0:1:572:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ladygaga/icecast.audio:Lady Gaga
 #DESCRIPTION Exclusive Radio - Lady Gaga
-#SERVICE 4097:0:1:572:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/lanadelrey/icecast.audio:Lady Del Rey
+#SERVICE 4097:0:1:572:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lanadelrey/icecast.audio:Lady Del Rey
 #DESCRIPTION Exclusive Radio - Lana Del Rey
-#SERVICE 4097:0:1:572:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/lany/icecast.audio:Lany
+#SERVICE 4097:0:1:572:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lany/icecast.audio:Lany
 #DESCRIPTION Exclusive Radio - Lany
-#SERVICE 4097:0:1:574:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/ledzeppelin/icecast.audio:Led Zeppelin
+#SERVICE 4097:0:1:574:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ledzeppelin/icecast.audio:Led Zeppelin
 #DESCRIPTION Exclusive Radio - Led Zeppelin
-#SERVICE 4097:0:1:574:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/ledzeppelinhits/icecast.audio:Led Zeppelin Only Hits
+#SERVICE 4097:0:1:574:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ledzeppelinhits/icecast.audio:Led Zeppelin Only Hits
 #DESCRIPTION Exclusive Radio - Led Zeppelin Only Hits
-#SERVICE 4097:0:1:576:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/leonardcohen/icecast.audio:Leonard Cohen
+#SERVICE 4097:0:1:576:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/leonardcohen/icecast.audio:Leonard Cohen
 #DESCRIPTION Exclusive Radio - Leonard Cohen
-#SERVICE 4097:0:1:576:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/level42/icecast.audio:Level42
+#SERVICE 4097:0:1:576:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/level42/icecast.audio:Level42
 #DESCRIPTION Exclusive Radio - Level 42
-#SERVICE 4097:0:1:578:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/lewiscapaldi/icecast.audio:Lewis Capaldi
+#SERVICE 4097:0:1:578:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lewiscapaldi/icecast.audio:Lewis Capaldi
 #DESCRIPTION Exclusive Radio - Lewis Capaldi
-#SERVICE 4097:0:1:578:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/liamgallagher/icecast.audio:Liam Gallagher
+#SERVICE 4097:0:1:578:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/liamgallagher/icecast.audio:Liam Gallagher
 #DESCRIPTION Exclusive Radio - Liam Gallagher
-#SERVICE 4097:0:1:578:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/lilnasx/icecast.audio:Lil Nas X
+#SERVICE 4097:0:1:578:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lilnasx/icecast.audio:Lil Nas X
 #DESCRIPTION Exclusive Radio - Lil Nas X
-#SERVICE 4097:0:1:578:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/lindaronstadt/icecast.audio:Linda Ronstadt
+#SERVICE 4097:0:1:578:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lindaronstadt/icecast.audio:Linda Ronstadt
 #DESCRIPTION Exclusive Radio - Linda Ronstadt
-#SERVICE 4097:0:1:578:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/lindisfarne/icecast.audio:Lindisfarne
+#SERVICE 4097:0:1:578:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lindisfarne/icecast.audio:Lindisfarne
 #DESCRIPTION Exclusive Radio - Lindisfarne
-#SERVICE 4097:0:1:580:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/lionelrichie/icecast.audio:Lionel Richie
+#SERVICE 4097:0:1:580:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lionelrichie/icecast.audio:Lionel Richie
 #DESCRIPTION Exclusive Radio - Lionel Richie
-#SERVICE 4097:0:1:580:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/lionelrichiehits/icecast.audio:Lionel Richie Only Hits
+#SERVICE 4097:0:1:580:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lionelrichiehits/icecast.audio:Lionel Richie Only Hits
 #DESCRIPTION Exclusive Radio - Lionel Richie Only Hits
-#SERVICE 4097:0:1:584:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/littlefeat/icecast.audio:Little Feat
+#SERVICE 4097:0:1:584:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/littlefeat/icecast.audio:Little Feat
 #DESCRIPTION Exclusive Radio - Little Feat
-#SERVICE 4097:0:1:586:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/littlemix/icecast.audio:Little Mix
+#SERVICE 4097:0:1:586:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/littlemix/icecast.audio:Little Mix
 #DESCRIPTION Exclusive Radio - Little Mix
-#SERVICE 4097:0:1:588:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/littlerichardhits/icecast.audio:Little Richard Only Hits
+#SERVICE 4097:0:1:588:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/littlerichardhits/icecast.audio:Little Richard Only Hits
 #DESCRIPTION Exclusive Radio - Little Richard Only Hits
-#SERVICE 4097:0:1:590:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/lizzo/icecast.audio:Lizzo
+#SERVICE 4097:0:1:590:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lizzo/icecast.audio:Lizzo
 #DESCRIPTION Exclusive Radio - Lizzo
-#SERVICE 4097:0:1:592:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/lorde/icecast.audio:Lorde
+#SERVICE 4097:0:1:592:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lorde/icecast.audio:Lorde
 #DESCRIPTION Exclusive Radio - Lorde
-#SERVICE 4097:0:1:594:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/lorettalynn/icecast.audio:Loretta Lynn
+#SERVICE 4097:0:1:594:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lorettalynn/icecast.audio:Loretta Lynn
 #DESCRIPTION Exclusive Radio - Loretta Lynn
-#SERVICE 4097:0:1:596:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/loudonwainwrightiii/icecast.audio:Loudon Wainwright III
+#SERVICE 4097:0:1:596:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/loudonwainwrightiii/icecast.audio:Loudon Wainwright III
 #DESCRIPTION Exclusive Radio - Loudon Wainwright III
-#SERVICE 4097:0:1:598:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/louisarmstrong/icecast.audio:Louis Armstrong
+#SERVICE 4097:0:1:598:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/louisarmstrong/icecast.audio:Louis Armstrong
 #DESCRIPTION Exclusive Radio - Louis Armstrong
-#SERVICE 4097:0:1:605:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/lukebryan/icecast.audio:Luke Bryan
+#SERVICE 4097:0:1:605:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lukebryan/icecast.audio:Luke Bryan
 #DESCRIPTION Exclusive Radio - Luke Bryan
-#SERVICE 4097:0:1:605:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/lynyrdskynyrd/icecast.audio:Lynyrd Skynyrd
+#SERVICE 4097:0:1:605:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lynyrdskynyrd/icecast.audio:Lynyrd Skynyrd
 #DESCRIPTION Exclusive Radio - Lynyrd Skynyrd
-#SERVICE 4097:0:1:607:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/mabel/icecast.audio:Mabel
+#SERVICE 4097:0:1:607:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/mabel/icecast.audio:Mabel
 #DESCRIPTION Exclusive Radio - Mabel
-#SERVICE 4097:0:1:607:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/madness/icecast.audio:Madness
+#SERVICE 4097:0:1:607:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/madness/icecast.audio:Madness
 #DESCRIPTION Exclusive Radio - Madness
-#SERVICE 4097:0:1:609:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/madonna/icecast.audio:Madonna
+#SERVICE 4097:0:1:609:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/madonna/icecast.audio:Madonna
 #DESCRIPTION Exclusive Radio - Madonna
-#SERVICE 4097:0:1:609:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/madonnahits/icecast.audio:Madonna Only Hits
+#SERVICE 4097:0:1:609:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/madonnahits/icecast.audio:Madonna Only Hits
 #DESCRIPTION Exclusive Radio - Madonna Only Hits
-#SERVICE 4097:0:1:611:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/manicstreetpreachers/icecast.audio:Manic Street Preachers
+#SERVICE 4097:0:1:611:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/manicstreetpreachers/icecast.audio:Manic Street Preachers
 #DESCRIPTION Exclusive Radio - Manic Street Preachers
-#SERVICE 4097:0:1:613:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/mariahcarey/icecast.audio:Mariah Carey
+#SERVICE 4097:0:1:613:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/mariahcarey/icecast.audio:Mariah Carey
 #DESCRIPTION Exclusive Radio - Mariah Carey
-#SERVICE 4097:0:1:613:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/mariahcareyhits/icecast.audio:Mariah Carey Only Hits
+#SERVICE 4097:0:1:613:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/mariahcareyhits/icecast.audio:Mariah Carey Only Hits
 #DESCRIPTION Exclusive Radio - Mariah Carey Only Hits
-#SERVICE 4097:0:1:615:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/maroon5/icecast.audio:Maroon 5
+#SERVICE 4097:0:1:615:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/maroon5/icecast.audio:Maroon 5
 #DESCRIPTION Exclusive Radio - Maroon 5
-#SERVICE 4097:0:1:615:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/marshmello/icecast.audio:Marshmello
+#SERVICE 4097:0:1:615:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/marshmello/icecast.audio:Marshmello
 #DESCRIPTION Exclusive Radio - Marshmello
-#SERVICE 4097:0:1:617:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/marvingaye/icecast.audio:Marvin Gaye
+#SERVICE 4097:0:1:617:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/marvingaye/icecast.audio:Marvin Gaye
 #DESCRIPTION Exclusive Radio - Marvin Gaye
-#SERVICE 4097:0:1:617:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/marvingayehits/icecast.audio:Marvin Gaye Only Hits
+#SERVICE 4097:0:1:617:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/marvingayehits/icecast.audio:Marvin Gaye Only Hits
 #DESCRIPTION Exclusive Radio - Marvin Gaye Only Hits
-#SERVICE 4097:0:1:619:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/maryjblige/icecast.audio:Mary J. Blige
+#SERVICE 4097:0:1:619:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/maryjblige/icecast.audio:Mary J. Blige
 #DESCRIPTION Exclusive Radio - Mary J. Blige
-#SERVICE 4097:0:1:623:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/mattmonro/icecast.audio:Matt Monro
+#SERVICE 4097:0:1:623:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/mattmonro/icecast.audio:Matt Monro
 #DESCRIPTION Exclusive Radio - Matt Monro
-#SERVICE 4097:0:1:944:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/themavericks/icecast.audio:Mavericks
+#SERVICE 4097:0:1:944:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/themavericks/icecast.audio:Mavericks
 #DESCRIPTION Exclusive Radio - Mavericks
-#SERVICE 4097:0:1:625:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/meatloaf/icecast.audio:Meat Loaf
+#SERVICE 4097:0:1:625:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/meatloaf/icecast.audio:Meat Loaf
 #DESCRIPTION Exclusive Radio - Meat Loaf
-#SERVICE 4097:0:1:629:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/merlehaggard/icecast.audio:Merle Haggard
+#SERVICE 4097:0:1:629:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/merlehaggard/icecast.audio:Merle Haggard
 #DESCRIPTION Exclusive Radio - Merle Haggard
-#SERVICE 4097:0:1:631:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/metallica/icecast.audio:Metallica
+#SERVICE 4097:0:1:631:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/metallica/icecast.audio:Metallica
 #DESCRIPTION Exclusive Radio - Metallica
-#SERVICE 4097:0:1:633:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/michaelbolton/icecast.audio:Michael Bolton
+#SERVICE 4097:0:1:633:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/michaelbolton/icecast.audio:Michael Bolton
 #DESCRIPTION Exclusive Radio - Michael Bolton
-#SERVICE 4097:0:1:635:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/michaelbuble/icecast.audio:Michael Buble
+#SERVICE 4097:0:1:635:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/michaelbuble/icecast.audio:Michael Buble
 #DESCRIPTION Exclusive Radio - Michael Buble
-#SERVICE 4097:0:1:637:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/michaeljackson/icecast.audio:Michael Jackson
+#SERVICE 4097:0:1:637:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/michaeljackson/icecast.audio:Michael Jackson
 #DESCRIPTION Exclusive Radio - Michael Jackson
-#SERVICE 4097:0:1:637:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/michaeljacksonhits/icecast.audio:Michael Jackson Only Hits
+#SERVICE 4097:0:1:637:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/michaeljacksonhits/icecast.audio:Michael Jackson Only Hits
 #DESCRIPTION Exclusive Radio - Michael Jackson Only Hits
-#SERVICE 4097:0:1:639:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/michaelkiwanuka/icecast.audio:Michael Kiwanuka
+#SERVICE 4097:0:1:639:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/michaelkiwanuka/icecast.audio:Michael Kiwanuka
 #DESCRIPTION Exclusive Radio - Michael Kiwanuka
-#SERVICE 4097:0:1:641:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/mikeandthemechanics/icecast.audio:Mike And The Mechanics
+#SERVICE 4097:0:1:641:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/mikeandthemechanics/icecast.audio:Mike And The Mechanics
 #DESCRIPTION Exclusive Radio - Mike And The Mechanics
-#SERVICE 4097:0:1:643:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/mikeoldfield/icecast.audio:Mike Oldfield
+#SERVICE 4097:0:1:643:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/mikeoldfield/icecast.audio:Mike Oldfield
 #DESCRIPTION Exclusive Radio - Mike Oldfield
-#SERVICE 4097:0:1:643:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/milesdavis/icecast.audio:Miles Davis
+#SERVICE 4097:0:1:643:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/milesdavis/icecast.audio:Miles Davis
 #DESCRIPTION Exclusive Radio - Miles Davis
-#SERVICE 4097:0:1:645:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/mileycyrus/icecast.audio:Miley Cyrus
+#SERVICE 4097:0:1:645:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/mileycyrus/icecast.audio:Miley Cyrus
 #DESCRIPTION Exclusive Radio - Miley Cyrus
-#SERVICE 4097:0:1:649:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/moby/icecast.audio:Moby
+#SERVICE 4097:0:1:649:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/moby/icecast.audio:Moby
 #DESCRIPTION Exclusive Radio - Moby
-#SERVICE 4097:0:1:946:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/themonkees/icecast.audio:Monkees
+#SERVICE 4097:0:1:946:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/themonkees/icecast.audio:Monkees
 #DESCRIPTION Exclusive Radio - Monkees
-#SERVICE 4097:0:1:948:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/moodyblues/icecast.audio:Moody Blues
+#SERVICE 4097:0:1:948:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/moodyblues/icecast.audio:Moody Blues
 #DESCRIPTION Exclusive Radio - Moody Blues
-#SERVICE 4097:0:1:948:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/motleycrue/icecast.audio:Mötley Crüe
+#SERVICE 4097:0:1:948:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/motleycrue/icecast.audio:Mötley Crüe
 #DESCRIPTION Exclusive Radio - Mötley Crüe
-#SERVICE 4097:0:1:948:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/motorhead/icecast.audio:Motörhead
+#SERVICE 4097:0:1:948:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/motorhead/icecast.audio:Motörhead
 #DESCRIPTION Exclusive Radio - Motörhead
-#SERVICE 4097:0:1:657:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/muddywaters/icecast.audio:Muddy Waters
+#SERVICE 4097:0:1:657:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/muddywaters/icecast.audio:Muddy Waters
 #DESCRIPTION Exclusive Radio - Muddy Waters
-#SERVICE 4097:0:1:657:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/muse/icecast.audio:Muse
+#SERVICE 4097:0:1:657:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/muse/icecast.audio:Muse
 #DESCRIPTION Exclusive Radio - Muse
-#SERVICE 4097:0:1:661:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/natkingcole/icecast.audio:Nat King Cole
+#SERVICE 4097:0:1:661:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/natkingcole/icecast.audio:Nat King Cole
 #DESCRIPTION Exclusive Radio - Nat King Cole
-#SERVICE 4097:0:1:661:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/natkingcolehits/icecast.audio:Nat King Cole Only Hits
+#SERVICE 4097:0:1:661:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/natkingcolehits/icecast.audio:Nat King Cole Only Hits
 #DESCRIPTION Exclusive Radio - Nat King Cole Only Hits
-#SERVICE 4097:0:1:663:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/neildiamond/icecast.audio:Neil Diamond
+#SERVICE 4097:0:1:663:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/neildiamond/icecast.audio:Neil Diamond
 #DESCRIPTION Exclusive Radio - Neil Diamond
-#SERVICE 4097:0:1:663:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/neildiamondhits/icecast.audio:Neil Diamond Only Hits
+#SERVICE 4097:0:1:663:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/neildiamondhits/icecast.audio:Neil Diamond Only Hits
 #DESCRIPTION Exclusive Radio - Neil Diamond Only Hits
-#SERVICE 4097:0:1:665:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/neilyoung/icecast.audio:Neil Young
+#SERVICE 4097:0:1:665:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/neilyoung/icecast.audio:Neil Young
 #DESCRIPTION Exclusive Radio - Neil Young
-#SERVICE 4097:0:1:667:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/neworder/icecast.audio:New Order
+#SERVICE 4097:0:1:667:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/neworder/icecast.audio:New Order
 #DESCRIPTION Exclusive Radio - New Order
-#SERVICE 4097:0:1:671:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/niallhoran/icecast.audio:Niall Horan
+#SERVICE 4097:0:1:671:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/niallhoran/icecast.audio:Niall Horan
 #DESCRIPTION Exclusive Radio - Niall Horan
-#SERVICE 4097:0:1:673:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/nickelback/icecast.audio:Nickelback
+#SERVICE 4097:0:1:673:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/nickelback/icecast.audio:Nickelback
 #DESCRIPTION Exclusive Radio - Nickelback
-#SERVICE 4097:0:1:675:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/nickiminaj/icecast.audio:Nicki Minaj
+#SERVICE 4097:0:1:675:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/nickiminaj/icecast.audio:Nicki Minaj
 #DESCRIPTION Exclusive Radio - Nicki Minaj
-#SERVICE 4097:0:1:677:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/ninasimone/icecast.audio:Nina Simone
+#SERVICE 4097:0:1:677:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ninasimone/icecast.audio:Nina Simone
 #DESCRIPTION Exclusive Radio - Nina Simone
-#SERVICE 4097:0:1:679:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/nirvana/icecast.audio:Nirvana
+#SERVICE 4097:0:1:679:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/nirvana/icecast.audio:Nirvana
 #DESCRIPTION Exclusive Radio - Nirvana
-#SERVICE 4097:0:1:681:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/noelgallagher/icecast.audio:Noel Gallagher
+#SERVICE 4097:0:1:681:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/noelgallagher/icecast.audio:Noel Gallagher
 #DESCRIPTION Exclusive Radio - Noel Gallagher 
-#SERVICE 4097:0:1:681:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/norahjones/icecast.audio:Norah Jones
+#SERVICE 4097:0:1:681:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/norahjones/icecast.audio:Norah Jones
 #DESCRIPTION Exclusive Radio - Norah Jones
-#SERVICE 4097:0:1:685:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/oasis/icecast.audio:Oasis
+#SERVICE 4097:0:1:685:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/oasis/icecast.audio:Oasis
 #DESCRIPTION Exclusive Radio - Oasis
-#SERVICE 4097:0:1:685:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/oasishits/icecast.audio:Oasis Only Hits
+#SERVICE 4097:0:1:685:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/oasishits/icecast.audio:Oasis Only Hits
 #DESCRIPTION Exclusive Radio - Oasis Only Hits
-#SERVICE 4097:0:1:689:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/onj/icecast.audio:Olivia Newton John
+#SERVICE 4097:0:1:689:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/onj/icecast.audio:Olivia Newton John
 #DESCRIPTION Exclusive Radio - Olivia Newton John
-#SERVICE 4097:0:1:689:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/oliviarodrigo/icecast.audio:Olivia Rodrigo
+#SERVICE 4097:0:1:689:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/oliviarodrigo/icecast.audio:Olivia Rodrigo
 #DESCRIPTION Exclusive Radio - Olivia Rodrigo
-#SERVICE 4097:0:1:691:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/onedirection/icecast.audio:One Direction
+#SERVICE 4097:0:1:691:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/onedirection/icecast.audio:One Direction
 #DESCRIPTION Exclusive Radio - One Direction
-#SERVICE 4097:0:1:691:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/onerepublic/icecast.audio:One Republic
+#SERVICE 4097:0:1:691:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/onerepublic/icecast.audio:One Republic
 #DESCRIPTION Exclusive Radio - One Republic
-#SERVICE 4097:0:1:691:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/omd/icecast.audio:Orchestral Manoeuvres in the Dark
+#SERVICE 4097:0:1:691:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/omd/icecast.audio:Orchestral Manoeuvres in the Dark
 #DESCRIPTION Exclusive Radio - Orchestral Manoeuvres in the Dark
-#SERVICE 4097:0:1:693:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/oscarpeterson/icecast.audio:Oscar Peterson
+#SERVICE 4097:0:1:693:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/oscarpeterson/icecast.audio:Oscar Peterson
 #DESCRIPTION Exclusive Radio - Oscar Peterson
-#SERVICE 4097:0:1:695:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/otisredding/icecast.audio:Otis Redding
+#SERVICE 4097:0:1:695:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/otisredding/icecast.audio:Otis Redding
 #DESCRIPTION Exclusive Radio - Otis Redding
-#SERVICE 4097:0:1:695:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/otisreddinghits/icecast.audio:Otis Redding Only Hits
+#SERVICE 4097:0:1:695:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/otisreddinghits/icecast.audio:Otis Redding Only Hits
 #DESCRIPTION Exclusive Radio - Otis Redding Only Hits
-#SERVICE 4097:0:1:697:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/pink/icecast.audio:P!nk
+#SERVICE 4097:0:1:697:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/pink/icecast.audio:P!nk
 #DESCRIPTION Exclusive Radio - P!nk
-#SERVICE 4097:0:1:697:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/palomafaith/icecast.audio:Paloma Faith
+#SERVICE 4097:0:1:697:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/palomafaith/icecast.audio:Paloma Faith
 #DESCRIPTION Exclusive Radio - Paloma Faith
-#SERVICE 4097:0:1:697:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/passenger/icecast.audio:Passenger
+#SERVICE 4097:0:1:697:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/passenger/icecast.audio:Passenger
 #DESCRIPTION Exclusive Radio - Passenger
-#SERVICE 4097:0:1:705:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/patsycline/icecast.audio:Patsy Cline
+#SERVICE 4097:0:1:705:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/patsycline/icecast.audio:Patsy Cline
 #DESCRIPTION Exclusive Radio - Patsy Cline
-#SERVICE 4097:0:1:707:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/pattismith/icecast.audio:Patti Smith
+#SERVICE 4097:0:1:707:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/pattismith/icecast.audio:Patti Smith
 #DESCRIPTION Exclusive Radio - Patti Smith
-#SERVICE 4097:0:1:709:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/paulmccartney/icecast.audio:Paul McCartney
+#SERVICE 4097:0:1:709:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/paulmccartney/icecast.audio:Paul McCartney
 #DESCRIPTION Exclusive Radio - Paul McCartney
-#SERVICE 4097:0:1:711:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/paulweller/icecast.audio:Paul Weller
+#SERVICE 4097:0:1:711:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/paulweller/icecast.audio:Paul Weller
 #DESCRIPTION Exclusive Radio - Paul Weller
-#SERVICE 4097:0:1:713:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/perrycomo/icecast.audio:Perry Como
+#SERVICE 4097:0:1:713:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/perrycomo/icecast.audio:Perry Como
 #DESCRIPTION Exclusive Radio - Perry Como
-#SERVICE 4097:0:1:715:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/petshopboys/icecast.audio:Pet Shop Boys
+#SERVICE 4097:0:1:715:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/petshopboys/icecast.audio:Pet Shop Boys
 #DESCRIPTION Exclusive Radio - Pet Shop Boys
-#SERVICE 4097:0:1:715:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/petshopboyshits/icecast.audio:Pet Shop Boys Only Hits
+#SERVICE 4097:0:1:715:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/petshopboyshits/icecast.audio:Pet Shop Boys Only Hits
 #DESCRIPTION Exclusive Radio - Pet Shop Boys Only Hits
-#SERVICE 4097:0:1:717:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/peteseeger/icecast.audio:Pete Seeger
+#SERVICE 4097:0:1:717:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/peteseeger/icecast.audio:Pete Seeger
 #DESCRIPTION Exclusive Radio - Pete Seeger
-#SERVICE 4097:0:1:719:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/peterframpton/icecast.audio:Peter Frampton
+#SERVICE 4097:0:1:719:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/peterframpton/icecast.audio:Peter Frampton
 #DESCRIPTION Exclusive Radio - Peter Frampton
-#SERVICE 4097:0:1:719:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/petergabriel/icecast.audio:Peter Gabriel
+#SERVICE 4097:0:1:719:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/petergabriel/icecast.audio:Peter Gabriel
 #DESCRIPTION Exclusive Radio - Peter Gabriel
-#SERVICE 4097:0:1:721:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/pgfleetwood/icecast.audio:Peter Green's Fleetwood Mac
+#SERVICE 4097:0:1:721:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/pgfleetwood/icecast.audio:Peter Green's Fleetwood Mac
 #DESCRIPTION Exclusive Radio - Peter Green's Fleetwood Mac
-#SERVICE 4097:0:1:719:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/petertosh/icecast.audio:Peter Tosh
+#SERVICE 4097:0:1:719:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/petertosh/icecast.audio:Peter Tosh
 #DESCRIPTION Exclusive Radio - Peter Tosh
-#SERVICE 4097:0:1:723:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/pharrellwilliams/icecast.audio:Pharrell Williams
+#SERVICE 4097:0:1:723:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/pharrellwilliams/icecast.audio:Pharrell Williams
 #DESCRIPTION Exclusive Radio - Pharrell Williams
-#SERVICE 4097:0:1:725:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/philcollins/icecast.audio:Phil Collins
+#SERVICE 4097:0:1:725:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/philcollins/icecast.audio:Phil Collins
 #DESCRIPTION Exclusive Radio - Phil Collins
-#SERVICE 4097:0:1:725:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/philcollinshits/icecast.audio:Phil Collins Only Hits
+#SERVICE 4097:0:1:725:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/philcollinshits/icecast.audio:Phil Collins Only Hits
 #DESCRIPTION Exclusive Radio - Phil Collins Only Hits
-#SERVICE 4097:0:1:731:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/pinkfloyd/icecast.audio:Pink Floyd
+#SERVICE 4097:0:1:731:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/pinkfloyd/icecast.audio:Pink Floyd
 #DESCRIPTION Exclusive Radio - Pink Floyd
-#SERVICE 4097:0:1:731:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/pinkfloydhits/icecast.audio:Pink Floyd Only Hits
+#SERVICE 4097:0:1:731:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/pinkfloydhits/icecast.audio:Pink Floyd Only Hits
 #DESCRIPTION Exclusive Radio - Pink Floyd Only Hits
-#SERVICE 4097:0:1:735:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/pixies/icecast.audio:Pixies
+#SERVICE 4097:0:1:735:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/pixies/icecast.audio:Pixies
 #DESCRIPTION Exclusive Radio - Pixies
-#SERVICE 4097:0:1:735:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/postmalone/icecast.audio:Post Malone
+#SERVICE 4097:0:1:735:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/postmalone/icecast.audio:Post Malone
 #DESCRIPTION Exclusive Radio - Post Malone
-#SERVICE 4097:0:1:952:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/pretenders/icecast.audio:Pretenders
+#SERVICE 4097:0:1:952:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/pretenders/icecast.audio:Pretenders
 #DESCRIPTION Exclusive Radio - Pretenders
-#SERVICE 4097:0:1:737:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/prince/icecast.audio:Prince
+#SERVICE 4097:0:1:737:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/prince/icecast.audio:Prince
 #DESCRIPTION Exclusive Radio - Prince
-#SERVICE 4097:0:1:737:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/princehits/icecast.audio:Prince Only Hits
+#SERVICE 4097:0:1:737:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/princehits/icecast.audio:Prince Only Hits
 #DESCRIPTION Exclusive Radio - Prince Only Hits
-#SERVICE 4097:0:1:737:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/princebuster/icecast.audio:Prince Buster
+#SERVICE 4097:0:1:737:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/princebuster/icecast.audio:Prince Buster
 #DESCRIPTION Exclusive Radio - Prince Buster
-#SERVICE 4097:0:1:737:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/pulp/icecast.audio:Pulp
+#SERVICE 4097:0:1:737:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/pulp/icecast.audio:Pulp
 #DESCRIPTION Exclusive Radio - Pulp
-#SERVICE 4097:0:1:739:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/pussycatdolls/icecast.audio:Pussycat Dolls
+#SERVICE 4097:0:1:739:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/pussycatdolls/icecast.audio:Pussycat Dolls
 #DESCRIPTION Exclusive Radio - Pussycat Dolls
-#SERVICE 4097:0:1:741:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/queen/icecast.audio:Queen
+#SERVICE 4097:0:1:741:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/queen/icecast.audio:Queen
 #DESCRIPTION Exclusive Radio - Queen
-#SERVICE 4097:0:1:741:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/queenhits/icecast.audio:Queen Only Hits
+#SERVICE 4097:0:1:741:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/queenhits/icecast.audio:Queen Only Hits
 #DESCRIPTION Exclusive Radio - Queen Only Hits
-#SERVICE 4097:0:1:743:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/rem/icecast.audio:R.E.M.
+#SERVICE 4097:0:1:743:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/rem/icecast.audio:R.E.M.
 #DESCRIPTION Exclusive Radio - R.E.M.
-#SERVICE 4097:0:1:743:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/remhits/icecast.audio:R.E.M. Only Hits
+#SERVICE 4097:0:1:743:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/remhits/icecast.audio:R.E.M. Only Hits
 #DESCRIPTION Exclusive Radio - R.E.M. Only Hits
-#SERVICE 4097:0:1:747:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/radiohead/icecast.audio:Radiohead
+#SERVICE 4097:0:1:747:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/radiohead/icecast.audio:Radiohead
 #DESCRIPTION Exclusive Radio - Radiohead
-#SERVICE 4097:0:1:747:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/ragnboneman/icecast.audio:Rag N Bone Man
+#SERVICE 4097:0:1:747:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ragnboneman/icecast.audio:Rag N Bone Man
 #DESCRIPTION Exclusive Radio - Rag N Bone Man
-#SERVICE 4097:0:1:747:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/ramones/icecast.audio:Ramones
+#SERVICE 4097:0:1:747:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ramones/icecast.audio:Ramones
 #DESCRIPTION Exclusive Radio - Ramones
-#SERVICE 4097:0:1:749:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/randytravis/icecast.audio:Randy Travis
+#SERVICE 4097:0:1:749:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/randytravis/icecast.audio:Randy Travis
 #DESCRIPTION Exclusive Radio - Randy Travis
-#SERVICE 4097:0:1:757:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/raycharles/icecast.audio:Ray Charles
+#SERVICE 4097:0:1:757:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/raycharles/icecast.audio:Ray Charles
 #DESCRIPTION Exclusive Radio - Ray Charles
-#SERVICE 4097:0:1:757:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/raycharleshits/icecast.audio:Ray Charles Only Hits
+#SERVICE 4097:0:1:757:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/raycharleshits/icecast.audio:Ray Charles Only Hits
 #DESCRIPTION Exclusive Radio - Ray Charles Only Hits
-#SERVICE 4097:0:1:759:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/rebamcentire/icecast.audio:Reba McEntire
+#SERVICE 4097:0:1:759:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/rebamcentire/icecast.audio:Reba McEntire
 #DESCRIPTION Exclusive Radio - Reba McEntire
-#SERVICE 4097:0:1:761:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/chilipeppers/icecast.audio:Red Hot Chili Peppers
+#SERVICE 4097:0:1:761:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/chilipeppers/icecast.audio:Red Hot Chili Peppers
 #DESCRIPTION Exclusive Radio - Red Hot Chili Peppers
-#SERVICE 4097:0:1:747:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/rickwakeman/icecast.audio:Rick Wakeman 
+#SERVICE 4097:0:1:747:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/rickwakeman/icecast.audio:Rick Wakeman 
 #DESCRIPTION Exclusive Radio - Rick Wakeman 
-#SERVICE 4097:0:1:769:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/rihanna/icecast.audio:Rihanna
+#SERVICE 4097:0:1:769:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/rihanna/icecast.audio:Rihanna
 #DESCRIPTION Exclusive Radio - Rihanna
-#SERVICE 4097:0:1:769:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/rihannahits/icecast.audio:Rihanna Only Hits
+#SERVICE 4097:0:1:769:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/rihannahits/icecast.audio:Rihanna Only Hits
 #DESCRIPTION Exclusive Radio - Rihanna Only Hits
-#SERVICE 4097:0:1:771:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/ritaora/icecast.audio:Rita Ora
+#SERVICE 4097:0:1:771:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ritaora/icecast.audio:Rita Ora
 #DESCRIPTION Exclusive Radio - Rita Ora
-#SERVICE 4097:0:1:769:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/robbiewilliams/icecast.audio:Robbie Williams
+#SERVICE 4097:0:1:769:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/robbiewilliams/icecast.audio:Robbie Williams
 #DESCRIPTION Exclusive Radio - Robbie Williams
-#SERVICE 4097:0:1:769:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/robbiewilliamshits/icecast.audio:Robbie Williams Only Hits
+#SERVICE 4097:0:1:769:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/robbiewilliamshits/icecast.audio:Robbie Williams Only Hits
 #DESCRIPTION Exclusive Radio - Robbie Williams Only Hits
-#SERVICE 4097:0:1:773:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/robertcray/icecast.audio:Robert Cray
+#SERVICE 4097:0:1:773:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/robertcray/icecast.audio:Robert Cray
 #DESCRIPTION Exclusive Radio - Robert Cray
-#SERVICE 4097:0:1:775:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/robertpalmer/icecast.audio:Robert Palmer
+#SERVICE 4097:0:1:775:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/robertpalmer/icecast.audio:Robert Palmer
 #DESCRIPTION Exclusive Radio - Robert Palmer
-#SERVICE 4097:0:1:779:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/rodstewart/icecast.audio:Rod Stewart
+#SERVICE 4097:0:1:779:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/rodstewart/icecast.audio:Rod Stewart
 #DESCRIPTION Exclusive Radio - Rod Stewart
-#SERVICE 4097:0:1:779:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/rodstewarthits/icecast.audio:Rod Stewart Only Hits
+#SERVICE 4097:0:1:779:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/rodstewarthits/icecast.audio:Rod Stewart Only Hits
 #DESCRIPTION Exclusive Radio - Rod Stewart Only Hits
-#SERVICE 4097:0:1:954:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/rollingstones/icecast.audio:Rolling Stones
+#SERVICE 4097:0:1:954:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/rollingstones/icecast.audio:Rolling Stones
 #DESCRIPTION Exclusive Radio - Rolling Stones
-#SERVICE 4097:0:1:954:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/rollingstoneshits/icecast.audio:Rolling Stones Only Hits
+#SERVICE 4097:0:1:954:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/rollingstoneshits/icecast.audio:Rolling Stones Only Hits
 #DESCRIPTION Exclusive Radio - Rolling Stones Only Hits
-#SERVICE 4097:0:1:781:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/rorygallagher/icecast.audio:Rory Gallagher
+#SERVICE 4097:0:1:781:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/rorygallagher/icecast.audio:Rory Gallagher
 #DESCRIPTION Exclusive Radio - Rory Gallagher
-#SERVICE 4097:0:1:783:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/roxette/icecast.audio:Roxette
+#SERVICE 4097:0:1:783:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/roxette/icecast.audio:Roxette
 #DESCRIPTION Exclusive Radio - Roxette
-#SERVICE 4097:0:1:785:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/royorbison/icecast.audio:Roy Orbison
+#SERVICE 4097:0:1:785:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/royorbison/icecast.audio:Roy Orbison
 #DESCRIPTION Exclusive Radio - Roy Orbison
-#SERVICE 4097:0:1:785:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/royorbisonhits/icecast.audio:Roy Orbison Only Hits
+#SERVICE 4097:0:1:785:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/royorbisonhits/icecast.audio:Roy Orbison Only Hits
 #DESCRIPTION Exclusive Radio - Roy Orbison Only Hits
-#SERVICE 4097:0:1:787:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/rundmc/icecast.audio:Run-DMC
+#SERVICE 4097:0:1:787:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/rundmc/icecast.audio:Run-DMC
 #DESCRIPTION Exclusive Radio - Run-DMC
-#SERVICE 4097:0:1:791:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/rush/icecast.audio:Rush
+#SERVICE 4097:0:1:791:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/rush/icecast.audio:Rush
 #DESCRIPTION Exclusive Radio - Rush
-#SERVICE 4097:0:1:793:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/sade/icecast.audio:Sade
+#SERVICE 4097:0:1:793:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/sade/icecast.audio:Sade
 #DESCRIPTION Exclusive Radio - Sade
-#SERVICE 4097:0:1:795:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/samcooke/icecast.audio:Sam Cooke
+#SERVICE 4097:0:1:795:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/samcooke/icecast.audio:Sam Cooke
 #DESCRIPTION Exclusive Radio - Sam Cooke
-#SERVICE 4097:0:1:797:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/samfender/icecast.audio:Sam Fender
+#SERVICE 4097:0:1:797:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/samfender/icecast.audio:Sam Fender
 #DESCRIPTION Exclusive Radio - Sam Fender
-#SERVICE 4097:0:1:797:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/samsmith/icecast.audio:Sam Smith
+#SERVICE 4097:0:1:797:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/samsmith/icecast.audio:Sam Smith
 #DESCRIPTION Exclusive Radio - Sam Smith
-#SERVICE 4097:0:1:799:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/santana/icecast.audio:Santana
+#SERVICE 4097:0:1:799:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/santana/icecast.audio:Santana
 #DESCRIPTION Exclusive Radio - Santana
-#SERVICE 4097:0:1:801:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/savagegarden/icecast.audio:Savage Garden
+#SERVICE 4097:0:1:801:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/savagegarden/icecast.audio:Savage Garden
 #DESCRIPTION Exclusive Radio - Savage Garden
-#SERVICE 4097:0:1:808:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/scorpions/icecast.audio:Scorpions
+#SERVICE 4097:0:1:808:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/scorpions/icecast.audio:Scorpions
 #DESCRIPTION Exclusive Radio - Scorpions
-#SERVICE 4097:0:1:808:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/shaggy/icecast.audio:Shaggy
+#SERVICE 4097:0:1:808:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/shaggy/icecast.audio:Shaggy
 #DESCRIPTION Exclusive Radio - Shaggy
-#SERVICE 4097:0:1:810:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/shakira/icecast.audio:Shakira
+#SERVICE 4097:0:1:810:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/shakira/icecast.audio:Shakira
 #DESCRIPTION Exclusive Radio - Shakira
-#SERVICE 4097:0:1:812:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/shaniatwain/icecast.audio:Shania Twain
+#SERVICE 4097:0:1:812:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/shaniatwain/icecast.audio:Shania Twain
 #DESCRIPTION Exclusive Radio - Shania Twain
-#SERVICE 4097:0:1:814:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/shawnmendes/icecast.audio:Shawn Mendes
+#SERVICE 4097:0:1:814:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/shawnmendes/icecast.audio:Shawn Mendes
 #DESCRIPTION Exclusive Radio - Shawn Mendes
-#SERVICE 4097:0:1:816:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/sherylcrow/icecast.audio:Sheryl Crow
+#SERVICE 4097:0:1:816:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/sherylcrow/icecast.audio:Sheryl Crow
 #DESCRIPTION Exclusive Radio - Sheryl Crow
-#SERVICE 4097:0:1:820:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/sia/icecast.audio:Sia
+#SERVICE 4097:0:1:820:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/sia/icecast.audio:Sia
 #DESCRIPTION Exclusive Radio - Sia
-#SERVICE 4097:0:1:824:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/simongarfunkle/icecast.audio:Simon & Garfunkel
+#SERVICE 4097:0:1:824:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/simongarfunkle/icecast.audio:Simon & Garfunkel
 #DESCRIPTION Exclusive Radio - Simon & Garfunkel
-#SERVICE 4097:0:1:824:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/simongarfunklehits/icecast.audio:Simon & Garfunkel Only Hita
+#SERVICE 4097:0:1:824:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/simongarfunklehits/icecast.audio:Simon & Garfunkel Only Hita
 #DESCRIPTION Exclusive Radio - Simon & Garfunkel Only Hits
-#SERVICE 4097:0:1:826:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/simpleminds/icecast.audio:Simple Minds
+#SERVICE 4097:0:1:826:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/simpleminds/icecast.audio:Simple Minds
 #DESCRIPTION Exclusive Radio - Simple Minds
-#SERVICE 4097:0:1:826:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/simplyred/icecast.audio:Simply Red
+#SERVICE 4097:0:1:826:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/simplyred/icecast.audio:Simply Red
 #DESCRIPTION Exclusive Radio - Simply Red
-#SERVICE 4097:0:1:820:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/slade/icecast.audio:Slade
+#SERVICE 4097:0:1:820:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/slade/icecast.audio:Slade
 #DESCRIPTION Exclusive Radio - Slade
-#SERVICE 4097:0:1:840:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/slyandthefamilystone/icecast.audio:Sly and The Family Stone
+#SERVICE 4097:0:1:840:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/slyandthefamilystone/icecast.audio:Sly and The Family Stone
 #DESCRIPTION Exclusive Radio - Sly and The Family Stone
-#SERVICE 4097:0:1:842:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/smallfaces/icecast.audio:Small Faces
+#SERVICE 4097:0:1:842:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/smallfaces/icecast.audio:Small Faces
 #DESCRIPTION Exclusive Radio - Small Faces
-#SERVICE 4097:0:1:844:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/smokeyrobinson/icecast.audio:Smokey Robinson
+#SERVICE 4097:0:1:844:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/smokeyrobinson/icecast.audio:Smokey Robinson
 #DESCRIPTION Exclusive Radio - Smokey Robinson
-#SERVICE 4097:0:1:844:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/smokeyrobinsonhits/icecast.audio:Smokey Robinson Only Hita
+#SERVICE 4097:0:1:844:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/smokeyrobinsonhits/icecast.audio:Smokey Robinson Only Hita
 #DESCRIPTION Exclusive Radio - Smokey Robinson Only Hits
-#SERVICE 4097:0:1:846:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/snowpatrol/icecast.audio:Snow Patrol
+#SERVICE 4097:0:1:846:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/snowpatrol/icecast.audio:Snow Patrol
 #DESCRIPTION Exclusive Radio - Snow Patrol
-#SERVICE 4097:0:1:850:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/spandauballet/icecast.audio:Spandau Ballet
+#SERVICE 4097:0:1:850:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/spandauballet/icecast.audio:Spandau Ballet
 #DESCRIPTION Exclusive Radio - Spandau Ballet
-#SERVICE 4097:0:1:852:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/steeleyespan/icecast.audio:Steeleye Span
+#SERVICE 4097:0:1:852:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/steeleyespan/icecast.audio:Steeleye Span
 #DESCRIPTION Exclusive Radio - Steeleye Span
-#SERVICE 4097:0:1:854:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/steelydan/icecast.audio:Steely Dan
+#SERVICE 4097:0:1:854:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/steelydan/icecast.audio:Steely Dan
 #DESCRIPTION Exclusive Radio - Steely Dan
-#SERVICE 4097:0:1:854:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/steelydanhits/icecast.audio:Steely Dan Only Hits
+#SERVICE 4097:0:1:854:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/steelydanhits/icecast.audio:Steely Dan Only Hits
 #DESCRIPTION Exclusive Radio - Steely Dan Only Hits
-#SERVICE 4097:0:1:856:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/stephanegrappelli/icecast.audio:Stephane Grappelli
+#SERVICE 4097:0:1:856:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/stephanegrappelli/icecast.audio:Stephane Grappelli
 #DESCRIPTION Exclusive Radio - Stephane Grappelli
-#SERVICE 4097:0:1:856:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/stereophonics/icecast.audio:Stereophonics 
+#SERVICE 4097:0:1:856:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/stereophonics/icecast.audio:Stereophonics 
 #DESCRIPTION Exclusive Radio - Stereophonics 
-#SERVICE 4097:0:1:858:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/stevemillerband/icecast.audio:Steve Miller Band
+#SERVICE 4097:0:1:858:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/stevemillerband/icecast.audio:Steve Miller Band
 #DESCRIPTION Exclusive Radio - Steve Miller Band
-#SERVICE 4097:0:1:858:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/stevewinwood/icecast.audio:Steve Winwood
+#SERVICE 4097:0:1:858:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/stevewinwood/icecast.audio:Steve Winwood
 #DESCRIPTION Exclusive Radio - Steve Winwood
-#SERVICE 4097:0:1:860:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/stevierayvaughan/icecast.audio:Stevie Ray Vaughan
+#SERVICE 4097:0:1:860:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/stevierayvaughan/icecast.audio:Stevie Ray Vaughan
 #DESCRIPTION Exclusive Radio - Stevie Ray Vaughan
-#SERVICE 4097:0:1:862:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/steviewonder/icecast.audio:Stevie Wonder
+#SERVICE 4097:0:1:862:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/steviewonder/icecast.audio:Stevie Wonder
 #DESCRIPTION Exclusive Radio - Stevie Wonder
-#SERVICE 4097:0:1:862:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/steviewonderhits/icecast.audio:Stevie Wonder Only Hits
+#SERVICE 4097:0:1:862:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/steviewonderhits/icecast.audio:Stevie Wonder Only Hits
 #DESCRIPTION Exclusive Radio - Stevie Wonder Only Hits
-#SERVICE 4097:0:1:864:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/sting/icecast.audio:Sting
+#SERVICE 4097:0:1:864:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/sting/icecast.audio:Sting
 #DESCRIPTION Exclusive Radio - Sting
-#SERVICE 4097:0:1:864:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/stinghits/icecast.audio:Sting Only Hits
+#SERVICE 4097:0:1:864:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/stinghits/icecast.audio:Sting Only Hits
 #DESCRIPTION Exclusive Radio - Sting Only Hits
-#SERVICE 4097:0:1:866:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/thestoneroses/icecast.audio:Stone Rosess
+#SERVICE 4097:0:1:866:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/thestoneroses/icecast.audio:Stone Rosess
 #DESCRIPTION Exclusive Radio - Stone Roses
-#SERVICE 4097:0:1:866:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/stonetemplepilots/icecast.audio:Stone Temple Pilots
+#SERVICE 4097:0:1:866:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/stonetemplepilots/icecast.audio:Stone Temple Pilots
 #DESCRIPTION Exclusive Radio - Stone Temple Pilots
-#SERVICE 4097:0:1:868:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/stormzy/icecast.audio:Stormzy
+#SERVICE 4097:0:1:868:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/stormzy/icecast.audio:Stormzy
 #DESCRIPTION Exclusive Radio - Stormzy
-#SERVICE 4097:0:1:868:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/thestrokes/icecast.audio:Strokes
+#SERVICE 4097:0:1:868:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/thestrokes/icecast.audio:Strokes
 #DESCRIPTION Exclusive Radio - Strokes
-#SERVICE 4097:0:1:868:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/styx/icecast.audio:Styx
+#SERVICE 4097:0:1:868:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/styx/icecast.audio:Styx
 #DESCRIPTION Exclusive Radio - Styx
-#SERVICE 4097:0:1:876:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/supertramp/icecast.audio:Supertramp
+#SERVICE 4097:0:1:876:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/supertramp/icecast.audio:Supertramp
 #DESCRIPTION Exclusive Radio - Supertramp
-#SERVICE 4097:0:1:878:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/suzannevega/icecast.audio:Suzanne Vega
+#SERVICE 4097:0:1:878:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/suzannevega/icecast.audio:Suzanne Vega
 #DESCRIPTION Exclusive Radio - Suzanne Vega
-#SERVICE 4097:0:1:880:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/trex/icecast.audio:T-Rex
+#SERVICE 4097:0:1:880:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/trex/icecast.audio:T-Rex
 #DESCRIPTION Exclusive Radio - T-Rex
-#SERVICE 4097:0:1:884:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/takethat/icecast.audio:Take That
+#SERVICE 4097:0:1:884:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/takethat/icecast.audio:Take That
 #DESCRIPTION Exclusive Radio - Take That
-#SERVICE 4097:0:1:884:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/takethathits/icecast.audio:Take That Only Hits
+#SERVICE 4097:0:1:884:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/takethathits/icecast.audio:Take That Only Hits
 #DESCRIPTION Exclusive Radio - Take That Only Hits
-#SERVICE 4097:0:1:886:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/talkingheads/icecast.audio:Talking Heads
+#SERVICE 4097:0:1:886:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/talkingheads/icecast.audio:Talking Heads
 #DESCRIPTION Exclusive Radio - Talking Heads
-#SERVICE 4097:0:1:888:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/tammywynette/icecast.audio:Tammy Wynette
+#SERVICE 4097:0:1:888:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/tammywynette/icecast.audio:Tammy Wynette
 #DESCRIPTION Exclusive Radio - Tammy Wynette
-#SERVICE 4097:0:1:890:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/taylorswift/icecast.audio:Taylor Swift
+#SERVICE 4097:0:1:890:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/taylorswift/icecast.audio:Taylor Swift
 #DESCRIPTION Exclusive Radio - Taylor Swift
-#SERVICE 4097:0:1:890:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/taylorswifthits/icecast.audio:Taylor Swift Only Hits
+#SERVICE 4097:0:1:890:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/taylorswifthits/icecast.audio:Taylor Swift Only Hits
 #DESCRIPTION Exclusive Radio - Taylor Swift Only Hits
-#SERVICE 4097:0:1:894:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/tearsforfears/icecast.audio:Tears For Fears
+#SERVICE 4097:0:1:894:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/tearsforfears/icecast.audio:Tears For Fears
 #DESCRIPTION Exclusive Radio - Tears For Fears
-#SERVICE 4097:0:1:960:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/thetemptations/icecast.audio:Temptations
+#SERVICE 4097:0:1:960:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/thetemptations/icecast.audio:Temptations
 #DESCRIPTION Exclusive Radio - Temptations
-#SERVICE 4097:0:1:960:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/temptationshits/icecast.audio:Temptations Only Hits
+#SERVICE 4097:0:1:960:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/temptationshits/icecast.audio:Temptations Only Hits
 #DESCRIPTION Exclusive Radio - Temptations Only Hits
-#SERVICE 4097:0:1:896:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/texas/icecast.audio:Texas
+#SERVICE 4097:0:1:896:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/texas/icecast.audio:Texas
 #DESCRIPTION Exclusive Radio - Texas
-#SERVICE 4097:0:1:898:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/the1975/icecast.audio:The 1975
+#SERVICE 4097:0:1:898:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/the1975/icecast.audio:The 1975
 #DESCRIPTION Exclusive Radio - The 1975
-#SERVICE 4097:0:1:902:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/theb52s/icecast.audio:The B-52's
+#SERVICE 4097:0:1:902:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/theb52s/icecast.audio:The B-52's
 #DESCRIPTION Exclusive Radio - The B-52's
-#SERVICE 4097:0:1:904:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/theband/icecast.audio:The Band
+#SERVICE 4097:0:1:904:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/theband/icecast.audio:The Band
 #DESCRIPTION Exclusive Radio - The Band
-#SERVICE 4097:0:1:922:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/thecure/icecast.audio:The Cure
+#SERVICE 4097:0:1:922:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/thecure/icecast.audio:The Cure
 #DESCRIPTION Exclusive Radio - The Cure
-#SERVICE 4097:0:1:950:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/police/icecast.audio:The Police
+#SERVICE 4097:0:1:950:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/police/icecast.audio:The Police
 #DESCRIPTION Exclusive Radio - The Police
-#SERVICE 4097:0:1:950:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/policehits/icecast.audio:The Police Only Hits
+#SERVICE 4097:0:1:950:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/policehits/icecast.audio:The Police Only Hits
 #DESCRIPTION Exclusive Radio - The Police Only Hits
-#SERVICE 4097:0:1:964:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/theweeknd/icecast.audio:The Weeknd
+#SERVICE 4097:0:1:964:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/theweeknd/icecast.audio:The Weeknd
 #DESCRIPTION Exclusive Radio - The Weeknd
-#SERVICE 4097:0:1:968:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/thewho/icecast.audio:The Who
+#SERVICE 4097:0:1:968:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/thewho/icecast.audio:The Who
 #DESCRIPTION Exclusive Radio - The Who
-#SERVICE 4097:0:1:972:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/thinlizzy/icecast.audio:Thin Lizzy
+#SERVICE 4097:0:1:972:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/thinlizzy/icecast.audio:Thin Lizzy
 #DESCRIPTION Exclusive Radio - Thin Lizzy
-#SERVICE 4097:0:1:974:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/timmcgraw/icecast.audio:Tim McGraw
+#SERVICE 4097:0:1:974:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/timmcgraw/icecast.audio:Tim McGraw
 #DESCRIPTION Exclusive Radio - Tim McGraw
-#SERVICE 4097:0:1:976:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/tinaturner/icecast.audio:Tina Turner
+#SERVICE 4097:0:1:976:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/tinaturner/icecast.audio:Tina Turner
 #DESCRIPTION Exclusive Radio - Tina Turner
-#SERVICE 4097:0:1:976:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/tinaturnerhits/icecast.audio:Tina Turner Only Hits
+#SERVICE 4097:0:1:976:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/tinaturnerhits/icecast.audio:Tina Turner Only Hits
 #DESCRIPTION Exclusive Radio - Tina Turner Only Hits
-#SERVICE 4097:0:1:978:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/tinietempah/icecast.audio:Tinie Tempah
+#SERVICE 4097:0:1:978:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/tinietempah/icecast.audio:Tinie Tempah
 #DESCRIPTION Exclusive Radio - Tinie Tempah
-#SERVICE 4097:0:1:980:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/tobykeith/icecast.audio:Toby Keith
+#SERVICE 4097:0:1:980:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/tobykeith/icecast.audio:Toby Keith
 #DESCRIPTION Exclusive Radio - Toby Keith
-#SERVICE 4097:0:1:982:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/tomjones/icecast.audio:Tom Jones
+#SERVICE 4097:0:1:982:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/tomjones/icecast.audio:Tom Jones
 #DESCRIPTION Exclusive Radio - Tom Jones
-#SERVICE 4097:0:1:984:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/tompaxton/icecast.audio:Tom Paxton
+#SERVICE 4097:0:1:984:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/tompaxton/icecast.audio:Tom Paxton
 #DESCRIPTION Exclusive Radio - Tom Paxton
-#SERVICE 4097:0:1:986:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/tompetty/icecast.audio:Tom Petty
+#SERVICE 4097:0:1:986:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/tompetty/icecast.audio:Tom Petty
 #DESCRIPTION Exclusive Radio - Tom Petty
-#SERVICE 4097:0:1:988:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/tomwaits/icecast.audio:Tom Waits
+#SERVICE 4097:0:1:988:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/tomwaits/icecast.audio:Tom Waits
 #DESCRIPTION Exclusive Radio - Tom Waits
-#SERVICE 4097:0:1:990:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/tonybennett/icecast.audio:Tony Bennett
+#SERVICE 4097:0:1:990:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/tonybennett/icecast.audio:Tony Bennett
 #DESCRIPTION Exclusive Radio - Tony Bennett
-#SERVICE 4097:0:1:992:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/tootsandthemaytals/icecast.audio:Toots And The Maytals
+#SERVICE 4097:0:1:992:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/tootsandthemaytals/icecast.audio:Toots And The Maytals
 #DESCRIPTION Exclusive Radio - Toots And The Maytals
-#SERVICE 4097:0:1:994:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/toto/icecast.audio:Toto
+#SERVICE 4097:0:1:994:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/toto/icecast.audio:Toto
 #DESCRIPTION Exclusive Radio - Toto
-#SERVICE 4097:0:1:996:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/travis/icecast.audio:Travis
+#SERVICE 4097:0:1:996:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/travis/icecast.audio:Travis
 #DESCRIPTION Exclusive Radio - Travis
-#SERVICE 4097:0:1:996:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/travisscott/icecast.audio:Travis Scott
+#SERVICE 4097:0:1:996:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/travisscott/icecast.audio:Travis Scott
 #DESCRIPTION Exclusive Radio - Travis Scott
-#SERVICE 4097:0:1:998:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/twentyonepilots/icecast.audio:Twenty One Pilots
+#SERVICE 4097:0:1:998:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/twentyonepilots/icecast.audio:Twenty One Pilots
 #DESCRIPTION Exclusive Radio - Twenty One Pilots
-#SERVICE 4097:0:1:1000:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/u2/icecast.audio:U2
+#SERVICE 4097:0:1:1000:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/u2/icecast.audio:U2
 #DESCRIPTION Exclusive Radio - U2
-#SERVICE 4097:0:1:1000:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/u2hits/icecast.audio:U2 Only Hits
+#SERVICE 4097:0:1:1000:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/u2hits/icecast.audio:U2 Only Hits
 #DESCRIPTION Exclusive Radio - U2 Only Hits
-#SERVICE 4097:0:1:1002:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/ub40/icecast.audio:UB40
+#SERVICE 4097:0:1:1002:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ub40/icecast.audio:UB40
 #DESCRIPTION Exclusive Radio - UB40
-#SERVICE 4097:0:1:1007:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/vanhalen/icecast.audio:Van Halen
+#SERVICE 4097:0:1:1007:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/vanhalen/icecast.audio:Van Halen
 #DESCRIPTION Exclusive Radio - Van Halen
-#SERVICE 4097:0:1:1009:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/vanmorrison/icecast.audio:Van Morrison
+#SERVICE 4097:0:1:1009:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/vanmorrison/icecast.audio:Van Morrison
 #DESCRIPTION Exclusive Radio - Van Morrison
-#SERVICE 4097:0:1:1009:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/vanmorrisonhits/icecast.audio:Van Morrison Only Hits
+#SERVICE 4097:0:1:1009:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/vanmorrisonhits/icecast.audio:Van Morrison Only Hits
 #DESCRIPTION Exclusive Radio - Van Morrison Only Hits
-#SERVICE 4097:0:1:962:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/velvetunderground/icecast.audio:Velvet Underground
+#SERVICE 4097:0:1:962:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/velvetunderground/icecast.audio:Velvet Underground
 #DESCRIPTION Exclusive Radio - Velvet Underground
-#SERVICE 4097:0:1:1017:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/waylonjennings/icecast.audio:Waylon Jennings
+#SERVICE 4097:0:1:1017:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/waylonjennings/icecast.audio:Waylon Jennings
 #DESCRIPTION Exclusive Radio - Waylon Jennings
-#SERVICE 4097:0:1:1025:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/wham/icecast.audio:Wham!
+#SERVICE 4097:0:1:1025:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/wham/icecast.audio:Wham!
 #DESCRIPTION Exclusive Radio - Wham!
-#SERVICE 4097:0:1:1027:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/whitestripes/icecast.audio:White Stripes
+#SERVICE 4097:0:1:1027:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/whitestripes/icecast.audio:White Stripes
 #DESCRIPTION Exclusive Radio - White Stripes
-#SERVICE 4097:0:1:1027:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/whitesnake/icecast.audio:Whitesnake
+#SERVICE 4097:0:1:1027:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/whitesnake/icecast.audio:Whitesnake
 #DESCRIPTION Exclusive Radio - Whitesnake
-#SERVICE 4097:0:1:1029:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/whitneyhouston/icecast.audio:Whitney Houston
+#SERVICE 4097:0:1:1029:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/whitneyhouston/icecast.audio:Whitney Houston
 #DESCRIPTION Exclusive Radio - Whitney Houston
-#SERVICE 4097:0:1:1031:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/william/icecast.audio:will.i.am
+#SERVICE 4097:0:1:1031:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/william/icecast.audio:will.i.am
 #DESCRIPTION Exclusive Radio - will.i.am
-#SERVICE 4097:0:1:1033:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/willienelson/icecast.audio:Willie Nelson
+#SERVICE 4097:0:1:1033:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/willienelson/icecast.audio:Willie Nelson
 #DESCRIPTION Exclusive Radio - Willie Nelson
-#SERVICE 4097:0:1:1033:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/wizkhalifa/icecast.audio:Wiz Khalifa 
+#SERVICE 4097:0:1:1033:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/wizkhalifa/icecast.audio:Wiz Khalifa 
 #DESCRIPTION Exclusive Radio - Wiz Khalifa 
-#SERVICE 4097:0:1:1033:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/wolfalice/icecast.audio:Wolf Alice
+#SERVICE 4097:0:1:1033:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/wolfalice/icecast.audio:Wolf Alice
 #DESCRIPTION Exclusive Radio - Wolf Alice 
-#SERVICE 4097:0:1:1035:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/woodieguthrie/icecast.audio:Woody Guthrie
+#SERVICE 4097:0:1:1035:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/woodieguthrie/icecast.audio:Woody Guthrie
 #DESCRIPTION Exclusive Radio - Woody Guthrie
-#SERVICE 4097:0:1:970:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/theyardbirds/icecast.audio:Yardbirds
+#SERVICE 4097:0:1:970:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/theyardbirds/icecast.audio:Yardbirds
 #DESCRIPTION Exclusive Radio - Yardbirds
-#SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/yes/icecast.audio:Yes
+#SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/yes/icecast.audio:Yes
 #DESCRIPTION Exclusive Radio - Yes
-#SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/ziggymarley/icecast.audio:Ziggy Marley 
+#SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ziggymarley/icecast.audio:Ziggy Marley 
 #DESCRIPTION Exclusive Radio - Ziggy Marley 
-#SERVICE 4097:0:1:1041:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/zztop/icecast.audio:ZZ Top
+#SERVICE 4097:0:1:1041:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/zztop/icecast.audio:ZZ Top
 #DESCRIPTION Exclusive Radio - ZZ Top
-#SERVICE 4097:0:1:36:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/1920/icecast.audio:1920's
+#SERVICE 4097:0:1:36:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/1920/icecast.audio:1920's
 #DESCRIPTION Exclusive Radio - 1920's
-#SERVICE 4097:0:1:38:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/1930/icecast.audio:1930's
+#SERVICE 4097:0:1:38:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/1930/icecast.audio:1930's
 #DESCRIPTION Exclusive Radio - 1930's
-#SERVICE 4097:0:1:40:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/1940/icecast.audio:1940's
+#SERVICE 4097:0:1:40:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/1940/icecast.audio:1940's
 #DESCRIPTION Exclusive Radio - 1940's
-#SERVICE 4097:0:1:44:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/50s/icecast.audio:1950's
+#SERVICE 4097:0:1:44:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/50s/icecast.audio:1950's
 #DESCRIPTION Exclusive Radio - 1950's
-#SERVICE 4097:0:1:46:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/60s/icecast.audio:1960's
+#SERVICE 4097:0:1:46:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/60s/icecast.audio:1960's
 #DESCRIPTION Exclusive Radio - 1960's
-#SERVICE 4097:0:1:48:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/70s/icecast.audio:1970's
+#SERVICE 4097:0:1:48:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/70s/icecast.audio:1970's
 #DESCRIPTION Exclusive Radio - 1970's
-#SERVICE 4097:0:1:50:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/80s/icecast.audio:1980's
+#SERVICE 4097:0:1:50:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/80s/icecast.audio:1980's
 #DESCRIPTION Exclusive Radio - 1980's
-#SERVICE 4097:0:1:52:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/90s/icecast.audio:1990's
+#SERVICE 4097:0:1:52:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/90s/icecast.audio:1990's
 #DESCRIPTION Exclusive Radio - 1990's
-#SERVICE 4097:0:1:1043:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/00s/icecast.audio:2000's
+#SERVICE 4097:0:1:1043:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/00s/icecast.audio:2000's
 #DESCRIPTION Exclusive Radio - 2000's
-#SERVICE 4097:0:1:1045:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/10s/icecast.audio:2010's
+#SERVICE 4097:0:1:1045:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/10s/icecast.audio:2010's
 #DESCRIPTION Exclusive Radio - 2010's
-#SERVICE 4097:0:1:1047:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/2020/icecast.audio:2020's
+#SERVICE 4097:0:1:1047:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/2020/icecast.audio:2020's
 #DESCRIPTION Exclusive Radio - 2020's
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Virgin Radio Italy
