@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 12.04.2023 22:00 by Team www.hdfreaks.cc
+#DESCRIPTION Update 14.04.2023 19:40 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -963,66 +963,104 @@
 #DESCRIPTION Radio Fantasy - Feeld Good
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Radio Regenbogen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen.de/mannheim/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - LIVE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen2.de/rheinneckar/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - ZWEI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen.de/top40/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - Top40
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen.de/80er/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - 80er
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen.de/90er/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - 90er
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen.de/2000er/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - 2000er
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen.de/deutschpop/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - Deutsch Pop
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen.de/inthemix/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - In The Mix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen2.de/classicrock/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - Classic Rock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen.de/softlazy/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - Soft & Lazy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen.de/musical/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - Musical & Film Hits
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen.de/hiphop/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - Hip-Hop & R'n'B
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen2.de/80errock/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - 80er Rock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen.de/latin/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - Latin Hits
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen2.de/70errock/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - 70er Rock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen.de/unplugged/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - Unplugged
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen2.de/metallica/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - Metallica
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen2.de/gunsnroses/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - Guns N' Roses
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen.de/oldies/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - Oldies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen2.de/modernrock/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - Modern Rock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen2.de/rollingstones/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - Rolling Stones
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen2.de/indierock/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - Indie-Rock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen2.de/metal/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - Metal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen.de/musikvonhier/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - Musik von hier
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen.de/90erdance/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - 90er Dance
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen.de/schlager/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - Schlager
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen.de/konfettiparty/mp3-128/twl01&
-#DESCRIPTION Radio Regenbogen - Konfetti-Party
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen.de/workout/mp3-128/homepage?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-regenbogen1028-aac-128-7085277:Radio Regenbogen - Rhein-Neckar
+#DESCRIPTION Radio Regenbogen - Rhein-Neckar
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen.de/karlsruhe/aac-128:Radio Regenbogen - Baden die Pfalz
+#DESCRIPTION Radio Regenbogen - Baden die Pfalz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen.de/freiburg/aac-128:Radio Regenbogen - Sdbaden Schwarzwald
+#DESCRIPTION Radio Regenbogen - Sdbaden Schwarzwald
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-softlazy-aac-128-5484078:Radio Regenbogen - Soft and Lazy
+#DESCRIPTION Radio Regenbogen - Soft and Lazy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-workout-aac-128-5969699:Radio Regenbogen - Workout
 #DESCRIPTION Radio Regenbogen - Workout
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen.de/christmas/mp3-128/homepage?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-top40-aac-128-2919565:Radio Regenbogen - Top 40
+#DESCRIPTION Radio Regenbogen - Top 40
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-musical-aac-128-6749248:Radio Regenbogen - Musical and Film Hits
+#DESCRIPTION Radio Regenbogen - Musical and Film Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-unplugged-aac-128-4241587:Radio Regenbogen - Unplugged
+#DESCRIPTION Radio Regenbogen - Unplugged
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-kuschelrock-aac-128-9356950:Radio Regenbogen - Kuschelrock
+#DESCRIPTION Radio Regenbogen - Kuschelrock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-modernpop-aac-128-3237457:Radio Regenbogen - Modern Pop
+#DESCRIPTION Radio Regenbogen - Modern Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-edsheeran-aac-128-6341992:Radio Regenbogen - Ed Sheeran
+#DESCRIPTION Radio Regenbogen - Ed Sheeran
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-spotlight-aac-128-4101694:Radio Regenbogen - Spotlight
+#DESCRIPTION Radio Regenbogen - Spotlight
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-oldies-aac-128-9511176:Radio Regenbogen - Oldies
+#DESCRIPTION Radio Regenbogen - Oldies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-80er-aac-128-9786248:Radio Regenbogen - 80er
+#DESCRIPTION Radio Regenbogen - 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-90er-aac-128-2246215:Radio Regenbogen - 90er
+#DESCRIPTION Radio Regenbogen - 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-2000er-aac-128-6899103:Radio Regenbogen - 2000er
+#DESCRIPTION Radio Regenbogen - 2000er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-2010er-aac-128-1077012:Radio Regenbogen - 2010er
+#DESCRIPTION Radio Regenbogen - 2010er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-inthemix-aac-128-6946417:Radio Regenbogen - In The Mix
+#DESCRIPTION Radio Regenbogen - In The Mix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-90erdance-aac-128-5448140:Radio Regenbogen - 90er Dance
+#DESCRIPTION Radio Regenbogen - 90er Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-konfetti-aac-128-2414600:Radio Regenbogen - Konfetti-Party
+#DESCRIPTION Radio Regenbogen - Konfetti-Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-latin-aac-128-1269018:Radio Regenbogen - Latin Hits
+#DESCRIPTION Radio Regenbogen - Latin Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-schlager-aac-128-1773375:Radio Regenbogen - Schlager
+#DESCRIPTION Radio Regenbogen - Schlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-deutschpop-aac-128-1474027:Radio Regenbogen - Deutsch Pop
+#DESCRIPTION Radio Regenbogen - Deutsch Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-classicrockrr-aac-128-2809334:Radio Regenbogen - Classic Rock
+#DESCRIPTION Radio Regenbogen - Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-70errockrr-aac-128-1260178:Radio Regenbogen - 70er Rock
+#DESCRIPTION Radio Regenbogen - 70er Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-80erpoprock-aac-128-1311878:Radio Regenbogen - 80er Pop-Rock
+#DESCRIPTION Radio Regenbogen - 80er Pop-Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-modernrockrr-aac-128-9602877:Radio Regenbogen - Modern Rock
+#DESCRIPTION Radio Regenbogen - Modern Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-hiphop-aac-128-9752208:Radio Regenbogen - Hip-Hop an R`n`B
+#DESCRIPTION Radio Regenbogen - Hip-Hop an R`n`B
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-christmas-aac-128-1387064:Radio Regenbogen - Christmas Hits
 #DESCRIPTION Radio Regenbogen - Christmas Hits
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.regenbogen2.de/christmasrock/mp3-128/homepage?
-#DESCRIPTION Radio Regenbogen - Christmas Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-kinderlieder-aac-128-4251343:Radio Regenbogen - Kinderlieder
+#DESCRIPTION Radio Regenbogen - Kinderlieder
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-adler-aac-128-2022130:Radio Regenbogen - Adler Mannheim
+#DESCRIPTION Radio Regenbogen - Adler Mannheim
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Radio Regenbogen 2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/rheinneckar/aac-128:REGENBOGEN 2 Rhein-Neckar
+#DESCRIPTION Radio Regenbogen 2 Rhein-Neckar
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/bawue/aac-128:REGENBOGEN 2 Baden-Wuerttemberg
+#DESCRIPTION Radio Regenbogen 2 Baden-Wuerttemberg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/metallica/aac-128:REGENBOGEN 2 Metallica
+#DESCRIPTION Radio Regenbogen 2 Metallica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/metal/aac-128:REGENBOGEN 2 Metal
+#DESCRIPTION Radio Regenbogen 2 Metal
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/deutschrock/mp3-128:REGENBOGEN 2 DEUTSCHROCK
+#DESCRIPTION Radio Regenbogen 2 DEUTSCHROCK
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/country/mp3-128:REGENBOGEN 2 COUNTRY
+#DESCRIPTION Radio Regenbogen 2 COUNTRY
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/liedermacher/mp3-128:REGENBOGEN 2 LIEDERMACHER
+#DESCRIPTION Radio Regenbogen 2 LIEDERMACHER
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/beatles/mp3-128:REGENBOGEN 2 BEATLES
+#DESCRIPTION Radio Regenbogen 2 BEATLES
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/classicrock/aac-128:REGENBOGEN 2 Classic Rock
+#DESCRIPTION Radio Regenbogen 2 Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/rollingstones/aac-128:REGENBOGEN 2 Rolling Stones
+#DESCRIPTION Radio Regenbogen 2 Rolling Stones
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/modernrock/aac-128:REGENBOGEN 2 Modern Rock
+#DESCRIPTION Radio Regenbogen 2 Modern Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/indierock/aac-128:REGENBOGEN 2 Indie-Rock
+#DESCRIPTION Radio Regenbogen 2 Indie-Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/gunsnroses/aac-128:REGENBOGEN 2 Guns N’Roses
+#DESCRIPTION Radio Regenbogen 2 Guns N’Roses
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/70errock/aac-128:REGENBOGEN 2 70er ROCK
+#DESCRIPTION Radio Regenbogen 2 70er ROCK
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/80errock/aac-128:REGENBOGEN 2 80er ROCK
+#DESCRIPTION Radio Regenbogen 2 80er ROCK
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/90errock/mp3-128:REGENBOGEN 2 90er ROCK
+#DESCRIPTION Radio Regenbogen 2 90er ROCK
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/christmasrock/aac-128:REGENBOGEN 2 CHRISTMAS ROCK
+#DESCRIPTION Radio Regenbogen 2 CHRISTMAS ROCK
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION planet radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.planetradio.de/planetradio/hqlivestream.aac
