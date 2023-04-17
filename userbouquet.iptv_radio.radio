@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 15.04.2023 12:55 by Team www.hdfreaks.cc
+#DESCRIPTION Update 17.04.2023 19:17 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -6611,8 +6611,6 @@
 #DESCRIPTION Radiomeuh.com - 128 kbit/s
 #SERVICE 4097:0:1:53:0:0:0:0:0:0:http%3a//5.135.154.69%3a11590/stream/1/:Metal Express Radio - 192 kbit/s
 #DESCRIPTION Metal Express Radio - 192 kbit/s
-#SERVICE 4097:0:1:55:0:0:0:0:0:0:http%3a//149.202.71.166%3a8070/stream/1/:Radio Dzair Orientale - 128 kbit/s
-#DESCRIPTION Radio Dzair Orientale - 128 kbit/s
 #SERVICE 4097:0:1:57:0:0:0:0:0:0:https%3a//pr1cen101.emisionlocal.com/proxy/ondabierzo?mp=/stream:Onda Bierzo - 128 kbit/s
 #DESCRIPTION Onda Bierzo - 128 kbit/s
 #SERVICE 4097:0:1:59:0:0:0:0:0:0:http%3a//live.toker.fm%3a6060/stream/1/:Toker.FM - Jewish Music Online - 128 kbit/s
@@ -8116,12 +8114,8 @@
 #DESCRIPTION Radio Delta Lebanon - 128 kbit/s
 #SERVICE 4097:0:1:9:0:0:0:0:0:0:http%3a//188.247.86.67%3a8002/stream/1/:ROTANA RADIO - 128 kbit/s
 #DESCRIPTION ROTANA RADIO - 128 kbit/s
-#SERVICE 4097:0:1:11:0:0:0:0:0:0:http%3a//149.202.71.166%3a8070/stream/1/:Radio Dzair Orientale - 128 kbit/s
-#DESCRIPTION Radio Dzair Orientale - 128 kbit/s
 #SERVICE 4097:0:1:13:0:0:0:0:0:0:http%3a//s8.voscast.com%3a8458/stream/1/:Al Islah Islamic Center - 48 kbit/s
 #DESCRIPTION Al Islah Islamic Center - 48 kbit/s
-#SERVICE 4097:0:1:15:0:0:0:0:0:0:http%3a//149.202.71.166%3a8010/stream/1/:Radio Dzair Chaabia - 128 kbit/s
-#DESCRIPTION Radio Dzair Chaabia - 128 kbit/s
 #SERVICE 4097:0:1:17:0:0:0:0:0:0:http%3a//37.187.146.76%3a8000/stream/1/:Yabiladi Radio - 100% Maroc - 128 kbit/s
 #DESCRIPTION Yabiladi Radio - 100% Maroc - 128 kbit/s
 #SERVICE 4097:0:1:19:0:0:0:0:0:0:http%3a//andromeda.shoutca.st%3a8189/autodj:إذاعة السنة www.radiosunna.com - 32 kbit/s
@@ -8132,8 +8126,6 @@
 #DESCRIPTION lbi Radio - Lebanon - 128 kbit/s
 #SERVICE 4097:0:1:25:0:0:0:0:0:0:http%3a//92.222.103.13%3a8005/stream/1/:Quran Coran - www.coran.tk - 64 kbit/s
 #DESCRIPTION Quran Coran - www.coran.tk - 64 kbit/s
-#SERVICE 4097:0:1:27:0:0:0:0:0:0:http%3a//s7.voscast.com%3a10370/stream/1/:NEW Masjid Al Aman - 64 kbit/s
-#DESCRIPTION NEW Masjid Al Aman - 64 kbit/s
 #SERVICE 4097:0:1:29:0:0:0:0:0:0:http%3a//108.179.220.88%3a9302/stream/1/:Angamy Arabic Music - 128 kbit/s
 #DESCRIPTION Angamy Arabic Music - 128 kbit/s
 #SERVICE 4097:0:1:31:0:0:0:0:0:0:http%3a//islam2day.tv%3a3000:Islam2Day Radio CH.1 [ Quran Recitations ] - 96 kbit/s
@@ -8148,28 +8140,20 @@
 #DESCRIPTION Arabesk Mamas FM - 128 kbit/s
 #SERVICE 4097:0:1:41:0:0:0:0:0:0:http%3a//www.hostmyradio.com%3a8010:EGONAIR - 128 kbit/s
 #DESCRIPTION EGONAIR - 128 kbit/s
-#SERVICE 4097:0:1:43:0:0:0:0:0:0:http%3a//87.98.216.129%3a9034/stream/1/:Masjid e Tauheedul Islam - 64 kbit/s
-#DESCRIPTION Masjid e Tauheedul Islam - 64 kbit/s
 #SERVICE 4097:0:1:45:0:0:0:0:0:0:http%3a//85.214.110.29%3a8000:RadioHabayiib - 48 kbit/s
 #DESCRIPTION RadioHabayiib - 48 kbit/s
 #SERVICE 4097:0:1:47:0:0:0:0:0:0:http%3a//188.247.86.67%3a8000/stream/1/:RADIO FANN JORDA - 48 kbit/s
 #DESCRIPTION RADIO FANN JORDA - 48 kbit/s
-#SERVICE 4097:0:1:49:0:0:0:0:0:0:http%3a//yayin.radyoislam.com%3a7676:islamRadyo.Net - Alemin Radyosu - 128 kbit/s
-#DESCRIPTION islamRadyo.Net - Alemin Radyosu - 128 kbit/s
 #SERVICE 4097:0:1:51:0:0:0:0:0:0:http%3a//136.0.17.26%3a8000/stream/1/:Radio Africa Online - 96 kbit/s
 #DESCRIPTION Radio Africa Online - 96 kbit/s
 #SERVICE 4097:0:1:53:0:0:0:0:0:0:http%3a//68.68.109.106%3a6626:BeirutNights.com Radio: Mediterranean Dance EUrodance Italo Trance Lebanese Arabic Greek etc - 128 kbit/s
 #DESCRIPTION BeirutNights.com Radio: Mediterranean Dance EUrodance Italo Trance Lebanese Arabic Greek etc - 128 kbit/s
 #SERVICE 4097:0:1:55:0:0:0:0:0:0:http%3a//188.247.86.67%3a8004/stream/1/:YAQEEN RADIO JORDAN - 128 kbit/s
 #DESCRIPTION YAQEEN RADIO JORDAN - 128 kbit/s
-#SERVICE 4097:0:1:57:0:0:0:0:0:0:http%3a//162.244.80.68%3a8000/stream/1/:Radio Flash Lebanon R.F.L - 96 kbit/s
-#DESCRIPTION Radio Flash Lebanon R.F.L - 96 kbit/s
 #SERVICE 4097:0:1:59:0:0:0:0:0:0:http%3a//streamplus52.leonex.de%3a26012/stream/1/:DWG Radio Arabic - 64 kbit/s
 #DESCRIPTION DWG Radio Arabic - 64 kbit/s
 #SERVICE 4097:0:1:61:0:0:0:0:0:0:http%3a//stream0.wfmu.org/freeform-128k:WFMU Freeform Radio - 128 kbit/s
 #DESCRIPTION WFMU Freeform Radio - 128 kbit/s
-#SERVICE 4097:0:1:63:0:0:0:0:0:0:http%3a//46.28.49.164%3a7726/stream/1/:True Life in God Radio Arabic - 128 kbit/s
-#DESCRIPTION True Life in God Radio Arabic - 128 kbit/s
 #SERVICE 4097:0:1:65:0:0:0:0:0:0:http%3a//islam2day.tv%3a8000:Islam2Day Radio CH.3 [ Islamic Songs- Nasheeds ] - 96 kbit/s
 #DESCRIPTION Islam2Day Radio CH.3 [ Islamic Songs- Nasheeds ] - 96 kbit/s
 #SERVICE 4097:0:1:67:0:0:0:0:0:0:http%3a//162.252.85.85%3a9986/stream/1/:Quran Educational Radio - 96 kbit/s
@@ -8184,12 +8168,8 @@
 #DESCRIPTION BMF 786 Radio - Bawa 24/7 - 128 kbit/s
 #SERVICE 4097:0:1:77:0:0:0:0:0:0:http%3a//79.120.39.202%3a9087:Radio Caprice Arabic Pop Music - 192 kbit/s
 #DESCRIPTION Radio Caprice Arabic Pop Music - 192 kbit/s
-#SERVICE 4097:0:1:79:0:0:0:0:0:0:http%3a//149.56.185.59%3a8074/stream/1/:BMF 786 Radio - The Daily Discourse - 192 kbit/s
-#DESCRIPTION BMF 786 Radio - The Daily Discourse - 192 kbit/s
 #SERVICE 4097:0:1:81:0:0:0:0:0:0:http%3a//66.45.232.130%3a9990:Eman City - 128 kbit/s
 #DESCRIPTION Eman City - 128 kbit/s
-#SERVICE 4097:0:1:83:0:0:0:0:0:0:http%3a//82.94.166.122%3a8020:Arabnights Radio  - 128 kbit/s
-#DESCRIPTION Arabnights Radio  - 128 kbit/s
 #SERVICE 4097:0:1:85:0:0:0:0:0:0:http%3a//s9.voscast.com%3a8334/stream/1/:Arab American Radio - 96 kbit/s
 #DESCRIPTION Arab American Radio - 96 kbit/s
 #SERVICE 4097:0:1:87:0:0:0:0:0:0:http%3a//144.91.121.54%3a27001/stream/1/:Urdu islamic Lectures[CH_02] - 56 kbit/s
