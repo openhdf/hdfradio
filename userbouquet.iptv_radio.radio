@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 17.04.2023 19:17 by Team www.hdfreaks.cc
+#DESCRIPTION Update 19.04.2023 19:49 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -1161,16 +1161,48 @@
 #DESCRIPTION HIT RADIO FFH - FFH SOUNDTRACK
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION harmony.fm
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.harmonyfm.de/harmonyfm/hqlivestream.aac
-#DESCRIPTION harmony.fm - Live
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.harmonyfm.de/hrmplus/hq70er.aac
-#DESCRIPTION harmony.fm - 70er+
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.harmonyfm.de/hrmplus/hq90er.aac
-#DESCRIPTION harmony.fm - 90er+
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.harmonyfm.de/hrmplus/hqxmas.aac
-#DESCRIPTION harmony.fm - Weihnachten
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.harmonyfm.de/hrmchannels/hqschlager.aac
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/harmonyfm/hqlivestream.mp3
+#DESCRIPTION harmony.fm - Alles 80er! live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmplus/hq70er.mp3
+#DESCRIPTION harmony.fm - +70er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmplus/hq90er.mp3
+#DESCRIPTION harmony.fm - +90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmplus/hqxmas.mp3
+#DESCRIPTION harmony.fm - +Weihnachten
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hq80erkultnight.mp3
+#DESCRIPTION harmony.fm - 80er Kultnight
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hq70er80erkultnight.mp3
+#DESCRIPTION harmony.fm - 70er-80er Kultnight
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hqfeelings.mp3
+#DESCRIPTION harmony.fm - Feelings
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.harmonyfm.de/hrmchannels/hqschlager.mp3
 #DESCRIPTION harmony.fm - Schlager Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hqstars13.mp3
+#DESCRIPTION harmony.fm - Billy Joel Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hqstars12.mp3
+#DESCRIPTION harmony.fm - Eurythmics Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hqstars11.mp3
+#DESCRIPTION harmony.fm - Madonna Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hqstars10.mp3
+#DESCRIPTION harmony.fm - Queen Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hqstars09.mp3
+#DESCRIPTION harmony.fm - Roxette
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hqstars08.mp3
+#DESCRIPTION harmony.fm - Kim Wilde Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hqstars07.mp3
+#DESCRIPTION harmony.fm - Whitney Houston Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hqstars06.mp3
+#DESCRIPTION harmony.fm - Michael Jackson
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hqstars05.mp3
+#DESCRIPTION harmony.fm - Pet Shop Boys Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hqstars04.mp3
+#DESCRIPTION harmony.fm - Elton John Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hqstars03.mp3
+#DESCRIPTION harmony.fm - Depeche Mode Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hqstars02.mp3
+#DESCRIPTION harmony.fm - Phil Collins Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hqstars01.mp3
+#DESCRIPTION harmony.fm - Tina Turner Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION radio.de
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//solid24.streamupsolutions.com/proxy/nilxzqeg?mp=/;type=mp3
