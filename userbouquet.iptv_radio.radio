@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 19.04.2023 19:49 by Team www.hdfreaks.cc
+#DESCRIPTION Update 22.04.2023 19:49 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -1252,43 +1252,71 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//icecast.radiobremen.de/rb/webchannel3/mp3/128/stream.mp3
 #DESCRIPTION Radio Bremen - Bremen Vier Heuckzeug
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
-#DESCRIPTION Radio Arabella
+#DESCRIPTION Radio Arabella AT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-niederoesterreich
-#DESCRIPTION Radio Arabelle - Arabella Niederösterreich
+#DESCRIPTION Radio Arabelle AT - Arabella Niederösterreich
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-wien
-#DESCRIPTION Radio Arabelle - Arabella Wien
+#DESCRIPTION Radio Arabelle AT - Arabella Wien
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-obereroesterreich
-#DESCRIPTION Radio Arabelle - Arabella Oberösterreich
+#DESCRIPTION Radio Arabelle AT - Arabella Oberösterreich
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-relax
-#DESCRIPTION Radio Arabelle - Arabella Relax
+#DESCRIPTION Radio Arabelle AT - Arabella Relax
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-gold
-#DESCRIPTION Radio Arabelle - Arabella Gold
+#DESCRIPTION Radio Arabelle AT - Arabella Gold
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-hot
-#DESCRIPTION Radio Arabelle - Arabella Hot
+#DESCRIPTION Radio Arabelle AT - Arabella Hot
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-80er
-#DESCRIPTION Radio Arabelle - Arabella 80er
+#DESCRIPTION Radio Arabelle AT - Arabella 80er
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-austropop
-#DESCRIPTION Radio Arabelle - Arabella Austropop
+#DESCRIPTION Radio Arabelle AT - Arabella Austropop
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-lovesongs
-#DESCRIPTION Radio Arabelle - Arabella Lovesongs
+#DESCRIPTION Radio Arabelle AT - Arabella Lovesongs
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-70er
-#DESCRIPTION Radio Arabelle - Arabella 70er
+#DESCRIPTION Radio Arabelle AT - Arabella 70er
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-goldenoldies
-#DESCRIPTION Radio Arabelle - Arabella Golden Oldies
+#DESCRIPTION Radio Arabelle AT - Arabella Golden Oldies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-90er
-#DESCRIPTION Radio Arabelle - Arabella 90er
+#DESCRIPTION Radio Arabelle AT - Arabella 90er
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-schlager
-#DESCRIPTION Radio Arabelle - Arabella Schlager
+#DESCRIPTION Radio Arabelle AT - Arabella Schlager
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-rock
-#DESCRIPTION Radio Arabelle - Arabella Rock
+#DESCRIPTION Radio Arabelle AT - Arabella Rock
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-tiamo
-#DESCRIPTION Radio Arabelle - Arabella Ti Amo
+#DESCRIPTION Radio Arabelle AT - Arabella Ti Amo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-holiday
-#DESCRIPTION Radio Arabelle - Arabella Holiday
+#DESCRIPTION Radio Arabelle AT - Arabella Holiday
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-wienerschmaeh
-#DESCRIPTION Radio Arabelle - Arabella Wiener Schmäh
+#DESCRIPTION Radio Arabelle AT - Arabella Wiener Schmäh
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-christmas
-#DESCRIPTION Radio Arabelle - Arabella Christmas
+#DESCRIPTION Radio Arabelle AT - Arabella Christmas
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Radio Arabella DE
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge59.stream.radioarabella.de/radioarabella-muenchen/stream/mp3
+#DESCRIPTION Radio Arabella DE - München Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge67.stream.radioarabella.de/radioarabella-bayern/stream/mp3
+#DESCRIPTION Radio Arabella DE - Bayern Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge65.stream.radioarabella.de/radioarabella-80er/stream/mp3
+#DESCRIPTION Radio Arabella DE - 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge05.stream.radioarabella.de/radioarabella-goldenoldies/stream/mp3
+#DESCRIPTION Radio Arabella DE - Golden Oldies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge61.stream.radioarabella.de/radioarabella-70er/stream/mp3
+#DESCRIPTION Radio Arabella DE - 70er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.stream.radioarabella.de/radioarabella-classicrock/stream/mp3
+#DESCRIPTION Radio Arabella DE - Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge65.stream.radioarabella.de/radioarabella-arabellakult/stream/mp3
+#DESCRIPTION Radio Arabella DE - Kult
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge62.stream.radioarabella.de/radioarabella-latino/stream/mp3
+#DESCRIPTION Radio Arabella DE - Latino
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge69.stream.radioarabella.de/radioarabella-90er/stream/mp3
+#DESCRIPTION Radio Arabella DE - 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge62.stream.radioarabella.de/radioarabella-schlager/stream/mp3
+#DESCRIPTION Radio Arabella DE - Schlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge16.stream.radioarabella.de/radioarabella-disconight/stream/mp3
+#DESCRIPTION Radio Arabella DE - Disco Night
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge59.stream.radioarabella.de/radioarabella-oktoberfest/stream/mp3
+#DESCRIPTION Radio Arabella DE - Oktoberfest
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge68.stream.radioarabella.de/radioarabella-weihnachten/stream/mp3
+#DESCRIPTION Radio Arabella DE - Christmas
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Österreich
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radio2.stream24.net%3a9120/live.mp3:Österreich - Radio ECHOPLUS
