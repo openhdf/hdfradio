@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 22.04.2023 19:49 by Team www.hdfreaks.cc
+#DESCRIPTION Update 26.04.2023 18:20 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -101,6 +101,8 @@
 #DESCRIPTION 80s80s - DM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-wave-mp3-hq
 #DESCRIPTION 80s80s - Wave
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/dance/mp3-192/streams.80s80s.de/
+#DESCRIPTION 80s80s - Dance
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-party-mp3-hq
 #DESCRIPTION 80s80s - Party
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-mix-mp3-hq
@@ -157,6 +159,8 @@
 #DESCRIPTION Radio BOB! - Best of Rock-Stream
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/blues/mp3-192:Radio BOB! - Blues-Stream
 #DESCRIPTION Radio BOB! - Blues-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/roadtrip/mp3-192/streams.radiobob.de/
+#DESCRIPTION Radio BOB! - Roadtrip
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-classicrock/mp3-192:Radio BOB! - Classic Rock-Stream
 #DESCRIPTION Radio BOB! - Classic Rock-Stream
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/collegerock/mp3-192:Radio BOB! - College Rock-Stream
@@ -257,8 +261,6 @@
 #DESCRIPTION Antenne NRW
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/antenne-nrw/stream/mp3
 #DESCRIPTION Antenne NRW - Live
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/antenne-nrw-weihnachts-hits/stream/mp3
-#DESCRIPTION Antenne NRW - Weihnachts-Hits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/antenne-nrw-70er-hits/stream/mp3
 #DESCRIPTION Antenne NRW - 70er
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/antenne-nrw-80er-hits/stream/mp3
@@ -269,6 +271,34 @@
 #DESCRIPTION Antenne NRW - 2000er
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s8-webradio.oldie-antenne.de/oldie-antenne:Antenne NRW - OLDIE ANTENNE
 #DESCRIPTION Antenne NRW - OLDIE ANTENNE
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3-webradio.antenne.nrw/antenne-nrw-rock-classics/stream
+#DESCRIPTION Antenne NRW - Rock Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s4-webradio.antenne.nrw/antenne-nrw-ndw/stream
+#DESCRIPTION Antenne NRW - NDW
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s7-webradio.antenne.nrw/antenne-nrw-fetenhits/stream
+#DESCRIPTION Antenne NRW - Fetenhits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s4-webradio.antenne.nrw/antenne-nrw-disco-fever/stream
+#DESCRIPTION Antenne NRW - Disco Fever
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s7-webradio.antenne.nrw/antenne-nrw-bella-italia/stream
+#DESCRIPTION Antenne NRW - Bella Italia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s8-webradio.antenne.nrw/antenne-nrw-90er-rock/stream
+#DESCRIPTION Antenne NRW - 90er Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s7-webradio.antenne.nrw/antenne-nrw-90er-party/stream
+#DESCRIPTION Antenne NRW - 90er Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s4-webradio.antenne.nrw/antenne-nrw-90er-eurodance/stream
+#DESCRIPTION Antenne NRW - 90er Eurodance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s5-webradio.antenne.nrw/antenne-nrw-80er-rock/stream
+#DESCRIPTION Antenne NRW - 80er Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s2-webradio.antenne.nrw/antenne-nrw-80er-party/stream
+#DESCRIPTION Antenne NRW - 80er Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s7-webradio.antenne.nrw/antenne-nrw-80er-new-wave/stream
+#DESCRIPTION Antenne NRW - 80er New Wave
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s6-webradio.antenne.nrw/antenne-nrw-80er-disco-hits/stream
+#DESCRIPTION Antenne NRW - 80er Disco Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s5-webradio.antenne.nrw/antenne-nrw-70er-rock/stream
+#DESCRIPTION Antenne NRW - 70er Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/antenne-nrw-weihnachts-hits/stream/mp3
+#DESCRIPTION Antenne NRW - Weihnachts-Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s7-webradio.antenne.nrw/country-antenne:Antenne NRW - Country Antenne
 #DESCRIPTION Antenne NRW - Country Antenne
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s6-webradio.antenne.nrw/antenne-nrw-ue30-party:Antenne NRW - Ü30 Party
@@ -1927,6 +1957,8 @@
 #DESCRIPTION Mixed Channels - NRW 1
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION ⇒ Mixed Channels Miscellaneous
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server31053.streamplus.de/;stream.mp3
+#DESCRIPTION Mixed Channels - TechnikRADIO-24 Stunden am Tag!
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//webstream.galaxy-oberfranken.de/galaxy-oberfranken.mp3
 #DESCRIPTION Mixed Channels - Galaxy-Oberfranken
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topradio-de-hz-fal-stream02-cluster01.radiohost.de/kissfm_mp3-192
