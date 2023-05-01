@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 26.04.2023 18:20 by Team www.hdfreaks.cc
+#DESCRIPTION Update 01.05.2023 10:04 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -2876,129 +2876,177 @@
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream.zunradio.cz/zun1.aac:Zoner Underground Network
 #DESCRIPTION Zoner Underground Network
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
-#DESCRIPTION HiRes Radio Stations (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8160/flac:SuperStereo 1 Hi Res New Wave,Adult Pop
-#DESCRIPTION SuperStereo 1 Hi Res New Wave,Adult Pop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8157/flac:SuperStereo 2 Hi Res Oldie 50´s,60´s
-#DESCRIPTION SuperStereo 2 Hi Res Oldie 50´s,60´s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8539/flac:SuperStereo 3 Hi Res Pop,Dance,House
-#DESCRIPTION SuperStereo 3 Hi Res Pop,Dance,House
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8030/flac:SuperStereo 4 Hi Res Aor,West Coast
-#DESCRIPTION SuperStereo 4 Hi Res Aor,West Coast
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8030/flac7:SuperStereo 7 Hi Res Jazz
-#DESCRIPTION SuperStereo 7 Hi Res Jazz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv30.live-streams.nl%3a8086:Hi Online Radio Pop (320 kbps)
-#DESCRIPTION Hi Online Radio Pop (320 kbps)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv30.live-streams.nl%3a8088:Hi Online Radio Classical (320 kbps)
-#DESCRIPTION Hi Online Radio Classical (320 kbps)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv30.live-streams.nl%3a8000:Hi Online Radio Gold (320 kbps)
-#DESCRIPTION Hi Online Radio Gold (320 kbps)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv38.live-streams.nl%3a8027:Hi Online Radio Worlbeat (320 kbps)
-#DESCRIPTION Hi Online Radio Worlbeat (320 kbps)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv33.live-streams.nl%3a8034:Hi Online Radio Latin (320 kbps)
-#DESCRIPTION Hi Online Radio Latin (320 kbps)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv38.live-streams.nl%3a8006:Hi Online Radio Jazz (320 kbps)
-#DESCRIPTION Hi Online Radio Jazz (320 kbps)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv33.live-streams.nl%3a8036:Hi Online Radio Lounge (320 kbps)
-#DESCRIPTION Hi Online Radio Lounge (320 kbps)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.magic-radio.net/flac:Magic Radio Oldies Hits
-#DESCRIPTION Magic Radio Oldies Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server9.streamserver24.com%3a18900/motherearth:Mother Earth Radio
-#DESCRIPTION Mother Earth Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server9.streamserver24.com%3a18910/motherearth.klassik:Mother Earth Klassik
-#DESCRIPTION Mother Earth Klassik
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server9.streamserver24.com%3a18920/motherearth.instrumental:Mother Earth Instrumental
-#DESCRIPTION Mother Earth Instrumental
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioparadise.com/flacm:Radio Paradise Main Mix FLAC
-#DESCRIPTION Radio Paradise Main Mix FLAC
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioparadise.com/mellow-flacm:Radio Paradise Mellow Mix FLAC
-#DESCRIPTION Radio Paradise Mellow Mix FLAC
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioparadise.com/rock-flacm:Radio Paradise Rock Mix FLAC
-#DESCRIPTION Radio Paradise Rock Mix FLAC
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioparadise.com/global-flacm:Radio Paradise Global Mix FLAC
-#DESCRIPTION Radio Paradise Global Mix FLAC
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//chillout.zone/chillout_plus:Chill Out Zone Plus FLAC
-#DESCRIPTION Chill Out Zone Plus FLAC
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cityradio.ddns.net%3a8000/cityradio48flac:City Radio Chile
-#DESCRIPTION City Radio Chile
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.audiomastering.lt%3a8000/pure:Radio Audiomastering Dance/Electronic
-#DESCRIPTION Radio Audiomastering Dance/Electronic
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio-edge-cmc51.fra.h.radiomast.io/radioblues-flac:Radio BluesFlac
-#DESCRIPTION Radio BluesFlac
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s2.audiostream.hu/bdpstrock_FLAC:BDPST ROCK
-#DESCRIPTION BDPST ROCK
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.danubiusradio.hu/danubius_HiFi:Danubius Rádió
-#DESCRIPTION Danubius Rádió
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s2.audiostream.hu/juventus_FLAC:Juventus Rádió
-#DESCRIPTION Juventus Rádió
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.freemusicradio.nl%3a8100/stream.oga:Free Music Radio Top 40 hits
-#DESCRIPTION Free Music Radio Top 40 hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frequence3.net-radio.fr/frequence3.flac:Fréquence 3
-#DESCRIPTION Fréquence 3
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frequence3.net-radio.fr/frequence3dance.flac:Fréquence 3 – Dance
-#DESCRIPTION Fréquence 3 – Dance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frequence3.net-radio.fr/frequence3gold.flac:Fréquence 3 – Gold
-#DESCRIPTION Fréquence 3 – Gold
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frequence3.net-radio.fr/frequence3urban.flac:Fréquence 3 – Urban
-#DESCRIPTION Fréquence 3 – Urban
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frequence3.net-radio.fr/frequence3world.flac:Fréquence 3 – World
-#DESCRIPTION Fréquence 3 – World
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice2.ikoula.net-radio.fr/h2oradio.flac:H2O Radio
-#DESCRIPTION H2O Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.cor.insanityradio.com/insanity.flac:Insanity Radio
-#DESCRIPTION Insanity Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//maggie.torontocast.com%3a8076/flac:JB Radio2
-#DESCRIPTION JB Radio2
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.openbroadcast.org/openbroadcast.flac
-#DESCRIPTION openbroadcast.org FLAC
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mscp3.live-streams.nl%3a8360/flac.flac:Naim Radio
-#DESCRIPTION Naim Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mscp3.live-streams.nl%3a8250/class-flac.flac:Naim Classical
-#DESCRIPTION Naim Classical
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mscp3.live-streams.nl%3a8340/jazz-flac.flac:Naim Jazz
-#DESCRIPTION Naim Jazz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro3.flac:ČRo Vltava
-#DESCRIPTION ČRo Vltava
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro-d-dur.flac:ČRo D-dur
-#DESCRIPTION ČRo D-dur
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro-jazz.flac:ČRo Jazz
-#DESCRIPTION ČRo Jazz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro-radio-wave.flac:ČRo Radio Wave
-#DESCRIPTION ČRo Radio Wave
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro2-256.ogg:ČRo Dvojka  (ogg)
-#DESCRIPTION ČRo Dvojka  (ogg)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro-radio-junior-256.ogg:ČRo Rádio Junior  (ogg)
-#DESCRIPTION ČRo Rádio Junior  (ogg)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/progressive-flac:SECTOR Progressive channel
-#DESCRIPTION SECTOR Progressive channel
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/space-flac:SECTOR Space channel
-#DESCRIPTION SECTOR Space channel
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/nota-flac:SECTOR Nota channel
-#DESCRIPTION SECTOR Nota channel
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/geny-flac:SECTOR Geny channel (80er)
-#DESCRIPTION SECTOR Geny channel (80er)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/next-flac:SECTOR Next channel (90er)
-#DESCRIPTION SECTOR Next channel (90er)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/zed-160:SECTOR Zed (10er)
-#DESCRIPTION SECTOR Zed (10er)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//thecheese.ddns.net%3a8004/stream:The Cheese  (New Zealand)
-#DESCRIPTION The Cheese  (New Zealand)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//admin.biasradio.com/radio/8000/flac:Radio Bias
-#DESCRIPTION Radio Bias
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio3.radio-calico.com%3a8443/calico:Radio Calico Florida
-#DESCRIPTION Radio Calico Florida
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radioip.no%3a443/flac:Radio Haugaland Norway
-#DESCRIPTION Radio Haugaland Norway
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiosputnik.nl%3a8002/flac:Radio Sputnik  Holland
-#DESCRIPTION Radio Sputnik  Holland
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//maxxima.mine.nu%3a8000/maxx.ogg:MaXXima (ogg)
-#DESCRIPTION MaXXima (ogg)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mscp4.live-streams.nl%3a8140/flac.ogg:PureClassix Radio  80’s music (ogg)
-#DESCRIPTION PureClassix Radio 80’s music (ogg)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//joyhits.online/joyhits.flac.ogg
-#DESCRIPTION OGG - Joyhits
+#DESCRIPTION HiRes Radio Stations
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//r5.zetcast.net/flac
+#DESCRIPTION 60 North Radio - Eclectic Music Mix (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.95bfm.com/stream112
+#DESCRIPTION 95bFM - Arcade Radio (FLAC)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn05.radio.cloud%3a8120/ATD-OMNIA-GAT
+#DESCRIPTION Absolutely Top (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hifi.antenazadar.hr%3a8000/hifi
+#DESCRIPTION Antena Zadar 97.2 FM (HiFi) (FLAC)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bfm-stream.lancs.ac.uk/flac
+#DESCRIPTION Bailrigg FM - Lancaster's Student Sound (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//besidefm.ga%3a8000/stream
+#DESCRIPTION BesideFM - Rock and Blues channel (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//besidefm.ga%3a8000/opus
+#DESCRIPTION BesideFM - Chillout channel (Opus)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//maggie.torontocast.com%3a8076/flac
+#DESCRIPTION JB Radio-2 - new experience of hq audio (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s2.audiostream.hu/bdpstrock_FLAC
+#DESCRIPTION BDPST ROCK Rádió - Budapest ROCK Rádió Online (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//chillout.zone/chillout_plus
+#DESCRIPTION Chill Out Zone Plus (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cityradio.ddns.net%3a8000/cityradio48flac
+#DESCRIPTION City Radio Chile - Jazz,smooth jazz&crossover jazz (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.danubiusradio.hu/danubius_HiFi
+#DESCRIPTION DANUBIUS Rádió Rólunk - Ungarn Online-Popradio (FLAC)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.easyradio.bg/flac?type=.ogg
-#DESCRIPTION OGG - Easyradio
+#DESCRIPTION Easyradio.bg - Your Relaxing Music Mix (FLAC)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sweetfm.fr%3a8000/flac-forever-bdx
+#DESCRIPTION ForEver La Radio (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.freemusicradio.nl%3a8100/stream.oga
+#DESCRIPTION Free Music Radio Top 40 Hits (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frequence3.net-radio.fr/frequence3.flac
+#DESCRIPTION Fréquence 3 (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frequence3.net-radio.fr/frequence3dance.flac
+#DESCRIPTION Fréquence 3 – Dance (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frequence3.net-radio.fr/frequence3gold.flac
+#DESCRIPTION Fréquence 3 – Gold (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frequence3.net-radio.fr/frequence3urban.flac
+#DESCRIPTION Fréquence 3 – Urban (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frequence3.net-radio.fr/frequence3world.flac
+#DESCRIPTION Fréquence 3 – World (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice2.ikoula.net-radio.fr/h2oradio.flac
+#DESCRIPTION H2O UHD (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv30.live-streams.nl%3a8086
+#DESCRIPTION Hi Online Radio Pop (320 kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv30.live-streams.nl%3a8088
+#DESCRIPTION Hi Online Radio Classical (320 kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv30.live-streams.nl%3a8000
+#DESCRIPTION Hi Online Radio Gold (320 kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv38.live-streams.nl%3a8027
+#DESCRIPTION Hi Online Radio Worlbeat (320 kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv33.live-streams.nl%3a8034
+#DESCRIPTION Hi Online Radio Latin (320 kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv33.live-streams.nl%3a8036
+#DESCRIPTION Hi Online Radio Lounge (320 kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv38.live-streams.nl%3a8006
+#DESCRIPTION Hi Online Radio Jazz (320 kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.cor.insanityradio.com/insanity.flac
+#DESCRIPTION Insanity Radio (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s2.audiostream.hu/juventus_FLAC
+#DESCRIPTION Juventus Rádió (FLAC)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.lamer.live/laradiodelamer-uhd.flac
+#DESCRIPTION La Radio de la Mer (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.magic-radio.net/flac
+#DESCRIPTION Magic Radio Oldies Hits (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//maxxima.mine.nu%3a8000/maxx.ogg
+#DESCRIPTION MaXXima (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server9.streamserver24.com%3a18900/motherearth
+#DESCRIPTION Mother Earth Radio (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server9.streamserver24.com%3a18910/motherearth.klassik
+#DESCRIPTION Mother Earth Klassik (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server9.streamserver24.com%3a18920/motherearth.instrumental
+#DESCRIPTION Mother Earth Instrumental (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mscp3.live-streams.nl%3a8360/flac.flac
+#DESCRIPTION Naim Radio (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mscp3.live-streams.nl%3a8250/class-flac.flac
+#DESCRIPTION Naim Classical (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mscp3.live-streams.nl%3a8340/jazz-flac.flac
+#DESCRIPTION Naim Jazz (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.openbroadcast.org/openbroadcast.flac
+#DESCRIPTION openbroadcast.org (FLAC)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.punkrockers-radio.de%3a8443/prr.flac
+#DESCRIPTION Punkrockers Radio (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mscp4.live-streams.nl%3a8140/flac.ogg
+#DESCRIPTION PureClassix Radio 80’s music (FLAC)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mscp4.live-streams.nl%3a8142/lounge.ogg
+#DESCRIPTION Pure Lounge Radio (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamserver.pure-isp.eu/radio/8000/flac
+#DESCRIPTION Pure Radio Holland - The Undergound Channel (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamserver.pure-isp.eu/radio/8010/flac
+#DESCRIPTION Pure Radio Holland - Hardcore Channel (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamserver.pure-isp.eu/radio/8020/flac
+#DESCRIPTION Pure Radio Holland - Trance-Electro Channel (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamserver.pure-isp.eu/radio/8030/flac
+#DESCRIPTION Pure Radio Holland - Dance Channel (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamserver.pure-isp.eu/radio/8040/flac
+#DESCRIPTION Pure Radio Holland - DownTempo Channel (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamserver.pure-isp.eu/radio/8060/flac
+#DESCRIPTION Pure Radio Holland - Live Party Channel (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamserver.pure-isp.eu/radio/8050/flac
+#DESCRIPTION Pure Radio Holland - DJ R.I.P.’s Podcast (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamserver.pure-isp.eu/radio/8070/flac
+#DESCRIPTION Pure Radio Holland - Various Channel (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamserver.pure-isp.eu/radio/8100/flac
+#DESCRIPTION Pure Radio Holland - Rap & HIP-HOP Channel (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.audiomastering.lt%3a8000/pure
+#DESCRIPTION Radio Audiomastering Dance/Electronic (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//admin.biasradio.com/radio/8000/flac
+#DESCRIPTION Radio Bias (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio-edge-cmc51.fra.h.radiomast.io/radioblues-flac:Radio BluesFlac
+#DESCRIPTION Radio Blues (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio3.radio-calico.com%3a8443/calico:Radio Calico Florida
+#DESCRIPTION Radio Calico Florida (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radioip.no%3a443/flac:Radio Haugaland Norway
+#DESCRIPTION Radio Haugaland Norway (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kemoniastreaming2.net%3a8060/stream
+#DESCRIPTION Radio Kemonia Italy - 80s and 90s Hits (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioparadise.com/flacm
+#DESCRIPTION Radio Paradise Main Mix (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioparadise.com/mellow-flacm
+#DESCRIPTION Radio Paradise Mellow Mix (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioparadise.com/rock-flacm
+#DESCRIPTION Radio Paradise Rock Mix (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioparadise.com/global-flacm
+#DESCRIPTION Radio Paradise Global Mix (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mscp4.live-streams.nl%3a8220/autodj.ogg
+#DESCRIPTION Radio PopNonStop (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//66.94.113.88%3a8000/ultra_hq
+#DESCRIPTION Sanctuary Radio - Dark Electro Channel (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//66.94.113.88%3a8000/retro_ultra_hq
+#DESCRIPTION Sanctuary Radio - 80’s Alternative Channel (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//66.94.113.88%3a8000/clubmix_ultra_hq
+#DESCRIPTION Sanctuary Radio - Club Mix Channel (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8160/flac
+#DESCRIPTION SuperStereo 1 Hi Res New Wave,Adult Pop (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8157/flac
+#DESCRIPTION SuperStereo 2 Hi Res Oldie 50´s,60´s (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8539/flac
+#DESCRIPTION SuperStereo 3 Hi Res Pop,Dance,House (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8030/flac
+#DESCRIPTION SuperStereo 4 Hi Res Aor,West Coast (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8511/canal1
+#DESCRIPTION SuperStereo 5 Hi Res Adult Rock (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8157/flac6
+#DESCRIPTION SuperStereo 6 Hi Res Instrumental Music (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8030/flac7
+#DESCRIPTION SuperStereo 7 Hi Res Jazz (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro3.flac
+#DESCRIPTION ČRo Vltava (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro-d-dur.flac
+#DESCRIPTION ČRo D-dur (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro-jazz.flac
+#DESCRIPTION ČRo Jazz (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro-radio-wave.flac
+#DESCRIPTION ČRo Radio Wave (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro2-256.ogg
+#DESCRIPTION ČRo Dvojka (Vorbis)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro-radio-junior-256.ogg
+#DESCRIPTION ČRo Rádio Junior (Vorbis)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/progressive-flac
+#DESCRIPTION SECTOR Progressive channel (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/space-flac
+#DESCRIPTION SECTOR Space channel (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/nota-flac
+#DESCRIPTION SECTOR Nota channel (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/geny-flac
+#DESCRIPTION SECTOR Geny channel (80er) (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/next-flac
+#DESCRIPTION SECTOR Next channel (90er) (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/zed-160
+#DESCRIPTION SECTOR Zed channel (10er) (FLAC)
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Exclusive Radio
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/10cc/icecast.audio:10cc
