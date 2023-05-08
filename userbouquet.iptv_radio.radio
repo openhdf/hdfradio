@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 03.05.2023 14:00 by Team www.hdfreaks.cc
+#DESCRIPTION Update 08.05.2023 10:23 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -3049,6 +3049,24 @@
 #DESCRIPTION SECTOR Next channel (90er) (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/zed-160
 #DESCRIPTION SECTOR Zed channel (10er) (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secure.live-streams.nl/flac.ogg
+#DESCRIPTION Intense Radio - we love dance (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.linn.co.uk%3a8003/autodj
+#DESCRIPTION Linn Radio UK (320kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.linn.co.uk%3a8004/autodj
+#DESCRIPTION Linn Classical UK (320kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.linn.co.uk%3a8000/autodj
+#DESCRIPTION Linn Jazz UK (320kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ecuamedios.net/8050/stream
+#DESCRIPTION Radio Club 80 HiFi (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ecuamedios.net%3a10868/live.ogg
+#DESCRIPTION Radio Club 80 HI Res (Vorbis)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//panelradio.online%3a8446/stream/flac:Radio Club 80 Hi Res 24 bit
+#DESCRIPTION Radio Club 80 Senal Retro (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ecuamedios.net%3a10850/stream:Radio Club 80 Senal Dance
+#DESCRIPTION Radio Club 80 Senal Dance (320kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.tmefm.com%3a17666/;stream.nsv:TME
+#DESCRIPTION TMEFolk Radio Canada (320kbps)
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Exclusive Radio
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/10cc/icecast.audio:10cc
