@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 08.05.2023 10:23 by Team www.hdfreaks.cc
+#DESCRIPTION Update 10.05.2023 19:42 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -8712,3 +8712,31 @@
 #DESCRIPTION Radio Paloma Volksmusik
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pool.radiopaloma.de/RP-XMAS.mp3:Radio Paloma X-Mas
 #DESCRIPTION Radio Paloma X-Mas
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Radio Summernight
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiosummernight.stream.laut.fm/radiosummernight
+#DESCRIPTION Radio Summernight - Radio Summernight
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//80er-90er.stream.laut.fm/80er-90er
+#DESCRIPTION Radio Summernight - Radio 80er-90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deutschrock.stream.laut.fm/deutschrock
+#DESCRIPTION Radio Summernight - Radio Deutschrock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kuschelrock.stream.laut.fm/kuschelrock
+#DESCRIPTION Radio Summernight - Radio Kuschelrock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rap.stream.laut.fm/rap
+#DESCRIPTION Radio Summernight - Rap Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//trap.stream.laut.fm/trap
+#DESCRIPTION Radio Summernight - Trap Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//workout.stream.laut.fm/workout
+#DESCRIPTION Radio Summernight - Workout Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//1000dance.stream.laut.fm/1000dance
+#DESCRIPTION Radio Summernight - 1000 Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//1000discofox.stream.laut.fm/1000discofox
+#DESCRIPTION Radio Summernight - 1000 Discofox
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//1000hiphop.stream.laut.fm/1000hiphop
+#DESCRIPTION Radio Summernight - 1000 Hiphop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//1000indie.stream.laut.fm/1000indie
+#DESCRIPTION Radio Summernight - 1000 Indie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//1000techno.stream.laut.fm/1000techno
+#DESCRIPTION Radio Summernight - 1000 Techno
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//1000weihnachten.stream.laut.fm/1000weihnachten
+#DESCRIPTION Radio Summernight - 1000 Weihnachten
