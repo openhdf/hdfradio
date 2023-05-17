@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 10.05.2023 19:42 by Team www.hdfreaks.cc
+#DESCRIPTION Update 17.05.2023 11:10 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -3067,6 +3067,28 @@
 #DESCRIPTION Radio Club 80 Senal Dance (320kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.tmefm.com%3a17666/;stream.nsv:TME
 #DESCRIPTION TMEFolk Radio Canada (320kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//funkyradio.streamingmedia.it/play.mp3
+#DESCRIPTION Funky Radio - Funk Music 60s70s80s (320kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//iradio.fi%3a8000/klasu-hi.mp3
+#DESCRIPTION Rondo Klasu Finnland (320kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//iradio.fi%3a8000/klasupro-hi.mp3
+#DESCRIPTION Rondo Klasu Pro Finnland (320kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//iradio.fi%3a8000/viva-hi.mp3
+#DESCRIPTION Rondo Viva Classica Finnland (320kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.and-stuff.nl%3a8443/riverside
+#DESCRIPTION Riverside Radio Netherlands (FLAC 2000kbps))
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.sing-sing-bis.org%3a8000/singsingFlac
+#DESCRIPTION Sing Sing BIS France (Eclectic) (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//euk-85965.eukservers.com%3a8000/soul
+#DESCRIPTION Soul City FM Dublin Ireland (FLAC 1556kbps))
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//diffusion.lafrap.fr%3a8000/sun.flac
+#DESCRIPTION SUN – Le Son Unique (FLAC 1556kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tsuiokuyo.ddns.net%3a8764/vorbis
+#DESCRIPTION Tsuiokuyo’s FLAC Anime Music (Vorbis)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zapstream.nl%3a8443/1
+#DESCRIPTION Zap!FM NL (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.norbert.de/zappa.flac
+#DESCRIPTION Zappa Stream Radio (FLAC)
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Exclusive Radio
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/10cc/icecast.audio:10cc
