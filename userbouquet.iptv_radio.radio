@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 19.05.2023 13:04 by Team www.hdfreaks.cc
+#DESCRIPTION Update 29.05.2023 12:23 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -8150,3 +8150,107 @@
 #DESCRIPTION Radio Summernight - 1000 Techno
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//1000weihnachten.stream.laut.fm/1000weihnachten
 #DESCRIPTION Radio Summernight - 1000 Weihnachten
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Klassik Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge10.streams.klassikradio.de/klassikradio-deutschland/stream/mp3
+#DESCRIPTION Klassik Radio - Deutschland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge14.streams.klassikradio.de/beats-radio/stream/mp3
+#DESCRIPTION Klassik Radio - Beats
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge13.streams.klassikradio.de/klassikradio-movie/stream/mp3
+#DESCRIPTION Klassik Radio - Movie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//klassikr.streamabc.net/klr-romantischerabend-mp3-192-8709897
+#DESCRIPTION Klassik Radio - Romantischer Abend
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-friendshome-mp3-192-1047211
+#DESCRIPTION Klassik Radio - Friends @ Home
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-klassikammorgen-mp3-192-5547438
+#DESCRIPTION Klassik Radio - Klassik am Morgen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-klassikdreams-mp3-192-5363069
+#DESCRIPTION Klassik Radio - Klassik Dreams
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-klassikzumkochen-mp3-192-9428411
+#DESCRIPTION Klassik Radio - Klassik zum Kochen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-weinabend-mp3-192-7500291
+#DESCRIPTION Klassik Radio - Klassik zum Weinabend
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-puremozart-mp3-192-2032482
+#DESCRIPTION Klassik Radio - Wolfgang Amadeus Mozart
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-purebach-mp3-192-6431132
+#DESCRIPTION Klassik Radio - Johann Sebastian Bach
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-purebeethoven-mp3-192-9883270
+#DESCRIPTION Klassik Radio - Ludwig van Beethoven
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-barock-mp3-192-2450908
+#DESCRIPTION Klassik Radio - Meisterwerke des Barock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-filmklassiker-mp3-192-9201931
+#DESCRIPTION Klassik Radio - Filmklassiker
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-newclassics-mp3-192-1596648
+#DESCRIPTION Klassik Radio - New Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-feelgoodklassik-mp3-192-1640297
+#DESCRIPTION Klassik Radio - Feel Good Klassik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-klre1fchiop6r41umk-mp3-192-5467303
+#DESCRIPTION Klassik Radio - Piano New Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-brazil-mp3-192-6466847
+#DESCRIPTION Klassik Radio - Brazil Music
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-opera-mp3-192-1730403
+#DESCRIPTION Klassik Radio - Meisterwerke der Oper
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-chor-mp3-192-1277277
+#DESCRIPTION Klassik Radio - Welt der Chormusik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-klraemqrgdzgvny5za-mp3-192-1839702
+#DESCRIPTION Klassik Radio - Die wahre Geschichte
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-klassikrock-mp3-192-6623778
+#DESCRIPTION Klassik Radio - Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-loungebeat-mp3-192-8368986
+#DESCRIPTION Klassik Radio - Lounge Beat 1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-lounge-mp3-192-2214671
+#DESCRIPTION Klassik Radio - Easy Lounge Beat
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-schiller-mp3-192-1913826
+#DESCRIPTION Klassik Radio - Schiller Lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-vitality-mp3-192-1851210
+#DESCRIPTION Klassik Radio - Vitality
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-dinnerjazz-mp3-192-2333435
+#DESCRIPTION Klassik Radio - Dinner Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-smooth-mp3-192-1096057
+#DESCRIPTION Klassik Radio - Smooth Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-tillbrnner-mp3-192-5700900
+#DESCRIPTION Klassik Radio - Best Of Till Brönner Show
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-60iesbl-mp3-192-5956031
+#DESCRIPTION Klassik Radio - 60ies Bar-Lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-furioso-mp3-192-7623726
+#DESCRIPTION Klassik Radio - Furioso! Die Rolando Villazón Show
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-piano-mp3-192-1690902
+#DESCRIPTION Klassik Radio - Piano
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-pureverdi-mp3-192-6581813
+#DESCRIPTION Klassik Radio - Giuseppe Verdi
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-legenden-mp3-192-5182833
+#DESCRIPTION Klassik Radio - Legenden der Klassik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-rockmclassic-mp3-192-2262750
+#DESCRIPTION Klassik Radio - Classic meets Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-musical-mp3-192-3752723
+#DESCRIPTION Klassik Radio - Musical Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-schillerberlin-mp3-192-6610643
+#DESCRIPTION Klassik Radio - Schiller Berlin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-jmjarre-mp3-192-8219853
+#DESCRIPTION Klassik Radio - Jean-Michel Jarre
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-games-mp3-192-7733162
+#DESCRIPTION Klassik Radio - Games Soundtracks
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-serien-mp3-192-9198480
+#DESCRIPTION Klassik Radio - Streaming & Serien Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-klrod1nkisewt4s9sa-mp3-192-4527374
+#DESCRIPTION Klassik Radio - Movie Heroes
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-klangzauber-mp3-192-5271933
+#DESCRIPTION Klassik Radio - Mit Klassik Kindern helfen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-klassikfrkinder-mp3-192-8843124
+#DESCRIPTION Klassik Radio - Klassik für Kids
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-klassischeweihnachten-mp3-192-1139727
+#DESCRIPTION Klassik Radio - Klassische Weihnachten
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-americanchristmas-mp3-192-4648044
+#DESCRIPTION Klassik Radio - American Christmas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-christmas-mp3-192-8981917
+#DESCRIPTION Klassik Radio - Christmas Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-yoga-mp3-192-4562994
+#DESCRIPTION Klassik Radio - Hatha Yoga
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-healing-mp3-192-8161477
+#DESCRIPTION Klassik Radio - Healing Spirits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-relax-mp3-192-4545012
+#DESCRIPTION Klassik Radio - Easy Relax
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-klrnqlq9rgbhlxvasj-mp3-192-7371061
+#DESCRIPTION Klassik Radio - Relax Meditation
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-nature-mp3-192-6135585
+#DESCRIPTION Klassik Radio - Natur Klänge
