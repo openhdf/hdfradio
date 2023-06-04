@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 30.05.2023 18:00 by Team www.hdfreaks.cc
+#DESCRIPTION Update 04.06.2023 11:13 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -51,44 +51,46 @@
 #DESCRIPTION RadioMonster.FM - Schlager (320kbps)
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION R.SA Sachsen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-live-mp3-hq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/rsa-live/mp3-192/homepage/
 #DESCRIPTION R.SA - Livestream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-maxis-mp3-hq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/mix-nonstop/mp3-192/homepage/
+#DESCRIPTION R.SA - Musik Mix Nonstop
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/maxis/mp3-192/homepage/
 #DESCRIPTION R.SA - Maxis Maximal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-classicrock-mp3-hq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/classicrock/mp3-192/homepage/
 #DESCRIPTION R.SA - Classic Rock 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-oldies-mp3-hq
-#DESCRIPTION R.SA - Oldies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-rockzirkus-mp3-hq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/rsa-oldies/mp3-192/homepage/
+#DESCRIPTION R.SA - Oldieclub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/rsa-rockzirkus/mp3-192/homepage/
 #DESCRIPTION R.SA - Rockzirkus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-ostrock-mp3-hq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/rsa-ostrock/mp3-192/homepage/
 #DESCRIPTION R.SA - Ostrock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-beatles-mp3-hq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/rsa-beatles/mp3-192/homepage/
 #DESCRIPTION R.SA - Beatles Radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-disco-mp3-hq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/disco/mp3-192/homepage/
 #DESCRIPTION R.SA - Disco
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-80erdisco-mp3-hq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/80erdisco/mp3-192/homepage/
 #DESCRIPTION R.SA - 80er Disco
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-80erhit-mp3-hq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/80erhits/mp3-192/homepage/
 #DESCRIPTION R.SA - 80er Hits
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-60erold-mp3-hq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/60er/mp3-192/homepage/
 #DESCRIPTION R.SA - 60er Oldies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-70erold-mp3-hq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/70er/mp3-192/homepage/
 #DESCRIPTION R.SA - 70er Oldies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-schlager-mp3-hq
-#DESCRIPTION R.SA - 80er Schlager
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-country-mp3-hq
-#DESCRIPTION R.SA - 80er Country
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rsa.hoerradar.de/rsasachsen-sommer-mp3-hq
-#DESCRIPTION R.SA - Sommer Radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//barbaradio.hoerradar.de/barbaradio-esc-mp3-hq
-#DESCRIPTION R.SA - Song Contest
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//feierfreund.hoerradar.de/feierfreund-summerdance-mp3-hq
-#DESCRIPTION R.SA - Summerdance
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//barbaradio.hoerradar.de/barbaradio-strandbar-mp3-hq
-#DESCRIPTION R.SA - Strandbar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//feierfreund.hoerradar.de/feierfreund-malle-mp3-hq
-#DESCRIPTION R.SA - Mallorca Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/schlager/mp3-192/homepage/
+#DESCRIPTION R.SA - Schlager
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/country/mp3-192/homepage/
+#DESCRIPTION R.SA - Country
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/80er-italo/mp3-192/homepage/
+#DESCRIPTION R.SA - Italo Disco Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/launeclass/mp3-192/homepage/
+#DESCRIPTION R.SA - Die Gute Laune Classics
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/classicrock/mp3-192/homepage/
+#DESCRIPTION R.SA - Classic Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/80er1000/mp3-192/homepage/
+#DESCRIPTION R.SA - 1000 Achtziger
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/stones/mp3-192/homepage/
+#DESCRIPTION R.SA - Rolling Stones Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION 80s80s
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-mweb-mp3-hq
