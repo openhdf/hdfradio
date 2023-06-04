@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 04.06.2023 11:13 by Team www.hdfreaks.cc
+#DESCRIPTION Update 04.06.2023 11:30 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -93,38 +93,56 @@
 #DESCRIPTION R.SA - Rolling Stones Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION 80s80s
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-mweb-mp3-hq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/web/mp3-192/homepage/
 #DESCRIPTION 80s80s - Digital
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-maxis-mp3-hq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/maxis/mp3-192/homepage/
 #DESCRIPTION 80s80s - Maxis
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-rock-mp3-hq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/rock/mp3-192/homepage/
 #DESCRIPTION 80s80s - Rock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-dm-mp3-hq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/dm/mp3-192/homepage/
 #DESCRIPTION 80s80s - DM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-wave-mp3-hq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/wave/mp3-192/homepage/
 #DESCRIPTION 80s80s - Wave
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/dance/mp3-192/streams.80s80s.de/
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/darkwave/mp3-192/homepage/
+#DESCRIPTION 80s80s - Dark Wave
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/dance/mp3-192/homepage/
 #DESCRIPTION 80s80s - Dance
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-party-mp3-hq
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/deutsch/mp3-192/homepage/
+#DESCRIPTION 80s80s - Deutsch
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/neo/mp3-192/homepage/
+#DESCRIPTION 80s80s - Neo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/party/mp3-192/homepage/
 #DESCRIPTION 80s80s - Party
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-mix-mp3-hq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/mix/mp3-192/homepage/
 #DESCRIPTION 80s80s - In the Mix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-summerhits-mp3-hq
-#DESCRIPTION 80s80s - Summer
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-love-mp3-hq
-#DESCRIPTION 80s80s - Love
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-ndw-mp3-hq
-#DESCRIPTION 80s80s - NDW
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-soul-mp3-hq
-#DESCRIPTION 80s80s - Funk & Soul
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-100-mp3-hq
-#DESCRIPTION 80s80s - Prince
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-micjac-mp3-hq
-#DESCRIPTION 80s80s - Michael Jackson
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-event02-mp3-hq
-#DESCRIPTION 80s80s - David Bowie
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//80s80s.hoerradar.de/80s80s-italohits-mp3-hq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/italohits/mp3-192/homepage/
 #DESCRIPTION 80s80s - Italo Disco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/livemusic/mp3-192/homepage/
+#DESCRIPTION 80s80s - Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/summerhits/mp3-192/homepage/
+#DESCRIPTION 80s80s - Summer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/love/mp3-192/homepage/
+#DESCRIPTION 80s80s - Love
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/dinnerparty/mp3-192/homepage/
+#DESCRIPTION 80s80s - Dinnerparty
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/ndw/mp3-192/homepage/
+#DESCRIPTION 80s80s - NDW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/soul/mp3-192/homepage/
+#DESCRIPTION 80s80s - Funk & Soul
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/hiphop/mp3-192/homepage/
+#DESCRIPTION 80s80s - HipHop
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/breakdance/mp3-192/homepage/
+#DESCRIPTION 80s80s - Breakdance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/queen/mp3-192/homepage/
+#DESCRIPTION 80s80s - Queen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/100/mp3-192/homepage/
+#DESCRIPTION 80s80s - Prince
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/mj/mp3-192/homepage/
+#DESCRIPTION 80s80s - Michael Jackson
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/davidbowie/mp3-192/homepage/
+#DESCRIPTION 80s80s - David Bowie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/christmas/mp3-192/homepage/
+#DESCRIPTION 80s80s - Xmas
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Radio BOB!
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-national/mp3-192:Radio BOB! - Livestream National
