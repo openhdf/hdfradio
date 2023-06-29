@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 29.06.2023 17:39 by Team www.hdfreaks.cc
+#DESCRIPTION Update 29.06.2023 18:11 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -6252,94 +6252,6 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge62.streamonkey.net/charthitradio-nrw/stream/aacp
 #DESCRIPTION kulthit Radio charthit - NRW
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
-#DESCRIPTION Schweiz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.srg-ssr.ch/m/regi_ost/mp3_128:SRF 1 Ostschweiz Live
-#DESCRIPTION SRF 1 Ostschweiz Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/regi_zentr/mp3_128:SRF 1 Zentralschweiz Live
-#DESCRIPTION SRF 1 Zentralschweiz Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.swisstxt.ch/m/regi_gr/mp3_128:SRF 1 Graubünden Live
-#DESCRIPTION SRF 1 Graubünden Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/regi_zh_sh/aacp_96:SRF 1 Zürich Schaffhausen Live
-#DESCRIPTION SRF 1 Zürich Schaffhausen Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/regi_ag_so/aacp_96:SRF 1 Aargau Solothurn Live
-#DESCRIPTION SRF 1 Aargau Solothurn Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/regi_bs_bl/mp3_128:SRF 1 Basel Baselland Live
-#DESCRIPTION SRF 1 Basel Baselland Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/drs1/mp3_128:SRF 1 ohne RegionalJournal Live
-#DESCRIPTION SRF 1 ohne RegionalJournal Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/regi_be_fr_vs/aacp_96:SRF 1 Bern Freibourg Wallis Live
-#DESCRIPTION SRF 1 Bern Freibourg Wallis Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/drs2/mp3_128:SRF 2 Kultur Live
-#DESCRIPTION SRF 2 Kultur Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.swisstxt.ch/m/drs3/mp3_128:SRF 3 Live
-#DESCRIPTION SRF 3 Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.swisstxt.ch/m/drs4news/mp3_128:SRF 4 News Live
-#DESCRIPTION SRF 4 News Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/drsmw/mp3_128:SRF Musikwelle Live
-#DESCRIPTION SRF Musikwelle Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/drsvirus/mp3_128:SRF Virus Live
-#DESCRIPTION SRF Virus Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.srg-ssr.ch/m/rsp/mp3_128:Radio Swiss Pop Live
-#DESCRIPTION Radio Swiss Pop Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.srg-ssr.ch/m/rsj/mp3_128:Radio Swiss Jazz Live
-#DESCRIPTION Radio Swiss Jazz Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.srg-ssr.ch/m/rsc_fr/mp3_128:Radio Swiss Classic FR Live
-#DESCRIPTION Radio Swiss Classic FR Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.srg-ssr.ch/m/rsc_de/mp3_128:Radio Swiss Classic DE Live
-#DESCRIPTION Radio Swiss Classic DE Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.srg-ssr.ch/m/rsc_it/mp3_128:Radio Swiss Classic IT Live
-#DESCRIPTION Radio Swiss Classic IT Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/couleur3/mp3_128:RTS Couleur 3 Live
-#DESCRIPTION RTS Couleur 3 Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/espace-2/mp3_128:RTS Espace 2 Live
-#DESCRIPTION RTS Espace 2 Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/option-musique/aacp_96:RTS Option Musique Live
-#DESCRIPTION RTS Option Musique Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/la-1ere/mp3_128:RTS La Première Live
-#DESCRIPTION RTS La Première Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/reteuno/mp3_128:RSI Rete Uno Live
-#DESCRIPTION RSI Rete Uno Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/retedue/mp3_128:RSI Rete Due Live
-#DESCRIPTION RSI Rete Due Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/retetre/mp3_128:RSI Rete Tre Live
-#DESCRIPTION RSI Rete Tre Live
-#SERVICE 1:64:D:0:0:0:0:0:0:0::
-#DESCRIPTION Frankreich
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm.aac:RFM
-#DESCRIPTION RFM
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//stream.rfm.fr/rfm-wr3.aac:RFM - 100pct Femmes
-#DESCRIPTION RFM - 100pct Femmes
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr11.aac:RFM - 100pct Français
-#DESCRIPTION RFM - 100pct Français
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//stream.rfm.fr/rfm-wr12.aac:RFM - 100pct New Wave
-#DESCRIPTION RFM - 100pct New Wave
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr4.aac:RFM - 80s
-#DESCRIPTION RFM - 80s
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr15.aac:RFM - Cinéma
-#DESCRIPTION RFM - Cinéma
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr1.aac:RFM - Collector
-#DESCRIPTION RFM - Collector
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr7.aac:RFM - Le HIT RFM
-#DESCRIPTION RFM - Le HIT RFM
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr6.aac:RFM - Lounge
-#DESCRIPTION RFM - Lounge
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//stream.rfm.fr/rfm-wr14.aac:RFM - Musique Fraîche
-#DESCRIPTION RFM - Musique Fraîche
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//stream.rfm.fr/rfm-wr2.aac:RFM - Night Fever
-#DESCRIPTION RFM - Night Fever
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr5.aac:RFM - Party 90
-#DESCRIPTION RFM - Party 90
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr10.aac:RFM - Pop-Rock
-#DESCRIPTION RFM - Pop-Rock
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr9.aac:RFM - Run & Fit
-#DESCRIPTION RFM - Run & Fit
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr16.aac:RFM - s
-#DESCRIPTION RFM - s
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr13.aac:RFM - Slow
-#DESCRIPTION RFM - Slow
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//ais-live.cloud-services.paris:8443/rfm-wr16.aac:RFM 70's
-#DESCRIPTION RFM 70's
-#SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION bigFM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-bigfm-aac-128-6355201
 #DESCRIPTION bigFM - bigFM Deutschlands biggste Beats
@@ -6437,6 +6349,94 @@
 #DESCRIPTION bigFM - Sports and Workout 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-xmas-aac-128-5299530:48
 #DESCRIPTION bigFM - XMAS
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Schweiz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.srg-ssr.ch/m/regi_ost/mp3_128:SRF 1 Ostschweiz Live
+#DESCRIPTION SRF 1 Ostschweiz Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/regi_zentr/mp3_128:SRF 1 Zentralschweiz Live
+#DESCRIPTION SRF 1 Zentralschweiz Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.swisstxt.ch/m/regi_gr/mp3_128:SRF 1 Graubünden Live
+#DESCRIPTION SRF 1 Graubünden Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/regi_zh_sh/aacp_96:SRF 1 Zürich Schaffhausen Live
+#DESCRIPTION SRF 1 Zürich Schaffhausen Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/regi_ag_so/aacp_96:SRF 1 Aargau Solothurn Live
+#DESCRIPTION SRF 1 Aargau Solothurn Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/regi_bs_bl/mp3_128:SRF 1 Basel Baselland Live
+#DESCRIPTION SRF 1 Basel Baselland Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/drs1/mp3_128:SRF 1 ohne RegionalJournal Live
+#DESCRIPTION SRF 1 ohne RegionalJournal Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/regi_be_fr_vs/aacp_96:SRF 1 Bern Freibourg Wallis Live
+#DESCRIPTION SRF 1 Bern Freibourg Wallis Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/drs2/mp3_128:SRF 2 Kultur Live
+#DESCRIPTION SRF 2 Kultur Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.swisstxt.ch/m/drs3/mp3_128:SRF 3 Live
+#DESCRIPTION SRF 3 Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.swisstxt.ch/m/drs4news/mp3_128:SRF 4 News Live
+#DESCRIPTION SRF 4 News Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/drsmw/mp3_128:SRF Musikwelle Live
+#DESCRIPTION SRF Musikwelle Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/drsvirus/mp3_128:SRF Virus Live
+#DESCRIPTION SRF Virus Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.srg-ssr.ch/m/rsp/mp3_128:Radio Swiss Pop Live
+#DESCRIPTION Radio Swiss Pop Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.srg-ssr.ch/m/rsj/mp3_128:Radio Swiss Jazz Live
+#DESCRIPTION Radio Swiss Jazz Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.srg-ssr.ch/m/rsc_fr/mp3_128:Radio Swiss Classic FR Live
+#DESCRIPTION Radio Swiss Classic FR Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.srg-ssr.ch/m/rsc_de/mp3_128:Radio Swiss Classic DE Live
+#DESCRIPTION Radio Swiss Classic DE Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.srg-ssr.ch/m/rsc_it/mp3_128:Radio Swiss Classic IT Live
+#DESCRIPTION Radio Swiss Classic IT Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/couleur3/mp3_128:RTS Couleur 3 Live
+#DESCRIPTION RTS Couleur 3 Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/espace-2/mp3_128:RTS Espace 2 Live
+#DESCRIPTION RTS Espace 2 Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/option-musique/aacp_96:RTS Option Musique Live
+#DESCRIPTION RTS Option Musique Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/la-1ere/mp3_128:RTS La Première Live
+#DESCRIPTION RTS La Première Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/reteuno/mp3_128:RSI Rete Uno Live
+#DESCRIPTION RSI Rete Uno Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/retedue/mp3_128:RSI Rete Due Live
+#DESCRIPTION RSI Rete Due Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/retetre/mp3_128:RSI Rete Tre Live
+#DESCRIPTION RSI Rete Tre Live
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Frankreich
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm.aac:RFM
+#DESCRIPTION RFM
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//stream.rfm.fr/rfm-wr3.aac:RFM - 100pct Femmes
+#DESCRIPTION RFM - 100pct Femmes
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr11.aac:RFM - 100pct Français
+#DESCRIPTION RFM - 100pct Français
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//stream.rfm.fr/rfm-wr12.aac:RFM - 100pct New Wave
+#DESCRIPTION RFM - 100pct New Wave
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr4.aac:RFM - 80s
+#DESCRIPTION RFM - 80s
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr15.aac:RFM - Cinéma
+#DESCRIPTION RFM - Cinéma
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr1.aac:RFM - Collector
+#DESCRIPTION RFM - Collector
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr7.aac:RFM - Le HIT RFM
+#DESCRIPTION RFM - Le HIT RFM
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr6.aac:RFM - Lounge
+#DESCRIPTION RFM - Lounge
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//stream.rfm.fr/rfm-wr14.aac:RFM - Musique Fraîche
+#DESCRIPTION RFM - Musique Fraîche
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//stream.rfm.fr/rfm-wr2.aac:RFM - Night Fever
+#DESCRIPTION RFM - Night Fever
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr5.aac:RFM - Party 90
+#DESCRIPTION RFM - Party 90
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr10.aac:RFM - Pop-Rock
+#DESCRIPTION RFM - Pop-Rock
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr9.aac:RFM - Run & Fit
+#DESCRIPTION RFM - Run & Fit
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr16.aac:RFM - s
+#DESCRIPTION RFM - s
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm-wr13.aac:RFM - Slow
+#DESCRIPTION RFM - Slow
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//ais-live.cloud-services.paris:8443/rfm-wr16.aac:RFM 70's
+#DESCRIPTION RFM 70's
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//radio.mosaiquefm.net%3a8000/mosalive:Mosaique FM LIVE
 #DESCRIPTION Mosaique FM LIVE
 #SERVICE 4097:0:1:5:0:0:0:0:0:0:http%3a//stream.lazaradio.com%3a8100/live.mp3
