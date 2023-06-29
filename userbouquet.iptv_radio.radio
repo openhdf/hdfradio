@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 09.06.2023 19:37 by Team www.hdfreaks.cc
+#DESCRIPTION Update 29.06.2023 17:39 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -6339,6 +6339,104 @@
 #DESCRIPTION RFM - Slow
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//ais-live.cloud-services.paris:8443/rfm-wr16.aac:RFM 70's
 #DESCRIPTION RFM 70's
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION bigFM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-bigfm-aac-128-6355201
+#DESCRIPTION bigFM - bigFM Deutschlands biggste Beats
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-bigfmbawue-aac-128-6601721
+#DESCRIPTION bigFM - bigFM Baden-Wuerttemberg 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-bigfmrlp-aac-128-6277727
+#DESCRIPTION bigFM - bigFM Rheinland-Pfalz 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-saarland-aac-128-7203001
+#DESCRIPTION bigFM - bigFM Saarland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-bigfmberlin-aac-128-5847438
+#DESCRIPTION bigFM - bigFM Berlin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-bigfmhamburg-aac-128-8199226
+#DESCRIPTION bigFM - bigFM Hamburg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-charts-aac-128-4905924
+#DESCRIPTION bigFM - Charts 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-tiktokcharts-aac-128-1553174
+#DESCRIPTION bigFM - TikTok Charts
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-rapfeature-aac-128-3272803
+#DESCRIPTION bigFM - Deutschrap rasiert
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-dance-aac-128-2321625
+#DESCRIPTION bigFM - Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-apache207-aac-128-8049494
+#DESCRIPTION bigFM - Apache207
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-rockamring-aac-128-8751198
+#DESCRIPTION bigFM - Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-confidence-aac-128-9454652
+#DESCRIPTION bigFM - Confidence
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-ilovemainstagemad-aac-128-1878610
+#DESCRIPTION bigFM - I Love Mainstage Madness
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-ilovedancehistory-aac-128-3770535
+#DESCRIPTION bigFM - I Love Dance History
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-iloveworkout-aac-128-7273835
+#DESCRIPTION bigFM - I Love Workout
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-ilovesugarradio-aac-128-2625310
+#DESCRIPTION bigFM - I Love Sugar Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-ilovebass-aac-128-6160322
+#DESCRIPTION bigFM - I Love Bass
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-ilovethebeach-aac-128-1153462
+#DESCRIPTION bigFM - I Love the Beach
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-ilovehardstyle-aac-128-2096482
+#DESCRIPTION bigFM - I Love Hardstyle
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-ilovedancefirst-aac-128-2160570
+#DESCRIPTION bigFM - I Love Dance First
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-iloveradiomars-aac-128-5952581
+#DESCRIPTION bigFM - I Love Radio from Mars
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-hiphop-aac-128-8564011
+#DESCRIPTION bigFM - HipHop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-deutschrap-aac-128-2350512
+#DESCRIPTION bigFM - Deutschrap
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-deutschrap-aac-128-9557159
+#DESCRIPTION bigFM - Oldschool Deutschrap
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-oldschoolhiphop-aac-128-2021007
+#DESCRIPTION bigFM - Oldschool Rap and HipHop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-hiphopcharts-aac-128-5072262
+#DESCRIPTION bigFM - Deutscher HipHop Charts
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-ushiphop-aac-128-5704056
+#DESCRIPTION bigFM - US Rap & HipHop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-rnb-aac-128-2999695
+#DESCRIPTION bigFM - RnB
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-slowjamz-aac-128-3801199
+#DESCRIPTION bigFM - Slow Jamz 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-rihanna-aac-128-9618057
+#DESCRIPTION bigFM - Rihanna 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-snoopdogg-aac-128-2837460
+#DESCRIPTION bigFM - Snoop Dogg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-mashup-aac-128-8343666
+#DESCRIPTION bigFM - Mashup
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-deeptechhouse-aac-128-7334137
+#DESCRIPTION bigFM - Deep & Tech House 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-groovenight-aac-128-5346495
+#DESCRIPTION bigFM - Groovenight
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-urbanclubbeats-aac-128-2283323
+#DESCRIPTION bigFM - Urban Club Beats
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-edm-aac-128-5102478
+#DESCRIPTION bigFM - EDM & Progressive
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-bigbalkan-aac-128-7965865
+#DESCRIPTION bigFM - bigBalkan 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-turkey-aac-128-5516527
+#DESCRIPTION bigFM - bigSES (Türkei)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-latin-aac-128-6661643
+#DESCRIPTION bigFM - Latin Beats
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-worldbeats-aac-128-3800213
+#DESCRIPTION bigFM - Worldbeats
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-dancehall-aac-128-5420319
+#DESCRIPTION bigFM - Dancehall / Reggae / Afrobeats
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-russia-aac-128-7932048
+#DESCRIPTION bigFM - bigMUZYKA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-lofifocus-aac-128-1280410:44
+#DESCRIPTION bigFM - LoFi Focus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-trashpop-aac-128-7330743:45
+#DESCRIPTION bigFM - Trashpop 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-lounge-aac-128-7571435:46
+#DESCRIPTION bigFM - Sunset Lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-sports-aac-128-5735429:47
+#DESCRIPTION bigFM - Sports and Workout 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-xmas-aac-128-5299530:48
+#DESCRIPTION bigFM - XMAS
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//radio.mosaiquefm.net%3a8000/mosalive:Mosaique FM LIVE
 #DESCRIPTION Mosaique FM LIVE
 #SERVICE 4097:0:1:5:0:0:0:0:0:0:http%3a//stream.lazaradio.com%3a8100/live.mp3
@@ -6997,7 +7095,6 @@
 #DESCRIPTION World Musique Francaise
 #SERVICE 4097:0:1:669:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/nzmusic/icecast.audio:World New Zealand
 #DESCRIPTION World New Zealand
-
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Turkey
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//shoutcast.radyogrup.com%3a1030/stream/1/:PAL FM
