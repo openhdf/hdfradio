@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 29.06.2023 18:11 by Team www.hdfreaks.cc
+#DESCRIPTION Update 30.06.2023 19:25 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -6251,6 +6251,60 @@
 #DESCRIPTION kulthit Radio - Kuschel Pop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge62.streamonkey.net/charthitradio-nrw/stream/aacp
 #DESCRIPTION kulthit Radio charthit - NRW
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Schlager Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--04--cdn.cast.addradio.de/radiob2/national/mp3/high/stream.mp3:01KS
+#DESCRIPTION Schlager Radio - Livestream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--07--cdn.cast.addradio.de/radiob2/schlagermixx/mp3/high/stream.mp3
+#DESCRIPTION Schlager Radio - Schlager Radio plus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--09--cdn.cast.addradio.de/radiob2/helenefischer/mp3/high/stream.mp3
+#DESCRIPTION Schlager Radio - Helene Fischer
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--07--cdn.cast.addradio.de/radiob2/rolandkaiser/mp3/high/stream.mp3
+#DESCRIPTION Schlager Radio - Roland Kaiser
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--0b--cdn.cast.addradio.de/radiob2/andreaberg/mp3/high/stream.mp3:20KS
+#DESCRIPTION Schlager Radio - Andrea Berg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--08--cdn.cast.addradio.de/radiob2/brandneu/mp3/high/stream.mp3
+#DESCRIPTION Schlager Radio - Top 40 Schlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--0c--cdn.cast.addradio.de/radiob2/kultschlager/mp3/high/stream.mp3
+#DESCRIPTION Schlager Radio - Kultschlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--03--cdn.cast.addradio.de/radiob2/deutschpop/mp3/high/stream.mp3
+#DESCRIPTION Schlager Radio - Kuschelschlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--06--cdn.cast.addradio.de/radiob2/ostschlager/mp3/high/stream.mp3
+#DESCRIPTION Schlager Radio - Ostschlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--05--cdn.cast.addradio.de/radiob2/volksmusik/mp3/high/stream.mp3
+#DESCRIPTION Schlager Radio - Volksmusik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--0b--cdn.cast.addradio.de/radiob2/weihnachten/mp3/high:26KS
+#DESCRIPTION Schlager Radio - Weihnachten
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--02--cdn.cast.addradio.de/radiob2/regional/mp3/high/stream.mp3
+#DESCRIPTION Schlager Radio - Regional Berlin-Brandenburg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--03--cdn.cast.addradio.de/radiob2/regionalmv/mp3/high/stream.mp3
+#DESCRIPTION Schlager Radio - Regional Mecklenburg-Vorpommern
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--0b--cdn.cast.addradio.de/radiob2/thueringen/mp3/high
+#DESCRIPTION Schlager Radio - Regional Thüringen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--02--cdn.cast.addradio.de/radiob2/nrw/aac/low
+#DESCRIPTION Schlager Radio - Regional Nordrhein-Westfalen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--0c--cdn.cast.addradio.de/radiob2/national/mp3/high/stream.mp3
+#DESCRIPTION Schlager Radio - Schlager für Bayern
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--02--cdn.cast.addradio.de/radiob2/national/mp3/high/stream.mp3
+#DESCRIPTION Schlager Radio - Regional Saarland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--0b--cdn.cast.addradio.de/radiob2/national/mp3/high/stream.mp3
+#DESCRIPTION Schlager Radio - Regional Hamburg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--0c--cdn.cast.addradio.de/radiob2/national/mp3/high/stream.mp3
+#DESCRIPTION Schlager Radio - Regional Schleswig-Holstein
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--0c--cdn.cast.addradio.de/radiob2/national/mp3/high/stream.mp3:10KS
+#DESCRIPTION Schlager Radio - Regional Hessen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--01--cdn.cast.addradio.de/radiob2/national/mp3/high/stream.mp3
+#DESCRIPTION Schlager Radio - Regional Bremen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--05--cdn.cast.addradio.de/radiob2/national/mp3/high/stream.mp3
+#DESCRIPTION Schlager Radio - Regional Sachsen-Anhalt
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--0a--cdn.cast.addradio.de/radiob2/national/mp3/high/stream.mp3
+#DESCRIPTION Schlager Radio - Regional Niedersachsen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--05--cdn.cast.addradio.de/radiob2/national/mp3/high/stream.mp3
+#DESCRIPTION Schlager Radio - Regional Rheinland-Pfalz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--01--cdn.cast.addradio.de/radiob2/national/mp3/high/stream.mp3
+#DESCRIPTION Schlager Radio - Regional Sachsen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--08--cdn.cast.addradio.de/radiob2/national/mp3/high/stream.mp3
+#DESCRIPTION Schlager Radio - Regional Baden-Württemberg
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION bigFM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-bigfm-aac-128-6355201
