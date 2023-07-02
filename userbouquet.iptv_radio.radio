@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 30.06.2023 19:25 by Team www.hdfreaks.cc
+#DESCRIPTION Update 02.07.2023 13:35 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -58,7 +58,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/maxis/mp3-192/homepage/
 #DESCRIPTION R.SA - Maxis Maximal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/classicrock/mp3-192/homepage/
-#DESCRIPTION R.SA - Classic Rock 
+#DESCRIPTION R.SA - Classic Rock
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/rsa-oldies/mp3-192/homepage/
 #DESCRIPTION R.SA - Oldieclub
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/rsa-rockzirkus/mp3-192/homepage/
@@ -502,7 +502,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/antenne_b
 #DESCRIPTION laut.fm - Antenne B
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/antenne:020
-#DESCRIPTION laut.fm - Antenne Düsseldorf 
+#DESCRIPTION laut.fm - Antenne Düsseldorf
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/antennefm
 #DESCRIPTION laut.fm - Antenne FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/antenne-herford
@@ -578,7 +578,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/foxpalastradio
 #DESCRIPTION laut.fm - Foxpalast Radio (MI)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/fwr-gothic
-#DESCRIPTION laut.fm - FWR Gothic 
+#DESCRIPTION laut.fm - FWR Gothic
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/gitarrefm
 #DESCRIPTION laut.fm - Gitarre FM Hannover
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.laut.fm/gm-charts
@@ -1554,15 +1554,15 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//136.243.111.216/bigcitybeats:Österreich - Kronehit-BigCity Beats Live
 #DESCRIPTION Österreich - Kronehit-BigCity Beats Live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit12.mp3:Österreich - Kronehit-Summer Live 
-#DESCRIPTION Österreich - Kronehit-Summer Live 
+#DESCRIPTION Österreich - Kronehit-Summer Live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit-ultra-hd.aac:Österreich - Kronehit-UHD Live 
-#DESCRIPTION Österreich - Kronehit-UHD Live 
+#DESCRIPTION Österreich - Kronehit-UHD Live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit23.mp3:Österreich - Kronehit-Dance
 #DESCRIPTION Österreich - Kronehit-Dance
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit22.mp3:Österreich - Kronehit-Fresh
 #DESCRIPTION Österreich - Kronehit-Fresh
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit12.mp3:Österreich - Kronehit-Christmas
-#DESCRIPTION Österreich - Kronehit-Christmas 
+#DESCRIPTION Österreich - Kronehit-Christmas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit14.mp3:Österreich - Kronehit-Love
 #DESCRIPTION Österreich - Kronehit-Love
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit03.mp3:Österreich - Kronehit-Disco
@@ -2166,7 +2166,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mediaserv33.live-streams.nl%3a8089/stream
 #DESCRIPTION Mixed Channels - Rádio Ecclesia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//audio8.cmaudioevideo.com/proxy/radiohui/stream
-#DESCRIPTION Mixed Channels - Rádio Huila 
+#DESCRIPTION Mixed Channels - Rádio Huila
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//paineldj5.com.br%3a20087/stream
 #DESCRIPTION Mixed Channels - Rádio Huambo – RNA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//paineldj5.com.br%3a20096/stream
@@ -2458,7 +2458,7 @@
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.slovakradio.sk%3a8000/Devin_128.mp3:SRo 3 - Rádio Devín
 #DESCRIPTION SRo 3 - Rádio Devín
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//icecast.stv.livebox.sk/fm_128.mp3:SRo 4 - Radio FM 
-#DESCRIPTION SRo 4 - Radio FM 
+#DESCRIPTION SRo 4 - Radio FM
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast.stv.livebox.sk/patria_128.mp3:SRo 5 - Radio Patria
 #DESCRIPTION SRo 5 - Radio Patria
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast.stv.livebox.sk/rsi_128.mp3:SRo 6 - Radio Slovakia International
@@ -3418,7 +3418,7 @@
 #SERVICE 4097:0:1:148:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bobmarley/icecast.audio:Bob Marley
 #DESCRIPTION Exclusive Radio - Bob Marley
 #SERVICE 4097:0:1:148:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bobmarleyhits/icecast.audio:Bob Marley Only Hits
-#DESCRIPTION Exclusive Radio - Bob Marley Only Hits 
+#DESCRIPTION Exclusive Radio - Bob Marley Only Hits
 #SERVICE 4097:0:1:150:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bobseger/icecast.audio:Bob Seger
 #DESCRIPTION Exclusive Radio - Bob Seger
 #SERVICE 4097:0:1:154:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bonjovi/icecast.audio:Bon Jovi
@@ -3518,7 +3518,7 @@
 #SERVICE 4097:0:1:221:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/chrisrea/icecast.audio:Chris Rea
 #DESCRIPTION Exclusive Radio - Chris Rea
 #SERVICE 4097:0:1:221:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/christinaaguilera/icecast.audio:Christina Aguilera 
-#DESCRIPTION Exclusive Radio - Christina Aguilera 
+#DESCRIPTION Exclusive Radio - Christina Aguilera
 #SERVICE 4097:0:1:227:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/chuckberry/icecast.audio:Chuck Berry
 #DESCRIPTION Exclusive Radio - Chuck Berry
 #SERVICE 4097:0:1:227:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/chuckberryhits/icecast.audio:Chuck Berry Only Hits
@@ -3564,7 +3564,7 @@
 #SERVICE 4097:0:1:259:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/davidsoul/icecast.audio:David Soul
 #DESCRIPTION Exclusive Radio - David Soul
 #SERVICE 4097:0:1:259:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/deaconblue/icecast.audio:Deacon Blue 
-#DESCRIPTION Exclusive Radio - Deacon Blue 
+#DESCRIPTION Exclusive Radio - Deacon Blue
 #SERVICE 4097:0:1:261:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/deanmartin/icecast.audio:Dean Martin
 #DESCRIPTION Exclusive Radio - Dean Martin
 #SERVICE 4097:0:1:265:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/deeppurple/icecast.audio:Deep Purple
@@ -3622,7 +3622,7 @@
 #SERVICE 4097:0:1:303:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/duranduranhits/icecast.audio:Duran Duran Only Hits
 #DESCRIPTION Exclusive Radio - Duran Duran Only Hits
 #SERVICE 4097:0:1:303:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/dustyspringfield/icecast.audio:Dusty Springfield
-#DESCRIPTION Exclusive Radio - Dusty Springfield 
+#DESCRIPTION Exclusive Radio - Dusty Springfield
 #SERVICE 4097:0:1:305:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/eagles/icecast.audio:Eagles
 #DESCRIPTION Exclusive Radio - Eagles
 #SERVICE 4097:0:1:305:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/eagleshits/icecast.audio:Eagles Omly Hits
@@ -3674,11 +3674,11 @@
 #SERVICE 4097:0:1:341:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/eurythmicshits/icecast.audio:Eurythmics Only Hits
 #DESCRIPTION Exclusive Radio - Eurythmics Only Hits
 #SERVICE 4097:0:1:343:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/everlybrothers/icecast.audio:Everly Brothers 
-#DESCRIPTION Exclusive Radio - Everly Brothers 
+#DESCRIPTION Exclusive Radio - Everly Brothers
 #SERVICE 4097:0:1:343:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/everlybrothershits/icecast.audio:EEverly Brothers Only Hits
 #DESCRIPTION Exclusive Radio - Everly Brothers Only Hits
 #SERVICE 4097:0:1:345:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/fabulousthunderbirds/icecast.audio:Fabulous Thunderbirds 
-#DESCRIPTION Exclusive Radio - Fabulous Thunderbirds 
+#DESCRIPTION Exclusive Radio - Fabulous Thunderbirds
 #SERVICE 4097:0:1:345:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/fatsdomino/icecast.audio:Fats Domino
 #DESCRIPTION Exclusive Radio - Fats Domino
 #SERVICE 4097:0:1:347:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/fatswaller/icecast.audio:Fats Waller
@@ -3688,7 +3688,7 @@
 #SERVICE 4097:0:1:349:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/fleetwoodmachits/icecast.audio:Fleetwood Mac Only Hits
 #DESCRIPTION Exclusive Radio - Fleetwood Mac Only Hits
 #SERVICE 4097:0:1:349:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/florenceandthemachine/icecast.audio:Florence + The Machine 
-#DESCRIPTION Exclusive Radio - Florence + The Machine 
+#DESCRIPTION Exclusive Radio - Florence + The Machine
 #SERVICE 4097:0:1:351:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/floridageorgialine/icecast.audio:Florida Georgia Line
 #DESCRIPTION Exclusive Radio - Florida Georgia Line
 #SERVICE 4097:0:1:353:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/foofighters/icecast.audio:Foo Fighters
@@ -3804,7 +3804,7 @@
 #SERVICE 4097:0:1:456:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jacksonbrowne/icecast.audio:Jackson Browne
 #DESCRIPTION Exclusive Radio - Jackson Browne
 #SERVICE 4097:0:1:458:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/james/icecast.audio:James 
-#DESCRIPTION Exclusive Radio - James 
+#DESCRIPTION Exclusive Radio - James
 #SERVICE 4097:0:1:458:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jamesblunt/icecast.audio:James Blunt
 #DESCRIPTION Exclusive Radio - James Blunt
 #SERVICE 4097:0:1:460:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jamesbrown/icecast.audio:James Brown
@@ -3828,7 +3828,7 @@
 #SERVICE 4097:0:1:472:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jay-z/icecast.audio:JAY-Z
 #DESCRIPTION Exclusive Radio - JAY-Z
 #SERVICE 4097:0:1:474:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jeanmicheljarre/icecast.audio:Jean-Michel Jarre 
-#DESCRIPTION Exclusive Radio - Jean-Michel Jarre 
+#DESCRIPTION Exclusive Radio - Jean-Michel Jarre
 #SERVICE 4097:0:1:474:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jeffersonairplane/icecast.audio:Jefferson Airplane
 #DESCRIPTION Exclusive Radio - Jefferson Airplane
 #SERVICE 4097:0:1:476:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/jenniferlopez/icecast.audio:Jennifer Lopez
@@ -3858,7 +3858,7 @@
 #SERVICE 4097:0:1:494:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/joesatriani/icecast.audio:Joe Satriani
 #DESCRIPTION Exclusive Radio - Joe Satriani
 #SERVICE 4097:0:1:496:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/joelcorry/icecast.audio:Joel Corry 
-#DESCRIPTION Exclusive Radio - Joel Corry 
+#DESCRIPTION Exclusive Radio - Joel Corry
 #SERVICE 4097:0:1:496:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/johncoltrane/icecast.audio:John Coltrane
 #DESCRIPTION Exclusive Radio - John Coltrane
 #SERVICE 4097:0:1:498:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/johndenver/icecast.audio:John Denver
@@ -3900,7 +3900,7 @@
 #SERVICE 4097:0:1:530:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/judycollins/icecast.audio:Judy Collins
 #DESCRIPTION Exclusive Radio - Judy Collins
 #SERVICE 4097:0:1:530:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/juicewrld/icecast.audio:Juice WRLD
-#DESCRIPTION Exclusive Radio - Juice WRLD 
+#DESCRIPTION Exclusive Radio - Juice WRLD
 #SERVICE 4097:0:1:532:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/justinbieber/icecast.audio:Justin Bieber
 #DESCRIPTION Exclusive Radio - Justin Bieber
 #SERVICE 4097:0:1:532:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/justinbieberhits/icecast.audio:Justin Bieber Only Hits
@@ -3908,7 +3908,7 @@
 #SERVICE 4097:0:1:534:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/justintimberlake/icecast.audio:Justin Timberlake
 #DESCRIPTION Exclusive Radio - Justin Timberlake
 #SERVICE 4097:0:1:538:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kaceymusgraves/icecast.audio:Kacey Musgraves 
-#DESCRIPTION Exclusive Radio - Kacey Musgraves 
+#DESCRIPTION Exclusive Radio - Kacey Musgraves
 #SERVICE 4097:0:1:538:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kanyewest/icecast.audio:Kanye West
 #DESCRIPTION Exclusive Radio - Kanye West
 #SERVICE 4097:0:1:540:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/kasabian/icecast.audio:Kasabian
@@ -4090,7 +4090,7 @@
 #SERVICE 4097:0:1:679:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/nirvana/icecast.audio:Nirvana
 #DESCRIPTION Exclusive Radio - Nirvana
 #SERVICE 4097:0:1:681:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/noelgallagher/icecast.audio:Noel Gallagher
-#DESCRIPTION Exclusive Radio - Noel Gallagher 
+#DESCRIPTION Exclusive Radio - Noel Gallagher
 #SERVICE 4097:0:1:681:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/norahjones/icecast.audio:Norah Jones
 #DESCRIPTION Exclusive Radio - Norah Jones
 #SERVICE 4097:0:1:685:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/oasis/icecast.audio:Oasis
@@ -4194,7 +4194,7 @@
 #SERVICE 4097:0:1:761:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/chilipeppers/icecast.audio:Red Hot Chili Peppers
 #DESCRIPTION Exclusive Radio - Red Hot Chili Peppers
 #SERVICE 4097:0:1:747:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/rickwakeman/icecast.audio:Rick Wakeman 
-#DESCRIPTION Exclusive Radio - Rick Wakeman 
+#DESCRIPTION Exclusive Radio - Rick Wakeman
 #SERVICE 4097:0:1:769:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/rihanna/icecast.audio:Rihanna
 #DESCRIPTION Exclusive Radio - Rihanna
 #SERVICE 4097:0:1:769:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/rihannahits/icecast.audio:Rihanna Only Hits
@@ -4286,7 +4286,7 @@
 #SERVICE 4097:0:1:856:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/stephanegrappelli/icecast.audio:Stephane Grappelli
 #DESCRIPTION Exclusive Radio - Stephane Grappelli
 #SERVICE 4097:0:1:856:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/stereophonics/icecast.audio:Stereophonics 
-#DESCRIPTION Exclusive Radio - Stereophonics 
+#DESCRIPTION Exclusive Radio - Stereophonics
 #SERVICE 4097:0:1:858:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/stevemillerband/icecast.audio:Steve Miller Band
 #DESCRIPTION Exclusive Radio - Steve Miller Band
 #SERVICE 4097:0:1:858:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/stevewinwood/icecast.audio:Steve Winwood
@@ -4414,9 +4414,9 @@
 #SERVICE 4097:0:1:1033:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/willienelson/icecast.audio:Willie Nelson
 #DESCRIPTION Exclusive Radio - Willie Nelson
 #SERVICE 4097:0:1:1033:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/wizkhalifa/icecast.audio:Wiz Khalifa 
-#DESCRIPTION Exclusive Radio - Wiz Khalifa 
+#DESCRIPTION Exclusive Radio - Wiz Khalifa
 #SERVICE 4097:0:1:1033:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/wolfalice/icecast.audio:Wolf Alice
-#DESCRIPTION Exclusive Radio - Wolf Alice 
+#DESCRIPTION Exclusive Radio - Wolf Alice
 #SERVICE 4097:0:1:1035:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/woodieguthrie/icecast.audio:Woody Guthrie
 #DESCRIPTION Exclusive Radio - Woody Guthrie
 #SERVICE 4097:0:1:970:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/theyardbirds/icecast.audio:Yardbirds
@@ -4424,7 +4424,7 @@
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/yes/icecast.audio:Yes
 #DESCRIPTION Exclusive Radio - Yes
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/ziggymarley/icecast.audio:Ziggy Marley 
-#DESCRIPTION Exclusive Radio - Ziggy Marley 
+#DESCRIPTION Exclusive Radio - Ziggy Marley
 #SERVICE 4097:0:1:1041:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/zztop/icecast.audio:ZZ Top
 #DESCRIPTION Exclusive Radio - ZZ Top
 #SERVICE 4097:0:1:36:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/1920/icecast.audio:1920's
@@ -6310,9 +6310,9 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-bigfm-aac-128-6355201
 #DESCRIPTION bigFM - bigFM Deutschlands biggste Beats
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-bigfmbawue-aac-128-6601721
-#DESCRIPTION bigFM - bigFM Baden-Wuerttemberg 
+#DESCRIPTION bigFM - bigFM Baden-Wuerttemberg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-bigfmrlp-aac-128-6277727
-#DESCRIPTION bigFM - bigFM Rheinland-Pfalz 
+#DESCRIPTION bigFM - bigFM Rheinland-Pfalz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-saarland-aac-128-7203001
 #DESCRIPTION bigFM - bigFM Saarland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-bigfmberlin-aac-128-5847438
@@ -6320,7 +6320,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-bigfmhamburg-aac-128-8199226
 #DESCRIPTION bigFM - bigFM Hamburg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-charts-aac-128-4905924
-#DESCRIPTION bigFM - Charts 
+#DESCRIPTION bigFM - Charts
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-tiktokcharts-aac-128-1553174
 #DESCRIPTION bigFM - TikTok Charts
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-rapfeature-aac-128-3272803
@@ -6366,15 +6366,15 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-rnb-aac-128-2999695
 #DESCRIPTION bigFM - RnB
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-slowjamz-aac-128-3801199
-#DESCRIPTION bigFM - Slow Jamz 
+#DESCRIPTION bigFM - Slow Jamz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-rihanna-aac-128-9618057
-#DESCRIPTION bigFM - Rihanna 
+#DESCRIPTION bigFM - Rihanna
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-snoopdogg-aac-128-2837460
 #DESCRIPTION bigFM - Snoop Dogg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-mashup-aac-128-8343666
 #DESCRIPTION bigFM - Mashup
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-deeptechhouse-aac-128-7334137
-#DESCRIPTION bigFM - Deep & Tech House 
+#DESCRIPTION bigFM - Deep & Tech House
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-groovenight-aac-128-5346495
 #DESCRIPTION bigFM - Groovenight
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-urbanclubbeats-aac-128-2283323
@@ -6382,7 +6382,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-edm-aac-128-5102478
 #DESCRIPTION bigFM - EDM & Progressive
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-bigbalkan-aac-128-7965865
-#DESCRIPTION bigFM - bigBalkan 
+#DESCRIPTION bigFM - bigBalkan
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-turkey-aac-128-5516527
 #DESCRIPTION bigFM - bigSES (Türkei)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-latin-aac-128-6661643
@@ -6396,11 +6396,11 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-lofifocus-aac-128-1280410:44
 #DESCRIPTION bigFM - LoFi Focus
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-trashpop-aac-128-7330743:45
-#DESCRIPTION bigFM - Trashpop 
+#DESCRIPTION bigFM - Trashpop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-lounge-aac-128-7571435:46
 #DESCRIPTION bigFM - Sunset Lounge
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-sports-aac-128-5735429:47
-#DESCRIPTION bigFM - Sports and Workout 
+#DESCRIPTION bigFM - Sports and Workout
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-xmas-aac-128-5299530:48
 #DESCRIPTION bigFM - XMAS
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
@@ -6777,8 +6777,8 @@
 #DESCRIPTION Fantasy Gigs
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsabbaeloelton/icecast.audio:Abba, ELO and Elton John
 #DESCRIPTION Abba, ELO and Elton John
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsacdcironmaidenmetallica/icecast.audio:ACDC, Iron Maiden and Metallic
-#DESCRIPTION ACDC, Iron Maiden and Metallic
+#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsacdcironmaidenmetallica/icecast.audio:ACDC, Iron Maiden and Metallica
+#DESCRIPTION ACDC, Iron Maiden and Metallica
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsaerosmithdeeppurplefoofighters/icecast.audio:Aerosmith, Deep Purple and Foo Fighters
 #DESCRIPTION Aerosmith, Deep Purple and Foo Fighters
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsalicecsabbathbonjovi/icecast.audio:Alice Cooper, Black Sabbath and Bon Jovi
