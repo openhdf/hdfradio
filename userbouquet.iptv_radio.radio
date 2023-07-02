@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 02.07.2023 13:35 by Team www.hdfreaks.cc
+#DESCRIPTION Update 02.07.2023 14:00 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
@@ -6899,40 +6899,42 @@
 #DESCRIPTION Blue
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Starbox Radio
-#SERVICE 4097:0:1:10:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/blues/icecast.audio:Blues
-#DESCRIPTION Blues
-#SERVICE 4097:0:1:10:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/chart/icecast.audio:Chart
-#DESCRIPTION Chart
-#SERVICE 4097:0:1:10:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/country/icecast.audio:Country
-#DESCRIPTION Country
-#SERVICE 4097:0:1:241:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/crooners/icecast.audio:Crooners
-#DESCRIPTION Crooners
-#SERVICE 4097:0:1:16:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/easy/icecast.audio:Easy
-#DESCRIPTION Easy
-#SERVICE 4097:0:1:20:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/irishfolk/icecast.audio:Irish Folk
-#DESCRIPTION Irish Folk
-#SERVICE 4097:0:1:20:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/folk/icecast.audio:Folk
-#DESCRIPTION Folk
-#SERVICE 4097:0:1:22:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jazz/icecast.audio:Jazz
-#DESCRIPTION Jazz
-#SERVICE 4097:0:1:22:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/love/icecast.audio:Love
-#DESCRIPTION Love
-#SERVICE 4097:0:1:24:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/motown/icecast.audio:Motown
-#DESCRIPTION Motown
-#SERVICE 4097:0:1:10:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/newcountry/icecast.audio:New Country
-#DESCRIPTION New Country
-#SERVICE 4097:0:1:683:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/northernsoul/icecast.audio:Northern Soul
-#DESCRIPTION Northern Soul
-#SERVICE 4097:0:1:763:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/reggae/icecast.audio:Reggae
-#DESCRIPTION Reggae
-#SERVICE 4097:0:1:26:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/rnb/icecast.audio:RnB
-#DESCRIPTION RnB
-#SERVICE 4097:0:1:28:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/rock/icecast.audio:Rock
-#DESCRIPTION Rock
-#SERVICE 4097:0:1:30:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/softrock/icecast.audio:Soft Rock
-#DESCRIPTION Rock
-#SERVICE 4097:0:1:32:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/soul/icecast.audio:Soul
-#DESCRIPTION Soul
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxblues/icecast.audio:01KS
+#DESCRIPTION Starbox Radio - Blues
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxchart/icecast.audio
+#DESCRIPTION Starbox Radio - Chart
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxcountry/icecast.audio
+#DESCRIPTION Starbox Radio - Country
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxcrooners/icecast.audio
+#DESCRIPTION Starbox Radio - Crooners
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxeasy/icecast.audio
+#DESCRIPTION Starbox Radio - Easy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxfolk/icecast.audio
+#DESCRIPTION Starbox Radio - Folk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxindie/icecast.audio
+#DESCRIPTION Starbox Radio - Indie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxirishfolk/icecast.audio
+#DESCRIPTION Starbox Radio - Irish Folk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxjazz/icecast.audio
+#DESCRIPTION Starbox Radio - Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxlove/icecast.audio:10KS
+#DESCRIPTION Starbox Radio - Love
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxmotown/icecast.audio
+#DESCRIPTION Starbox Radio - Motown
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxnewcountry/icecast.audio
+#DESCRIPTION Starbox Radio - New Country
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxnorthernsoul/icecast.audio
+#DESCRIPTION Starbox Radio - Northern Soul
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxreggae/icecast.audio
+#DESCRIPTION Starbox Radio - Reggae
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxrnb/icecast.audio
+#DESCRIPTION Starbox Radio - RnB
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxrock/icecast.audio
+#DESCRIPTION Starbox Radio - Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxsoftrock/icecast.audio
+#DESCRIPTION Starbox Radio - Soft Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxsoul/icecast.audio:16KS020723
+#DESCRIPTION Starbox Radio - Soul
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Tick Tock Radio
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1950/icecast.audio:1950
