@@ -1,18 +1,18 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 02.07.2023 14:00 by Team www.hdfreaks.cc
+#DESCRIPTION Update 03.07.2023 18:05 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-lounge-aac-mq:DELUXE LOUNGE RADIO
-#DESCRIPTION DELUXE MUSIC - LOUNGE RADIO
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-music-aac-mq:DELUXE MUSIC RADIO
-#DESCRIPTION DELUXE MUSIC - RADIO
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-2000-mp3-hq:DELUXE 2000
-#DESCRIPTION DELUXE MUSIC - 2000
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-easy-mp3-hq:DELUXE EASY
-#DESCRIPTION DELUXE MUSIC - EASY
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deluxe.hoerradar.de/deluxe-schlager-mp3-hq:DELUXE SCHLAGER
-#DESCRIPTION DELUXE MUSIC - SCHLAGER
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935:01KS030723
+#DESCRIPTION Deluxe Music - Deluxe Lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxemusic1636722-aacplus-64-8368771
+#DESCRIPTION Deluxe Music - Music Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxe20003608688-mp3-192-9396248
+#DESCRIPTION Deluxe Music - Deluxe 2000
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxeeasy7122651-mp3-128-6100697
+#DESCRIPTION Deluxe Music - Deluxe Easy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxeschlager6333124-mp3-192-1509811
+#DESCRIPTION Deluxe Music - Schlager Deluxe
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Hörspiele
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hoerspiel.stream.laut.fm/hoerspiel
