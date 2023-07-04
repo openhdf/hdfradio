@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 03.07.2023 18:05 by Team www.hdfreaks.cc
+#DESCRIPTION Update 04.07.2023 21:42 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935:01KS030723
@@ -6862,41 +6862,41 @@
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Happy Feet Radio
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/hfballet/icecast.audio:Ballet
-#DESCRIPTION Ballet
+#DESCRIPTION Happy Feet Radio - Ballet
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/hfballroom/icecast.audio:Ballroom
-#DESCRIPTION Ballroom
+#DESCRIPTION Happy Feet Radio - Ballroom
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/hfcontemporary/icecast.audio:Contemporary
-#DESCRIPTION Contemporary
+#DESCRIPTION Happy Feet Radio - Contemporary
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/hffolk/icecast.audio:Folk
-#DESCRIPTION Folk
+#DESCRIPTION Happy Feet Radio - Folk
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/hfhiphop/icecast.audio:Hip Hop
-#DESCRIPTION Hip Hop
+#DESCRIPTION Happy Feet Radio - Hip Hop
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/hfirishdance/icecast.audio:Irish Dance
-#DESCRIPTION Irish Dance
+#DESCRIPTION Happy Feet Radio - Irish Dance
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/hfjazz/icecast.audio:Jazz
-#DESCRIPTION Jazz
+#DESCRIPTION Happy Feet Radio - Jazz
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/hfmoderndance/icecast.audio:Modern Dance
-#DESCRIPTION Modern Dance
+#DESCRIPTION Happy Feet Radio - Modern Dance
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/hftapdance/icecast.audio:Tap Dance
-#DESCRIPTION Tap Dance
+#DESCRIPTION Happy Feet Radio - Tap Dance
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Mood Radio
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/moodromantic/icecast.audio:Romantic
-#DESCRIPTION Romantic
+#DESCRIPTION Mood Radio - Romantic
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/moodhappy/icecast.audio:Happy
-#DESCRIPTION Happy
+#DESCRIPTION Mood Radio - Happy
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/moodenergised/icecast.audio:Energised
-#DESCRIPTION Energised
+#DESCRIPTION Mood Radio - Energised
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/moodreflective/icecast.audio:Reflective
-#DESCRIPTION Reflective
+#DESCRIPTION Mood Radio - Reflective
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/moodheartbroken/icecast.audio:Heartbroken
-#DESCRIPTION Heartbroken
+#DESCRIPTION Mood Radio - Heartbroken
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/moodsad/icecast.audio:Sad
-#DESCRIPTION Sad
+#DESCRIPTION Mood Radio - Sad
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/moodangry/icecast.audio:Angry
-#DESCRIPTION Angry
+#DESCRIPTION Mood Radio - Angry
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/moodblue/icecast.audio:Blue
-#DESCRIPTION Blue
+#DESCRIPTION Mood Radio - Blue
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Starbox Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxblues/icecast.audio:01KS
@@ -7088,69 +7088,69 @@
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Tinder Radio
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/bollywoodmix/icecast.audio:World - Bollywood
-#DESCRIPTION World - Bollywood
+#DESCRIPTION Tinder Radio - World Bollywood
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/beachparty/icecast.audio:Beach Party
-#DESCRIPTION Beach Party
+#DESCRIPTION Tinder Radio - Beach Party
 #SERVICE 4097:0:1:223:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/christmascarols/icecast.audio:Christmas Carols
-#DESCRIPTION Christmas Carols
+#DESCRIPTION Tinder Radio - Christmas Carols
 #SERVICE 4097:0:1:225:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/christmaspop/icecast.audio:Christmas Pop
-#DESCRIPTION Christmas Pop
+#DESCRIPTION Tinder Radio - Christmas Pop
 #SERVICE 4097:0:1:231:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/club/icecast.audio:Club
-#DESCRIPTION Club
+#DESCRIPTION Tinder Radio - Club
 #SERVICE 4097:0:1:231:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/chilldance/icecast.audio:Dance Chill
-#DESCRIPTION Dance Chill
+#DESCRIPTION Tinder Radio - Dance Chill
 #SERVICE 4097:0:1:231:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/disco/icecast.audio:Disco
-#DESCRIPTION Disco
+#DESCRIPTION Tinder Radio - Disco
 #SERVICE 4097:0:1:231:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/afternoon/icecast.audio:Good Afternoon
-#DESCRIPTION Good Afternoon
+#DESCRIPTION Tinder Radio - Good Afternoon
 #SERVICE 4097:0:1:231:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/goodevening/icecast.audio:Good Evening
-#DESCRIPTION Good Evening
+#DESCRIPTION Tinder Radio - Good Evening
 #SERVICE 4097:0:1:231:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/goodmorning/icecast.audio:Good Morning
-#DESCRIPTION Good Morning
+#DESCRIPTION Tinder Radio - Good Morning
 #SERVICE 4097:0:1:231:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/goodnight/icecast.audio:Good Night
-#DESCRIPTION Good Night
+#DESCRIPTION Tinder Radio - Good Night
 #SERVICE 4097:0:1:231:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/happy/icecast.audio:Happy
-#DESCRIPTION Happy
+#DESCRIPTION Tinder Radio - Happy
 #SERVICE 4097:0:1:231:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/hollywoodandbroadway/icecast.audio:Hollywood & Broadway Musicals
-#DESCRIPTION Hollywood & Broadway Musicals
+#DESCRIPTION Tinder Radio - Hollywood & Broadway Musicals
 #SERVICE 4097:0:1:231:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/chart/icecast.audio:Hot Hits
-#DESCRIPTION Hot Hits
+#DESCRIPTION Tinder Radio - Hot Hits
 #SERVICE 4097:0:1:231:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/ibiza/icecast.audio:Ibiza
-#DESCRIPTION Ibiza
+#DESCRIPTION Tinder Radio - Ibiza
 #SERVICE 4097:0:1:647:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/ministryofsound/icecast.audio:Ministry of Sound
-#DESCRIPTION Ministry of Sound
+#DESCRIPTION Tinder Radio - Ministry of Sound
 #SERVICE 4097:0:1:653:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/movieandtvthemes/icecast.audio:Movie & TV Themes
-#DESCRIPTION Movie & TV Themes
+#DESCRIPTION Tinder Radio - Movie & TV Themes
 #SERVICE 4097:0:1:701:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/party/icecast.audio:Party
-#DESCRIPTION Party
+#DESCRIPTION Tinder Radio - Party
 #SERVICE 4097:0:1:703:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/partyanthems/icecast.audio:Party Anthems
-#DESCRIPTION Party Anthems
+#DESCRIPTION Tinder Radio - Party Anthems
 #SERVICE 4097:0:1:753:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/rave/icecast.audio:Rave
-#DESCRIPTION Rave
+#DESCRIPTION Tinder Radio - Rave
 #SERVICE 4097:0:1:777:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/rocknrollparty/icecast.audio:Rock N' Roll Party
-#DESCRIPTION Rock N' Roll Party
+#DESCRIPTION Tinder Radio - Rock N' Roll Party
 #SERVICE 4097:0:1:777:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/tiktoktrending/icecast.audio:Tik Tok Trending
-#DESCRIPTION Tik Tok Trending
+#DESCRIPTION Tinder Radio - Tik Tok Trending
 #SERVICE 4097:0:1:1019:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/wedding/icecast.audio:Wedding
-#DESCRIPTION Wedding
+#DESCRIPTION Tinder Radio - Wedding
 #SERVICE 4097:0:1:1021:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/weddingclassical/icecast.audio:Wedding Classical
-#DESCRIPTION Wedding Classical
+#DESCRIPTION Tinder Radio - Wedding Classical
 #SERVICE 4097:0:1:66:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/afrobeats/icecast.audio:WorldAfrobeats
-#DESCRIPTION World Afrobeats
+#DESCRIPTION Tinder Radio - World Afrobeats
 #SERVICE 4097:0:1:166:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/brazil/icecast.audio:World Brazil
-#DESCRIPTION World Brazil
+#DESCRIPTION Tinder Radio - World Brazil
 #SERVICE 4097:0:1:273:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/deutschemusik/icecast.audio:World Deutsche Musik
-#DESCRIPTION World Deutsche Musik
+#DESCRIPTION Tinder Radio - World Deutsche Musik
 #SERVICE 4097:0:1:444:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/italy/icecast.audio:World Italy
-#DESCRIPTION World Italy
+#DESCRIPTION Tinder Radio - World Italy
 #SERVICE 4097:0:1:448:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jpop/icecast.audio:World J-Pop
-#DESCRIPTION World J-Pop
+#DESCRIPTION Tinder Radio - World J-Pop
 #SERVICE 4097:0:1:536:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/kpop/icecast.audio:World K-Pop
-#DESCRIPTION World K-Pop
+#DESCRIPTION Tinder Radio - World K-Pop
 #SERVICE 4097:0:1:659:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/musiquefrancaise/icecast.audio:World Musique Francaise
-#DESCRIPTION World Musique Francaise
+#DESCRIPTION Tinder Radio - World Musique Francaise
 #SERVICE 4097:0:1:669:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/nzmusic/icecast.audio:World New Zealand
-#DESCRIPTION World New Zealand
+#DESCRIPTION Tinder Radio - World New Zealand
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Turkey
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//shoutcast.radyogrup.com%3a1030/stream/1/:PAL FM
