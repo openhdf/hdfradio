@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 04.07.2023 21:42 by Team www.hdfreaks.cc
+#DESCRIPTION Update 05.07.2023 21:52 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935:01KS030723
@@ -1157,21 +1157,21 @@
 #DESCRIPTION Star FM - XMAS Rock
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Radio Fantasy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01.streamonkey.net/fantasy-934/stream/mp3?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/fantasy-934
 #DESCRIPTION Radio Fantasy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streamonkey.net/fantasy-classix?
-#DESCRIPTION Radio Fantasy - Classix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge04.streamonkey.net/fantasy-lounge?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/fantasy-allgaeu
+#DESCRIPTION Radio Fantasy - Allgäu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/fantasy-lounge
 #DESCRIPTION Radio Fantasy - Lounge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge04.streamonkey.net/fantasy-dance?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/fantasy-classix
+#DESCRIPTION Radio Fantasy - Classix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/fantasy-dance
 #DESCRIPTION Radio Fantasy - Dance
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streamonkey.net/fantasy-2000er?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/fantasy-2000er
 #DESCRIPTION Radio Fantasy - 2000er
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge05.streamonkey.net/fantasy-clubhits?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/fantasy-clubhits
 #DESCRIPTION Radio Fantasy - Clubhits
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01.streamonkey.net/fantasy-black?
-#DESCRIPTION Radio Fantasy - Black
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge04.streamonkey.net/fantasy-feelgood?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/fantasy-feelgood
 #DESCRIPTION Radio Fantasy - Feeld Good
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Radio Regenbogen
