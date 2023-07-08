@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 05.07.2023 21:52 by Team www.hdfreaks.cc
+#DESCRIPTION Update 08.07.2023 17:52 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935:01KS030723
@@ -85,8 +85,6 @@
 #DESCRIPTION R.SA - Italo Disco Hits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/launeclass/mp3-192/homepage/
 #DESCRIPTION R.SA - Die Gute Laune Classics
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/classicrock/mp3-192/homepage/
-#DESCRIPTION R.SA - Classic Rock
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/80er1000/mp3-192/homepage/
 #DESCRIPTION R.SA - 1000 Achtziger
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/stones/mp3-192/homepage/
@@ -971,8 +969,6 @@
 #DESCRIPTION Sunshine Live - Trance
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/techno/mp3-192/homepage/
 #DESCRIPTION Sunshine Live - Techno
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/ibiza/mp3-192/homepage/
-#DESCRIPTION Sunshine Live - Ibiza
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/sp2/mp3-192/homepage/
 #DESCRIPTION Sunshine Live - Summer Beats
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/twenty/mp3-192/homepage/
@@ -999,8 +995,6 @@
 #DESCRIPTION SWR Radio - SWR4 Radio Karlsruhe
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dispatcher.rndfnk.com/swr/swr4/ma/mp3/128/stream.mp3
 #DESCRIPTION SWR Radio - SWR4 Radio Mannheim
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dispatcher.rndfnk.com/swr/swr4/ma/mp3/128/stream.mp3
-#DESCRIPTION SWR Radio - SWR4 Radio Ulm
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dispatcher.rndfnk.com/swr/swr4/fr/mp3/128/stream.mp3
 #DESCRIPTION SWR Radio - SWR4 Radio Südbaden
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dispatcher.rndfnk.com/swr/swr4/tu/mp3/128/stream.mp3?
@@ -1899,8 +1893,6 @@
 #DESCRIPTION I LOVE Music - I Love BASS BY HBZ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.ilovemusic.de/iloveradio17.mp3
 #DESCRIPTION I LOVE Music - I Love CHILLPOP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.ilovemusic.de/iloveradio1.mp3
-#DESCRIPTION I LOVE Music - I Love Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.ilovemusic.de/iloveradio36.mp3
 #DESCRIPTION I LOVE Music - I Love DANCE 2022
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.ilovemusic.de/iloveradio103.mp3
@@ -2025,8 +2017,6 @@
 #DESCRIPTION samo fm - Folk Forward
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/thistle-128-mp3
 #DESCRIPTION samo fm - ThistleRadio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/brfm-128-mp3
-#DESCRIPTION samo fm - Black Rock FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice1.somafm.com/specials-128-mp3
 #DESCRIPTION samo fm - Specials
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ice1.somafm.com/live-128-mp3
@@ -2171,8 +2161,6 @@
 #DESCRIPTION Mixed Channels - Rádio Huambo – RNA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//paineldj5.com.br%3a20096/stream
 #DESCRIPTION Mixed Channels - Rádio Benguela – RNA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//paineldj5.com.br%3a20087/stream
-#DESCRIPTION Mixed Channels - Rádio Canal A – RNA
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION SATzentrale
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//satzentrale.stream.laut.fm/satzentrale
@@ -2241,8 +2229,6 @@
 #DESCRIPTION Schottland - New Scotland Radio live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//listen-pureradio.sharp-stream.com/pure_radio.mp3
 #DESCRIPTION Schottland - Pure Radio Scotland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//listen-pureradio.sharp-stream.com/pure_radio.mp3
-#DESCRIPTION Schottland - Pure Radio Scotland live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ais-sa2.cdnstream1.com/1981_128.mp3
 #DESCRIPTION Schottland - School Of Rock live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3afs1.stream24.net%3a8700/live.mp3
@@ -2805,16 +2791,12 @@
 #DESCRIPTION Hitradio Vysocina
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/dragon128.mp3:Hitradio Dragon
 #DESCRIPTION Hitradio Dragon
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/citybrno128.mp3:Hitradio City
-#DESCRIPTION Hitradio City
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz%3a8000/faktor128.mp3:Hitradio Faktor
 #DESCRIPTION Hitradio Faktor
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/hitradiofm128.mp3:Hitradio FM
 #DESCRIPTION Hitradio FM
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/fmplus128.mp3:Hitradio FM Plus
 #DESCRIPTION Hitradio FM Plus
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz%3a8000/faktor128.mp3:Hitradio Faktor
-#DESCRIPTION Hitradio Faktor
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.actve.net/fm-bonton-128:Hitradio Bonton
 #DESCRIPTION Hitradio Bonton
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/hit10128.mp3:Hitradio Desitka
@@ -3025,8 +3007,6 @@
 #DESCRIPTION Radio Trojka
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice3.abradio.cz/zelenahora128.mp3:Radio Zelena hora
 #DESCRIPTION Radio Zelena hora
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/znamkapunku128.mp3:Radio Zelena Punku
-#DESCRIPTION Radio Znamka Punku
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//ice5.abradio.cz/romaradio128.mp3:Radio Roma
 #DESCRIPTION Radio Roma
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//icecast6.play.cz/seejay128.mp3:See Jay Radio
@@ -6289,20 +6269,11 @@
 #DESCRIPTION Schlager Radio - Regional Saarland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--0b--cdn.cast.addradio.de/radiob2/national/mp3/high/stream.mp3
 #DESCRIPTION Schlager Radio - Regional Hamburg
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--0c--cdn.cast.addradio.de/radiob2/national/mp3/high/stream.mp3
-#DESCRIPTION Schlager Radio - Regional Schleswig-Holstein
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--0c--cdn.cast.addradio.de/radiob2/national/mp3/high/stream.mp3:10KS
-#DESCRIPTION Schlager Radio - Regional Hessen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--01--cdn.cast.addradio.de/radiob2/national/mp3/high/stream.mp3
 #DESCRIPTION Schlager Radio - Regional Bremen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--05--cdn.cast.addradio.de/radiob2/national/mp3/high/stream.mp3
 #DESCRIPTION Schlager Radio - Regional Sachsen-Anhalt
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--0a--cdn.cast.addradio.de/radiob2/national/mp3/high/stream.mp3
-#DESCRIPTION Schlager Radio - Regional Niedersachsen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--05--cdn.cast.addradio.de/radiob2/national/mp3/high/stream.mp3
-#DESCRIPTION Schlager Radio - Regional Rheinland-Pfalz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--01--cdn.cast.addradio.de/radiob2/national/mp3/high/stream.mp3
-#DESCRIPTION Schlager Radio - Regional Sachsen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--08--cdn.cast.addradio.de/radiob2/national/mp3/high/stream.mp3
 #DESCRIPTION Schlager Radio - Regional Baden-Württemberg
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
@@ -8349,8 +8320,6 @@
 #DESCRIPTION HitUkStation by PulsRadio - 192 kbit/s
 #SERVICE 4097:0:1:199:0:0:0:0:0:0:http%3a//163.172.137.24%3a3010/stream/1/:RadioMv.com | Spanish (24Kbps) - 24 kbit/s
 #DESCRIPTION RadioMv.com | Spanish (24Kbps) - 24 kbit/s
-#SERVICE 4097:0:1:201:0:0:0:0:0:0:http%3a//fapatur.no-ip.biz%3a9000/stream/2/:FAPATUR RADIO - 64 kbit/s
-#DESCRIPTION FAPATUR RADIO - 64 kbit/s
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Radio Paradise
 #SERVICE 4097:0:1:201:0:0:0:0:0:0:http%3a//stream.radioparadise.com/mp3-192
