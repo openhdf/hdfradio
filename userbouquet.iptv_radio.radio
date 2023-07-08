@@ -6273,7 +6273,6 @@
 #DESCRIPTION Schlager Radio - Regional Bremen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--05--cdn.cast.addradio.de/radiob2/national/mp3/high/stream.mp3
 #DESCRIPTION Schlager Radio - Regional Sachsen-Anhalt
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--0a--cdn.cast.addradio.de/radiob2/national/mp3/high/stream.mp3
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--08--cdn.cast.addradio.de/radiob2/national/mp3/high/stream.mp3
 #DESCRIPTION Schlager Radio - Regional Baden-Württemberg
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
