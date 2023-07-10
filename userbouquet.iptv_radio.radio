@@ -2135,6 +2135,8 @@
 #DESCRIPTION Mixed Channels - 98.8 KISS FM - Der Beat von Berlin!
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radiob2-schlagermixx.cast.addradio.de/radiob2/schlagermixx/mp3/high/stream.mp3
 #DESCRIPTION Mixed Channels - Schlager Radio Plus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//antnds.streamabc.net/ands-antenneschlager-mp3-192-8742257
+#DESCRIPTION Mixed Channels - Antenne Schlager
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.104.6rtl.com/rtl-live/mp3-128/konsole/
 #DESCRIPTION Mixed Channels - 104.6 RTL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bytefm.cast.addradio.de/bytefm/main/mid/stream.mp3?ar-distributor=ffa0
@@ -2149,6 +2151,8 @@
 #DESCRIPTION Mixed Channels - Radio Q - Wir sind der Campus
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//autozugradio-stream31.radiohost.de/autozugradio-blau_mp3-192:Autozugradio Sylt
 #DESCRIPTION Mixed Channels - Autozugradio Sylt
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.radio21.de/thewolf/mp3-192/
+#DESCRIPTION Mixed Channels - The Wolf *Deutschlands Country Radio*
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION ⇒ Mixed Channels International
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-41.zeno.fm/tkyvagcm738uv
