@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 10.07.2023 22:42 by Team www.hdfreaks.cc
+#DESCRIPTION Update 11.07.2023 17:55 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2153,6 +2153,8 @@
 #DESCRIPTION Mixed Channels - Autozugradio Sylt
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.radio21.de/thewolf/mp3-192/
 #DESCRIPTION Mixed Channels - The Wolf *Deutschlands Country Radio*
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge03.streamonkey.net/caravanfm-primestream
+#DESCRIPTION CARAVAN.fm
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION ⇒ Mixed Channels International
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-41.zeno.fm/tkyvagcm738uv
