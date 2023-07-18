@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 11.07.2023 17:55 by Team www.hdfreaks.cc
+#DESCRIPTION Update 18.07.2023 19:12 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -251,30 +251,24 @@
 #DESCRIPTION Radio BOB! - Queen-Stream
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Radio PSR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//psr.hoerradar.de/psr-live-mp3-hq
-#DESCRIPTION Radio PSR - Live
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//psr.hoerradar.de/psr-80er-mp3-hq
-#DESCRIPTION Radio PSR - 80er
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//psr.hoerradar.de/psr-90er-mp3-hq
-#DESCRIPTION Radio PSR - 90er
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//psr.hoerradar.de/psr-2000er-mp3-hq
-#DESCRIPTION Radio PSR - 2000er
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//psr.hoerradar.de/psr-90er-dance-mp3-hq
-#DESCRIPTION Radio PSR - 90er Dance
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//psr.hoerradar.de/psr-chartbreaker-mp3-hq
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/psr-live/mp3-192/mediaplayer:01KS180723
+#DESCRIPTION Radio PSR - Live-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/psr-partymix/mp3-192/mediaplayer
+#DESCRIPTION Radio PSR - Party-Mix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/psr-event01/mp3-192/mediaplayer
+#DESCRIPTION Radio PSR - Weihnachts-Superhits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/psr-chartbreaker/mp3-192/mediaplayer
 #DESCRIPTION Radio PSR - Chartbreaker
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//psr.hoerradar.de/psr-partymix-mp3-hq
-#DESCRIPTION Radio PSR - Partymix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//psr.hoerradar.de/psr-sachsensongs-mp3-mq
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/psr-80er/mp3-192/mediaplayer
+#DESCRIPTION Radio PSR - 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/psr-90er/mp3-192/mediaplayer
+#DESCRIPTION Radio PSR - 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/sachsensongs/mp3-192/mediaplayer
 #DESCRIPTION Radio PSR - Sachsensongs
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//psr.hoerradar.de/psr-relax-mp3-hq
-#DESCRIPTION Radio PSR - Relax
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//psr.hoerradar.de/psr-sommerhits-mp3-hq
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/sommerhits/mp3-192/mediaplayer
 #DESCRIPTION Radio PSR - Sommerhits
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//psr.hoerradar.de/psr-deutschpop-mp3-hq
-#DESCRIPTION Radio PSR - Deutschpop Nonstop
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//psr.hoerradar.de/psr-sinnlostelefon-mp3-hq
-#DESCRIPTION Radio PSR - Sinnlos Telefon
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/sinnlostelefon/mp3-192/mediaplayer:09
+#DESCRIPTION Radio PSR - Sinnlos-Telefon
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Antenne NRW
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/antenne-nrw/stream/mp3
