@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 18.07.2023 19:12 by Team www.hdfreaks.cc
+#DESCRIPTION Update 19.07.2023 18:28 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1837,20 +1837,44 @@
 #DESCRIPTION Los 40 - ELS40 Catalunya
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Absolut Radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01.live-sm.absolutradio.de/absolut-hot?
-#DESCRIPTION Absolut - Hot
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.live-sm.absolutradio.de/absolut-bella?
-#DESCRIPTION Absolut - Bella
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge03.live-sm.absolutradio.de/absolut-relax?
-#DESCRIPTION Absolut - Relax
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge67.live-sm.absolutradio.de/absolut-top?
-#DESCRIPTION Absolut - Top
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge11.live-sm.absolutradio.de/absolut-germany?
-#DESCRIPTION Absolut - Germany
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.live-sm.absolutradio.de/absolut-oldieclassics?
-#DESCRIPTION Absolut - Oldie Classics
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge68.live-sm.absolutradio.de/absolut-musicxl?
-#DESCRIPTION Absolut - Music XL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//absolut-hot.live-sm.absolutradio.de/absolut-germany/stream/mp3
+#DESCRIPTION Absolut Radio - Germany
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//absolut-hot.live-sm.absolutradio.de/absolut-bella/stream/mp3
+#DESCRIPTION Absolut Radio - Bella
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//absolut-hot.live-sm.absolutradio.de/absolut-hot/stream/mp3
+#DESCRIPTION Absolut Radio - Hot
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//absolut-hot.live-sm.absolutradio.de/absolut-relax/stream/mp3
+#DESCRIPTION Absolut Radio - Relax
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//absolut-hot.live-sm.absolutradio.de/absolut-top/stream/mp3
+#DESCRIPTION Absolut Radio - Top
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge05.live-sm.absolutradio.de/absolut-coffeemusic
+#DESCRIPTION Absolut Radio - Coffeemusic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge70.live-sm.absolutradio.de/absolut-clubnight
+#DESCRIPTION Absolut Radio - Clubnight
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge67.live-sm.absolutradio.de/absolut-oldieclassics/stream/mp3
+#DESCRIPTION Absolut Radio - Oldie Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge11.live-sm.absolutradio.de/absolut-80er
+#DESCRIPTION Absolut Radio - 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge59.live-sm.absolutradio.de/absolut-rock
+#DESCRIPTION Absolut Radio - Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge12.live-sm.absolutradio.de/absolut-musicxl
+#DESCRIPTION Absolut Radio - Music XL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge59.live-sm.absolutradio.de/absolut-lovesongs:01KS040723
+#DESCRIPTION Absolut Radio - Lovesongs
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge16.live-sm.absolutradio.de/absolut-christmastime/stream/aacp
+#DESCRIPTION Absolut Radio - Christmastime
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Radio Hamburg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge05.streamonkey.net/rhh-1036
+#DESCRIPTION Radio Hamburg - Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge11.streamonkey.net/rhh-neuemusik
+#DESCRIPTION Radio Hamburg - Neue Musik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge65.streamonkey.net/rhh-top800
+#DESCRIPTION Radio Hamburg - TOP 834
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge59.streamonkey.net/rhh-weihnachten
+#DESCRIPTION Radio Hamburg - Weihnachtshits nonstop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge66.streamonkey.net/caravanfm-primestream
+#DESCRIPTION Radio Hamburg - CARAVAN.fm
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION M1.FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/charts.mp3
