@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 21.07.2023 17:46 by Team www.hdfreaks.cc
+#DESCRIPTION Update 23.07.2023 12:48 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2153,8 +2153,6 @@
 #DESCRIPTION Mixed Channels - Galaxy-Oberfranken
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topradio-de-hz-fal-stream02-cluster01.radiohost.de/kissfm_mp3-192
 #DESCRIPTION Mixed Channels - 98.8 KISS FM - Der Beat von Berlin!
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radiob2-schlagermixx.cast.addradio.de/radiob2/schlagermixx/mp3/high/stream.mp3
-#DESCRIPTION Mixed Channels - Schlager Radio Plus
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//antnds.streamabc.net/ands-antenneschlager-mp3-192-8742257
 #DESCRIPTION Mixed Channels - Antenne Schlager
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.104.6rtl.com/rtl-live/mp3-128/konsole/
@@ -2171,10 +2169,8 @@
 #DESCRIPTION Mixed Channels - Radio Q - Wir sind der Campus
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//autozugradio-stream31.radiohost.de/autozugradio-blau_mp3-192
 #DESCRIPTION Mixed Channels - Autozugradio Sylt
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.radio21.de/thewolf/mp3-192/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio21.streamabc.net/radio21-radio21dabns-mp3-256-5529609
 #DESCRIPTION Mixed Channels - The Wolf *Deutschlands Country Radio*
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge03.streamonkey.net/caravanfm-primestream
-#DESCRIPTION CARAVAN.fm
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION ⇒ Mixed Channels International
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-41.zeno.fm/tkyvagcm738uv
