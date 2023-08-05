@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 01.08.2023 18:48 by Team www.hdfreaks.cc
+#DESCRIPTION Update 05.08.2023 14:48 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -39,6 +39,42 @@
 #DESCRIPTION Radio Schlagerparadies - Instrumental
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioplayer-kuschelzeit.schlagerparadies.de/schlagerballaden
 #DESCRIPTION Radio Schlagerparadies - Schlagerballaden
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Schlagerplanet Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-schlagerplanetschlager7639754-mp3-192-1955544
+#DESCRIPTION Schlagerplanet Radio - 100% Schlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-schlagerplanetsommer8144684-mp3-192-1412829:KS_04082023
+#DESCRIPTION Schlagerplanet Radio - 100% Sommerschlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-schlagerplanetparty7562005-mp3-192-8057960
+#DESCRIPTION Schlagerplanet Radio - 100% Partyschlager 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-schlagerplanetdance3410209-mp3-192-2788989
+#DESCRIPTION Schlagerplanet Radio - 100% Danceschlager 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-schlagerplanetinthemix4831020-mp3-192-3255603
+#DESCRIPTION Schlagerplanet Radio - 100% Schlager In The Mix 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-schlagerplanetdiscofox1779012-mp3-192-9069673
+#DESCRIPTION Schlagerplanet Radio - 100% Discofox 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-schlagerplanetevent022910001-mp3-192-8749586
+#DESCRIPTION Schlagerplanet Radio - 100% Helene
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-schlagerplanetkultschlager9691359-mp3-192-6005251
+#DESCRIPTION Schlagerplanet Radio - 100% Kultschlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-schlagerplanetvolksmusik4131232-mp3-192-3940827
+#DESCRIPTION Schlagerplanet Radio - 100% Volksmusik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-schlagerplanetdeutsch3985579-mp3-192-4723533
+#DESCRIPTION Schlagerplanet Radio - 100% Deutsch
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-schlagerplanethits9226234-mp3-192-4854262
+#DESCRIPTION Schlagerplanet Radio - 100% Schlager-Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-schlagerplanetandrea1000828-mp3-192-9876888
+#DESCRIPTION Schlagerplanet Radio - 100% Andrea
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-schlagerplanetkaiser8827870-mp3-192-6353982
+#DESCRIPTION Schlagerplanet Radio - 100% Kaiser
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-schlagerplanetfancharts6489140-mp3-128-4075092
+#DESCRIPTION Schlagerplanet Radio - 100% Schlager-Fancharts 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-schlagerplanetbest168724338-mp3-192-2537064
+#DESCRIPTION Schlagerplanet Radio - 100% Best of 2022 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-schlagerplanetkarneval8688713-mp3-192-1543042
+#DESCRIPTION Schlagerplanet Radio - 100% Karneval
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-schlagerplanetevent018872124-mp3-192-6303994
+#DESCRIPTION Schlagerplanet Radio - 100% Weihnachtsschlager
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION RadioMonster.FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ic5.radiomonster.fm/tophits.ultra
