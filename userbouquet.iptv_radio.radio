@@ -8477,3 +8477,37 @@
 #DESCRIPTION Klassik Radio - Relax Meditation
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-nature-mp3-192-6135585
 #DESCRIPTION Klassik Radio - Natur Klänge
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION PRYSM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n14a-eu.rcs.revma.com/krmdvztmh8tvv:01 k.s.06.07.2023
+#DESCRIPTION PRYSM - Tech House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n24a-eu.rcs.revma.com/vywzune3ekhvv
+#DESCRIPTION PRYSM - Radio 1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n18a-eu.rcs.revma.com/e3ddzmq3ekhvv
+#DESCRIPTION PRYSM - Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n23a-eu.rcs.revma.com/2q8qkwbqkkhvv
+#DESCRIPTION PRYSM - Deep
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n26a-eu.rcs.revma.com/afd9573pkkhvv
+#DESCRIPTION PRYSM - House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n28a-eu.rcs.revma.com/hetwn5dshkhvv
+#DESCRIPTION PRYSM - Trance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n08a-eu.rcs.revma.com/34yuqyb9grruv
+#DESCRIPTION PRYSM - Dance Revival
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n11a-eu.rcs.revma.com/g9wspvm1pnhvv
+#DESCRIPTION PRYSM - Studio 54
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n06a-eu.rcs.revma.com/0rxtxh0a0mzuv
+#DESCRIPTION PRYSM - Big Room EDM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n01a-eu.rcs.revma.com/arbkkamdzmzuv
+#DESCRIPTION PRYSM - Classic Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n21a-eu.rcs.revma.com/4eczgu8a0mzuv
+#DESCRIPTION PRYSM - Nu Disco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n21a-eu.rcs.revma.com/01cty4t1pnhvv
+#DESCRIPTION PRYSM - Stage
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n05a-eu.rcs.revma.com/qh00tw3a0mzuv
+#DESCRIPTION PRYSM - Poolside
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n11a-eu.rcs.revma.com/etqq04n3ekhvv
+#DESCRIPTION PRYSM - Bob Sinclar
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n09a-eu.rcs.revma.com/uyrbt6xuhnruv
+#DESCRIPTION PRYSM - Radio deepinside.co.uk 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n25a-eu.rcs.revma.com/u62vcepz3tzuv
+#DESCRIPTION PRYSM - this is deepinside.co.uk
