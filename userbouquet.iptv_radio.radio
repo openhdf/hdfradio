@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 06.08.2023 20:57 by Team www.hdfreaks.cc
+#DESCRIPTION Update 13.08.2023 19:00 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2377,17 +2377,15 @@
 #DESCRIPTION 90s90s - Techno HQ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/techno/mp3-128/radiode/
 #DESCRIPTION 90s90s - Techno
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/inthemix/mp3-192/streams.90s90s.de/play.m3u
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//regiocast.streamabc.net/regc-90s90sinthemix9775729-mp3-192-4658440
 #DESCRIPTION 90s90s - In The Mix
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/pop/mp3-128/radiode/
 #DESCRIPTION 90s90s - Hits Mid Quality
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/pop/mp3-192/streams.90s90s.de/
 #DESCRIPTION 90s90s - Hits
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/hiphop-german/mp3-192/streams.90s90s.de/play.m3u
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//regiocast.streamabc.net/regc-90s90shiphopger1075276-mp3-192-7006589
 #DESCRIPTION 90s90s - Hiphop deutsch
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/hiphop/mp3-128/streams.90s90s.de/
-#DESCRIPTION 90s90s - HipHop & Rap
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/hiphop/mp3-192/streams.90s90s.de/
 #DESCRIPTION 90s90s - HipHop & Rap
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/grunge/mp3-192/
 #DESCRIPTION 90s90s - Grunge
@@ -2395,15 +2393,13 @@
 #DESCRIPTION 90s90s - Dance HQ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/eurodance/mp3-128/radiode/
 #DESCRIPTION 90s90s - Dance
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//90s90s.hoerradar.de/90s90s-main-mp3-mq
-#DESCRIPTION 90s90s - Clubhits Mid Quality
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//regiocast.streamabc.net/regc-90s90smain4920117-mp3-192-6232809
+#DESCRIPTION 90s90s - Clubhits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/boygroup/mp3-192/streams.90s90s.de/
 #DESCRIPTION 90s90s - Boygroups
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/rnb/mp3-192/
 #DESCRIPTION 90s90s - Black & RnB HQ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//90s90s.hoerradar.de/90s90s-rnb-mp3-hq
-#DESCRIPTION 90s90s - Black & RnB HQ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/eurodance/mp3-192/vradio
 #DESCRIPTION 90s90s - Dance
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION 0nlineradio
