@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 13.08.2023 19:00 by Team www.hdfreaks.cc
+#DESCRIPTION Update 13.08.2023 19:20 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2371,36 +2371,38 @@
 #DESCRIPTION Schottland - Two Lochs Radio 106.6
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION 90s90s
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/main/mp3-192/streams.90s90s.de/
-#DESCRIPTION 90s90s - The Beat
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/techno/mp3-192/radiode/
-#DESCRIPTION 90s90s - Techno HQ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/techno/mp3-128/radiode/
-#DESCRIPTION 90s90s - Techno
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//regiocast.streamabc.net/regc-90s90sinthemix9775729-mp3-192-4658440
-#DESCRIPTION 90s90s - In The Mix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/pop/mp3-128/radiode/
-#DESCRIPTION 90s90s - Hits Mid Quality
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/pop/mp3-192/streams.90s90s.de/
-#DESCRIPTION 90s90s - Hits
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//regiocast.streamabc.net/regc-90s90shiphopger1075276-mp3-192-7006589
-#DESCRIPTION 90s90s - Hiphop deutsch
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/hiphop/mp3-128/streams.90s90s.de/
-#DESCRIPTION 90s90s - HipHop & Rap
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/grunge/mp3-192/
-#DESCRIPTION 90s90s - Grunge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/eurodance/mp3-192/radiode/
-#DESCRIPTION 90s90s - Dance HQ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/eurodance/mp3-128/radiode/
-#DESCRIPTION 90s90s - Dance
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//regiocast.streamabc.net/regc-90s90smain4920117-mp3-192-6232809
-#DESCRIPTION 90s90s - Clubhits
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/boygroup/mp3-192/streams.90s90s.de/
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90spop4760822-mp3-192-9403761
+#DESCRIPTION 90s90s - Digital
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90sdanceradio-mp3-192-7820726
+#DESCRIPTION 90s90s - Dance Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90ssommerhits7739935-mp3-192-4515340
+#DESCRIPTION 90s90s - Sommerhits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90shouse9480822-mp3-192-5444193
+#DESCRIPTION 90s90s - House
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90srock1436287-mp3-192-2191420
+#DESCRIPTION 90s90s - Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90srnb9791660-mp3-192-2459421
+#DESCRIPTION 90s90s - Soul & RnB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90seurodance7558633-mp3-192-3419489
+#DESCRIPTION 90s90s - Eurodance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90sboygroup4982406-mp3-192-8624034
 #DESCRIPTION 90s90s - Boygroups
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.90s90s.de/rnb/mp3-192/
-#DESCRIPTION 90s90s - Black & RnB HQ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//90s90s.hoerradar.de/90s90s-rnb-mp3-hq
-#DESCRIPTION 90s90s - Dance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90smain4920117-mp3-192-6232809
+#DESCRIPTION 90s90s - Clubhits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90slovesongs4458302-mp3-192-1757165
+#DESCRIPTION 90s90s - Lovesongs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90stechno2195701-mp3-192-2408420
+#DESCRIPTION 90s90s - Techno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90shiphopger1075276-mp3-192-7006589
+#DESCRIPTION 90s90s - Hiphop Deutsch
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90sinthemix9775729-mp3-192-4658440
+#DESCRIPTION 90s90s - In The Mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90sgrunge7540920-mp3-192-4353468
+#DESCRIPTION 90s90s - Grunge
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90shiphop9858510-mp3-192-3156332
+#DESCRIPTION 90s90s - Hiphop & Rap
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90ssimulcast-mp3-192-6412329
+#DESCRIPTION 90s90s - DAB+
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION 0nlineradio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.0nlineradio.com/volksmusik?ref=radiobrowser
