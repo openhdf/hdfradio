@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 13.08.2023 19:20 by Team www.hdfreaks.cc
+#DESCRIPTION Update 14.08.2023 17:30 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -967,8 +967,6 @@
 #DESCRIPTION WDR 5 - Live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr-wdr-event.icecast.wdr.de/wdr/wdr/event/mp3/128/stream.mp3
 #DESCRIPTION WDR - Event
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr-vera-live.icecast.wdr.de/wdr/vera/live/mp3/128/stream.mp3
-#DESCRIPTION WDR - Vera
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr-diemaus-live.icecastssl.wdr.de/wdr/diemaus/live/mp3/128/stream.mp3
 #DESCRIPTION WDR - Die Maus
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wdr-cosmo-live.icecastssl.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3
@@ -6497,6 +6495,8 @@
 #DESCRIPTION bigFM - Sports and Workout
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-xmas-aac-128-5299530
 #DESCRIPTION bigFM - XMAS
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.bigfm.de/gpt/mp3-128/stream.bigfm.de/
+#DESCRIPTION bigFM - bigGPT
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Schweiz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.srg-ssr.ch/m/regi_ost/mp3_128
