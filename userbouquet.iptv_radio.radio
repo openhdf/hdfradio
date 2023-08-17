@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 16.08.2023 18:46 by Team www.hdfreaks.cc
+#DESCRIPTION Update 17.08.2023 22:03 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2269,6 +2269,8 @@
 #DESCRIPTION Mixed Channels - The Rock! Radio Helgoland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//munichhh.stream.vip/live/mp3-320/
 #DESCRIPTION Mixed Channels - Munichs Hardest Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//krautrockworld.stream.laut.fm/krautrockworld
+#DESCRIPTION Mixed Channels - Krautrock World
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION ⇒ Mixed Channels Pop
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ice4.abradio.cz/depeche128.mp3
@@ -8547,3 +8549,41 @@
 #DESCRIPTION PRYSM - Radio deepinside.co.uk 
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n25a-eu.rcs.revma.com/u62vcepz3tzuv
 #DESCRIPTION PRYSM - this is deepinside.co.uk
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Feierfreund
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-feierfreundeskalation6505191-mp3-192-1415995
+#DESCRIPTION Feierfreund - Eskalation
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-feierfreundmalle9231627-mp3-192-3773612
+#DESCRIPTION Feierfreund - Mallorca-Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-feierfreund80er5127529-mp3-192-1587531
+#DESCRIPTION Feierfreund - 80er Partyhits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-feierfreundchart8654701-mp3-192-4540349
+#DESCRIPTION Feierfreund - Chartparty
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-feierfreunddance4258096-mp3-192-2302618
+#DESCRIPTION Feierfreund - 90er Dance-Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-feierfreunddiscofox2506856-mp3-192-4990667
+#DESCRIPTION Feierfreund - Discofox
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-feierfreundfussball7331407-mp3-192-6661982
+#DESCRIPTION Feierfreund - Fussballparty
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-feierfreundkarneval1486331-mp3-192-5692490
+#DESCRIPTION Feierfreund - Karneval
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-feierfreundndw3453520-mp3-192-4847777
+#DESCRIPTION Feierfreund - NDW Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-feierfreundoldie4396151-mp3-192-5512509
+#DESCRIPTION Feierfreund - Oldie-Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-feierfreundschlager4875510-mp3-192-2488410
+#DESCRIPTION Feierfreund - Partyschlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-feierfreundsummerdance3595337-mp3-192-6658184
+#DESCRIPTION Feierfreund - Sommerparty
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-feierfreundgayparty3174226-mp3-192-5370841
+#DESCRIPTION Feierfreund - Gay Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-feierfreundrockparty4811942-mp3-192-2399946
+#DESCRIPTION Feierfreund - Rockparty
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-feierfreundoktoberfest3999737-mp3-192-7562915
+#DESCRIPTION Feierfreund - Oktoberfest
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-barbaradioesc5449252-mp3-192-2964013
+#DESCRIPTION Feierfreund - ESC Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-feierfreundbollerwagen4134697-mp3-192-8500920
+#DESCRIPTION Feierfreund - Herrentag
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//regiocast.streamabc.net/regc-feierfreundautoscooter4528474-mp3-192-8023058
+#DESCRIPTION Feierfreund - Autoscooter
