@@ -1257,32 +1257,42 @@
 #DESCRIPTION MDR Radio - MDR TWEENS
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Star FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.starfm.de/nbg.mp3:1K.S.230823
+#DESCRIPTION Star FM - Nürnberg
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.starfm.de/berlin.mp3
 #DESCRIPTION Star FM - Berlin
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.starfm.de/nbg.mp3
-#DESCRIPTION Star FM - Nürnberg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//starfm.streamabc.net/30-starfmsachsen-mp3-128-1812785
+#DESCRIPTION Star FM - Maximum Rock Sachsen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.starfm.de/national/mp3-192:4
+#DESCRIPTION Star FM - Maximum Rock National
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.starfm.de/90srock/mp3-192
+#DESCRIPTION Star FM - 90s Rock
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.starfm.de/80er.mp3
 #DESCRIPTION Star FM - 80s Rock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.starfm.de/90er.mp3
-#DESCRIPTION Star FM - 90s Rock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.starfm.de/millennium_rock.mp3
-#DESCRIPTION Star FM - 2000s Rock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.starfm.de/from_hell.mp3
-#DESCRIPTION Star FM - From Hell
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.starfm.de/alternative.mp3
-#DESCRIPTION Star FM - Alternative
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.starfm.de/classic_rock.mp3
 #DESCRIPTION Star FM - Classic Rock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.starfm.de/blues.mp3
-#DESCRIPTION Star FM - Blues
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.starfm.de/from_hell.mp3
+#DESCRIPTION Star FM - From Hell
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.starfm.de/hardrock/mp3-192
+#DESCRIPTION Star FM - Hard Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.starfm.de/newmetal/mp3-192:10
+#DESCRIPTION Star FM - New Metal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.starfm.de/festival/mp3-192
+#DESCRIPTION Star FM - Festival Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.starfm.de/ballads/mp3-192
+#DESCRIPTION Star FM - Rock Ballads
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.starfm.de/feelgood/mp3-192
+#DESCRIPTION Star FM - Feel Good Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.starfm.de/alternative.mp3
+#DESCRIPTION Star FM - Alternative Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.starfm.de/newrock/mp3-192
+#DESCRIPTION Star FM - New Rock
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.starfm.de/country_rock.mp3
 #DESCRIPTION Star FM - Country Rock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.starfm.de/hot_top.mp3
-#DESCRIPTION Star FM - Hot Top
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.starfm.de/live_rock.mp3
-#DESCRIPTION Star FM - Live Rock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.starfm.de/xmas_rock.mp3
-#DESCRIPTION Star FM - XMAS Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.starfm.de/blues.mp3
+#DESCRIPTION Star FM - Blues Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.starfm.de/xmas_rock.mp3:18
+#DESCRIPTION Star FM - Christmas Rock
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Radio Fantasy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/fantasy-934
