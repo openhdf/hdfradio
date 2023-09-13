@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 13.09.2023 20:17 by Team www.hdfreaks.cc
+#DESCRIPTION Update 13.09.2023 20:21 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1749,16 +1749,6 @@
 #DESCRIPTION Österreich - Radio Vorarlberg
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//orf-live.ors-shoutcast.at/wie-q2a
 #DESCRIPTION Österreich - Radio Wien
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge02.streamonkey.net/radio886-onair/stream/mp3
-#DESCRIPTION Österreich - radio 88.6 Live
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge06.streamonkey.net/radio886-hardrock/stream/mp3
-#DESCRIPTION Österreich - Radio 88.6 Hardrock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge67.streamonkey.net/radio886-classicrock/stream/mp3
-#DESCRIPTION Österreich - 88.6 Classic Rock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge04.streamonkey.net/radio886-rotweissrock/stream/mp3
-#DESCRIPTION Österreich - 88.6 ROT-WEISS-ROT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge06.streamonkey.net/radio886-newrock/stream/mp3
-#DESCRIPTION Österreich - 88.6 New Rock
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3
 #DESCRIPTION Österreich - Radio Stephansdom
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//u1-tirol-stream20.radiohost.de/u1-tirol-live_mp3-192
