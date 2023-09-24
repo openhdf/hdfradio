@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 13.09.2023 21:03 by Team www.hdfreaks.cc
+#DESCRIPTION Update 24.09.2023 10:09 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -182,16 +182,6 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream24.radiohost.de/radioton-bw_mp3-192
 #DESCRIPTION Radio Ton - Live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream29.radiohost.de/radioton-80er_mp3-192
-#DESCRIPTION Radio Ton - 80er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream24.radiohost.de/radioton-90er_mp3-192
-#DESCRIPTION Radio Ton - 90er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream24.radiohost.de/radioton-rock_mp3-192
-#DESCRIPTION Radio Ton - Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream24.radiohost.de/radioton-kuschel-songs_mp3-192
-#DESCRIPTION Radio Ton - Kuschelsongs
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream29.radiohost.de/radioton-aktuelle-hits_mp3-192
-#DESCRIPTION Radio Ton - Aktuelle Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream24.radiohost.de/radioton-popup1_mp3-192
 #DESCRIPTION Radio Ton - Weihnachten
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream27.radiohost.de/radioton-popup2_mp3-192
 #DESCRIPTION Radio Ton - Ukraine
