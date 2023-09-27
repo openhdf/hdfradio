@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 24.09.2023 10:09 by Team www.hdfreaks.cc
+#DESCRIPTION Update 27.09.2023 18:09 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -313,6 +313,8 @@
 #DESCRIPTION Radio BOB! - Motörhead-Stream
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-queen/mp3-192
 #DESCRIPTION Radio BOB! - Queen-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-bobbritpop-mp3-192-5617717
+#DESCRIPTION Radio BOB! - Britpop
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Radio PSR
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/psr-live/mp3-192/mediaplayer:01KS180723
