@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 27.09.2023 18:09 by Team www.hdfreaks.cc
+#DESCRIPTION Update 01.10.2023 18:09 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -125,6 +125,36 @@
 #DESCRIPTION R.SA - 1000 Achtziger
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/stones/mp3-192/homepage/
 #DESCRIPTION R.SA - Rolling Stones Radio
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION HITRADIO RTL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge59.radio.hitradio-rtl.de/hrrtl-dresden/stream/mp3?aggregator=direktlink:K.S.01102023
+#DESCRIPTION HITRADIO RTL - Sachsen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge05.radio.hitradio-rtl.de/hrrtl-dresden/stream/mp3?aggregator=direktlink
+#DESCRIPTION HITRADIO RTL - Region Dresden
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge68.radio.hitradio-rtl.de/hrrtl-chemnitz/stream/mp3?aggregator=direktlink
+#DESCRIPTION HITRADIO RTL - Region Chemnitz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge63.radio.hitradio-rtl.de/hrrtl-leipzig/stream/mp3?aggregator=direktlink
+#DESCRIPTION HITRADIO RTL - Region Leipzig
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge07.radio.hitradio-rtl.de/hrrtl-lausitz/stream/mp3?aggregator=direktlink
+#DESCRIPTION HITRADIO RTL - Region Lausitz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge67.radio.hitradio-rtl.de/hrrtl-vogtland/stream/mp3?aggregator=direktlink
+#DESCRIPTION HITRADIO RTL - Region Vogtland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge70.radio.hitradio-rtl.de/hrrtl-top40/stream/mp3?aggregator=direktlink
+#DESCRIPTION HITRADIO RTL - TOP40
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge60.radio.hitradio-rtl.de/hrrtl-oldies/stream/mp3?aggregator=direktlink
+#DESCRIPTION HITRADIO RTL - Oldies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge67.radio.hitradio-rtl.de/hrrtl-maxis/stream/mp3?aggregator=direktlink
+#DESCRIPTION HITRADIO RTL - PartyMix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge10.radio.hitradio-rtl.de/hrrtl-80er/stream/mp3?aggregator=direktlink
+#DESCRIPTION HITRADIO RTL - 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge64.radio.hitradio-rtl.de/hrrtl-90er/stream/mp3?aggregator=direktlink
+#DESCRIPTION HITRADIO RTL - 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge13.radio.hitradio-rtl.de/hrrtl-schlager/stream/mp3?aggregator=direktlink
+#DESCRIPTION HITRADIO RTL - Schlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge16.radio.hitradio-rtl.de/hrrtl-bis-heute/stream/mp3?aggregator=direktlink
+#DESCRIPTION HITRADIO RTL - 80er bis heute
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge14.radio.hitradio-rtl.de/hrrtl-xmas?aggregator=redirect
+#DESCRIPTION HITRADIO RTL - Weihnachtsradio
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION 80s80s
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/web/mp3-192/homepage/
