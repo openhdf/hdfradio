@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 02.10.2023 17:43 by Team www.hdfreaks.cc
+#DESCRIPTION Update 02.10.2023 17:45 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -8437,11 +8437,11 @@
 #DESCRIPTION Radio Summernight - 1000 Weihnachten
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Klassik Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge10.streams.klassikradio.de/klassikradio-deutschland/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-krdnational-aac-128-3888428
 #DESCRIPTION Klassik Radio - Deutschland
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge14.streams.klassikradio.de/beats-radio/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-beatsnational-aac-128-2492555
 #DESCRIPTION Klassik Radio - Beats
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge03.streams.klassikradio.de/klassikradio-movie/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-movienational-aac-128-2085172
 #DESCRIPTION Klassik Radio - Movie
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//klassikr.streamabc.net/klr-romantischerabend-mp3-192-8709897
 #DESCRIPTION Klassik Radio - Romantischer Abend
