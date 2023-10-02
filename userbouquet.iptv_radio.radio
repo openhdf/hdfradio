@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 01.10.2023 18:09 by Team www.hdfreaks.cc
+#DESCRIPTION Update 02.10.2023 17:43 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -8623,3 +8623,39 @@
 #DESCRIPTION radio 88.6 - Rot Weiss Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streamonkey.net/radio886-newrock/stream/mp3
 #DESCRIPTION radio 88.6 - New Rock
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Radio ffn
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-stream20.radiohost.de/ffn_mp3-192:01102023K.S.
+#DESCRIPTION Radio ffn - live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-de-hz-fal-stream03-cluster01.radiohost.de/ffn-80er_mp3-192:06
+#DESCRIPTION Radio ffn - ffn 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-stream21.radiohost.de/neunziger_mp3-192
+#DESCRIPTION Radio ffn - ffn 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-de-hz-fal-stream02-cluster01.radiohost.de/ffn-das_gelbe_vom_ei_mp3-192
+#DESCRIPTION Radio ffn - ffn Das Gelbe vom Ei
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-stream27.radiohost.de/ffn-dance_only_mp3-192
+#DESCRIPTION Radio ffn - ffn Dance Only
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-stream27.radiohost.de/ffn-comedy_mp3-192
+#DESCRIPTION Radio ffn - ffn Frühstyxradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-stream22.radiohost.de/ffn-gold_mp3-192
+#DESCRIPTION Radio ffn - ffn Gold
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-stream20.radiohost.de/ffn-hits_mp3-192
+#DESCRIPTION Radio ffn - ffn Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-stream20.radiohost.de/ffn-rockt_mp3-192
+#DESCRIPTION Radio ffn - ffn rockt!
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-stream25.radiohost.de/tannenbaum_mp3-192
+#DESCRIPTION Radio ffn - ffn Tannenbaum
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-de-hz-fal-stream04-cluster01.radiohost.de/ffn-auszeit_fm_mp3-192
+#DESCRIPTION Radio ffn - Auszeit FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-stream23.radiohost.de/radiobollerwagen_mp3-192
+#DESCRIPTION Radio ffn - Bollerwagen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-stream19.radiohost.de/energybremen_mp3-192
+#DESCRIPTION Radio ffn - Energie Bremen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-stream22.radiohost.de/peppermintfm_mp3-192
+#DESCRIPTION Radio ffn - Peppermint FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-stream29.radiohost.de/radioroland_mp3-192
+#DESCRIPTION Radio ffn - Radio Roland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-stream27.radiohost.de/ffn-radio_rotkaeppchen_mp3-192
+#DESCRIPTION Radio ffn - Radio Rotkäppchen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-stream25.radiohost.de/storiesfm_mp3-192
+#DESCRIPTION Radio ffn - Stories FM
