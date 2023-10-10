@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 02.10.2023 17:45 by Team www.hdfreaks.cc
+#DESCRIPTION Update 10.10.2023 20:00 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -207,6 +207,52 @@
 #DESCRIPTION 80s80s - David Bowie
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/christmas/mp3-192/homepage/
 #DESCRIPTION 80s80s - Xmas
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Perfect Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n0a.radiojar.com/whwyhz188a0uv?:01011023K.S.
+#DESCRIPTION Perfect Radio - Cillout
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n07.radiojar.com/5vtvu44swk8uv?
+#DESCRIPTION Perfect Radio - Christmas Music
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n13.radiojar.com/ep1yv9t3dxhvv?
+#DESCRIPTION Perfect Radio - Clubhits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n08.radiojar.com/1uqnt5zp1v8uv?
+#DESCRIPTION Perfect Radio - Coffeemusic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n13.radiojar.com/4gexr8aqyd0uv?
+#DESCRIPTION Perfect Radio - Dancehits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n07.radiojar.com/asngk2sg798uv?
+#DESCRIPTION Perfect Radio - Deep House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n05.radiojar.com/2fhqye2ez2hvv?
+#DESCRIPTION Perfect Radio - Kizomba
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n04.radiojar.com/httms151kwzuv?
+#DESCRIPTION Perfect Radio - Lovesongs
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n01.radiojar.com/5bdyvqa9bm8uv?
+#DESCRIPTION Perfect Radio - Lovesongs Reloaded
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n0d.radiojar.com/cxases7nabuvv?:10
+#DESCRIPTION Perfect Radio - New Age
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//n12.radiojar.com/yk729qbkzeruv?
+#DESCRIPTION Perfect Radio - New Country
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n0c.radiojar.com/bdnkd1mqehruv?
+#DESCRIPTION Perfect Radio - Oldies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n01.radiojar.com/ezs0qr9m4qruv?
+#DESCRIPTION Perfect Radio - Reggae
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n05.radiojar.com/guxrfs477qruv?
+#DESCRIPTION Perfect Radio - Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n02.radiojar.com/kfsf1eexrf9uv?
+#DESCRIPTION Perfect Radio - Salsa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n01.radiojar.com/rk8e9x2vetzuv?
+#DESCRIPTION Perfect Radio - Schlageroldies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n12.radiojar.com/d3bcstqn9mruv?
+#DESCRIPTION Perfect Radio - Smooth Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n04.radiojar.com/eq8txpg1b5zuv?
+#DESCRIPTION Perfect Radio - Softrock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n10.radiojar.com/2n44t88fkzzuv?
+#DESCRIPTION Perfect Radio - Soul Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n01.radiojar.com/98nue16kdq8uv?:20
+#DESCRIPTION Perfect Radio - The Mix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n01.radiojar.com/32m0y5ubt18uv?
+#DESCRIPTION Perfect Radio - Wavemusic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//n0a.radiojar.com/vz5fpmm0azuvv?
+#DESCRIPTION Perfect Radio - Elvis
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Radio Ton
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream24.radiohost.de/radioton-bw_mp3-192
