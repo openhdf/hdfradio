@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 10.10.2023 20:00 by Team www.hdfreaks.cc
+#DESCRIPTION Update 14.10.2023 14:42 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -8705,3 +8705,29 @@
 #DESCRIPTION Radio ffn - Radio Rotkäppchen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-stream25.radiohost.de/storiesfm_mp3-192
 #DESCRIPTION Radio ffn - Stories FM
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION RMNradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rmnradio.schlagerparadies.de/rmnradio:KS_01_131023
+#DESCRIPTION RMNradio - rmnradio.fm
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dancechannel.schlagerparadies.de/dancechannel
+#DESCRIPTION RMNradio - Dance Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//instrumentalhits.schlagerparadies.de/rmninstrumental
+#DESCRIPTION RMNradio - Instrumental Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kuschelfm.schlagerparadies.de/kuschelfm
+#DESCRIPTION RMNradio - Kuschel.fm
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//megahitradio.schlagerparadies.de/megahitradio
+#DESCRIPTION RMNradio - Megahitradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//partyradio24.schlagerparadies.de/partyradio24
+#DESCRIPTION RMNradio - Partyradio24
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiomelodie.schlagerparadies.de/radiomelodie
+#DESCRIPTION RMNradio - Radio Melodie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//maxi45.schlagerparadies.de/maxi45
+#DESCRIPTION RMNradio - RMNradio Maxi45
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rmnrelax.schlagerparadies.de/rmnrelax
+#DESCRIPTION RMNradio - RMNrelax
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//soulstarfm.schlagerparadies.de/rmnsoulstar:10
+#DESCRIPTION RMNradio - RMNsoulstar
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rockhausradio.schlagerparadies.de/rockhausradio
+#DESCRIPTION RMNradio - Rockhaus Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//yesterdayfm.schlagerparadies.de/yesterdayfm
+#DESCRIPTION RMNradio - Yesterday.fm
