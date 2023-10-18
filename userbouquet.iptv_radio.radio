@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 17.10.2023 18:36 by Team www.hdfreaks.cc
+#DESCRIPTION Update 18.10.2023 17:51 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -6663,6 +6663,84 @@
 #DESCRIPTION RSI Rete Due Live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/retetre/mp3_128
 #DESCRIPTION RSI Rete Tre Live
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Niederlande
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.omroep.nl/radio1-bb-mp3
+#DESCRIPTION NPO Radio 1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.omroep.nl/radio2-bb-mp3
+#DESCRIPTION NPO Radio 2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.omroep.nl/3fm-bb-mp3
+#DESCRIPTION NPO Radio 3FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.omroep.nl/radio4-bb-mp3
+#DESCRIPTION NPO Radio 4 Klassiek
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.omroep.nl/radio5-bb-mp3
+#DESCRIPTION NPO Radio 5
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.omroep.nl/radio2-sterrennl-mp3
+#DESCRIPTION NPO SterrenNL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.omroep.nl/3fm-serioustalent-mp3
+#DESCRIPTION NPO KX
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//22333.live.streamtheworld.com/SLAM_AAC.aac
+#DESCRIPTION SLAM!
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25323.live.streamtheworld.com/WEB10_AAC.aac
+#DESCRIPTION SLAM! Non-stop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25233.live.streamtheworld.com/WEB16_AAC.aac
+#DESCRIPTION SLAM! Housuh In De Pauzuh
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25253.live.streamtheworld.com/WEB14_AAC.aac
+#DESCRIPTION SLAM! 40
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25283.live.streamtheworld.com/WEB08_AAC.aac
+#DESCRIPTION SLAM! Summer
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//22553.live.streamtheworld.com/WEB15_AAC.aac
+#DESCRIPTION SLAM! 00´s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25283.live.streamtheworld.com/WEB11_AAC.aac
+#DESCRIPTION SLAM! Hardstyle
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25283.live.streamtheworld.com/WEB12_AAC.aac
+#DESCRIPTION SLAM! The Boom Room
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25253.live.streamtheworld.com/WEB13_AAC.aac
+#DESCRIPTION SLAM! MixMarathon
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25323.live.streamtheworld.com/WEB09_AAC.aac
+#DESCRIPTION SLAM! Juize
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22613.live.streamtheworld.com/100PNL_AAC.aac
+#DESCRIPTION 100% NL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25283.live.streamtheworld.com/WEB01_AAC.aac
+#DESCRIPTION 100% Feest
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25233.live.streamtheworld.com/WEB05_AAC.aac
+#DESCRIPTION 100% Kerst
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25233.live.streamtheworld.com/WEB03_AAC.aac
+#DESCRIPTION 100% Liefde
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22553.live.streamtheworld.com/WEB04_AAC.aac
+#DESCRIPTION 100% Nederpop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22593.live.streamtheworld.com/WEB02_AAC.aac
+#DESCRIPTION 100% Non-Stop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25253.live.streamtheworld.com/WEB06_AAC.aac
+#DESCRIPTION 100% Puur
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21293.live.streamtheworld.com/VERONICA.mp3
+#DESCRIPTION Veronica Radio live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25273.live.streamtheworld.com/SRGSTR09.mp3
+#DESCRIPTION Veronica Vintage 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22723.live.streamtheworld.com/SRGSTR11.mp3
+#DESCRIPTION Veronica Rockradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25273.live.streamtheworld.com/SRGSTR10.mp3
+#DESCRIPTION Veronica Top 1000 Allertijden
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_64.aac
+#DESCRIPTION Qmusic live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur_64.aac
+#DESCRIPTION Qmusic Foute Uur
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nonstop_96.mp3
+#DESCRIPTION Qmusic Non-Stop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_top40_high.aac
+#DESCRIPTION Qmusic Top 40 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_qlmb_64.aac
+#DESCRIPTION Qmusic Limburg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_90s00s_high.aac
+#DESCRIPTION Qmusic 90s&00s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nederlandstalig_high.aac
+#DESCRIPTION Qmusic Nederlanstalig
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//23613.live.streamtheworld.com/OWR_WORLD_RADIO_NLAAC.aac
+#DESCRIPTION Qmusic One World Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_thema_high.aac
+#DESCRIPTION Qmusic Cristmas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radionl.fm/radionl
+#DESCRIPTION Radio NL
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Frankreich
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:https%3a//stream.rfm.fr/rfm.aac
