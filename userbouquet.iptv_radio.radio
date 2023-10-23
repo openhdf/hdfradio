@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 18.10.2023 17:51 by Team www.hdfreaks.cc
+#DESCRIPTION Update 23.10.2023 18:12 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -3283,9 +3283,9 @@
 #DESCRIPTION Antena Zadar 97.2 FM (HiFi) (FLAC)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bfm-stream.lancs.ac.uk/flac
 #DESCRIPTION Bailrigg FM - Lancaster's Student Sound (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//besidefm.ga%3a8000/stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//5.128.138.8%3a8000/stream
 #DESCRIPTION BesideFM - Rock and Blues channel (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//besidefm.ga%3a8000/opus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//5.128.138.8%3a8000/opus
 #DESCRIPTION BesideFM - Chillout channel (Opus)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//maggie.torontocast.com%3a8076/flac
 #DESCRIPTION JB Radio-2 - new experience of hq audio (FLAC)
