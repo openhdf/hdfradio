@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 14.11.2023 18:39 by Team www.hdfreaks.cc
+#DESCRIPTION Update 19.11.2023 08:50 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2364,7 +2364,7 @@
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION ⇒ Mixed Channels Miscellaneous
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radio-matchbox.de/listen/matchbox/radio.mp3
-#DESCRIPTION RadioMatchbox
+#DESCRIPTION Mixed Channels - RadioMatchbox
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server31053.streamplus.de/;stream.mp3
 #DESCRIPTION Mixed Channels - TechnikRADIO-24 Stunden am Tag!
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//webstream.galaxy-oberfranken.de/galaxy-oberfranken.mp3
@@ -2391,6 +2391,8 @@
 #DESCRIPTION Mixed Channels - The Wolf *Deutschlands Country Radio*
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-nflradio-mp3-192-6235135
 #DESCRIPTION Mixed Channels - RTL NFL Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ukwesta.streaming.broadcast.radio/heatmallorca?1700222273501=
+#DESCRIPTION Mixed Channels - Heat Mallorca
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION ⇒ Mixed Channels International
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-41.zeno.fm/tkyvagcm738uv
