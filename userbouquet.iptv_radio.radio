@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 19.11.2023 08:50 by Team www.hdfreaks.cc
+#DESCRIPTION Update 21.11.2023 17:50 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -8947,3 +8947,115 @@
 #DESCRIPTION RMNradio - Rockhaus Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//yesterdayfm.schlagerparadies.de/yesterdayfm
 #DESCRIPTION RMNradio - Yesterday.fm
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Radio 7
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-radio7dab-mp3-192-2906603:01-20-11-23-K.S
+#DESCRIPTION Radio 7 - DAB+ live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-2000erhits-mp3-192-2820445
+#DESCRIPTION Radio 7 - 2000er Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-2000errock-mp3-192-5069026
+#DESCRIPTION Radio 7 - 2000er Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-80erdance-mp3-192-3240131
+#DESCRIPTION Radio 7 - 80er Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-80erdeutsch-mp3-192-7898825
+#DESCRIPTION Radio 7 - 80er Deutsch
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-80erdinner-mp3-192-8185197
+#DESCRIPTION Radio 7 - 80er Dinner
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-80erhits-mp3-192-5676602
+#DESCRIPTION Radio 7 - 80er Hits 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-80erparty-mp3-192-7743259
+#DESCRIPTION Radio 7 - 80er Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-80errock-mp3-192-8620050
+#DESCRIPTION Radio 7 - 80er Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-80ersommer-mp3-192-8685858:10
+#DESCRIPTION Radio 7 - 80er Sommer
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-90erboygroups-mp3-192-6990922
+#DESCRIPTION Radio 7 - 90er Boygroups
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-90erdance-mp3-192-5853764
+#DESCRIPTION Radio 7 - 90er Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-90ereurodance-mp3-192-9924854
+#DESCRIPTION Radio 7 - 90er Eurodance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-90erhiphop-mp3-192-3308864
+#DESCRIPTION Radio 7 - 90er HipHop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-90errock-mp3-192-5697853
+#DESCRIPTION Radio 7 - 90er Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-90ersommer-mp3-192-1861464
+#DESCRIPTION Radio 7 - 90er Sommer
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-bestofrock-mp3-192-7063679
+#DESCRIPTION Radio 7 - Best of Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-classicrock-mp3-192-7415448
+#DESCRIPTION Radio 7 - Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-dancefestival-mp3-192-9445394
+#DESCRIPTION Radio 7 - Dance Festival
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-danceparty-mp3-192-7041831:20
+#DESCRIPTION Radio 7 - Dance Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-datenight-mp3-192-7204680
+#DESCRIPTION Radio 7 - Datenight
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-escparty-mp3-192-3260460
+#DESCRIPTION Radio 7 - ESC Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-fuessehoch-mp3-192-4971749
+#DESCRIPTION Radio 7 - Füße hoch
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-grillundchill-mp3-192-8381795
+#DESCRIPTION Radio 7 - Grill & Chill
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-gutelaune-mp3-192-3847369
+#DESCRIPTION Radio 7 - Gute Laune
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-hitsfuerkids-mp3-192-3353207
+#DESCRIPTION Radio 7 - Hits für Kids
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-kitahits-mp3-192-8578014
+#DESCRIPTION Radio 7 - Kita Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-konfettihits-mp3-192-5530227
+#DESCRIPTION Radio 7 - Konfetti Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-kuschelrock-mp3-192-8218710
+#DESCRIPTION Radio 7 - Kuschelrock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-lounge-mp3-192-6751202:30
+#DESCRIPTION Radio 7 - Lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-lovesongs-mp3-192-6244584
+#DESCRIPTION Radio 7 - Lovesongs
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-maedelsparty-mp3-192-2518942
+#DESCRIPTION Radio 7 - Mädelsparty
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-mallehits-mp3-192-1646708
+#DESCRIPTION Radio 7 - Malle Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-prideparty-mp3-192-4596294
+#DESCRIPTION Radio 7 - Pride Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-relaxeddinner-mp3-192-6977073
+#DESCRIPTION Radio 7 - Relaxed Dinner
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-rockparty-mp3-192-5076277
+#DESCRIPTION Radio 7 - Rock Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-singersongwriter-mp3-192-3972302
+#DESCRIPTION Radio 7 - Singer Songwriter
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-sommerparty-mp3-192-3794053
+#DESCRIPTION Radio 7 - Sommer Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-sonntagmorgen-mp3-192-5043807
+#DESCRIPTION Radio 7 - Sonntagmorgen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-strandbar-mp3-192-3089324:40
+#DESCRIPTION Radio 7 - Strandbar
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-top100black-mp3-192-6951876
+#DESCRIPTION Radio 7 - Top 100 Black
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-top100hiphop-mp3-192-5437316
+#DESCRIPTION Radio 7 - Top 100 HipHop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-top100rnb-mp3-192-9117688
+#DESCRIPTION Radio 7 - Top 100 RnB
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-top40-mp3-192-2582508
+#DESCRIPTION Radio 7 - Top 40
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-unplugged-mp3-192-7571958
+#DESCRIPTION Radio 7 - Unplugged
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-vatertaghits-mp3-192-4679373
+#DESCRIPTION Radio 7 - Vatertag Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-wiesnhits-mp3-192-6709333
+#DESCRIPTION Radio 7 - Wiesn Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-weihnachtshits-mp3-192-3074385
+#DESCRIPTION Radio 7 - Weihnachtshits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-kinderweihnacht-mp3-192-3841212
+#DESCRIPTION Radio 7 - Kinder Weihnacht
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-loungeweihnacht-mp3-192-3379693:50
+#DESCRIPTION Radio 7 - Lounge Weihnacht
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-yoga-mp3-192-7706572
+#DESCRIPTION Radio 7 - Yoga
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-radio7ulm-mp3-192-2930798
+#DESCRIPTION Radio 7 - Ulm
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-radio7aa-mp3-192-1769027
+#DESCRIPTION Radio 7 - Aalen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-radio7tut-mp3-192-3395456
+#DESCRIPTION Radio 7 - Tuttlingen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-radio7rv-mp3-192-7507425
+#DESCRIPTION Radio 7 - Ravensburg
