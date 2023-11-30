@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 21.11.2023 17:50 by Team www.hdfreaks.cc
+#DESCRIPTION Update 30.11.2023 18:00 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -395,6 +395,8 @@
 #DESCRIPTION Radio BOB! - Queen-Stream
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-bobbritpop-mp3-192-5617717
 #DESCRIPTION Radio BOB! - Britpop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-bobrollingstones-mp3-192-1803639
+#DESCRIPTION Radio Bob! - Rolling Stones
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Radio PSR
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/psr-live/mp3-192/mediaplayer:01KS180723
@@ -1737,6 +1739,8 @@
 #DESCRIPTION Radio Arabella DE - Oktoberfest
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge68.stream.radioarabella.de/radioarabella-weihnachten/stream/mp3
 #DESCRIPTION Radio Arabella DE - Christmas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.stream.radioarabella.de/radioarabella-modernrock/stream/mp3
+#DESCRIPTION Radio Arabella DE - Modern Rock
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Österreich
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radio2.stream24.net%3a9120/live.mp3
@@ -9059,3 +9063,53 @@
 #DESCRIPTION Radio 7 - Tuttlingen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-radio7rv-mp3-192-7507425
 #DESCRIPTION Radio 7 - Ravensburg
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Disco.Miami
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//broadcast.miami/proxy/thediscopalace?mp=/stream:01_KS_01122023
+#DESCRIPTION Disco.Miami - The Disco Palace
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//broadcast.miami/proxy/thediscoparadise?mp=/stream
+#DESCRIPTION Disco.Miami - The Disco Paradise
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//broadcast.miami/proxy/thediscopartymix?mp=/stream
+#DESCRIPTION Disco.Miami - The Disco Partymix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//broadcast.miami/proxy/thediscophilharmonic?mp=/stream
+#DESCRIPTION Disco.Miami - The Disco Philharmonic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//broadcast.miami/proxy/thediscoplanet?mp=/stream
+#DESCRIPTION Disco.Miami - The Disco Planet
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//broadcast.miami/proxy/atlantic?mp=/stream
+#DESCRIPTION Disco.Miami - Radio Atlantic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//broadcast.miami/proxy/bmg?mp=/stream
+#DESCRIPTION Disco.Miami - Radio BMG
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//broadcast.miami/proxy/casablanca?mp=/stream
+#DESCRIPTION Disco.Miami - Radio Casablanca
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//broadcast.miami/proxy/columbia?mp=/stream
+#DESCRIPTION Disco.Miami - Radio Columbia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//broadcast.miami/proxy/concord?mp=/stream:10
+#DESCRIPTION Disco.Miami - Radio Concord
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//broadcast.miami/proxy/epic?mp=/stream
+#DESCRIPTION Disco.Miami - Radio Epic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//broadcast.miami/proxy/indiedisco?mp=/stream
+#DESCRIPTION Disco.Miami - Radio Indie Disco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//broadcast.miami/proxy/italodisco?mp=/stream
+#DESCRIPTION Disco.Miami - Radio Italo Disco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//broadcast.miami/proxy/polydor?mp=/stream
+#DESCRIPTION Disco.Miami - Radio Polydor
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//broadcast.miami/proxy/prelude?mp=/stream
+#DESCRIPTION Disco.Miami - Radio Prelude
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//broadcast.miami/proxy/motown?mp=/stream
+#DESCRIPTION Disco.Miami - Radio Motown
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//broadcast.miami/proxy/rca?mp=/stream
+#DESCRIPTION Disco.Miami - Radio RCA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//broadcast.miami/proxy/salsoul?mp=/stream
+#DESCRIPTION Disco.Miami - Radio Salsoul
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//broadcast.miami/proxy/solar?mp=/stream
+#DESCRIPTION Disco.Miami - Radio Solar
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//broadcast.miami/proxy/tkdisco?mp=/stream:20
+#DESCRIPTION Disco.Miami - Radio T.K.Disco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//broadcast.miami/proxy/tsop?mp=/stream
+#DESCRIPTION Disco.Miami - Radio TSOP
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//broadcast.miami/proxy/unidisco?mp=/stream
+#DESCRIPTION Disco.Miami - Radio Unidisco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//broadcast.miami/proxy/warnerbros?mp=/stream
+#DESCRIPTION Disco.Miami - Radio Warner Bros
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//broadcast.miami/proxy/westend?mp=/stream
+#DESCRIPTION Disco.Miami - Radio Westend
