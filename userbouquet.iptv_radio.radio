@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 30.11.2023 20:22 by Team www.hdfreaks.cc
+#DESCRIPTION Update 11.12.2023 17:08 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -7799,206 +7799,148 @@
 #DESCRIPTION Radio Comercial - 128 kbit/s
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Italien
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//uk2.streamingpulse.com%3a8010/stream/1/
-#DESCRIPTION VCR | Venice Classic Radio Auditorium - 128 kbit/s
-#SERVICE 4097:0:1:5:0:0:0:0:0:0:http%3a//54.37.84.199%3a8002/stream/1/
-#DESCRIPTION Radio Maria Italia - 128 kbit/s
-#SERVICE 4097:0:1:7:0:0:0:0:0:0:http%3a//live.radioradicale.it%3a80/live.mp3
-#DESCRIPTION Radio Radicale - 64 kbit/s
-#SERVICE 4097:0:1:9:0:0:0:0:0:0:http%3a//stream15.top-ix.org%3a80/radiomanila
-#DESCRIPTION Radio Manila - www.radiomanila.it - sms in diretta: 3385038908 - 128 kbit/s
-#SERVICE 4097:0:1:11:0:0:0:0:0:0:http%3a//46.105.114.57%3a8001/stream2
-#DESCRIPTION RADIO CUORE - 128 kbit/s
-#SERVICE 4097:0:1:13:0:0:0:0:0:0:http%3a//94.23.66.114%3a8108/stream/1/
-#DESCRIPTION Radio Puglia - 128 kbit/s
-#SERVICE 4097:0:1:15:0:0:0:0:0:0:http%3a//stream2.vivafm.it%3a8002/stream/1/
-#DESCRIPTION Radio VivaFm - 128 kbit/s
-#SERVICE 4097:0:1:17:0:0:0:0:0:0:http%3a//46.105.114.57%3a8006/stream2
-#DESCRIPTION FANTASTICA - 128 kbit/s
-#SERVICE 4097:0:1:19:0:0:0:0:0:0:http%3a//web.bolognauno.it%3a9944/stream/1/
-#DESCRIPTION NettunoBolognaUno - 128 kbit/s
-#SERVICE 4097:0:1:21:0:0:0:0:0:0:http%3a//174.36.206.197%3a8000/stream/1/
-#DESCRIPTION Venice Classic Radio Italia * Beautiful Classical Music * - 128 kbit/s
-#SERVICE 4097:0:1:23:0:0:0:0:0:0:http%3a//212.45.98.246%3a8000
-#DESCRIPTION radio24 - 64 kbit/s
-#SERVICE 4097:0:1:25:0:0:0:0:0:0:http%3a//www.studiopiu.net%3a8010
-#DESCRIPTION Radio Studio Piu - The Dance Station - Italy - 128 kbit/s
-#SERVICE 4097:0:1:27:0:0:0:0:0:0:http%3a//91.121.118.99%3a8104/stream/1/
-#DESCRIPTION Radio Sabbia - 128 kbit/s
-#SERVICE 4097:0:1:29:0:0:0:0:0:0:http%3a//nr6.newradio.it%3a9182/stream/1/
-#DESCRIPTION RADIO MI PIACI - 128 kbit/s
-#SERVICE 4097:0:1:31:0:0:0:0:0:0:http%3a//94.23.66.114%3a8013/stream/1/
-#DESCRIPTION Radio Selene - 128 kbit/s
-#SERVICE 4097:0:1:33:0:0:0:0:0:0:http%3a//stream15.top-ix.org%3a80/radiotorinointernational
-#DESCRIPTION MB STUDIO - 128 kbit/s
-#SERVICE 4097:0:1:35:0:0:0:0:0:0:http%3a//116.202.241.212%3a7015/stream/1/
-#DESCRIPTION Venice Classic Radio Italia * Beautiful Classical Music * Auditorium - 128 kbit/s
-#SERVICE 4097:0:1:37:0:0:0:0:0:0:http%3a//nr9.newradio.it%3a9581/stream/1/
-#DESCRIPTION RADIO VALLEBELBO - 128 kbit/s
-#SERVICE 4097:0:1:39:0:0:0:0:0:0:http%3a//jenny.torontocast.com%3a8012/stream/1/
-#DESCRIPTION DIMENSIONE RELAX - 128 kbit/s
-#SERVICE 4097:0:1:41:0:0:0:0:0:0:http%3a//wma06.fluidstream.net%3a3614
-#DESCRIPTION Radio Kiss Kiss talia - 128 kbit/s
-#SERVICE 4097:0:1:43:0:0:0:0:0:0:http%3a//www.studiopiu.net%3a8005
-#DESCRIPTION Radio 60 70 80 - Italy - Italia - www.607080.it - 128 kbit/s
-#SERVICE 4097:0:1:45:0:0:0:0:0:0:http%3a//91.121.118.99%3a8032/stream/1/
-#DESCRIPTION Italia Dance Music - 128 kbit/s
-#SERVICE 4097:0:1:47:0:0:0:0:0:0:http%3a//5.39.82.157%3a8054/stream/1/
-#DESCRIPTION Radio Play Emotions - Music for work and relax - 128 kbit/s
-#SERVICE 4097:0:1:49:0:0:0:0:0:0:http%3a//91.121.118.99%3a8032/stream/2/
-#DESCRIPTION Italia Dance Music Radio - 192 kbit/s
-#SERVICE 4097:0:1:51:0:0:0:0:0:0:http%3a//streaming.controradiolive.info%3a8190/stream/1/
-#DESCRIPTION Controradio Firenze - 96 kbit/s
-#SERVICE 4097:0:1:53:0:0:0:0:0:0:http%3a//178.32.140.82%3a9043/stream/1/
-#DESCRIPTION LAZIO STYLE RADIO - 192 kbit/s
-#SERVICE 4097:0:1:55:0:0:0:0:0:0:http%3a//livex.radiopopolare.it/radiopop2
-#DESCRIPTION Radio Popolare Milano - 192 kbit/s
-#SERVICE 4097:0:1:57:0:0:0:0:0:0:http%3a//185.124.45.13%3a8000/stream/1/
-#DESCRIPTION Radio Digife - 128 kbit/s
-#SERVICE 4097:0:1:59:0:0:0:0:0:0:http%3a//listen.radionomy.com/radiomessaggioevangelico
-#DESCRIPTION RadioMessaggioEvangelico - 128 kbit/s
-#SERVICE 4097:0:1:61:0:0:0:0:0:0:http%3a//hazel.torontocast.com%3a2070/stream/1/
-#DESCRIPTION Ciao Italia Radio - Italian Classic Songs 60 Anni di Musica Italiana - Italy - 128 kbit/s
-#SERVICE 4097:0:1:63:0:0:0:0:0:0:http%3a//dreamsiteradiocp2.com%3a8086/stream/1/
-#DESCRIPTION RADIO MARIA EL SALVADOR - 32 kbit/s
-#SERVICE 4097:0:1:65:0:0:0:0:0:0:http%3a//46.105.114.57%3a8005/stream2
-#DESCRIPTION Unspecified name - 128 kbit/s
-#SERVICE 4097:0:1:67:0:0:0:0:0:0:http%3a//server.bellaradio.it%3a8090/bellaradio.mp3
-#DESCRIPTION Bella Radio - 192 kbit/s
-#SERVICE 4097:0:1:69:0:0:0:0:0:0:http%3a//stream.laut.fm/pure-stuff-reggae-station
-#DESCRIPTION Pure Stuff Reggae Station - 128 kbit/s
-#SERVICE 4097:0:1:71:0:0:0:0:0:0:http%3a//94.23.66.155%3a9200/stream/1/
-#DESCRIPTION FreeTime Radio - Musica Italiana Pop Top 100 - Best Italian Songs - Music from Italy Milano - 128 kbit/s
-#SERVICE 4097:0:1:73:0:0:0:0:0:0:https%3a//hits.lolliradio.net
-#DESCRIPTION LOLLIRADIO HITS - Top Hits - Italy Italia - 128 kbit/s
-#SERVICE 4097:0:1:75:0:0:0:0:0:0:http%3a//cmr-hosting.com%3a8010/stream/1/
-#DESCRIPTION Club Music Radio - FOLK - 320 kbit/s
-#SERVICE 4097:0:1:77:0:0:0:0:0:0:http%3a//stream5.top-ix.org%3a8000/radiojukebox
-#DESCRIPTION RADIO JUKE BOX TORINO - 256 kbit/s
-#SERVICE 4097:0:1:79:0:0:0:0:0:0:http%3a//onair11.xdevel.com%3a8064
-#DESCRIPTION Radio Pico - 256 kbit/s
-#SERVICE 4097:0:1:81:0:0:0:0:0:0:http%3a//sr7.inmystream.it%3a8153/
-#DESCRIPTION RADIO INCONTRO OLYMPIA - 256 kbit/s
-#SERVICE 4097:0:1:83:0:0:0:0:0:0:http%3a//audio1.meway.tv%3a8016/stream/1/
-#DESCRIPTION Radio NBC Rete Regione - 128 kbit/s
-#SERVICE 4097:0:1:85:0:0:0:0:0:0:http%3a//str04.fluidstream.net/rn1.mp3
-#DESCRIPTION Radio Number One - 256 kbit/s
-#SERVICE 4097:0:1:87:0:0:0:0:0:0:http%3a//ice07.fluidstream.net%3a80/lovefm.mp3
-#DESCRIPTION Love FM - 256 kbit/s
-#SERVICE 4097:0:1:89:0:0:0:0:0:0:http%3a//62.196.165.48%3a8048/stream/1/
-#DESCRIPTION Radio Cortina - 128 kbit/s
-#SERVICE 4097:0:1:91:0:0:0:0:0:0:http%3a//63.141.244.222%3a5466/stream/1/
-#DESCRIPTION RADIO PIPER  88.8 FM 93.8 - 128 kbit/s
-#SERVICE 4097:0:1:93:0:0:0:0:0:0:http%3a//stream15.top-ix.org%3a80/partygroove
-#DESCRIPTION (MB STUDIO) - 192 kbit/s
-#SERVICE 4097:0:1:95:0:0:0:0:0:0:http%3a//stream.wifi4all.it%3a8000/italianissima
-#DESCRIPTION ITALIANISSIMA RADIO - 128 kbit/s
-#SERVICE 4097:0:1:97:0:0:0:0:0:0:http%3a//37.187.79.93%3a8634/stream/1/
-#DESCRIPTION ItaliaFm1 - 128 kbit/s
-#SERVICE 4097:0:1:99:0:0:0:0:0:0:http%3a//nr11.newradio.it%3a8116/stream/1/
-#DESCRIPTION RADIO POPIZZ  (Pop-Hits) - 128 kbit/s
-#SERVICE 4097:0:1:101:0:0:0:0:0:0:http%3a//streaming.radiodancefloor.it%3a443/stream/1/
-#DESCRIPTION Radio Dancefloor - 90s - 96 kbit/s
-#SERVICE 4097:0:1:103:0:0:0:0:0:0:http%3a//stream2.vivafm.it%3a8000/stream/1/
-#DESCRIPTION Radio Sempreviva - 192 kbit/s
-#SERVICE 4097:0:1:105:0:0:0:0:0:0:http%3a//178.32.136.160%3a8104/stream
-#DESCRIPTION Elle Radio - 128 kbit/s
-#SERVICE 4097:0:1:107:0:0:0:0:0:0:http%3a//cmr-hosting.com%3a8070/stream/1/
-#DESCRIPTION Club Music Radio - TAMBURA - 320 kbit/s
-#SERVICE 4097:0:1:109:0:0:0:0:0:0:http%3a//95.154.219.99%3a7100/stream/1/
-#DESCRIPTION Radio Punto Zero - Canta che ti passa - 128 kbit/s
-#SERVICE 4097:0:1:111:0:0:0:0:0:0:http%3a//94.23.67.172%3a9158/stream/1/
-#DESCRIPTION La Voce Della Tua Citt - 128 kbit/s
-#SERVICE 4097:0:1:113:0:0:0:0:0:0:https%3a//dance.lolliradio.net
-#DESCRIPTION LOLLIRADIO DANCE - Dance House Hits - Italy Italia - 128 kbit/s
-#SERVICE 4097:0:1:115:0:0:0:0:0:0:http%3a//onair15.xdevel.com%3a9082
-#DESCRIPTION Radio Reggio - 128 kbit/s
+#SERVICE 4097:0:1:161:0:0:0:0:0:0:http%3a//eu9.fastcast4u.com%3a5068/1
+#DESCRIPTION 70s 80s Music Fashion
 #SERVICE 4097:0:1:117:0:0:0:0:0:0:http%3a//stream.laut.fm/80er-zone
-#DESCRIPTION 80er Zone - 128 kbit/s
+#DESCRIPTION 80er Zone
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//f027b3b473cf4361.msvdn.net/icecastRelay/S18953915/icecast
+#DESCRIPTION Ascolta Radio Classica
+#SERVICE 4097:0:1:67:0:0:0:0:0:0:http%3a//server.bellaradio.it%3a8090/bellaradio.mp3
+#DESCRIPTION Bella Radio
+#SERVICE 4097:0:1:51:0:0:0:0:0:0:http%3a//streaming.controradiolive.info%3a8190/stream/1/
+#DESCRIPTION Controradio Firenze
+#SERVICE 4097:0:1:153:0:0:0:0:0:0:http%3a//shoutcast.countrypowerstation.net%3a8000/stream/1/
+#DESCRIPTION Country Power Station ITALIA
+#SERVICE 4097:0:1:39:0:0:0:0:0:0:http%3a//jenny.torontocast.com%3a8012/stream/1/
+#DESCRIPTION Dimensione Relax
+#SERVICE 4097:0:1:131:0:0:0:0:0:0:http%3a//78.129.226.12%3a8700
+#DESCRIPTION FM Italia
+#SERVICE 4097:0:1:71:0:0:0:0:0:0:http%3a//94.23.66.155%3a9200/stream/1/
+#DESCRIPTION FreeTime Radio
+#SERVICE 4097:0:1:197:0:0:0:0:0:0:http%3a//s19.myradiostream.com%3a4744/stream/1/
+#DESCRIPTION Funky Corner Radio
 #SERVICE 4097:0:1:119:0:0:0:0:0:0:http%3a//listen.radionomy.com%3a80/GroovecafeAperitif
-#DESCRIPTION GroovecafeAperitif - 128 kbit/s
-#SERVICE 4097:0:1:121:0:0:0:0:0:0:http%3a//5.135.158.214%3a4720/stream/1/
-#DESCRIPTION %item0% - 128 kbit/s
-#SERVICE 4097:0:1:123:0:0:0:0:0:0:http%3a//stream.radioholiday.it%3a8000/128
-#DESCRIPTION Radio Holiday - Suedtirol - 192 kbit/s
+#DESCRIPTION Groovecafe Aperitif
+#SERVICE 4097:0:1:95:0:0:0:0:0:0:http%3a//stream.wifi4all.it%3a8000/italianissima
+#DESCRIPTION ITALIANISSIMA RADIO
+#SERVICE 4097:0:1:49:0:0:0:0:0:0:http%3a//91.121.118.99%3a8032/stream/2/
+#DESCRIPTION Italia Dance Music Radio
+#SERVICE 4097:0:1:111:0:0:0:0:0:0:http%3a//94.23.67.172%3a9158/stream/1/
+#DESCRIPTION La Voce Della Tua Citt
+#SERVICE 4097:0:1:201:0:0:0:0:0:0:http%3a//dance.lolliradio.net%3a8030
+#DESCRIPTION LOLLIRADIO DANCE - Dance - House Hits - Italy
+#SERVICE 4097:0:1:73:0:0:0:0:0:0:https%3a//hits.lolliradio.net
+#DESCRIPTION LOLLIRADIO HITS - Top Hits - Italy
+#SERVICE 4097:0:1:165:0:0:0:0:0:0:https%3a//italia.lolliradio.net
+#DESCRIPTION LOLLIRADIO ITALIA - Solo Canzoni Italiane - Italy
+#SERVICE 4097:0:1:87:0:0:0:0:0:0:http%3a//ice07.fluidstream.net%3a80/lovefm.mp3
+#DESCRIPTION Love FM
+#SERVICE 4097:0:1:151:0:0:0:0:0:0:http%3a//s3.mediastreaming.it%3a7140/
+#DESCRIPTION MB Studio
+#SERVICE 4097:0:1:33:0:0:0:0:0:0:http%3a//stream15.top-ix.org%3a80/radiotorinointernational
+#DESCRIPTION MB STUDIO
+#SERVICE 4097:0:1:93:0:0:0:0:0:0:http%3a//stream15.top-ix.org%3a80/partygroove
+#DESCRIPTION MB STUDIO partygroove
+#SERVICE 4097:0:1:139:0:0:0:0:0:0:http%3a//212.7.194.63%3a9094/stream/1/
+#DESCRIPTION Multiradio
+#SERVICE 4097:0:1:19:0:0:0:0:0:0:http%3a//web.bolognauno.it%3a9944/stream/1/
+#DESCRIPTION Nettuno Bologna Uno
+#SERVICE 4097:0:1:69:0:0:0:0:0:0:http%3a//stream.laut.fm/pure-stuff-reggae-station
+#DESCRIPTION Pure Stuff Reggae Station
+#SERVICE 4097:0:1:169:0:0:0:0:0:0:http%3a//159.69.217.78%3a8000
+#DESCRIPTION Radio 2000 Radio 2000
+#SERVICE 4097:0:1:43:0:0:0:0:0:0:http%3a//www.studiopiu.net%3a8005
+#DESCRIPTION Radio 60 70 80 - Italy
+#SERVICE 4097:0:1:187:0:0:0:0:0:0:http%3a//onair20.xdevel.com%3a8204
+#DESCRIPTION Radio Amore Campania
+#SERVICE 4097:0:1:173:0:0:0:0:0:0:http%3a//server.bellaradio.it%3a8090/a1.mp3
+#DESCRIPTION Radio Antenna Uno
+#SERVICE 4097:0:1:195:0:0:0:0:0:0:http%3a//88.150.144.252%3a8240
+#DESCRIPTION Radio Belllae Monella
+#SERVICE 4097:0:1:163:0:0:0:0:0:0:http%3a//88.150.144.252%3a8220
+#DESCRIPTION Radio Birikina
+#SERVICE 4097:0:1:157:0:0:0:0:0:0:http%3a//178.32.137.180%3a8533/stream/1/
+#DESCRIPTION Radio Canelli
+#SERVICE 4097:0:1:89:0:0:0:0:0:0:http%3a//62.196.165.48%3a8048/stream/1/
+#DESCRIPTION Radio Cortina
 #SERVICE 4097:0:1:125:0:0:0:0:0:0:http%3a//streaming.radiodancefloor.it%3a80/dancefloor.mp3
 #DESCRIPTION Radio Dancefloor - 90s - 96 kbit/s
-#SERVICE 4097:0:1:127:0:0:0:0:0:0:http%3a//cmr-hosting.com%3a8020/stream/1/
-#DESCRIPTION Club Music Radio - POP - DANCE - 320 kbit/s
-#SERVICE 4097:0:1:129:0:0:0:0:0:0:http%3a//onair11.xdevel.com%3a8092
-#DESCRIPTION Radio Marte - 128 kbit/s
-#SERVICE 4097:0:1:131:0:0:0:0:0:0:http%3a//78.129.226.12%3a8700
-#DESCRIPTION FM ITALIA - 192 kbit/s
-#SERVICE 4097:0:1:133:0:0:0:0:0:0:https%3a//www.shoutcastitalia.com/proxy/fusion
-#DESCRIPTION Radio Fusion Italia - 128 kbit/s
-#SERVICE 4097:0:1:135:0:0:0:0:0:0:http%3a//stream15.top-ix.org%3a80/radiotorino
-#DESCRIPTION Radio Torino - http://www.radiotorinofm.it - 128 kbit/s
-#SERVICE 4097:0:1:137:0:0:0:0:0:0:http%3a//cmr-hosting.com%3a8040/stream/1/
-#DESCRIPTION Club Music Radio - LOVE SONG - 320 kbit/s
-#SERVICE 4097:0:1:139:0:0:0:0:0:0:http%3a//212.7.194.63%3a9094/stream/1/
-#DESCRIPTION Multiradio - 64 kbit/s
-#SERVICE 4097:0:1:141:0:0:0:0:0:0:http%3a//onair15.xdevel.com%3a8062
-#DESCRIPTION Radio Punto Nuovo - 128 kbit/s
-#SERVICE 4097:0:1:143:0:0:0:0:0:0:http%3a//176.31.244.83%3a5824/stream/1/
-#DESCRIPTION Radio Energy Italia Web - 128 kbit/s
-#SERVICE 4097:0:1:145:0:0:0:0:0:0:http%3a//onair20.xdevel.com%3a8018
-#DESCRIPTION Radio Margherita Giovane - 128 kbit/s
-#SERVICE 4097:0:1:147:0:0:0:0:0:0:http%3a//91.121.38.216%3a8016/stream/1/
-#DESCRIPTION Radio Mela - 128 kbit/s
-#SERVICE 4097:0:1:149:0:0:0:0:0:0:https%3a//radioyachtcapri.newradio.it/1
-#DESCRIPTION Radio Yacht Capri - 192 kbit/s
-#SERVICE 4097:0:1:151:0:0:0:0:0:0:http%3a//s3.mediastreaming.it%3a7140/
-#DESCRIPTION C:\MBStudio\OnAir.txt - 192 kbit/s
-#SERVICE 4097:0:1:153:0:0:0:0:0:0:http%3a//shoutcast.countrypowerstation.net%3a8000/stream/1/
-#DESCRIPTION Country Power Station ITALIA - 128 kbit/s
-#SERVICE 4097:0:1:155:0:0:0:0:0:0:http%3a//nr9.newradio.it%3a9630/stream/1/
-#DESCRIPTION RADIO STUDIO DANCE ROMA - 128 kbit/s
-#SERVICE 4097:0:1:157:0:0:0:0:0:0:http%3a//178.32.137.180%3a8533/stream/1/
-#DESCRIPTION RADIO CANELLI - 48 kbit/s
-#SERVICE 4097:0:1:159:0:0:0:0:0:0:http%3a//eu1.fastcast4u.com%3a10942
-#DESCRIPTION Radio Nuova San Giorgio - 128 kbit/s
-#SERVICE 4097:0:1:161:0:0:0:0:0:0:http%3a//eu9.fastcast4u.com%3a5068/1
-#DESCRIPTION 70s 80s Music Fashion - 96 kbit/s
-#SERVICE 4097:0:1:163:0:0:0:0:0:0:http%3a//88.150.144.252%3a8220
-#DESCRIPTION Radio Birikina - 96 kbit/s
-#SERVICE 4097:0:1:165:0:0:0:0:0:0:https%3a//italia.lolliradio.net
-#DESCRIPTION LOLLIRADIO ITALIA - Solo Canzoni Italiane - Italy Italia - 128 kbit/s
-#SERVICE 4097:0:1:167:0:0:0:0:0:0:http%3a//46.252.154.133%3a8080/stream/1/
-#DESCRIPTION Radio 2.0 - Valli di Bergamo - 192 kbit/s
-#SERVICE 4097:0:1:169:0:0:0:0:0:0:http%3a//159.69.217.78%3a8000
-#DESCRIPTION Radio 2000 Radio 2000 - 128 kbit/s
-#SERVICE 4097:0:1:171:0:0:0:0:0:0:http%3a//212.7.194.63%3a9064/stream/1/
-#DESCRIPTION RADIO ONDA LIBERA - 96 kbit/s
-#SERVICE 4097:0:1:173:0:0:0:0:0:0:http%3a//server.bellaradio.it%3a8090/a1.mp3
-#DESCRIPTION Radio Antenna Uno - 192 kbit/s
+#SERVICE 4097:0:1:101:0:0:0:0:0:0:http%3a//streaming.radiodancefloor.it%3a443/stream/1/
+#DESCRIPTION Radio Dancefloor - 90s
+#SERVICE 4097:0:1:57:0:0:0:0:0:0:http%3a//185.124.45.13%3a8000/stream/1/
+#DESCRIPTION Radio Digife
 #SERVICE 4097:0:1:175:0:0:0:0:0:0:http%3a//onair15.xdevel.com%3a8088/stream/1/
-#DESCRIPTION Radio Evangelo Italia - 128 kbit/s
-#SERVICE 4097:0:1:177:0:0:0:0:0:0:http%3a//213.136.90.169%3a8045/stream/1/
-#DESCRIPTION www.radiomondo.it - 128 kbit/s
-#SERVICE 4097:0:1:179:0:0:0:0:0:0:http%3a//server1.visiotec.it%3a8110/stream/1/
-#DESCRIPTION EASY ITALY - 192 kbit/s
+#DESCRIPTION Radio Evangelo Italia
+#SERVICE 4097:0:1:143:0:0:0:0:0:0:http%3a//176.31.244.83%3a5824/stream/1/
+#DESCRIPTION Radio Energy Italia Web
+#SERVICE 4097:0:1:133:0:0:0:0:0:0:https%3a//www.shoutcastitalia.com/proxy/fusion
+#DESCRIPTION Radio Fusion Italia
+#SERVICE 4097:0:1:123:0:0:0:0:0:0:http%3a//stream.radioholiday.it%3a8000/128
+#DESCRIPTION Radio Holiday - Suedtirol
+#SERVICE 4097:0:1:77:0:0:0:0:0:0:http%3a//stream5.top-ix.org%3a8000/radiojukebox
+#DESCRIPTION Radio Juke Box Torino
+#SERVICE 4097:0:1:41:0:0:0:0:0:0:http%3a//wma06.fluidstream.net%3a3614
+#DESCRIPTION Radio Kiss Kiss Italia
+#SERVICE 4097:0:1:145:0:0:0:0:0:0:http%3a//onair20.xdevel.com%3a8018
+#DESCRIPTION Radio Margherita Giovane
 #SERVICE 4097:0:1:181:0:0:0:0:0:0:http%3a//94.177.187.252%3a8000/stream/2/
-#DESCRIPTION Radio Magic 2 paternopoli - 128 kbit/s
-#SERVICE 4097:0:1:183:0:0:0:0:0:0:http%3a//94.23.66.114%3a8030/stream/1/
-#DESCRIPTION Radio Gamma Stereo - 192 kbit/s
-#SERVICE 4097:0:1:185:0:0:0:0:0:0:http%3a//stream2.vivafm.it%3a8002/stream
-#DESCRIPTION VIVAFM - 128 kbit/s
-#SERVICE 4097:0:1:187:0:0:0:0:0:0:http%3a//onair20.xdevel.com%3a8204
-#DESCRIPTION Radio Amore Campania - 128 kbit/s
-#SERVICE 4097:0:1:189:0:0:0:0:0:0:http%3a//cmr-hosting.com%3a8030/stream/1/
-#DESCRIPTION Club Music Radio - 70s 80s 90s - 320 kbit/s
-#SERVICE 4097:0:1:191:0:0:0:0:0:0:http%3a//198.178.123.8%3a7710/
-#DESCRIPTION Pinoy Heart Radio - 96 kbit/s
-#SERVICE 4097:0:1:193:0:0:0:0:0:0:http%3a//onair15.xdevel.com%3a8068
-#DESCRIPTION Radio Toscana - 128 kbit/s
-#SERVICE 4097:0:1:195:0:0:0:0:0:0:http%3a//88.150.144.252%3a8240
-#DESCRIPTION Radio BelllaeMonella - 64 kbit/s
-#SERVICE 4097:0:1:197:0:0:0:0:0:0:http%3a//s19.myradiostream.com%3a4744/stream/1/
-#DESCRIPTION Funky Corner Radio - 192 kbit/s
-#SERVICE 4097:0:1:199:0:0:0:0:0:0:http%3a//46.105.114.57%3a8009/stream2
-#DESCRIPTION RDIO BLU - 128 kbit/s
-#SERVICE 4097:0:1:201:0:0:0:0:0:0:http%3a//dance.lolliradio.net%3a8030
-#DESCRIPTION LOLLIRADIO DANCE - Dance - House Hits - Italy Italia - 128 kbit/s
+#DESCRIPTION Radio Magic 2 paternopoli
+#SERVICE 4097:0:1:9:0:0:0:0:0:0:http%3a//stream15.top-ix.org%3a80/radiomanila
+#DESCRIPTION Radio Manila
+#SERVICE 4097:0:1:5:0:0:0:0:0:0:http%3a//54.37.84.199%3a8002/stream/1/
+#DESCRIPTION Radio Maria Italia
+#SERVICE 4097:0:1:129:0:0:0:0:0:0:http%3a//onair11.xdevel.com%3a8092
+#DESCRIPTION Radio Marte
+#SERVICE 4097:0:1:147:0:0:0:0:0:0:http%3a//91.121.38.216%3a8016/stream/1/
+#DESCRIPTION Radio Mela
+#SERVICE 4097:0:1:29:0:0:0:0:0:0:http%3a//nr6.newradio.it%3a9182/stream/1/
+#DESCRIPTION Radio Mi Piaci
+#SERVICE 4097:0:1:83:0:0:0:0:0:0:http%3a//audio1.meway.tv%3a8016/stream/1/
+#DESCRIPTION Radio NBC Rete Regione
+#SERVICE 4097:0:1:85:0:0:0:0:0:0:http%3a//str04.fluidstream.net/rn1.mp3
+#DESCRIPTION Radio Number One
+#SERVICE 4097:0:1:159:0:0:0:0:0:0:http%3a//eu1.fastcast4u.com%3a10942
+#DESCRIPTION Radio Nuova San Giorgio
+#SERVICE 4097:0:1:171:0:0:0:0:0:0:http%3a//212.7.194.63%3a9064/stream/1/
+#DESCRIPTION Radio Onda Liberia
+#SERVICE 4097:0:1:79:0:0:0:0:0:0:http%3a//onair11.xdevel.com%3a8064
+#DESCRIPTION Radio Pico
+#SERVICE 4097:0:1:91:0:0:0:0:0:0:http%3a//63.141.244.222%3a5466/stream/1/
+#DESCRIPTION Radio Piper 88.8 FM 93.8
+#SERVICE 4097:0:1:47:0:0:0:0:0:0:http%3a//5.39.82.157%3a8054/stream/1/
+#DESCRIPTION Radio Play Emotions - Music for work and relax
+#SERVICE 4097:0:1:55:0:0:0:0:0:0:http%3a//livex.radiopopolare.it/radiopop2
+#DESCRIPTION Radio Popolare Milano
+#SERVICE 4097:0:1:99:0:0:0:0:0:0:http%3a//nr11.newradio.it%3a8116/stream/1/
+#DESCRIPTION Radio Popizz  (Pop-Hits)
+#SERVICE 4097:0:1:141:0:0:0:0:0:0:http%3a//onair15.xdevel.com%3a8062
+#DESCRIPTION Radio Punto Nuovo
+#SERVICE 4097:0:1:109:0:0:0:0:0:0:http%3a//95.154.219.99%3a7100/stream/1/
+#DESCRIPTION Radio Punto Zero - Canta che ti passa
+#SERVICE 4097:0:1:7:0:0:0:0:0:0:http%3a//live.radioradicale.it%3a80/live.mp3
+#DESCRIPTION Radio Radicale
+#SERVICE 4097:0:1:115:0:0:0:0:0:0:http%3a//onair15.xdevel.com%3a9082
+#DESCRIPTION Radio Reggio
+#SERVICE 4097:0:1:27:0:0:0:0:0:0:http%3a//91.121.118.99%3a8104/stream/1/
+#DESCRIPTION Radio Sabbia
+#SERVICE 4097:0:1:103:0:0:0:0:0:0:http%3a//stream2.vivafm.it%3a8000/stream/1/
+#DESCRIPTION Radio Sempreviva
+#SERVICE 4097:0:1:25:0:0:0:0:0:0:http%3a//www.studiopiu.net%3a8010
+#DESCRIPTION Radio Studio Piu - The Dance Station - Italy
+#SERVICE 4097:0:1:155:0:0:0:0:0:0:http%3a//nr9.newradio.it%3a9630/stream/1/
+#DESCRIPTION Radio Studio Dance Roma
+#SERVICE 4097:0:1:135:0:0:0:0:0:0:http%3a//stream15.top-ix.org%3a80/radiotorino
+#DESCRIPTION Radio Torino
+#SERVICE 4097:0:1:37:0:0:0:0:0:0:http%3a//nr9.newradio.it%3a9581/stream/1/
+#DESCRIPTION Radio Vallebelbo
+#SERVICE 4097:0:1:15:0:0:0:0:0:0:http%3a//stream2.vivafm.it%3a8002/stream/1/
+#DESCRIPTION Radio Viva Fm
+#SERVICE 4097:0:1:149:0:0:0:0:0:0:https%3a//radioyachtcapri.newradio.it/1
+#DESCRIPTION Radio Yacht Capri
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//uk2.streamingpulse.com/ssl/vcr1
+#DESCRIPTION Venice Classic Radio - Auditorium
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//uk2.streamingpulse.com/ssl/vcr2
+#DESCRIPTION Venice Classic Radio - Live
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Griechenland
 #SERVICE 4097:0:1:47:0:0:0:0:0:0:http%3a//streamer2.rightclickitservices.com%3a1128/stream/1/
