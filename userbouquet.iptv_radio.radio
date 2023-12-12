@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 11.12.2023 17:08 by Team www.hdfreaks.cc
+#DESCRIPTION Update 12.12.2023 18:50 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2261,67 +2261,65 @@
 #DESCRIPTION samo fm - Live
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION FluxFM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.fluxfm.de/live/aac-64/streams.fluxfm.de/
-#DESCRIPTION FluxFM - FluxFM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-fluxfmhamburg-mp3-320-9573500
-#DESCRIPTION FluxFM - FluxFM Hamburg
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/a777b93d-e60c-47f9-be28-1233e6c9802d/stream.aac
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-fluxfmberlin-aacplus-64-6698635:001KS-13-12-23
+#DESCRIPTION FluxFM - Livestream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-event04-aacplus-64-2169889
+#DESCRIPTION FluxFM - SantaFlux
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-fluxkompensator-aacplus-64-6283953
 #DESCRIPTION FluxFM - FluxKompensator
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/fbdecd47-30d2-41ca-b76e-008beefe3bb7/stream.aac
-#DESCRIPTION FluxFM - FluxLounge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.fluxfm.de/clubsandwich/aac-64/streams.fluxfm.de/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-fluxlounge-aacplus-64-3246257
+#DESCRIPTION FluxFM - Fluxlounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-clubsandwich-aacplus-64-7964468
 #DESCRIPTION FluxFM - Clubsandwich
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.fluxfm.de/event04/aac-64/streams.fluxfm.de/
-#DESCRIPTION FluxFM - FluxFM Bergfest
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.fluxfm.de/Chillhop/aac-64/streams.fluxfm.de/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-chillhop-aacplus-64-8724785:06
 #DESCRIPTION FluxFM - ChillHop
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.fluxfm.de/60er/aac-64/streams.fluxfm.de/
-#DESCRIPTION FluxFM - 60s
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/1f213c96-045b-4cd0-98c5-8717a16ddbae/stream.aac
-#DESCRIPTION FluxFM - 70s
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/3d8e34e8-3a23-451b-a5ff-60d59a3e768d/stream.aac
-#DESCRIPTION FluxFM - 80s
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/7ee29cf1-7561-4ba6-9c9b-cc4faebbaf28/stream.aac
-#DESCRIPTION FluxFM - 90s
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-flxixyvc7dcrphuais-mp3-320-6696362
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-80er-aacplus-64-7776977
+#DESCRIPTION FluxFM - 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/7ee29cf1-7561-4ba6-9c9b-cc4faebbaf28/stream.aac
+#DESCRIPTION FluxFM - 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-2000er-aacplus-64-1171514
 #DESCRIPTION FluxFM - 2000er
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.fluxfm.de/chillout/aac-64/streams.fluxfm.de/
-#DESCRIPTION FluxFM - Chillout Radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-melides-mp3-320-9184144
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fluxfm.streamabc.net/flx-70er-aacplus-64-5805170
+#DESCRIPTION FluxFM - 70er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-60er-aacplus-64-6473468
+#DESCRIPTION FluxFM - 60er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-chillout-aacplus-64-5024703:012
+#DESCRIPTION FluxFM - Chillout
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-melides-aacplus-64-8367889
 #DESCRIPTION FluxFM - Melides Art Radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.fluxfm.de/yogasounds/aac-64/streams.fluxfm.de/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-yogasounds-aacplus-64-6792162
 #DESCRIPTION FluxFM - Yoga Sounds
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-event02-mp3-128-5288342
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-event02-aacplus-64-5884732
 #DESCRIPTION FluxFM - Hippie Trippy Garden Pretty
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.fluxfm.de/neofm/aac-64/streams.fluxfm.de/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-neofm-aacplus-64-5150487
 #DESCRIPTION FluxFM - neoFM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.fluxfm.de/xjazz/aac-64/streams.fluxfm.de/
-#DESCRIPTION FluxFM - XJAZZ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.fluxfm.de/jazzschwarz/aac-64/streams.fluxfm.de/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-xjazz-aacplus-64-9057824
+#DESCRIPTION FluxFM - XJazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-jazzradio-aacplus-64-1366806:018
 #DESCRIPTION FluxFM - Jazzradio Schwarzenstein
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.fluxfm.de/kinder1/aac-64/streams.fluxfm.de/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-kinder1-aacplus-64-6394992
 #DESCRIPTION FluxFM - Mini Flux
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.fluxfm.de/elektro/aac-64/streams.fluxfm.de/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-elektroflux-aacplus-64-7576981
 #DESCRIPTION FluxFM - ElektroFlux
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.fluxfm.de/indiedisco/mp3-320/streams.fluxfm.de/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-indiedisco-mp3-320-7445593
 #DESCRIPTION FluxFM - Indie Disco
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.fluxfm.de/soundofberlin/aac-64/streams.fluxfm.de/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-soundofberlin-aacplus-64-9264376
 #DESCRIPTION FluxFM - Sound of Berlin
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.fluxfm.de/berlinbeachhouseradio/aac-64/streams.fluxfm.de/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-berlinbeachhouse-aacplus-64-4242899
 #DESCRIPTION FluxFM - Berlin Beach House Radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.fluxfm.de/klubradio/aac-64/streams.fluxfm.de/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-klubradio-aacplus-64-8993546:024
 #DESCRIPTION FluxFM - Klubradio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.fluxfm.de/technoug/aac-64/streams.fluxfm.de/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-technounderground-aacplus-64-7295680
 #DESCRIPTION FluxFM - Techno Underground
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.fluxfm.de/radioalt/aac-64/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-alternative-aacplus-64-4212090
 #DESCRIPTION FluxFM - Radio Alternative
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.fluxfm.de/metalfm/aac-64/streams.fluxfm.de/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-metalfm-aacplus-64-8203871
 #DESCRIPTION FluxFM - MetalFM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.fluxfm.de/boomfmclassics/aac-64/streams.fluxfm.de/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-boomfmclassics-aacplus-64-9071050
 #DESCRIPTION FluxFM - BoomFM Classics
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.fluxfm.de/event01/aac-64/streams.fluxfm.de/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-event01-aacplus-64-9806072
 #DESCRIPTION FluxFM - B-Funk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.fluxfm.de/john-reed/aac-64/streams.fluxfm.de/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-johnreedradio-aacplus-64-5245546:030
 #DESCRIPTION FluxFM - John Reed Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION ⇒ Mixed Channels Rock
