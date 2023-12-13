@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 12.12.2023 18:50 by Team www.hdfreaks.cc
+#DESCRIPTION Update 13.12.2023 09:47 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1478,7 +1478,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/indierock/aac-128
 #DESCRIPTION Radio Regenbogen 2 Indie-Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/gunsnroses/aac-128
-#DESCRIPTION Radio Regenbogen 2 Guns N’Roses
+#DESCRIPTION Radio Regenbogen 2 Guns N’ Roses
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/70errock/aac-128
 #DESCRIPTION Radio Regenbogen 2 70er ROCK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/80errock/aac-128
@@ -4700,7 +4700,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/um1026.mp3
 #DESCRIPTION Virgin Radio Italy - AC/DC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/um1029.mp3
-#DESCRIPTION Virgin Radio Italy - Guns n' Roses
+#DESCRIPTION Virgin Radio Italy - Guns N' Roses
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/VirginSpecialEvent.mp3
 #DESCRIPTION Virgin Radio Italy - Rolling Stones
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/VirginRogerWaters.mp3
@@ -7244,7 +7244,7 @@
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsglencampbellcarlysimonrodstewart/icecast.audio
 #DESCRIPTION Glen Campbell, Carly Simon and Rod Stewart
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsgunskinkstrick/icecast.audio
-#DESCRIPTION Guns n Roses, Kinks and Cheap Trick
+#DESCRIPTION Guns N' Roses, Kinks and Cheap Trick
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigswintergallagherwolf/icecast.audio
 #DESCRIPTION Johnny Winter, Rory Gallagher and Howlin Wolf
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsladyatammyshania/icecast.audio
