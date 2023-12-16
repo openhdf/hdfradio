@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 14.12.2023 19:54 by Team www.hdfreaks.cc
+#DESCRIPTION Update 16.12.2023 15:45 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -8071,102 +8071,210 @@
 #DESCRIPTION Yellow Radio 101.7 - Thessaloniki - Greece
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION USA
+#SERVICE 4097:0:1:23:0:0:0:0:0:0:http%3a//gr02.cdnstream.com%3a9090:131223ks
+#DESCRIPTION 100Hitz - Top 40
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/KSANFM.mp3
+#DESCRIPTION 107.7 The Bone. The Bone Rocks the Bay
+#SERVICE 4097:0:1:27:0:0:0:0:0:0:http%3a//strm112.1.fm/top40_64
+#DESCRIPTION 1.FM - Absolute TOP 40 Radio
+#SERVICE 4097:0:1:7:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5106_128:ks121223
+#DESCRIPTION 2000 FM - Top 40
+#SERVICE 4097:0:1:67:0:0:0:0:0:0:http%3a//ares5.radiochoice.net/1020_a0countryhits128k
+#DESCRIPTION A-0 Top 40mix
+#SERVICE 4097:0:1:37:0:0:0:0:0:0:http%3a//s1.distortionradio.com%3a80/a-1-hits-32
+#DESCRIPTION A-1 Hits @ Distortion Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ais-sa2.cdnstream1.com/1976_128.mp3
+#DESCRIPTION America's Country live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ais-sa2.cdnstream1.com/2281_128.mp3
+#DESCRIPTION America's Greatest 80s Hits
+#SERVICE 4097:0:1:71:0:0:0:0:0:0:http%3a//los.cdnstream.com/absolutemix128k
+#DESCRIPTION Absolute Mix Radio - Todays Best Music
+#SERVICE 4097:0:1:59:0:0:0:0:0:0:http%3a//los.cdnstream.com/hits94128k
+#DESCRIPTION Hits 94 - All The Hits!
+#SERVICE 4097:0:1:79:0:0:0:0:0:0:http%3a//bigrradio-edge1.cdnstream.com/5163_128
+#DESCRIPTION Best Net Radio - Poppin Top 40
+#SERVICE 4097:0:1:43:0:0:0:0:0:0:http%3a//68.168.101.146%3a8415
+#DESCRIPTION Big Man Radio PR
+#SERVICE 4097:0:1:53:0:0:0:0:0:0:http%3a//107.155.111.234%3a8260
+#DESCRIPTION Big R - Rock Top 40
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ais-sa2.cdnstream1.com/2365_128.mp3?
+#DESCRIPTION Boss Country Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ais-sa2.cdnstream1.com/1374_128
+#DESCRIPTION Carolina Classic Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiobash.net%3a2000/stream/wacq/stream
+#DESCRIPTION Classic Hits 580 WACQ and FM 101.1 live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ais-edge105-live365-dal02.cdnstream.com/a06375
+#DESCRIPTION Classic Rock Florida
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/WNCVFM.mp3
+#DESCRIPTION Coast 93.3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//usa2.fastcast4u.com/proxy/cruisincountry?mp=/stream
+#DESCRIPTION Cruisin' Country Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ais-edge106-live365-dal02.cdnstream.com/a80304
+#DESCRIPTION Easy Hits Florida
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//colostreaming.com%3a8098/;stream.mp3
+#DESCRIPTION Easy Hits South Florida
+#SERVICE 4097:0:1:21:0:0:0:0:0:0:http%3a//stream64.electricfm.com
+#DESCRIPTION Electric FM - Americas Real Dance!
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6032_64.aac
+#DESCRIPTION Got Radio - Adult Alternative
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6033_64.aac
+#DESCRIPTION Got Radio - Alternative
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6004_64.aac
+#DESCRIPTION Got Radio - Big Band Land
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6019_64.aac
+#DESCRIPTION Got Radio - Bit O Blues
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6020_64.aac
+#DESCRIPTION Got Radio - Christmas Celebration
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6061_64.aac
+#DESCRIPTION Got Radio - Christmas Instrumentals
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6048_64.aac
+#DESCRIPTION Got Radio - Classic Country
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6012_64.aac
+#DESCRIPTION Got Radio - Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6031_64.aac
+#DESCRIPTION Got Radio - Country Christmas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6018_64.aac
+#DESCRIPTION Got Radio - Guitar Genius
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6041_64.aac
+#DESCRIPTION Got Radio - Hip Hop Stop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6026_64.aac
+#DESCRIPTION Got Radio - Hot Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6049_64.aac
+#DESCRIPTION Got Radio - Jazz So Smoth
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6016_64.aac
+#DESCRIPTION Got Radio - New Age Nuance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6007_64.aac
+#DESCRIPTION Got Radio - Oldies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6017_64.aac
+#DESCRIPTION Got Radio - Piano Perfect
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6023_64.aac
+#DESCRIPTION Got Radio - RnB Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6035_64.aac
+#DESCRIPTION Got Radio - Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6008_64.aac
+#DESCRIPTION Got Radio - Rockin´ 80´s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6010_64.aac
+#DESCRIPTION Got Radio - Soft Rock Cafe
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6057_64.aac
+#DESCRIPTION Got Radio - Southern Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6028_64.aac
+#DESCRIPTION Got Radio - Texas Red Dirt
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6005_64.aac
+#DESCRIPTION Got Radio - The 50´s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6011_64.aac
+#DESCRIPTION Got Radio - The 60`s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6013_64.aac
+#DESCRIPTION Got Radio - The 70`s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6009_64.aac
+#DESCRIPTION Got Radio - The 80´s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6039_64.aac
+#DESCRIPTION Got Radio - The 90´s Alternative
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6052_128.mp3
+#DESCRIPTION Got Radio - The 90´s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6037_64.aac
+#DESCRIPTION Got Radio - The Mix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6045_64.aac
+#DESCRIPTION Got Radio - Throwback Jamz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6029_64.aac
+#DESCRIPTION Got Radio - Today´s Country
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6024_64.aac
+#DESCRIPTION Got Radio - Top 40
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6022_64.aac
+#DESCRIPTION Got Radio - Top 40 Greatest Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6044_64.aac
+#DESCRIPTION Got Radio - Urban Jamz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6053_64.aac
+#DESCRIPTION Got Radio - Urban Lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//n11.radiojar.com/6pz06e8nv4zuv
+#DESCRIPTION Greatest Hits Radio USA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nexuscast.com%3a8135/;;audio.mp3
+#DESCRIPTION Heart Beat Radio - Back To The 80's Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hdradioclassicrock-rfritschka.radioca.st/;
+#DESCRIPTION HD Radio - Classic Rock live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-147.zeno.fm/e3pd2ve4by8uv?
+#DESCRIPTION Hits247 Atlanta
+#SERVICE 4097:0:1:63:0:0:0:0:0:0:http%3a//ais-sa2.cdnstream1.com/1984_128.mp3
+#DESCRIPTION Hits Mixx
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//stream2.joyhits.online%3a8880/joyhits.aac
 #DESCRIPTION Joy Hits
-#SERVICE 4097:0:1:5:0:0:0:0:0:0:http%3a//s7.voscast.com%3a10876/stream/1/
-#DESCRIPTION OZFM - 192 kbit/s
-#SERVICE 4097:0:1:7:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5106_128
-#DESCRIPTION 2000 FM - Top 40 - 128 kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//192.111.140.11%3a8548/stream
+#DESCRIPTION Kool Oldies Radio live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ais-edge101-live365-dal02.cdnstream.com/a79417
+#DESCRIPTION Magic 80s Florida
 #SERVICE 4097:0:1:9:0:0:0:0:0:0:https%3a//air.broadcastinggroup.ro/MegaHit
-#DESCRIPTION MegaHit - 192 kbit/s
-#SERVICE 4097:0:1:11:0:0:0:0:0:0:http%3a//37.187.79.93%3a8192/stream
-#DESCRIPTION lbi Radio - Lebanon - 128 kbit/s
-#SERVICE 4097:0:1:13:0:0:0:0:0:0:http%3a//online.radiodifusion.net%3a8020/stream/1/
-#DESCRIPTION Top Latino Radio - 128 kbit/s
-#SERVICE 4097:0:1:15:0:0:0:0:0:0:http%3a//nebula.shoutca.st%3a8016/stream
-#DESCRIPTION RadioMaxMusic Greatest Hits 256K Stream - 256 kbit/s
-#SERVICE 4097:0:1:17:0:0:0:0:0:0:http%3a//881thepark.pccsk12.com%3a80/wsdpradio
-#DESCRIPTION 88.1 The Park (WSDP-FM) | Plymouth MI USA - 128 kbit/s
-#SERVICE 4097:0:1:19:0:0:0:0:0:0:http%3a//gr02.cdnstream.com%3a8270
-#DESCRIPTION GotRadio - Top 40 - 128 kbit/s
-#SERVICE 4097:0:1:21:0:0:0:0:0:0:http%3a//stream64.electricfm.com
-#DESCRIPTION ElectricFM.com - Americas Real Dance! - 128 kbit/s
-#SERVICE 4097:0:1:23:0:0:0:0:0:0:http%3a//gr02.cdnstream.com%3a9090
-#DESCRIPTION 100Hitz - Top 40 - 128 kbit/s
-#SERVICE 4097:0:1:25:0:0:0:0:0:0:http%3a//144.217.65.105%3a4026/stream/1/
-#DESCRIPTION WYRZ 98.9 FM - 128 kbit/s
-#SERVICE 4097:0:1:27:0:0:0:0:0:0:http%3a//strm112.1.fm/top40_64
-#DESCRIPTION 1.FM - Absolute TOP 40 Radio - 128 kbit/s
-#SERVICE 4097:0:1:29:0:0:0:0:0:0:http%3a//108.61.30.179%3a7000
-#DESCRIPTION Powerhitz.com - The Hitlist - 128 kbit/s
-#SERVICE 4097:0:1:31:0:0:0:0:0:0:http%3a//s2.myradiostream.com%3a5788/stream/1/
-#DESCRIPTION BarakaFM - 96 kbit/s
-#SERVICE 4097:0:1:33:0:0:0:0:0:0:http%3a//162.244.80.20%3a8490
-#DESCRIPTION HIT94 FM - 96 kbit/s
-#SERVICE 4097:0:1:35:0:0:0:0:0:0:http%3a//s2.radio.co/s79d5660a8/listen
-#DESCRIPTION Drdchati Radio - 96 kbit/s
-#SERVICE 4097:0:1:37:0:0:0:0:0:0:http%3a//s1.distortionradio.com%3a80/a-1-hits-32
-#DESCRIPTION A-1 Hits @ Distortion Radio [www.distortionradio.com] - 96 kbit/s
-#SERVICE 4097:0:1:39:0:0:0:0:0:0:http%3a//192.99.83.154%3a8006/stream/1/
-#DESCRIPTION RadioMaxMusic - Greatest Hits - 128 kbit/s
-#SERVICE 4097:0:1:41:0:0:0:0:0:0:http%3a//173.193.205.96%3a8110/stream/1/
-#DESCRIPTION Christian Hit radio - 192 kbit/s
-#SERVICE 4097:0:1:43:0:0:0:0:0:0:http%3a//68.168.101.146%3a8415
-#DESCRIPTION BIGMAN RADIO PR - 128 kbit/s
-#SERVICE 4097:0:1:45:0:0:0:0:0:0:http%3a//162.216.17.221%3a8110/stream/1/
-#DESCRIPTION Hope Radio Ireland - Top 40 Oldies - 128 kbit/s
-#SERVICE 4097:0:1:47:0:0:0:0:0:0:http%3a//peridot.streamguys.com%3a5340/live
-#DESCRIPTION En Vivo Radio - 128 kbit/s
-#SERVICE 4097:0:1:49:0:0:0:0:0:0:http%3a//158.69.119.235%3a8130/stream/1/
-#DESCRIPTION RADIO DMS FM AMBON - 128 kbit/s
+#DESCRIPTION Mega Hit
 #SERVICE 4097:0:1:51:0:0:0:0:0:0:http%3a//stream1.nexusradio.fm/nexuspop.aac
-#DESCRIPTION Nexus Radio - 128 kbit/s
-#SERVICE 4097:0:1:53:0:0:0:0:0:0:http%3a//107.155.111.234%3a8260
-#DESCRIPTION BigR - Rock Top 40 - 128 kbit/s
-#SERVICE 4097:0:1:55:0:0:0:0:0:0:http%3a//192.111.140.11%3a8008/stream/1/
-#DESCRIPTION 70s Classics - 128 kbit/s
-#SERVICE 4097:0:1:57:0:0:0:0:0:0:http%3a//74.82.59.197%3a8070/stream/1/
-#DESCRIPTION 91.8 We On Radio - 128 kbit/s
-#SERVICE 4097:0:1:59:0:0:0:0:0:0:http%3a//los.cdnstream.com/hits94128k
-#DESCRIPTION AudioVision: Hits 94 - All The Hits! - 128 kbit/s
-#SERVICE 4097:0:1:61:0:0:0:0:0:0:http%3a//starfm.live.advailo.com/audio/mp3/icecast.audio
-#DESCRIPTION Star FM - 128 kbit/s
-#SERVICE 4097:0:1:63:0:0:0:0:0:0:http%3a//ais-sa2.cdnstream1.com/1984_128.mp3
-#DESCRIPTION Hits Mixx - 128 kbit/s
+#DESCRIPTION Nexus Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//usa13.fastcast4u.com/proxy/srncommu?mp=/1
+#DESCRIPTION Oldies 107.9
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.powerhitz.com/hot108?aw_0_req.gdpr=true
+#DESCRIPTION Powerhitz - Hot 108 Jamz (hip hop)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.powerhitz.com/1power?aw_0_req.gdpr=true
+#DESCRIPTION Powerhitz - 1Power (top 40/hip hop)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.powerhitz.com/officemix?aw_0_req.gdpr=true
+#DESCRIPTION Powerhitz - Office Mix (soft pop)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.powerhitz.com/hitlist?aw_0_req.gdpr=true
+#DESCRIPTION Powerhitz - Hitlist (top 40)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.powerhitz.com/realrnb?aw_0_req.gdpr=true
+#DESCRIPTION Powerhitz - Real RnB (r&b hits)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.powerhitz.com/bumpin?aw_0_req.gdpr=true
+#DESCRIPTION Powerhitz - Bumpin Classic Soul
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.powerhitz.com/pureclassicrock?aw_0_req.gdpr=true
+#DESCRIPTION Powerhitz - Pure Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.powerhitz.com/timeblender?aw_0_req.gdpr=true
+#DESCRIPTION Powerhitz - Timeblender (classic hits)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.powerhitz.com/planet?aw_0_req.gdpr=true
+#DESCRIPTION Powerhitz - The Planet (alternative rock)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.powerhitz.com/70s?aw_0_req.gdpr=true
+#DESCRIPTION Powerhitz - Sensational 70's
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.powerhitz.com/ultimate80s?aw_0_req.gdpr=true
+#DESCRIPTION Powerhitz - Ultimate 80's
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.powerhitz.com/00s?aw_0_req.gdpr=true
+#DESCRIPTION Powerhitz - Double 00's (2000-2009)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.powerhitz.com/backbounce?aw_0_req.gdpr=true
+#DESCRIPTION Powerhitz - BackBounce (Old School)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.powerhitz.com/country?aw_0_req.gdpr=true
+#DESCRIPTION Powerhitz - Total Country
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.powerhitz.com/lovesongs?aw_0_req.gdpr=true
+#DESCRIPTION Powerhitz - The Heart (Love Songs)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.powerhitz.com/smoothjazz?aw_0_req.gdpr=true
+#DESCRIPTION Powerhitz - Smoov (Smooth Jazz)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.powerhitz.com/gospel?aw_0_req.gdpr=true
+#DESCRIPTION Powerhitz - Glory 107 (Gospel)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.powerhitz.com/xmas?aw_0_req.gdpr=true
+#DESCRIPTION Powerhitz - Christmas Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.powerhitz.com/wild?aw_0_req.gdpr=true
+#DESCRIPTION Powerhitz - Wild 99 (Hispanic Rhythm)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n3ab-e2.revma.ihrhls.com/zc1465
+#DESCRIPTION Q104.3. New York's Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s18.myradiostream.com%3a9314/stream/1/
+#DESCRIPTION Radio Aktiva 87.7 FM
+#SERVICE 4097:0:1:15:0:0:0:0:0:0:http%3a//nebula.shoutca.st%3a8016/stream
+#DESCRIPTION Radio Max Music Greatest Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//162.244.80.131%3a8020/stream
+#DESCRIPTION Radio Shadow Deep Tracks
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ais-sa2.cdnstream1.com/1981_128.mp3
+#DESCRIPTION School Of Rock live
 #SERVICE 4097:0:1:65:0:0:0:0:0:0:http%3a//radio25.virtualtronics.com%3a8114/stream/1/
-#DESCRIPTION www.SongsLover.com - 128 kbit/s
-#SERVICE 4097:0:1:67:0:0:0:0:0:0:http%3a//ares5.radiochoice.net/1020_a0countryhits128k
-#DESCRIPTION A-0 Top 40mix - 128 kbit/s
-#SERVICE 4097:0:1:69:0:0:0:0:0:0:http%3a//s18.myradiostream.com%3a9314/stream/1/
-#DESCRIPTION RADIO AKTIVA 87.7 FM - 128 kbit/s
-#SERVICE 4097:0:1:71:0:0:0:0:0:0:http%3a//los.cdnstream.com/absolutemix128k
-#DESCRIPTION AudioVision: Absolute Mix Radio - Todays Best Music - 128 kbit/s
-#SERVICE 4097:0:1:73:0:0:0:0:0:0:https%3a//media.xseu.net%3a5443/MegaHit_m
-#DESCRIPTION MegaHit [Mobile] - 128 kbit/s
-#SERVICE 4097:0:1:75:0:0:0:0:0:0:http%3a//199.195.194.140%3a8003/stream
-#DESCRIPTION GrooveHitzRadio.com - 128 kbit/s
-#SERVICE 4097:0:1:77:0:0:0:0:0:0:http%3a//192.111.140.11%3a8008/stream/2/
-#DESCRIPTION 70s Classics Mobile - 128 kbit/s
-#SERVICE 4097:0:1:79:0:0:0:0:0:0:http%3a//bigrradio-edge1.cdnstream.com/5163_128
-#DESCRIPTION Best Net Radio - Poppin Top 40 - 128 kbit/s
-#SERVICE 4097:0:1:81:0:0:0:0:0:0:https%3a//rogers-hls.leanstream.co/rogers/ott1053.stream/playlist.m3u8
-#DESCRIPTION Kiss 105.3 FM - 128 kbit/s
-#SERVICE 4097:0:1:83:0:0:0:0:0:0:mms%3a//68.177.73.146%3a8004
-#DESCRIPTION KQST 102.9 FM Q 102.9 - 32 kbit/s
+#DESCRIPTION Songs Lover
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ais-sa2.cdnstream1.com/1100_128
+#DESCRIPTION Star 107.9 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-151.zeno.fm/nxxk883r1nhvv?
+#DESCRIPTION Sunrise Radio Massachusetts
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ais-edge101-live365-dal02.cdnstream.com/a36545
+#DESCRIPTION The Choice - 80's Hair & 80's Hits
+#SERVICE 4097:0:1:13:0:0:0:0:0:0:http%3a//online.radiodifusion.net%3a8020/stream/1/
+#DESCRIPTION Top Latino Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-152.zeno.fm/w0yevqdqkkhvv?
+#DESCRIPTION VIP Radio Louisiana
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio10.pro-fhi.net/flux-qlvuthph/128stream
+#DESCRIPTION West Coast Radio
 #SERVICE 4097:0:1:85:0:0:0:0:0:0:http%3a//crystalout.surfernetwork.com%3a8001/WQNZ_MP3
-#DESCRIPTION no name - 64 kbit/s
-#SERVICE 4097:0:1:87:0:0:0:0:0:0:mms%3a//38.106.70.70/romance_live
-#DESCRIPTION WRMA Romance 106.7  FM - 32 kbit/s
-#SERVICE 4097:0:1:89:0:0:0:0:0:0:mms%3a//38.106.70.70/amor_live
-#DESCRIPTION WPAT AMOR 93.1 FM - 32 kbit/s
-#SERVICE 4097:0:1:91:0:0:0:0:0:0:mms%3a//38.106.70.70/lamega_live
-#DESCRIPTION WSKQ La Mega 97.9 FM - 32 kbit/s
-#SERVICE 4097:0:1:93:0:0:0:0:0:0:mms%3a//us02.dagupan.com/energyfm-metromanila
-#DESCRIPTION 91.5 Energy FM - DWKY - 32 kbit/s
-#SERVICE 4097:0:1:95:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/ECUADOR.mp3
-#DESCRIPTION EXA FM 92.5 QUITO ECUADOR - 128 kbit/s
-#SERVICE 4097:0:1:97:0:0:0:0:0:0:http%3a//66.85.88.174%3a80/hitlist
-#DESCRIPTION POWERHITZ.COM - THE HITLIST - #1 FOR ALL HIT MUSIC - 128 kbit/s
+#DESCRIPTION WQNZ-FM 95.1 MHz
+#SERVICE 4097:0:1:25:0:0:0:0:0:0:http%3a//144.217.65.105%3a4026/stream/1/
+#DESCRIPTION WYRZ 98.9 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sail.yachtrockmiami.com%3a8000/radio.mp3
+#DESCRIPTION Yacht Rock Miami
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Arabisch
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//radioshamfm.grtvstream.com%3a8400/stream/1/
