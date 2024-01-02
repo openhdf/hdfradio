@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 28.12.2023 17:50 by Team www.hdfreaks.cc
+#DESCRIPTION Update 02.01.2024 22:20 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -7198,92 +7198,6 @@
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/boomerang1990s/icecast.audio
 #DESCRIPTION Boomerang 2020's
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
-#DESCRIPTION Fantasy Gigs
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsabbaeloelton/icecast.audio
-#DESCRIPTION Abba, ELO and Elton John
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsacdcironmaidenmetallica/icecast.audio
-#DESCRIPTION ACDC, Iron Maiden and Metallica
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsaerosmithdeeppurplefoofighters/icecast.audio
-#DESCRIPTION Aerosmith, Deep Purple and Foo Fighters
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsalicecsabbathbonjovi/icecast.audio
-#DESCRIPTION Alice Cooper, Black Sabbath and Bon Jovi
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsfranklinbligebeyonce/icecast.audio
-#DESCRIPTION Aretha Franklin, Mary J Blige and Beyonce
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsblondiebillyidolroxette/icecast.audio
-#DESCRIPTION Blondie, Billy Idol and Roxette
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsbluroasisthebeatles/icecast.audio
-#DESCRIPTION Blur, Oasis and The Beatles
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsspringsteenpettyframpton/icecast.audio
-#DESCRIPTION Bruce Springsteen, Tom Petty and Peter Frampton
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsadamspretendersferry/icecast.audio
-#DESCRIPTION Bryan Adams, Pretenders & Bryan Ferry
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsbuddyhollybeachboysthebeatles/icecast.audio
-#DESCRIPTION Buddy Holly, Beach Boys and The Beatles
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigscelinedionbarbrastreisandadele/icecast.audio
-#DESCRIPTION Celine Dion, Barbra Streisand and Adele
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigscherdiamondjoel/icecast.audio
-#DESCRIPTION Cher, Neil Diamond & Billy Joel
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsbrubeckcoltranedavis/icecast.audio
-#DESCRIPTION Dave Brubeck, John Coltrane and Miles Davis
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsdepechemodeerasurepetshopboys/icecast.audio
-#DESCRIPTION Depeche Mode, Erasure and The Pet Shop Boys
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsdollypartonkennyrogersjohnnycash/icecast.audio
-#DESCRIPTION Dolly Parton, Kenny Rogers and Johnny Cash
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsduranhueymeatloaf/icecast.audio
-#DESCRIPTION Duran Duran, Huey Lewis and Meat Loaf
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigseaglesforeignergenesis/icecast.audio
-#DESCRIPTION Eagles, Foreigner and Genesis
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsellafitzgeraldninasimonebillieholiday/icecast.audio
-#DESCRIPTION Ella Fitzgerald, Nina Simone and Billie Holiday
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigseurythmicscoldplayqueen/icecast.audio
-#DESCRIPTION Eurythmics, Coldplay and Queen
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsfatsdominojerryleelewiselvispresley/icecast.audio
-#DESCRIPTION Fats Domino, Jerry Lee Lewis and Elvis Presley
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsfleetwoodmacdirestraitsinxs/icecast.audio
-#DESCRIPTION Fleetwood Mac, Dire Straits and INXS
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsgeorgemichaelstingspandauballet/icecast.audio
-#DESCRIPTION George Michael, Sting and Spandau Ballet
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsglencampbellcarlysimonrodstewart/icecast.audio
-#DESCRIPTION Glen Campbell, Carly Simon and Rod Stewart
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsgunskinkstrick/icecast.audio
-#DESCRIPTION Guns N' Roses, Kinks and Cheap Trick
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigswintergallagherwolf/icecast.audio
-#DESCRIPTION Johnny Winter, Rory Gallagher and Howlin Wolf
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsladyatammyshania/icecast.audio
-#DESCRIPTION Lady A, Tammy Wynette and Shania Twain
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigscohentaylorstevens/icecast.audio
-#DESCRIPTION Leonard Cohen, James Taylor and Stevens
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigslionelkatyperrytimberlake/icecast.audio
-#DESCRIPTION Lionel Richie, Katy Perry and Justin Timberlake
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsmadonnamichaeljacksonprince/icecast.audio
-#DESCRIPTION Madonna, Michael Jackson and Prince
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsmichaelbublefranksinatraharryconnickjr/icecast.audio
-#DESCRIPTION Michael Buble, Frank Sinatra and Harry Connick Jr
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsnatkingcolejamiecullumraycharles/icecast.audio
-#DESCRIPTION Nat King Cole, Jamie Cullum & Ray Charles
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigspaulonutinipalomafaithwinehouse/icecast.audio
-#DESCRIPTION Paulo Nutini Paloma Faith and Amy Winehouse
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsgreenclaptonhendrix/icecast.audio
-#DESCRIPTION Peter Green's Fleetwood Mac, Eric Clapton and Jimi Hendrix
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigspinkjoplinsmith/icecast.audio
-#DESCRIPTION Pink, Janis Joplin and Patti Smith
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigspublicenemyjayzdrake/icecast.audio
-#DESCRIPTION Public Enemy, Jay-Z and Drake
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigssimplemindsmillerkillers/icecast.audio
-#DESCRIPTION Simple Minds, Steve Miller Band and The Killers
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigssupertrampphilcollinspaulweller/icecast.audio
-#DESCRIPTION Supertramp, Phil Collins and Paul Weller
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsthebeegeeschicbrunomars/icecast.audio
-#DESCRIPTION The Bee Gees, Chic and Bruno Mars
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigsclashb52talkingheads/icecast.audio
-#DESCRIPTION The Clash, The B52's and Talking Heads
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigspolicerollingstoneskoleon/icecast.audio
-#DESCRIPTION The Police, Rolling Stones and Kings Of Leon
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigstravelingwilburys/icecast.audio
-#DESCRIPTION The Traveling Wilburys (Dylan, Petty, Lynne, Harrison)
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/gigswhitneyrhiannadianaross/icecast.audio
-#DESCRIPTION Whitney Houston, Rhianna and Diana Ross
-#SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Happy Feet Radio
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/hfballet/icecast.audio
 #DESCRIPTION Happy Feet Radio - Ballet
@@ -7362,153 +7276,153 @@
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Tick Tock Radio
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1950/icecast.audio
-#DESCRIPTION 1950
+#DESCRIPTION Tick Tock Radio - 1950
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1951/icecast.audio
-#DESCRIPTION 1951
+#DESCRIPTION Tick Tock Radio - 1951
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1952/icecast.audio
-#DESCRIPTION 1952
+#DESCRIPTION Tick Tock Radio - 1952
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1953/icecast.audio
-#DESCRIPTION 1953
+#DESCRIPTION Tick Tock Radio - 1953
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1954/icecast.audio
-#DESCRIPTION 1954
+#DESCRIPTION Tick Tock Radio - 1954
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1955/icecast.audio
-#DESCRIPTION 1955
+#DESCRIPTION Tick Tock Radio - 1955
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1956/icecast.audio
-#DESCRIPTION 1956
+#DESCRIPTION Tick Tock Radio - 1956
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1957/icecast.audio
-#DESCRIPTION 1957
+#DESCRIPTION Tick Tock Radio - 1957
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1958/icecast.audio
-#DESCRIPTION 1958
+#DESCRIPTION Tick Tock Radio - 1958
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1959/icecast.audio
-#DESCRIPTION 1959
+#DESCRIPTION Tick Tock Radio - 1959
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1960/icecast.audio
-#DESCRIPTION 1960
+#DESCRIPTION Tick Tock Radio - 1960
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1961/icecast.audio
-#DESCRIPTION 1961
+#DESCRIPTION Tick Tock Radio - 1961
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1962/icecast.audio
-#DESCRIPTION 1962
+#DESCRIPTION Tick Tock Radio - 1962
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1963/icecast.audio
-#DESCRIPTION 1963
+#DESCRIPTION Tick Tock Radio - 1963
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1964/icecast.audio
-#DESCRIPTION 1964
+#DESCRIPTION Tick Tock Radio - 1964
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1965/icecast.audio
-#DESCRIPTION 1965
+#DESCRIPTION Tick Tock Radio - 1965
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1966/icecast.audio
-#DESCRIPTION 1966
+#DESCRIPTION Tick Tock Radio - 1966
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1967/icecast.audio
-#DESCRIPTION 1967
+#DESCRIPTION Tick Tock Radio - 1967
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1968/icecast.audio
-#DESCRIPTION 1968
+#DESCRIPTION Tick Tock Radio - 1968
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1969/icecast.audio
-#DESCRIPTION 1969
+#DESCRIPTION Tick Tock Radio - 1969
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1970/icecast.audio
-#DESCRIPTION 1970
+#DESCRIPTION Tick Tock Radio - 1970
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1971/icecast.audio
-#DESCRIPTION 1971
+#DESCRIPTION Tick Tock Radio - 1971
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1972/icecast.audio
-#DESCRIPTION 1972
+#DESCRIPTION Tick Tock Radio - 1972
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1973/icecast.audio
-#DESCRIPTION 1973
+#DESCRIPTION Tick Tock Radio - 1973
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1974/icecast.audio
-#DESCRIPTION 1974
+#DESCRIPTION Tick Tock Radio - 1974
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1975/icecast.audio
-#DESCRIPTION 1975
+#DESCRIPTION Tick Tock Radio - 1975
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1976/icecast.audio
-#DESCRIPTION 1976
+#DESCRIPTION Tick Tock Radio - 1976
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1977/icecast.audio
-#DESCRIPTION 1977
+#DESCRIPTION Tick Tock Radio - 1977
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1978/icecast.audio
-#DESCRIPTION 1978
+#DESCRIPTION Tick Tock Radio - 1978
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1979/icecast.audio
-#DESCRIPTION 1979
+#DESCRIPTION Tick Tock Radio - 1979
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1980/icecast.audio
-#DESCRIPTION 1980
+#DESCRIPTION Tick Tock Radio - 1980
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1981/icecast.audio
-#DESCRIPTION 1981
+#DESCRIPTION Tick Tock Radio - 1981
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1982/icecast.audio
-#DESCRIPTION 1982
+#DESCRIPTION Tick Tock Radio - 1982
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1983/icecast.audio
-#DESCRIPTION 1983
+#DESCRIPTION Tick Tock Radio - 1983
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1984/icecast.audio
-#DESCRIPTION 1984
+#DESCRIPTION Tick Tock Radio - 1984
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1985/icecast.audio
-#DESCRIPTION 1985
+#DESCRIPTION Tick Tock Radio - 1985
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1986/icecast.audio
-#DESCRIPTION 1986
+#DESCRIPTION Tick Tock Radio - 1986
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1987/icecast.audio
-#DESCRIPTION 1987
+#DESCRIPTION Tick Tock Radio - 1987
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1988/icecast.audio
-#DESCRIPTION 1988
+#DESCRIPTION Tick Tock Radio - 1988
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1989/icecast.audio
-#DESCRIPTION 1989
+#DESCRIPTION Tick Tock Radio - 1989
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1990/icecast.audio
-#DESCRIPTION 1990
+#DESCRIPTION Tick Tock Radio - 1990
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1991/icecast.audio
-#DESCRIPTION 1991
+#DESCRIPTION Tick Tock Radio - 1991
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1992/icecast.audio
-#DESCRIPTION 1992
+#DESCRIPTION Tick Tock Radio - 1992
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1993/icecast.audio
-#DESCRIPTION 1993
+#DESCRIPTION Tick Tock Radio - 1993
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1994/icecast.audio
-#DESCRIPTION 1994
+#DESCRIPTION Tick Tock Radio - 1994
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1995/icecast.audio
-#DESCRIPTION 1995
+#DESCRIPTION Tick Tock Radio - 1995
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1996/icecast.audio
-#DESCRIPTION 1996
+#DESCRIPTION Tick Tock Radio - 1996
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1997/icecast.audio
-#DESCRIPTION 1997
+#DESCRIPTION Tick Tock Radio - 1997
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1998/icecast.audio
-#DESCRIPTION 1998
+#DESCRIPTION Tick Tock Radio - 1998
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1999/icecast.audio
-#DESCRIPTION 1999
+#DESCRIPTION Tick Tock Radio - 1999
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2000/icecast.audio
-#DESCRIPTION 2000
+#DESCRIPTION Tick Tock Radio - 2000
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2001/icecast.audio
-#DESCRIPTION 2001
+#DESCRIPTION Tick Tock Radio - 2001
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2002/icecast.audio
-#DESCRIPTION 2002
+#DESCRIPTION Tick Tock Radio - 2002
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2003/icecast.audio
-#DESCRIPTION 2003
+#DESCRIPTION Tick Tock Radio - 2003
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2004/icecast.audio
-#DESCRIPTION 2004
+#DESCRIPTION Tick Tock Radio - 2004
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2005/icecast.audio
-#DESCRIPTION 2005
+#DESCRIPTION Tick Tock Radio - 2005
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2006/icecast.audio
-#DESCRIPTION 2006
+#DESCRIPTION Tick Tock Radio - 2006
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2007/icecast.audio
-#DESCRIPTION 2007
+#DESCRIPTION Tick Tock Radio - 2007
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2008/icecast.audio
-#DESCRIPTION 2008
+#DESCRIPTION Tick Tock Radio - 2008
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2009/icecast.audio
-#DESCRIPTION 2009
+#DESCRIPTION Tick Tock Radio - 2009
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2010/icecast.audio
-#DESCRIPTION 2010
+#DESCRIPTION Tick Tock Radio - 2010
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2011/icecast.audio
-#DESCRIPTION 2011
+#DESCRIPTION Tick Tock Radio - 2011
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2012/icecast.audio
-#DESCRIPTION 2012
+#DESCRIPTION Tick Tock Radio - 2012
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2013/icecast.audio
-#DESCRIPTION 2013
+#DESCRIPTION Tick Tock Radio - 2013
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2014/icecast.audio
-#DESCRIPTION 2014
+#DESCRIPTION Tick Tock Radio - 2014
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2015/icecast.audio
-#DESCRIPTION 2015
+#DESCRIPTION Tick Tock Radio - 2015
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2016/icecast.audio
-#DESCRIPTION 2016
+#DESCRIPTION Tick Tock Radio - 2016
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2017/icecast.audio
-#DESCRIPTION 2017
+#DESCRIPTION Tick Tock Radio - 2017
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2018/icecast.audio
-#DESCRIPTION 2018
+#DESCRIPTION Tick Tock Radio - 2018
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2019/icecast.audio
-#DESCRIPTION 2019
+#DESCRIPTION Tick Tock Radio - 2019
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2010/icecast.audio
-#DESCRIPTION 2020
+#DESCRIPTION Tick Tock Radio - 2020
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2021/icecast.audio
-#DESCRIPTION 2021
+#DESCRIPTION Tick Tock Radio - 2021
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2022/icecast.audio
-#DESCRIPTION 2022
+#DESCRIPTION Tick Tock Radio - 2022
 #SERVICE 4097:0:1:1037:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2023/icecast.audio
-#DESCRIPTION 2023
+#DESCRIPTION Tick Tock Radio - 2023
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Tinder Radio
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/bollywoodmix/icecast.audio
