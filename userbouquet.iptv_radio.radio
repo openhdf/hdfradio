@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 02.01.2024 22:20 by Team www.hdfreaks.cc
+#DESCRIPTION Update 06.01.2024 15:20 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -7851,7 +7851,7 @@
 #DESCRIPTION Radio Viva Fm
 #SERVICE 4097:0:1:149:0:0:0:0:0:0:https%3a//radioyachtcapri.newradio.it/1
 #DESCRIPTION Radio Yacht Capri
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//uk2.streamingpulse.com/ssl/vcr1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//116.202.241.212%3a8010/stream
 #DESCRIPTION Venice Classic Radio - Auditorium
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//uk2.streamingpulse.com/ssl/vcr2
 #DESCRIPTION Venice Classic Radio - Live
@@ -9077,3 +9077,51 @@
 #DESCRIPTION Disco.Miami - Radio Warner Bros
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//broadcast.miami/proxy/westend?mp=/stream
 #DESCRIPTION Disco.Miami - Radio Westend
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Radio Schwany
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fante.streampanel.cloud/4-blasmusik?:281223_KS_01
+#DESCRIPTION Radio Schwany - Blasmusik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//twix.streampanel.cloud/10-blaess?
+#DESCRIPTION Radio Schwany - Bleass
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//charly.streampanel.cloud/3-dieechte?
+#DESCRIPTION Radio Schwany - Die Echte
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//twix.streampanel.cloud/8-herzklang?:04
+#DESCRIPTION Radio Schwany - Herzklang
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//charly.streampanel.cloud/12-hoamatwelle?
+#DESCRIPTION Radio Schwany - Hoamatwelle
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fante.streampanel.cloud/11-instrumental?:06
+#DESCRIPTION Radio Schwany - Intrumental
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//tree.streampanel.cloud/7-maerchen?
+#DESCRIPTION Radio Schwany - Märchen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//charly.streampanel.cloud/5-oberkrain?:08
+#DESCRIPTION Radio Schwany - Oberkrein
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//tree.streampanel.cloud/6-oldiehit?
+#DESCRIPTION Radio Schwany - Oldiehit
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fante.streampanel.cloud/2-schlager?:10
+#DESCRIPTION Radio Schwany - Schlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//tree.streampanel.cloud/9-souvenir1?
+#DESCRIPTION Radio Schwany - Souvenier 1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fante.streampanel.cloud/13-souvenir2?:12
+#DESCRIPTION Radio Schwany - Souvenier 2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bone.streampanel.cloud/1-schwany?
+#DESCRIPTION Radio Schwany - Volksmusik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//tree.streampanel.cloud/14-weihnacht?:14
+#DESCRIPTION Radio Schwany - Weihnachtsradio
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Radio Seefunk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.radio-seefunk.de/bodensee-oberschwaben
+#DESCRIPTION Radio Seefunk - Bodensee-Oberschwaben (live)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.radio-seefunk.de/hochrhein
+#DESCRIPTION Radio Seefunk - Hochrhein (live)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.radio-seefunk.de/70er
+#DESCRIPTION Radio Seefunk - 70er pur
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.radio-seefunk.de/80er
+#DESCRIPTION Radio Seefunk - 80er pur
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.radio-seefunk.de/90er
+#DESCRIPTION Radio Seefunk - 90er-pur
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.radio-seefunk.de/rock
+#DESCRIPTION Radio Seefunk - Die besten Rocksongs
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.radio-seefunk.de/disco
+#DESCRIPTION Radio Seefunk - Die besten Discohits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.radio-seefunk.de/love
+#DESCRIPTION Radio Seefunk - Die besten Lovesongs
