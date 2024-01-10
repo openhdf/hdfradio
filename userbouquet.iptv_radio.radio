@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 06.01.2024 15:20 by Team www.hdfreaks.cc
+#DESCRIPTION Update 10.01.2024 18:17 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2497,8 +2497,8 @@
 #DESCRIPTION 90s90s - Digital
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90sdanceradio-mp3-192-7820726
 #DESCRIPTION 90s90s - Dance Radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90ssommerhits7739935-mp3-192-4515340
-#DESCRIPTION 90s90s - Sommerhits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90sdinnerparty-mp3-192-2807326
+#DESCRIPTION 90s90s - Dinnerparty
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90shouse9480822-mp3-192-5444193
 #DESCRIPTION 90s90s - House
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90srock1436287-mp3-192-2191420
@@ -2523,6 +2523,12 @@
 #DESCRIPTION 90s90s - Grunge
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90shiphop9858510-mp3-192-3156332
 #DESCRIPTION 90s90s - Hiphop & Rap
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90sloveparade-mp3-192-5912520
+#DESCRIPTION 90s90s - Loveparade
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90srave-mp3-192-2687569
+#DESCRIPTION 90s90s - Rave
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90ssommerhits7739935-mp3-192-4515340
+#DESCRIPTION 90s90s - Sommerhits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90ssimulcast-mp3-192-6412329
 #DESCRIPTION 90s90s - DAB+
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
