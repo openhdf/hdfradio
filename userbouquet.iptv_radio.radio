@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 10.01.2024 18:17 by Team www.hdfreaks.cc
+#DESCRIPTION Update 11.01.2024 12:58 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -397,6 +397,12 @@
 #DESCRIPTION Radio BOB! - Britpop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-bobrollingstones-mp3-192-1803639
 #DESCRIPTION Radio BOB! - Rolling Stones
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-bobkiss-mp3-192-1708284
+#DESCRIPTION Radio BOB! - Kiss
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc_jwxxgdtmui_gfkb-mp3-192-3773822:01
+#DESCRIPTION Radio BOB! - Electro Rock 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-bobstonerrock-mp3-192-1306307
+#DESCRIPTION Radio BOB! - Stoner Rock
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Radio PSR
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/psr-live/mp3-192/mediaplayer:01KS180723
