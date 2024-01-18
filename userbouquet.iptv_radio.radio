@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 17.01.2024 20:15 by Team www.hdfreaks.cc
+#DESCRIPTION Update 18.01.2024 18:12 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -9069,3 +9069,43 @@
 #DESCRIPTION Radio Seefunk - Die besten Discohits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.radio-seefunk.de/love
 #DESCRIPTION Radio Seefunk - Die besten Lovesongs
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Delta Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deltaradio.streamabc.net/rc-deltaliveshsued-mp3-192-8020733:180124_K_S
+#DESCRIPTION Delta Radio - Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deltaathome-mp3-192-2388092
+#DESCRIPTION Delta Radio - At Home
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deltaradio.streamabc.net/regc-deltabrandneu-mp3-192-9090903
+#DESCRIPTION Delta Radio - Brandneu
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deltabbb-mp3-192-1127979
+#DESCRIPTION Delta Radio - Buzz Beat Boutique
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deltachartbuster-mp3-192-8321793
+#DESCRIPTION Delta Radio - Chartbuster der Woche
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deltaradio.streamabc.net/regc-deltadeutsch-mp3-192-9837589
+#DESCRIPTION Delta Radio - Deutsch
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deltaradio.streamabc.net/regc-deltarockpopreloaded-mp3-192-5287707
+#DESCRIPTION Delta Radio - Der beste Rockpop reloaded 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deltaradio.streamabc.net/regc-deltaderapklassiker-mp3-192-6433469
+#DESCRIPTION Delta Radio - Deutsch Rap Klassiker
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deltagoodvibes-mp3-192-9824202
+#DESCRIPTION Delta Radio - Good Vibes
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deltaradio.streamabc.net/regc-deltahh-mp3-192-9011098:10
+#DESCRIPTION Delta Radio - I love Hamburg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deltamitsingen-mp3-192-5207742
+#DESCRIPTION Delta Radio - Mitsingen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deltaradio.streamabc.net/regc-deltamalleparty-mp3-192-8782461
+#DESCRIPTION Delta Radio - Mallorca Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deltaradio.streamabc.net/regc-deltasommer-mp3-192-5003351
+#DESCRIPTION Delta Radio - Sommer
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deltatiktokhits-mp3-192-4472236
+#DESCRIPTION Delta Radio - Tik Tok Hit Tracks
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deltaradio.streamabc.net/regc-deltadeutschrap-mp3-192-9412377
+#DESCRIPTION Delta Radio - TOP 100 Deutsch Rap
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deltaradio.streamabc.net/regc-deltadance-mp3-192-7407445
+#DESCRIPTION Delta Radio - TOP 100 Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deltaradio.streamabc.net/regc-deltaparty-mp3-192-3637932
+#DESCRIPTION Delta Radio - TOP 100 Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deltauptempo-mp3-192-6425415
+#DESCRIPTION Delta Radio - Uptempo Banger
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deltaradio.streamabc.net/regc-deltaunplugged-mp3-192-9773725
+#DESCRIPTION Delta Radio - Unplugged
