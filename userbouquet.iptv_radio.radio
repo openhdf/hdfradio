@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 21.01.2024 19:34 by Team www.hdfreaks.cc
+#DESCRIPTION Update 21.01.2024 19:35 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2330,7 +2330,7 @@
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION ⇒ Mixed Channels Rock
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trock.fluidstream.eu/trock.mp3
-#DESCRIPTION Mixed Channels - 88.6 T-Rock
+#DESCRIPTION Mixed Channels - 88.6 T-ROCK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ic2.mainstreamnetwork.com/wyxx-fm
 #DESCRIPTION Mixed Channels - 97.7 Rock - WYXX
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bestofrockfm.stream.vip/rammstein/mp3-192/bestofrock.fm/
