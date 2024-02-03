@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 21.01.2024 19:35 by Team www.hdfreaks.cc
+#DESCRIPTION Update 03.02.2024 19:37 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -3429,20 +3429,20 @@
 #DESCRIPTION Sanctuary Radio - 80’s Alternative Channel (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//66.94.113.88%3a8000/clubmix_ultra_hq
 #DESCRIPTION Sanctuary Radio - Club Mix Channel (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8160/flac
-#DESCRIPTION SuperStereo 1 Hi Res New Wave,Adult Pop (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8157/flac
-#DESCRIPTION SuperStereo 2 Hi Res Oldie 50´s,60´s (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8539/flac
-#DESCRIPTION SuperStereo 3 Hi Res Pop,Dance,House (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8030/flac
-#DESCRIPTION SuperStereo 4 Hi Res Aor,West Coast (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8511/canal1
-#DESCRIPTION SuperStereo 5 Hi Res Adult Rock (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8157/flac6
-#DESCRIPTION SuperStereo 6 Hi Res Instrumental Music (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.204.228.202%3a8030/flac7
-#DESCRIPTION SuperStereo 7 Hi Res Jazz (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.centaury.cl%3a7550/SuperStereo1
+#DESCRIPTION SuperStereo 1 - Yacht Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.centaury.cl%3a7550/SuperStereo2
+#DESCRIPTION SuperStereo 2 - 50’s, 60’s and 70’s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.centaury.cl%3a7550/SuperStereo3
+#DESCRIPTION SuperStereo 3 - 80’s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.centaury.cl%3a7550/SuperStereo4
+#DESCRIPTION SuperStereo 4 - Ballads, 80’s, 90’s, 00’s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.centaury.cl%3a7550/SuperStereo5
+#DESCRIPTION SuperStereo 5 - Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.centaury.cl%3a7550/SuperStereo6
+#DESCRIPTION SuperStereo 6 - Instrumental Music
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.centaury.cl%3a7550/SuperStereo7
+#DESCRIPTION SuperStereo 7 - Jazz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro3.flac
 #DESCRIPTION ČRo Vltava (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro-d-dur.flac
