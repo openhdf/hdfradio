@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 04.02.2024 22:50 by Team www.hdfreaks.cc
+#DESCRIPTION Update 05.02.2024 18:11 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -3313,8 +3313,6 @@
 #DESCRIPTION JB Radio-2 - new experience of hq audio (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s2.audiostream.hu/bdpstrock_FLAC
 #DESCRIPTION BDPST ROCK Rádió - Budapest ROCK Rádió Online (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//chillout.zone/chillout_plus
-#DESCRIPTION Chill Out Zone Plus (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cityradio.ddns.net%3a8000/cityradio48flac
 #DESCRIPTION City Radio Chile - Jazz,smooth jazz&crossover jazz (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.danubiusradio.hu/danubius_HiFi
