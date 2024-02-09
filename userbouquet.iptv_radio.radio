@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 05.02.2024 18:11 by Team www.hdfreaks.cc
+#DESCRIPTION Update 09.02.2024 18:40 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2355,6 +2355,12 @@
 #DESCRIPTION Mixed Channels - Krautrock World
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//onairmediagroup.live24.gr/legend1016xanthi
 #DESCRIPTION Mixed Channels - Legend FM 101.6 Rock Oldies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stric6.streamakaci.com%3a80/4u80s.mp3
+#DESCRIPTION Mixed Channels - ABC - Stars 80` USA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic11-cybertec.radioca.st/stream
+#DESCRIPTION Mixed Channels - Miled Music - Classic Rock Mexiko
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//antares.dribbcast.com/proxy/s8180/stream
+#DESCRIPTION Mixed Channels - Niche Radio - 24-7 Classic Rock
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION ⇒ Mixed Channels Pop
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ice4.abradio.cz/depeche128.mp3
