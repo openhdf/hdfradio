@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 29.02.2024 21:07 by Team www.hdfreaks.cc
+#DESCRIPTION Update 08.03.2024 17:43 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1347,9 +1347,11 @@
 #DESCRIPTION Star FM - Nürnberg
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.starfm.de/berlin.mp3
 #DESCRIPTION Star FM - Berlin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.starfm.de/nrw/mp3-192
+#DESCRIPTION Star FM - NRW
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//starfm.streamabc.net/30-starfmsachsen-mp3-128-1812785
 #DESCRIPTION Star FM - Maximum Rock Sachsen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.starfm.de/national/mp3-192:4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.starfm.de/national/mp3-192
 #DESCRIPTION Star FM - Maximum Rock National
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.starfm.de/90srock/mp3-192
 #DESCRIPTION Star FM - 90s Rock
