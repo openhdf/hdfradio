@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 10.03.2024 10:35 by Team www.hdfreaks.cc
+#DESCRIPTION Update 11.03.2024 19:53 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -3363,8 +3363,6 @@
 #DESCRIPTION Insanity Radio (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s2.audiostream.hu/juventus_FLAC
 #DESCRIPTION Juventus Rádió (FLAC)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.lamer.live/laradiodelamer-uhd.flac
-#DESCRIPTION La Radio de la Mer (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.magic-radio.net/flac
 #DESCRIPTION Magic Radio Oldies Hits (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//maxxima.mine.nu%3a8000/maxx.ogg
@@ -3427,8 +3425,6 @@
 #DESCRIPTION Radio Paradise Rock Mix (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioparadise.com/global-flacm
 #DESCRIPTION Radio Paradise Global Mix (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mscp4.live-streams.nl%3a8220/autodj.ogg
-#DESCRIPTION Radio PopNonStop (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//66.94.113.88%3a8000/ultra_hq
 #DESCRIPTION Sanctuary Radio - Dark Electro Channel (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//66.94.113.88%3a8000/retro_ultra_hq
@@ -3503,12 +3499,8 @@
 #DESCRIPTION Riverside Radio Netherlands (FLAC 2000kbps))
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.sing-sing-bis.org%3a8000/singsingFlac
 #DESCRIPTION Sing Sing BIS France (Eclectic) (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//euk-85965.eukservers.com%3a8000/soul
-#DESCRIPTION Soul City FM Dublin Ireland (FLAC 1556kbps))
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//diffusion.lafrap.fr%3a8000/sun.flac
 #DESCRIPTION SUN – Le Son Unique (FLAC 1556kbps)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tsuiokuyo.ddns.net%3a8764/vorbis
-#DESCRIPTION Tsuiokuyo’s FLAC Anime Music (Vorbis)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//zapstream.nl%3a8443/1
 #DESCRIPTION Zap!FM NL (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.norbert.de/zappa.flac
