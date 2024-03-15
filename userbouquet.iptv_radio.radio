@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 15.03.2024 17:18 by Team www.hdfreaks.cc
+#DESCRIPTION Update 15.03.2024 17:51 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -8651,6 +8651,8 @@
 #DESCRIPTION Klassik Radio - Meisterwerke der Oper
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klassikr-chor-mp3-192-2422078
 #DESCRIPTION Klassik Radio - Welt der Chormusik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr_aemqrgdzgvn_y5za-mp3-192-8403446
+#DESCRIPTION Klassik Radio - Die wahre Geschichte
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klassikr-klassikrock-mp3-192-9462890
 #DESCRIPTION Klassik Radio - Classic Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klassikr-loungebeat-mp3-192-4898133
