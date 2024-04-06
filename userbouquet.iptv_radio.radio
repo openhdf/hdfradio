@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 26.03.2024 19:53 by Team www.hdfreaks.cc
+#DESCRIPTION Update 06.04.2024 08:26 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1597,6 +1597,8 @@
 #DESCRIPTION HIT RADIO FFH - FFH ACOUSTIC HITS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqsoundtrack.aac
 #DESCRIPTION HIT RADIO FFH - FFH SOUNDTRACK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqcountry.mp3
+#DESCRIPTION HIT RADIO FFH - FFH COUNTRY RADIO
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION harmony.fm
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/harmonyfm/hqlivestream.mp3
