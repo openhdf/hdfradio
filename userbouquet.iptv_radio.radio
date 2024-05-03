@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 21.04.2024 17:13 by Team www.hdfreaks.cc
+#DESCRIPTION Update 03.05.2024 15:35 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2395,6 +2395,10 @@
 #DESCRIPTION Mixed Channels - Meer Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s2.euer.tv/audio320
 #DESCRIPTION Mixed Channels - Euer Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//niceradio-1.ice.infomaniak.ch/niceradio-1-256.mp3
+#DESCRIPTION Mixed Channels - Nice Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server3.streamserver-unlimited.de%3a8219/main_lo
+#DESCRIPTION Mixed Channels - Austrianpower Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION ⇒ Mixed Channels Miscellaneous
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radio-matchbox.de/listen/matchbox/radio.mp3
