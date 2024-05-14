@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 03.05.2024 15:35 by Team www.hdfreaks.cc
+#DESCRIPTION Update 14.05.2024 19:34 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1468,41 +1468,41 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-adler-aac-128-2022130
 #DESCRIPTION Radio Regenbogen - Adler Mannheim
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
-#DESCRIPTION Radio Regenbogen 2
+#DESCRIPTION ROCK FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/rheinneckar/aac-128
-#DESCRIPTION Radio Regenbogen 2 Rhein-Neckar
+#DESCRIPTION ROCK FM Rhein-Neckar
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/bawue/aac-128
-#DESCRIPTION Radio Regenbogen 2 Baden-Wuerttemberg
+#DESCRIPTION ROCK FM Baden-Wuerttemberg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/metallica/aac-128
-#DESCRIPTION Radio Regenbogen 2 Metallica
+#DESCRIPTION ROCK FM Metallica
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/metal/aac-128
-#DESCRIPTION Radio Regenbogen 2 Metal
+#DESCRIPTION ROCK FM Metal
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/deutschrock/mp3-128
-#DESCRIPTION Radio Regenbogen 2 DEUTSCHROCK
+#DESCRIPTION ROCK FM DEUTSCHROCK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/country/mp3-128
-#DESCRIPTION Radio Regenbogen 2 COUNTRY
+#DESCRIPTION ROCK FM COUNTRY
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/liedermacher/mp3-128
-#DESCRIPTION Radio Regenbogen 2 LIEDERMACHER
+#DESCRIPTION ROCK FM LIEDERMACHER
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/beatles/mp3-128
-#DESCRIPTION Radio Regenbogen 2 BEATLES
+#DESCRIPTION ROCK FM BEATLES
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/classicrock/aac-128
-#DESCRIPTION Radio Regenbogen 2 Classic Rock
+#DESCRIPTION ROCK FM Classic Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/rollingstones/aac-128
-#DESCRIPTION Radio Regenbogen 2 Rolling Stones
+#DESCRIPTION ROCK FM Rolling Stones
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/modernrock/aac-128
-#DESCRIPTION Radio Regenbogen 2 Modern Rock
+#DESCRIPTION ROCK FM Modern Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/indierock/aac-128
-#DESCRIPTION Radio Regenbogen 2 Indie-Rock
+#DESCRIPTION ROCK FM Indie-Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/gunsnroses/aac-128
-#DESCRIPTION Radio Regenbogen 2 Guns N’ Roses
+#DESCRIPTION ROCK FM Guns N’ Roses
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/70errock/aac-128
-#DESCRIPTION Radio Regenbogen 2 70er ROCK
+#DESCRIPTION ROCK FM 70er ROCK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/80errock/aac-128
-#DESCRIPTION Radio Regenbogen 2 80er ROCK
+#DESCRIPTION ROCK FM 80er ROCK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/90errock/mp3-128
-#DESCRIPTION Radio Regenbogen 2 90er ROCK
+#DESCRIPTION ROCK FM 90er ROCK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/christmasrock/aac-128
-#DESCRIPTION Radio Regenbogen 2 CHRISTMAS ROCK
+#DESCRIPTION ROCK FM CHRISTMAS ROCK
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION planet radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.planetradio.de/planetradio/hqlivestream.aac
