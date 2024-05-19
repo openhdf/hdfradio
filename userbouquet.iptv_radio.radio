@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 14.05.2024 19:34 by Team www.hdfreaks.cc
+#DESCRIPTION Update 19.05.2024 12:17 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1068,17 +1068,17 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3
 #DESCRIPTION WDR 1LIVE - 1Live DIGGI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr-1live-djsession.icecast.wdr.de/wdr/1live/djsession/mp3/128/stream.mp3
-#DESCRIPTION WDR 1LIVE - DJ SESSION
+#DESCRIPTION WDR 1LIVE - Dancehits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr-1live-fiehe.icecast.wdr.de/wdr/1live/fiehe/mp3/128/stream.mp3
-#DESCRIPTION WDR 1LIVE - FIEHE
+#DESCRIPTION WDR 1LIVE - Chillout
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr-1live-hiphop.icecast.wdr.de/wdr/1live/hiphop/mp3/128/stream.mp3
-#DESCRIPTION WDR 1LIVE - HIPHOP
+#DESCRIPTION WDR 1LIVE - R´n´B & HipHop
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr-1live-neufuerdensektor.icecast.wdr.de/wdr/1live/neufuerdensektor/mp3/128/stream.mp3
-#DESCRIPTION WDR 1LIVE - NEU FÜR DEN SEKTOR
+#DESCRIPTION WDR 1LIVE - Tophits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr-1live-planb.icecast.wdr.de/wdr/1live/planb/mp3/128/stream.mp3
-#DESCRIPTION WDR 1LIVE - PLAN B
+#DESCRIPTION WDR 1LIVE - Rockhits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr-1live-specials.icecast.wdr.de/wdr/1live/specials/mp3/128/stream.mp3
-#DESCRIPTION WDR 1LIVE - SPECIAL
+#DESCRIPTION WDR 1LIVE - Mix der Woche
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION WDR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3
