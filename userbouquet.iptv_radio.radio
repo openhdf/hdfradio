@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 19.05.2024 12:17 by Team www.hdfreaks.cc
+#DESCRIPTION Update 26.05.2024 09:40 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -213,6 +213,8 @@
 #DESCRIPTION 80s80s - NRW
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-80s80sebm-mp3-192-8711896
 #DESCRIPTION 80s80s - EBM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-80s80sreggae-mp3-192-3880321?
+#DESCRIPTION 80s80s - Raggae
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Perfect Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n0a.radiojar.com/whwyhz188a0uv?:01011023K.S.
@@ -2565,6 +2567,8 @@
 #DESCRIPTION 90s90s - Sommerhits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90ssimulcast-mp3-192-6412329
 #DESCRIPTION 90s90s - DAB+
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90sreggae-mp3-192-2403753?
+#DESCRIPTION 90s90s - Raggae
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION 0nlineradio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.0nlineradio.com/volksmusik
@@ -7179,24 +7183,6 @@
 #DESCRIPTION Happy Feet Radio - Modern Dance
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/hftapdance/icecast.audio
 #DESCRIPTION Happy Feet Radio - Tap Dance
-#SERVICE 1:64:D:0:0:0:0:0:0:0::
-#DESCRIPTION Mood Radio
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/moodromantic/icecast.audio
-#DESCRIPTION Mood Radio - Romantic
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/moodhappy/icecast.audio
-#DESCRIPTION Mood Radio - Happy
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/moodenergised/icecast.audio
-#DESCRIPTION Mood Radio - Energised
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/moodreflective/icecast.audio
-#DESCRIPTION Mood Radio - Reflective
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/moodheartbroken/icecast.audio
-#DESCRIPTION Mood Radio - Heartbroken
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/moodsad/icecast.audio
-#DESCRIPTION Mood Radio - Sad
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/moodangry/icecast.audio
-#DESCRIPTION Mood Radio - Angry
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/moodblue/icecast.audio
-#DESCRIPTION Mood Radio - Blue
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Starbox Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxblues/icecast.audio
