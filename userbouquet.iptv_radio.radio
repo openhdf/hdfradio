@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 26.05.2024 09:47 by Team www.hdfreaks.cc
+#DESCRIPTION Update 27.05.2024 19:40 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -7183,6 +7183,30 @@
 #DESCRIPTION Happy Feet Radio - Modern Dance
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/hftapdance/icecast.audio
 #DESCRIPTION Happy Feet Radio - Tap Dance
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Radio Paradiso
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-paradisoberlin-mp3-128-5481878?:01.KS.05.24
+#DESCRIPTION Radio Paradiso - 98.2 Berlin live on air
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-80er-mp3-192-9891797?
+#DESCRIPTION Radio Paradiso - 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-cinema-mp3-192-5789353?
+#DESCRIPTION Radio Paradiso - Cinema
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-klassiker-mp3-192-9185535?
+#DESCRIPTION Radio Paradiso - Klassiker
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-lovesongs-mp3-192-1165872?
+#DESCRIPTION Radio Paradiso - Lovesongs
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-paradisopur-mp3-192-5158258?
+#DESCRIPTION Radio Paradiso - Paradiso pur
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-summer-mp3-192-5180614?
+#DESCRIPTION Radio Paradiso - Summer Feeling
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-ffo-mp3-192-5149238?
+#DESCRIPTION Radio Paradiso - FFO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-nord-mp3-192-6107756?
+#DESCRIPTION Radio Paradiso - Nord
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-paradisonrw-mp3-192-1501490?:10
+#DESCRIPTION Radio Paradiso - NRW
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-paraxmas-mp3-192-6291169
+#DESCRIPTION Radio Paradiso - Weihnachtsradio
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Starbox Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxblues/icecast.audio
