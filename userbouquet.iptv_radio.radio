@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 28.05.2024 18:25 by Team www.hdfreaks.cc
+#DESCRIPTION Update 31.05.2024 18:09 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -9117,3 +9117,17 @@
 #DESCRIPTION Delta Radio - Uptempo Banger
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deltaradio.streamabc.net/regc-deltaunplugged-mp3-192-9773725
 #DESCRIPTION Delta Radio - Unplugged
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Hirschmilch Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hirschmilch.de%3a7000/chillout.mp3:1
+#DESCRIPTION Hirschmilch Radio - Chillout
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hirschmilch.de%3a7000/electronic.mp3;2
+#DESCRIPTION Hirschmilch Radio - Electronic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hirschmilch.de%3a7000/prog-house.mp3:3
+#DESCRIPTION Hirschmilch Radio - Prog-House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hirschmilch.de%3a7000/progressive.mp3:4
+#DESCRIPTION Hirschmilch Radio - Progressive
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hirschmilch.de%3a7000/psytrance.mp3:5
+#DESCRIPTION Hirschmilch Radio - Psytrance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hirschmilch.de%3a7000/techno.mp3:6
+#DESCRIPTION Hirschmilch Radio - Techno
