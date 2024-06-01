@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 31.05.2024 18:09 by Team www.hdfreaks.cc
+#DESCRIPTION Update 01.06.2024 13:08 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -8841,6 +8841,8 @@
 #DESCRIPTION Radio ffn - Radio Rotkäppchen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-stream25.radiohost.de/storiesfm_mp3-192
 #DESCRIPTION Radio ffn - Stories FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-de-hz-fal-stream02-cluster01.radiohost.de/ffn-607080radio_mp3-192
+#DESCRIPTION Radio ffn - 607080
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION RMNradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rmnradio.schlagerparadies.de/rmnradio:KS_01_131023
