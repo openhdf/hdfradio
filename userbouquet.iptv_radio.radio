@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 08.06.2024 20:42 by Team www.hdfreaks.cc
+#DESCRIPTION Update 09.06.2024 12:45 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -9135,3 +9135,41 @@
 #DESCRIPTION Hirschmilch Radio - Psytrance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hirschmilch.de%3a7000/techno.mp3:6
 #DESCRIPTION Hirschmilch Radio - Techno
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Spreeradio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-spreeradiolive-mp3-128-6206893?
+#DESCRIPTION 105'5 Spreeradio - Livestream Berlin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.spreeradio.de/spree-80er/mp3-128
+#DESCRIPTION 105'5 Spreeradio - 80er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.spreeradio.de/spree-rock/mp3-128
+#DESCRIPTION 105'5 Spreeradio - 80er Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.spreeradio.de/spree-love/mp3-128
+#DESCRIPTION 105'5 Spreeradio - 80er Love
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.spreeradio.de/stadionhits/mp3-128
+#DESCRIPTION 105'5 Spreeradio - Stadionhits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.spreeradio.de/mallorca/mp3-128/
+#DESCRIPTION 105'5 Spreeradio - Mallorca Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.spreeradio.de/apresskihits/mp3-128/
+#DESCRIPTION 105'5 Spreeradio - Apres Ski Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.spreeradio.de/party/mp3-128/
+#DESCRIPTION 105'5 Spreeradio - Party
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.spreeradio.de/aktuell/mp3-128/
+#DESCRIPTION 105'5 Spreeradio - Aktuelle Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.spreeradio.de/deutsch/mp3-128/
+#DESCRIPTION 105'5 Spreeradio - Deutsch
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.spreeradio.de/spree-black/mp3-128/
+#DESCRIPTION 105'5 Spreeradio - Black
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.spreeradio.de/soft/mp3-128/
+#DESCRIPTION 105'5 Spreeradio - Chill
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.thewaveradio.de/wave-live/mp3-128/
+#DESCRIPTION 105'5 Spreeradio - the wave - relaxing radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.spreeradio.de/70er/mp3-128/
+#DESCRIPTION 105'5 Spreeradio - 70er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.spreeradio.de/90er/mp3-128/
+#DESCRIPTION 105'5 Spreeradio - 90er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.spreeradio.de/2000er/mp3-128/
+#DESCRIPTION 105'5 Spreeradio - 2000er
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.spreeradio.de/oldies/mp3-128/
+#DESCRIPTION 105'5 Spreeradio - Oldies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.spreeradio.de/spree-event/mp3-128/
+#DESCRIPTION 105'5 Spreeradio - Weihnachtsradio
