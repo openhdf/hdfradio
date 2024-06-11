@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 09.06.2024 12:45 by Team www.hdfreaks.cc
+#DESCRIPTION Update 11.06.2024 18:33 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2343,7 +2343,7 @@
 #DESCRIPTION FluxFM - John Reed Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION ⇒ Mixed Channels Rock
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ic2.mainstreamnetwork.com/wyxx-fm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//soundmanagement.streamguys1.com/WYXX
 #DESCRIPTION Mixed Channels - 97.7 Rock - WYXX
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bestofrockfm.stream.vip/rammstein/mp3-192/bestofrock.fm/
 #DESCRIPTION Mixed Channels - Rammstein.FM
@@ -9136,7 +9136,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hirschmilch.de%3a7000/techno.mp3:6
 #DESCRIPTION Hirschmilch Radio - Techno
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
-#DESCRIPTION Spreeradio
+#DESCRIPTION 105'5 Spreeradio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-spreeradiolive-mp3-128-6206893?
 #DESCRIPTION 105'5 Spreeradio - Livestream Berlin
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.spreeradio.de/spree-80er/mp3-128
