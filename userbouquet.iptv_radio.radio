@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 26.06.2024 18:57 by Team www.hdfreaks.cc
+#DESCRIPTION Update 30.06.2024 09:11 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1769,20 +1769,16 @@
 #DESCRIPTION Österreich - Antenne Steiermark
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.antenne.at/ak
 #DESCRIPTION Österreich - Antenne Kärnten
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-purebach-mp3-128-7912278
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klassikr-purebach-mp3-192-5022412
 #DESCRIPTION Österreich - Klassik Radio Bach
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-purebeethoven-mp3-192-9883270
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klassikr-purebeethov-mp3-192-8105895
 #DESCRIPTION Österreich - Ludwig van Beethoven
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-piano-mp3-192-1690902
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klassikr-piano-mp3-192-3745289?9
 #DESCRIPTION Österreich - Piano
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-opera-mp3-192-1730403
-#DESCRIPTION Österreich - Meisterwerke der Oper
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-pureverdi-mp3-192-6581813
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klassikr-opera-mp3-192-2784978
 #DESCRIPTION Österreich - Guiseppe Verdi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-weinabend-mp3-192-7500291
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr_5l7umldw02n_p4gf-mp3-192-6346675
 #DESCRIPTION Österreich - Klassik zum Weinabend
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-christmas-mp3-192-8981917
-#DESCRIPTION Österreich - Christmass Classic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01.radio.antennevorarlberg.at/av-christkindl
 #DESCRIPTION Österreich - Antenne Vorarlberg - Christkindlradio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//onair.krone.at/kronehit.mp3
@@ -1803,8 +1799,6 @@
 #DESCRIPTION Österreich - Kronehit-Love
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit03.mp3
 #DESCRIPTION Österreich - Kronehit-Disco
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit99.mp3
-#DESCRIPTION Österreich - Kronehit-Charts
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit02.mp3
 #DESCRIPTION Österreich - Kronehit-Most Wanted
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit11.mp3
@@ -1861,8 +1855,6 @@
 #DESCRIPTION Österreich - Radio U1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a19000/stream
 #DESCRIPTION Österreich - Welle 1 Austria
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a19128/stream
-#DESCRIPTION Österreich - Welle 1 Graz
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a17128/stream
 #DESCRIPTION Österreich - Welle 1 Linz
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a15256/stream
