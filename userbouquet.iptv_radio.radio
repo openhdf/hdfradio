@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 30.06.2024 09:11 by Team www.hdfreaks.cc
+#DESCRIPTION Update 02.07.2024 17:34 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -9035,33 +9035,33 @@
 #DESCRIPTION Disco.Miami - Radio Westend
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Radio Schwany
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fante.streampanel.cloud/4-blasmusik?:281223_KS_01
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//blasmusik.spcast.eu/stream:020724_KS
 #DESCRIPTION Radio Schwany - Blasmusik
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//twix.streampanel.cloud/10-blaess?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio-blaess.spcast.eu/stream
 #DESCRIPTION Radio Schwany - Bleass
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//charly.streampanel.cloud/3-dieechte?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//volksmusik.spcast.eu/stream
 #DESCRIPTION Radio Schwany - Die Echte
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//twix.streampanel.cloud/8-herzklang?:04
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//herzklang.spcast.eu/stream
 #DESCRIPTION Radio Schwany - Herzklang
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//charly.streampanel.cloud/12-hoamatwelle?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hoamatwelle.spcast.eu/stream
 #DESCRIPTION Radio Schwany - Hoamatwelle
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fante.streampanel.cloud/11-instrumental?:06
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//instrumental-volksmusik.spcast.eu/stream
 #DESCRIPTION Radio Schwany - Intrumental
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//tree.streampanel.cloud/7-maerchen?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//maerchenradio.spcast.eu/stream
 #DESCRIPTION Radio Schwany - Märchen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//charly.streampanel.cloud/5-oberkrain?:08
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//oberkrain.spcast.eu/stream
 #DESCRIPTION Radio Schwany - Oberkrein
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//tree.streampanel.cloud/6-oldiehit?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//oldie.spcast.eu/stream
 #DESCRIPTION Radio Schwany - Oldiehit
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fante.streampanel.cloud/2-schlager?:10
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//schlager.spcast.eu/stream
 #DESCRIPTION Radio Schwany - Schlager
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//tree.streampanel.cloud/9-souvenir1?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//souvenir.spcast.eu/stream
 #DESCRIPTION Radio Schwany - Souvenier 1
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fante.streampanel.cloud/13-souvenir2?:12
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//souvenir2.spcast.eu/stream
 #DESCRIPTION Radio Schwany - Souvenier 2
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bone.streampanel.cloud/1-schwany?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//volkstuemlich.spcast.eu/stream
 #DESCRIPTION Radio Schwany - Volksmusik
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//tree.streampanel.cloud/14-weihnacht?:14
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//weihnachtsradio.spcast.eu/stream
 #DESCRIPTION Radio Schwany - Weihnachtsradio
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Radio Seefunk
