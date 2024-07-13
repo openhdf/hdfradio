@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 08.07.2024 19:12 by Team www.hdfreaks.cc
+#DESCRIPTION Update 13.07.2024 12:07 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -199,6 +199,8 @@
 #DESCRIPTION 80s80s - HipHop
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/breakdance/mp3-192/homepage/
 #DESCRIPTION 80s80s - Breakdance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-80s80stechno-mp3-192-6907852
+#DESCRIPTION 80s80s - TECHNO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/queen/mp3-192/homepage/
 #DESCRIPTION 80s80s - Queen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/100/mp3-192/homepage/
@@ -2401,6 +2403,8 @@
 #DESCRIPTION Mixed Channels - Nice Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server3.streamserver-unlimited.de%3a8219/main_lo
 #DESCRIPTION Mixed Channels - Austrianpower Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge59.streamonkey.net/handwerkerradio-live/stream/mp3: mixed channels pop
+#DESCRIPTION Mixed Channels - Handwerker Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION ⇒ Mixed Channels Miscellaneous
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radio-matchbox.de/listen/matchbox/radio.mp3
