@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 19.07.2024 16:35 by Team www.hdfreaks.cc
+#DESCRIPTION Update 19.07.2024 16:39 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -785,8 +785,6 @@
 #DESCRIPTION laut.fm - Isenstedt 32339
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/jayswebradio
 #DESCRIPTION laut.fm - jaysweb-Radio (NI)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.laut.fm/smooth-jazz
-#DESCRIPTION laut.fm - Smooth Jazz Instrumental 24/7
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/jukejoint-blues-special
 #DESCRIPTION laut.fm - Jukejoint Blues Special
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/just80s_maximal
@@ -885,6 +883,8 @@
 #DESCRIPTION laut.fm - Skullyz Rfr (RI)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/skyradiofm
 #DESCRIPTION laut.fm - Skyradiofm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.laut.fm/smooth-jazz
+#DESCRIPTION laut.fm - Smooth Jazz Instrumental 24/7
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/song
 #DESCRIPTION laut.fm - Song (MI)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/sound-of-the-icebreaker
