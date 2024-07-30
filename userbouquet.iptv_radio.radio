@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 19.07.2024 16:39 by Team www.hdfreaks.cc
+#DESCRIPTION Update 30.07.2024 18:54 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1489,8 +1489,6 @@
 #DESCRIPTION ROCK FM - COUNTRY
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/liedermacher/mp3-128
 #DESCRIPTION ROCK FM - LIEDERMACHER
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/beatles/mp3-128
-#DESCRIPTION ROCK FM - BEATLES
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/classicrock/aac-128
 #DESCRIPTION ROCK FM - Classic Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/rollingstones/aac-128
