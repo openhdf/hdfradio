@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 30.07.2024 18:54 by Team www.hdfreaks.cc
+#DESCRIPTION Update 01.08.2024 19:03 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2369,8 +2369,6 @@
 #DESCRIPTION Mixed Channels - Legend FM 101.6 Rock Oldies
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stric6.streamakaci.com%3a80/4u80s.mp3
 #DESCRIPTION Mixed Channels - ABC - Stars 80` USA
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic11-cybertec.radioca.st/stream
-#DESCRIPTION Mixed Channels - Miled Music - Classic Rock Mexiko
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//antares.dribbcast.com/proxy/s8180/stream
 #DESCRIPTION Mixed Channels - Niche Radio - 24-7 Classic Rock
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
@@ -2529,6 +2527,88 @@
 #DESCRIPTION Schottland - Tay 102.8 FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming02.zfast.co.uk/proxy/twolochs1
 #DESCRIPTION Schottland - Two Lochs Radio 106.6
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION Mexiko
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic75-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music 50s 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic76-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music 60s 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic77-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music 70s 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic1-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music 80s 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic2-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music 90s 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic100-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Armando Manzanero 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic25-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Alternativo 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic13-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Blues 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic201-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Carlos Gardel 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic10-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Clásica 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic11-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Classic Rock 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic14-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Country 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic41-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Dance 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic26-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Disco 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic53-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Electro House 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic6-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Electrónica 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic46-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Elvis Presley 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic47-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Éxitos en Inglés 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic65-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Vicente Fernández 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic79-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Funk 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic9-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Hip-Hop 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic60-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Javier Solis 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic7-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Jazz 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic96-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Jorge Muñiz 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic61-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Jorge Negrete 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic64-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music José Alfredo Jiménez 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic95-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music José José 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic44-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Juan Gabriel 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic19-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Latina 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic99-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music M. Antonio Solís 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic80-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Marco Antonio Muñiz 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic94-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Mijares 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic72-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Navideña 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic15-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Oldies 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic45-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Pedro Infante 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic16-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Pop 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic30-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Rat Pack 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic71-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Soundtrack 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic68-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music The Beatles 320kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic105-cybertec.radioca.st/stream
+#DESCRIPTION Miled Music Trance 320kbit/s 
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION 90s90s
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90spop4760822-mp3-192-9403761
