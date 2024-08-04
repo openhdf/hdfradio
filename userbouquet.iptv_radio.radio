@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 01.08.2024 19:03 by Team www.hdfreaks.cc
+#DESCRIPTION Update 04.08.2024 12:55 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -293,122 +293,122 @@
 #DESCRIPTION Radio Ton - 80er Rock
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Radio BOB!
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-national/mp3-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobnational5043365-mp3-192-2943705
 #DESCRIPTION Radio BOB! - Livestream National
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-live/mp3-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radioboblive-mp3-192-3829599
 #DESCRIPTION Radio BOB! - Livestream Hessen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/live-nrw-mitte/mp3-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-boblivenrwmitte7969951-mp3-192-6085175
 #DESCRIPTION Radio BOB! - Livestream NRW
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-national/mp3-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobshlive1415002-mp3-192-6231206
 #DESCRIPTION Radio BOB! - Livestream SH
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/donots/mp3-192
-#DESCRIPTION Radio BOB! - Donots Rockshow Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/ritter/mp3-192
-#DESCRIPTION Radio BOB! - Der Dunkle Parabelritter
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/fury/mp3-192
-#DESCRIPTION Radio BOB! - Fury in the Slaughterhouse-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bosshoss/mp3-192
-#DESCRIPTION Radio BOB! - The BossHoss Moderator Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/sammet/mp3-192
-#DESCRIPTION Radio BOB! - Tobias Sammet Moderator Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-christmas/mp3-192
-#DESCRIPTION Radio BOB! - Christmas Rock Stream (Eventstream)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/70errock/mp3-192
-#DESCRIPTION Radio BOB! - 70er Rock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-80srock/mp3-192
-#DESCRIPTION Radio BOB! - 80er Rock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-90srock/mp3-192
-#DESCRIPTION Radio BOB! - 90er Rock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/2000er/mp3-192
-#DESCRIPTION Radio BOB! - 2000er Rock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-alternative/mp3-192
-#DESCRIPTION Radio BOB! - Alternative Rock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-bestofrock/mp3-192
-#DESCRIPTION Radio BOB! - Best of Rock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/blues/mp3-192
-#DESCRIPTION Radio BOB! - Blues-Stream
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/roadtrip/mp3-192/streams.radiobob.de/
-#DESCRIPTION Radio BOB! - Roadtrip
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-classicrock/mp3-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobclassicrock1594088-mp3-192-3516780
 #DESCRIPTION Radio BOB! - Classic Rock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/collegerock/mp3-192
-#DESCRIPTION Radio BOB! - College Rock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/country/mp3-192
-#DESCRIPTION Radio BOB! - Country Rock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/deathmetal/mp3-192
-#DESCRIPTION Radio BOB! - Death Metal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-deutsch/mp3-192
-#DESCRIPTION Radio BOB! - Deutschrock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/emo/mp3-192
-#DESCRIPTION Radio BOB! - Emo-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-festival/mp3-192
-#DESCRIPTION Radio BOB! - Festival-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/gothic/mp3-192
-#DESCRIPTION Radio BOB! - Gothic-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-grunge/mp3-192
-#DESCRIPTION Radio BOB! - Grunge-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-hardrock/mp3-192
-#DESCRIPTION Radio BOB! - Hardrock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-hartesaite/mp3-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobalternativerock9577444-mp3-192-2041777
+#DESCRIPTION Radio BOB! - Alternative Rock-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobbestofrock1362412-mp3-192-5332584
+#DESCRIPTION Radio BOB! - Best of Rock-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobhartesaite4742158-mp3-192-1633493
 #DESCRIPTION Radio BOB! - Harte Saite-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-kuschelrock/mp3-192
-#DESCRIPTION Radio BOB! - Kuschelrock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-metal/mp3-192
-#DESCRIPTION Radio BOB! - Metal-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/metalcore/mp3-192
-#DESCRIPTION Radio BOB! - Metalcore-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/mittelalter/mp3-192
-#DESCRIPTION Radio BOB! - Mittelalter-Rock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/newcomer/mp3-192
-#DESCRIPTION Radio BOB! - Newcomer-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/powermetal/mp3-192
-#DESCRIPTION Radio BOB! - Power Metal-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/progrock/mp3-192/
-#DESCRIPTION Radio BOB! - Prog-Rock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-punk/mp3-192
-#DESCRIPTION Radio BOB! - Punk-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-rockabilly/mp3-192
-#DESCRIPTION Radio BOB! - Rockabilly-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-rockhits/mp3-192
-#DESCRIPTION Radio BOB! - Rock Hits-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/rockoldies/mp3-192
-#DESCRIPTION Radio BOB! - Rock Oldies-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/rockparty/mp3-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobrockparty8725072-mp3-192-3956507
 #DESCRIPTION Radio BOB! - Rockparty-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-singersong/mp3-192
-#DESCRIPTION Radio BOB! - Singer und Songwriter-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/ska/mp3-192
-#DESCRIPTION Radio BOB! - Ska-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/southernrock/mp3-192
-#DESCRIPTION Radio BOB! - Southern Rock-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/symphmetal/mp3-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobdeutschrock9978490-mp3-192-9333326
+#DESCRIPTION Radio BOB! - Deutschrock-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-guitarheroes-mp3-192-4662912
+#DESCRIPTION Radio BOB! - Guitar Heroes-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-bobwomenofrock-mp3-192-7709875
+#DESCRIPTION Radio BOB! - Women of Rock-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobmittelalter7445036-mp3-192-8025500
+#DESCRIPTION Radio BOB! - Mittelalter-Rock-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobob2000rock2507507-mp3-192-9881528
+#DESCRIPTION Radio BOB! - 2000er Rock-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobob90srock8400272-mp3-192-6033382
+#DESCRIPTION Radio BOB! - 90er Rock-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobob80srock2115424-mp3-192-2080682
+#DESCRIPTION Radio BOB! - 80er Rock-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobob70srock4856061-mp3-192-8503408
+#DESCRIPTION Radio BOB! - 70er Rock-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-bobsummerrockhits-mp3-192-5425735
+#DESCRIPTION Radio BOB! - Summer Rock Hits-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobrockoldies5305732-mp3-192-7451164
+#DESCRIPTION Radio BOB! - Rock Oldies-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobrockhits4737502-mp3-192-8003058
+#DESCRIPTION Radio BOB! - Rock Hits-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobhardrock4572019-mp3-192-8919919
+#DESCRIPTION Radio BOB! - Hardrock-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobmetal3070164-mp3-192-5354778
+#DESCRIPTION Radio BOB! - Metal-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobmetalcore1855704-mp3-192-1809267
+#DESCRIPTION Radio BOB! - Metalcore-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobnumetal-mp3-192-3677695
+#DESCRIPTION Radio BOB! - Nu Metal-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobdeathmetal8709679-mp3-192-6241857
+#DESCRIPTION Radio BOB! - Death Metal-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobpowermetal7971779-mp3-192-4551381
+#DESCRIPTION Radio BOB! - Power Metal-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-bobfolkrock-mp3-192-4844468
+#DESCRIPTION Radio BOB! - Folk Rock-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobsymphmetal4646931-mp3-192-2318934
 #DESCRIPTION Radio BOB! - Symphonic Metal-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-chillout/mp3-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobgothic6924976-mp3-192-2500754
+#DESCRIPTION Radio BOB! - Gothic Rock-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobpunk9297074-mp3-192-5301995
+#DESCRIPTION Radio BOB! - Punk-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobgrunge4112801-mp3-192-5387631
+#DESCRIPTION Radio BOB! - Grunge-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobemo1934616-mp3-192-5631513
+#DESCRIPTION Radio BOB! - Emo-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc_jwxxgdtmui_gfkb-mp3-192-3773822
+#DESCRIPTION Radio BOB! - Electro Rock-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobcollege5039428-mp3-192-4005786
+#DESCRIPTION Radio BOB! - College Rock-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobska6892150-mp3-192-1651077
+#DESCRIPTION Radio BOB! - Ska-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobprogrock1964104-mp3-192-1423777
+#DESCRIPTION Radio BOB! - Prog-Rock-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-bobstonerrock-mp3-192-1306307
+#DESCRIPTION Radio BOB! - Stoner Rock-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobblues6003375-mp3-192-4052902
+#DESCRIPTION Radio BOB! - Blues-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-bobbritpop-mp3-192-5617717
+#DESCRIPTION Radio BOB! - Britpop-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobsouthernrock8560476-mp3-192-3976810
+#DESCRIPTION Radio BOB! - Southern Rock-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-bobroadtrip-mp3-192-1326734
+#DESCRIPTION Radio BOB! - Roadtrip-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobcountry1065745-mp3-192-7688868
+#DESCRIPTION Radio BOB! - Country Rock-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobfestival4791239-mp3-192-1869588
+#DESCRIPTION Radio BOB! - Festival-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobrockabilly9140406-mp3-192-8598887
+#DESCRIPTION Radio BOB! - Rockabilly-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobkuschelrock7157763-mp3-192-3881289
+#DESCRIPTION Radio BOB! - Kuschelrock-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobsingersong8920377-mp3-192-7559471
+#DESCRIPTION Radio BOB! - Singer-Songwriter-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobchillout8068831-mp3-192-5567718
 #DESCRIPTION Radio BOB! - Unplugged-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-wacken/mp3-192
-#DESCRIPTION Radio BOB! - Wacken Open Air-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/100/mp3-192/mp3-192
-#DESCRIPTION Radio BOB! - Event-Stream 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/101/mp3-192/mp3-192
-#DESCRIPTION Radio BOB! - Event-Stream 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-acdc/mp3-192
-#DESCRIPTION Radio BOB! - AC/DC-Collection
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/metallica/mp3-192
-#DESCRIPTION Radio BOB! - Metallica-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/motoerhead/mp3-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobnewcomer7141600-mp3-192-3290543
+#DESCRIPTION Radio BOB! - Newcomer-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobevent016699370-mp3-192-7087907
+#DESCRIPTION Radio BOB! - Christmas Rock-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobmotoerhead5340375-mp3-192-1470392
 #DESCRIPTION Radio BOB! - Motörhead-Stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radiobob.de/bob-queen/mp3-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-bobkiss-mp3-192-1708284
+#DESCRIPTION Radio BOB! - KISS-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobmetallica3164584-mp3-192-3532789
+#DESCRIPTION Radio BOB! - Metallica-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobacdc4694296-mp3-192-2891760
+#DESCRIPTION Radio BOB! - AC/DC-Collection
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-bobrollingstones-mp3-192-1803639
+#DESCRIPTION Radio BOB! - Rolling Stones-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobqueen9008899-mp3-192-1544549
 #DESCRIPTION Radio BOB! - Queen-Stream
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-bobbritpop-mp3-192-5617717
-#DESCRIPTION Radio BOB! - Britpop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-bobrollingstones-mp3-192-1803639
-#DESCRIPTION Radio BOB! - Rolling Stones
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-bobkiss-mp3-192-1708284
-#DESCRIPTION Radio BOB! - Kiss
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc_jwxxgdtmui_gfkb-mp3-192-3773822:01
-#DESCRIPTION Radio BOB! - Electro Rock 
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-bobstonerrock-mp3-192-1306307
-#DESCRIPTION Radio BOB! - Stoner Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobsammet6211857-mp3-192-6620161
+#DESCRIPTION Radio BOB! - Tobias Sammet Rockshow
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobfury4003573-mp3-192-9403844
+#DESCRIPTION Radio BOB! - Fury in the Slaughterhouse-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a://regiocast.streamabc.net/regc-radiobobbosshoss3509320-mp3-192-5309717
+#DESCRIPTION Radio BOB! - The BossHoss Rockshow-Stream
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Radio PSR
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/psr-live/mp3-192/mediaplayer:01KS180723
