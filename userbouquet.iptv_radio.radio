@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 23.08.2024 17:06 by Team www.hdfreaks.cc
+#DESCRIPTION Update 26.08.2024 09:03 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -8885,6 +8885,8 @@
 #DESCRIPTION radio 88.6 - Rot Weiss Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streamonkey.net/radio886-newrock/stream/mp3
 #DESCRIPTION radio 88.6 - New Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge60.streamonkey.net/radio886-metal/stream/mp3
+#DESCRIPTION radio 88.6 - Metal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trock.fluidstream.eu/trock.mp3
 #DESCRIPTION radio 88.6 - T-ROCK
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
