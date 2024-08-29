@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 26.08.2024 09:03 by Team www.hdfreaks.cc
+#DESCRIPTION Update 29.08.2024 11:05 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -9281,7 +9281,7 @@
 #DESCRIPTION Großbritannien
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
 #DESCRIPTION BBC Radio 1
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8:26_08_2024_K.S.
 #DESCRIPTION BBC Radio 2
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8
 #DESCRIPTION BBC Radio 3
@@ -9299,19 +9299,33 @@
 #DESCRIPTION BBC Radio Ulster
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_wales_fm/bbc_radio_wales_fm.isml/bbc_radio_wales_fm-audio%3d96000.norewind.m3u8
 #DESCRIPTION BBC Radio Wales
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_manchester/bbc_radio_manchester.isml/bbc_radio_manchester-audio%3d96000.norewind.m3u8
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_manchester/bbc_radio_manchester.isml/bbc_radio_manchester-audio%3d96000.norewind.m3u8:10
 #DESCRIPTION BBC Radio Manchester
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_oxford/bbc_radio_oxford.isml/bbc_radio_oxford-audio%3d96000.norewind.m3u8
 #DESCRIPTION BBC Radio Oxford
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_merseyside/bbc_radio_merseyside.isml/bbc_radio_merseyside-audio%3d96000.norewind.m3u8
 #DESCRIPTION BBC Radio Merseyside
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fr1.1mix.co.uk%3a8060/192
+#DESCRIPTION 1Mix E.D.M. UK
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fr1.1mix.co.uk%3a8060/320h
+#DESCRIPTION 1Mix Radio Trance UK
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream6.amazingradio.com%3a8443/stream.mp3?redirected=1
+#DESCRIPTION Amazing Radio UK
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream1.hippynet.co.uk%3a8061/stream
+#DESCRIPTION Atlantis Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//str3.openstream.co/651
+#DESCRIPTION Awesome 80s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//finland.discovertrance.com%3a8212/listen.mp3
+#DESCRIPTION Discover Trance Radio UK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dancestream.danceradiouk.com/;
-#DESCRIPTION Dance UK Radio live
+#DESCRIPTION Dance Radio UK
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fantasyradionew.radioca.st/;
+#DESCRIPTION Fantasy Radio UK live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s23.myradiostream.com%3a8238/;
 #DESCRIPTION Gold Radio UK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media-ice.musicradio.com/HeartLondonMP3
 #DESCRIPTION Heart 106.2 FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media-sov.musicradio.com/Heart70s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media-sov.musicradio.com/Heart70s:20
 #DESCRIPTION Heart 70s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media-ice.musicradio.com/Heart80s
 #DESCRIPTION Heart 80s
@@ -9323,22 +9337,64 @@
 #DESCRIPTION Heart Dance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media-ice.musicradio.com/HeartXmasMP3
 #DESCRIPTION Heart Xmas radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media-ice.musicradio.com/LBCLondonMP3
+#DESCRIPTION LBC 97.3 FM UK
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiobossrelay.radioca.st/stream
+#DESCRIPTION London Music Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//us3new.listen2myradio.com%3a2199/listen.php?port=8325&type=s2&mount=/stream
+#DESCRIPTION Loversrockradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge-bauerall-01-gos2.sharp-stream.com/magic1054.aac
+#DESCRIPTION Magic Radio UK live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge-bauerall-01-gos2.sharp-stream.com/magicchilled.aac
+#DESCRIPTION Magic Chilled live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge-bauerall-01-gos2.sharp-stream.com/magicmellow.aac
+#DESCRIPTION Magic Mellow live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge-bauerall-01-gos2.sharp-stream.com/magicsoul.aac
+#DESCRIPTION Magic Soul live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen-msmn.sharp-stream.com/solarlow.mp3
+#DESCRIPTION Manx Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mearnsfm.streammachine.co.uk/stream/mearnsfm
+#DESCRIPTION Mearns FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream1.hippynet.co.uk/stream/mearnsindie
+#DESCRIPTION Mearns Indie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream1.hippynet.co.uk%3a8006/stream
+#DESCRIPTION Mearns 70s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream1.hippynet.co.uk%3a8009/stream
+#DESCRIPTION Mearns 80s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-relay-geo.ntslive.net/stream
+#DESCRIPTION NTS Radio live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n28a-eu.rcs.revma.com/avg9pfvpxwuvv?
 #DESCRIPTION Pop Hits live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//str3.openstream.co/1386?
+#DESCRIPTION Puls Radio Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice1.streeemer.com%3a8030/radio.aac
 #DESCRIPTION Today's Hits UK
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//18863.live.streamtheworld.com/977_HITS_SC
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//18863.live.streamtheworld.com/977_HITS_SC:30
 #DESCRIPTION Today's Hits Radio live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiocaroline.net/rc128/;?
 #DESCRIPTION Radio Caroline
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiocaroline.net/fb128/;?
 #DESCRIPTION Radio Caroline Flashback
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen.radioking.com/radio/34544/stream/70739
+#DESCRIPTION Retrosounds Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamer-uk.rinse.fm%3a8443/stream
+#DESCRIPTION Rinse FM UK
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//admin.stream.rinse.fm/proxy/kool/stream
+#DESCRIPTION Kool FM UK
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming05.liveboxstream.uk/proxy/selectr1/stream
+#DESCRIPTION Select Radio UK
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//admin.stream.rinse.fm/proxy/swu/stream
+#DESCRIPTION SWU UK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice-sov.musicradio.com/SmoothUKMP3
 #DESCRIPTION Smooth Radio UK live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media-ssl.musicradio.com/SmoothChill
 #DESCRIPTION Smooth Chill UK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21333.live.streamtheworld.com/SMOOTHRELAX_SYD_AAC.aac
 #DESCRIPTION Smooth relax UK
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.sheffieldlive.org%3a8000/shefflive.mp3
+#DESCRIPTION Sheffield live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen-msmn.sharp-stream.com/solarlow.mp3
+#DESCRIPTION Solar Radio UK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen.soulradio.uk/uk
 #DESCRIPTION SOUL RADIO Only Classic Soul live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ukrootsfm.mywire.org%3a8000/;
