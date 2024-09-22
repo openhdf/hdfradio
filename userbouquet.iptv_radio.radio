@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 10.09.2024 21:21 by Team www.hdfreaks.cc
+#DESCRIPTION Update 22.09.2024 21:14 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1835,6 +1835,8 @@
 #DESCRIPTION Österreich - Campus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/fm4-q2a
 #DESCRIPTION Österreich - FM4
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//oe1dd.mdn.ors.at/out/u/oe1dd/manifest.m3u8
+#DESCRIPTION Österreich - Radio OE 1 Dolby Audio 5.1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ors-sn09.ors-shoutcast.at/bgl-q2a
 #DESCRIPTION Österreich - Radio Burgenland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/ktn-q2a
