@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 25.10.2024 16:45 by Team www.hdfreaks.cc
+#DESCRIPTION Update 25.10.2024 16:50 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1702,41 +1702,41 @@
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Radio Arabella AT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-niederoesterreich
-#DESCRIPTION Radio Arabelle AT - Arabella Niederösterreich
+#DESCRIPTION Radio Arabella AT - Arabella Niederösterreich
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-wien
-#DESCRIPTION Radio Arabelle AT - Arabella Wien
+#DESCRIPTION Radio Arabella AT - Arabella Wien
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-obereroesterreich
-#DESCRIPTION Radio Arabelle AT - Arabella Oberösterreich
+#DESCRIPTION Radio Arabella AT - Arabella Oberösterreich
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-relax
-#DESCRIPTION Radio Arabelle AT - Arabella Relax
+#DESCRIPTION Radio Arabella AT - Arabella Relax
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-gold
-#DESCRIPTION Radio Arabelle AT - Arabella Gold
+#DESCRIPTION Radio Arabella AT - Arabella Gold
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-hot
-#DESCRIPTION Radio Arabelle AT - Arabella Hot
+#DESCRIPTION Radio Arabella AT - Arabella Hot
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-80er
-#DESCRIPTION Radio Arabelle AT - Arabella 80er
+#DESCRIPTION Radio Arabella AT - Arabella 80er
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-austropop
-#DESCRIPTION Radio Arabelle AT - Arabella Austropop
+#DESCRIPTION Radio Arabella AT - Arabella Austropop
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-lovesongs
-#DESCRIPTION Radio Arabelle AT - Arabella Lovesongs
+#DESCRIPTION Radio Arabella AT - Arabella Lovesongs
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-70er
-#DESCRIPTION Radio Arabelle AT - Arabella 70er
+#DESCRIPTION Radio Arabella AT - Arabella 70er
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-goldenoldies
-#DESCRIPTION Radio Arabelle AT - Arabella Golden Oldies
+#DESCRIPTION Radio Arabella AT - Arabella Golden Oldies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-90er
-#DESCRIPTION Radio Arabelle AT - Arabella 90er
+#DESCRIPTION Radio Arabella AT - Arabella 90er
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-schlager
-#DESCRIPTION Radio Arabelle AT - Arabella Schlager
+#DESCRIPTION Radio Arabella AT - Arabella Schlager
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-rock
-#DESCRIPTION Radio Arabelle AT - Arabella Rock
+#DESCRIPTION Radio Arabella AT - Arabella Rock
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-tiamo
-#DESCRIPTION Radio Arabelle AT - Arabella Ti Amo
+#DESCRIPTION Radio Arabella AT - Arabella Ti Amo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-holiday
-#DESCRIPTION Radio Arabelle AT - Arabella Holiday
+#DESCRIPTION Radio Arabella AT - Arabella Holiday
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-wienerschmaeh
-#DESCRIPTION Radio Arabelle AT - Arabella Wiener Schmäh
+#DESCRIPTION Radio Arabella AT - Arabella Wiener Schmäh
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-christmas
-#DESCRIPTION Radio Arabelle AT - Arabella Christmas
+#DESCRIPTION Radio Arabella AT - Arabella Christmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streams.arabella.at/arabella-magic?aggregator=radio-at
 #DESCRIPTION Radio Arabella AT - Arabella MAGIC
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
