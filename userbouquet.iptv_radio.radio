@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 25.10.2024 16:14 by Team www.hdfreaks.cc
+#DESCRIPTION Update 25.10.2024 16:45 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1737,6 +1737,8 @@
 #DESCRIPTION Radio Arabelle AT - Arabella Wiener Schmäh
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-christmas
 #DESCRIPTION Radio Arabelle AT - Arabella Christmas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streams.arabella.at/arabella-magic?aggregator=radio-at
+#DESCRIPTION Radio Arabella AT - Arabella MAGIC
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Radio Arabella DE
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge59.stream.radioarabella.de/radioarabella-muenchen/stream/mp3
