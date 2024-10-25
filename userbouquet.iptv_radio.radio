@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 11.10.2024 17:31 by Team www.hdfreaks.cc
+#DESCRIPTION Update 25.10.2024 16:14 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -217,6 +217,8 @@
 #DESCRIPTION 80s80s - EBM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-80s80sreggae-mp3-192-3880321?
 #DESCRIPTION 80s80s - Reggae
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc_vvopejosnr_rv4r-mp3-192-6705874?
+#DESCRIPTION 80s80s - Alternative
 #SERVICE 1:64:D:0:0:0:0:0:0:0::
 #DESCRIPTION Perfect Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n0a.radiojar.com/whwyhz188a0uv?:01011023K.S.
@@ -9455,3 +9457,143 @@
 #DESCRIPTION RT1 Synthwave
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge67.streamonkey.net/rt1-ch36/stream/mp3
 #DESCRIPTION RT1 Ikarus Festival Radio
+#SERVICE 1:64:D:0:0:0:0:0:0:0::
+#DESCRIPTION HotMix France
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-2000s-fr-mp3:++Oct2024K.S.++
+#DESCRIPTION HotMix - 2000´s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-2010-en-mp3:02
+#DESCRIPTION HotMix - 2010´s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-80s-fr-mp3:03
+#DESCRIPTION HotMix - 80´s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-90s-fr-mp3:04
+#DESCRIPTION HotMix - 90´s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-acoustic-en-mp3:1_05
+#DESCRIPTION HotMix - Acoustic Chill
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-afro-en-mp3:06
+#DESCRIPTION HotMix - Afro Beats
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-bbq-en-mp3:07
+#DESCRIPTION HotMix - BBQ
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-baby-fr-mp3:08
+#DESCRIPTION HotMix - Baby
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-balearic_vibes-en-mp3:09
+#DESCRIPTION HotMix - Balearic Vibes
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-blues-en-mp3:10
+#DESCRIPTION HotMix - Blues
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-china-en-mp3:11
+#DESCRIPTION HotMix - China
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-christmas-en-mp3:12
+#DESCRIPTION HotMix - Christmas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-classic-house-en-mp3:13
+#DESCRIPTION HotMix - Classic House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-rap_us-en-mp3:14
+#DESCRIPTION HotMix - Classic Rap
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-classic-rock-en-mp3:15
+#DESCRIPTION HotMix - Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-classic_soul-en-mp3:16
+#DESCRIPTION HotMix - Classic Soul
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-classical-en-mp3:17
+#DESCRIPTION HotMix - Classical
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-cocktail_groove-en-mp3:18
+#DESCRIPTION HotMix - Cocktail Groove
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-cocktail_jazz-en-mp3:19
+#DESCRIPTION HotMix - Cocktail Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-cocktail_trendy-en-mp3:20
+#DESCRIPTION HotMix - Cocktail Trendy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-country_hits-en-mp3:21
+#DESCRIPTION HotMix - Country Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-dance-fr-mp3:22
+#DESCRIPTION HotMix - Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-deep_in_ibz-en-mp3:23
+#DESCRIPTION HotMix - Deep House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-dinner_groove-en-mp3:24
+#DESCRIPTION HotMix - Dinner Groove
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-dinner_lounge-en-mp3:25
+#DESCRIPTION HotMix - Dinner Lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-disco_fever-en-mp3:26
+#DESCRIPTION HotMix - Disco Fever
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-disco_funk-en-mp3:27
+#DESCRIPTION HotMix - Disco Funk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-electro_dance-en-mp3:28
+#DESCRIPTION HotMix - Electro Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-working-en-mp3:29
+#DESCRIPTION HotMix - Focus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-frenchy-fr-mp3:30
+#DESCRIPTION HotMix - Frenchy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-funk-en-mp3:31
+#DESCRIPTION HotMix - Funk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-gaming-en-mp3:32
+#DESCRIPTION HotMix - Gaming
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-gold-fr-mp3
+#DESCRIPTION HotMix - Gold 60s-70s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-greece-en-mp3:34
+#DESCRIPTION HotMix - Greece
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-happy-en-mp3:35
+#DESCRIPTION HotMix - Happy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-hard_rock-en-mp3:36
+#DESCRIPTION HotMix - Hard Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-hiphop-en-mp3:37
+#DESCRIPTION HotMix - Hip-Hop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-hits-fr-mp3:38
+#DESCRIPTION HotMix - Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-india-en-mp3:39
+#DESCRIPTION HotMix - India
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-indie-en-mp3:40
+#DESCRIPTION HotMix - Indie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-italia-en-mp3:41
+#DESCRIPTION HotMix - Italia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-japan-en-mp3:42
+#DESCRIPTION HotMix - Japan
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-dinner_jazz-en-mp3:43
+#DESCRIPTION HotMix - Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-k-pop-en-mp3:44
+#DESCRIPTION HotMix - K-pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-latino-en-mp3:45
+#DESCRIPTION HotMix - Latino
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-lo-fi-en-mp3:46
+#DESCRIPTION HotMix - LoFi
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-lounge-en-mp3:47
+#DESCRIPTION HotMix - Lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-love-en-mp3:48
+#DESCRIPTION HotMix - Love
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-medina-en-mp3:49
+#DESCRIPTION HotMix - Medina
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-metal-en-mp3:50
+#DESCRIPTION HotMix - Metal
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-motown-en-mp3:51
+#DESCRIPTION HotMix - Motown
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-movies-en-mp3:52
+#DESCRIPTION HotMix - Movies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-new-fr-mp3:53
+#DESCRIPTION HotMix - New
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-nu_disco-en-mp3:54
+#DESCRIPTION HotMix - Nu Disco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-ocean-en-mp3:55
+#DESCRIPTION HotMix - Ocean
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-on_the_road-en-mp3:56
+#DESCRIPTION HotMix - On the Road
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-piano_bar-en-mp3:57
+#DESCRIPTION HotMix - Piano Bar
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-platinum-fr-mp3:58
+#DESCRIPTION HotMix - Platinum
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-pop_rock-fr-mp3:59
+#DESCRIPTION HotMix - Pop Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-rnb-en-mp3:60
+#DESCRIPTION HotMix - R&B
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-reggae-en-mp3:61
+#DESCRIPTION HotMix - Reggae
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-rock-en-mp3:62
+#DESCRIPTION HotMix - Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-salsa-en-mp3:63
+#DESCRIPTION HotMix - Salsa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-spain-en-mp3:64
+#DESCRIPTION HotMix - Spain
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-sport-en-mp3:65
+#DESCRIPTION HotMix - Sport
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-sport_plus-en-mp3:66
+#DESCRIPTION HotMix - Sport +
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-sunny-en-mp3:67
+#DESCRIPTION HotMix - Sunny
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-tic_toc-en-mp3:68
+#DESCRIPTION HotMix - Tic Toc
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-zen-en-mp3:69
+#DESCRIPTION HotMix - Zen
