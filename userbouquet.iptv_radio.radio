@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 10.11.2024 15:38 by Team www.hdfreaks.cc
+#DESCRIPTION Update 11.11.2024 18:57 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1133,8 +1133,6 @@
 #DESCRIPTION WDR - COSMO - Italia
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wdr-cosmo-coslive.icecastssl.wdr.de/wdr/cosmo/coslive/mp3/128/stream.mp3
 #DESCRIPTION WDR - COSMO Konzerte
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wdr-cosmo-selektor.icecastssl.wdr.de/wdr/cosmo/selektor/mp3/128/stream.mp3
-#DESCRIPTION WDR - COSMO Selector
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio SAW
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiosaw.de/saw/mp3-192/radioSAW-Musikwelt-Webseite/stream.mp3
