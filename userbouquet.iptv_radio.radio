@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 20.11.2024 18:31 by Team www.hdfreaks.cc
+#DESCRIPTION Update 22.11.2024 16:35 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2479,6 +2479,8 @@
 #DESCRIPTION SATzentrale - Deluxe
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//satzentrale-nature.stream.laut.fm/satzentrale-nature
 #DESCRIPTION SATzentrale - Nature
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//satzentrale-projekt.stream.laut.fm/satzentrale-projekt
+#DESCRIPTION SATzentrale - Projekt
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION partyvibe
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.partyvibe.com%3a8060
