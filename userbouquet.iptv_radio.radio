@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 22.11.2024 16:35 by Team www.hdfreaks.cc
+#DESCRIPTION Update 25.11.2024 18:00 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2238,73 +2238,105 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.ilovemusic.de/iloveradio8.mp3
 #DESCRIPTION I LOVE Music - I Love X-MAS
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
-#DESCRIPTION samo fm
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/darkzone-128-mp3
-#DESCRIPTION samo fm - The Dark Zone
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/groovesalad-128-mp3
-#DESCRIPTION samo fm - Groove Salad
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/dronezone-128-mp3
-#DESCRIPTION samo fm - Drone Zone
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/dubstep-128-mp3
-#DESCRIPTION samo fm - Dub Step Beyond
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/beatblender-128-mp3
-#DESCRIPTION samo fm - Beat Blender
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/spacestation-128-mp3
-#DESCRIPTION samo fm - Space Station Soma
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/u80s-128-mp3
-#DESCRIPTION samo fm - Underground 80s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/brfm-128-mp3
-#DESCRIPTION samo fm - Black Rock FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/suburbsofgoa-128-mp3
-#DESCRIPTION samo fm - Suburbs of Goa
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice6.somafm.com/synphaera-128-mp3
-#DESCRIPTION samo fm - Synphaera Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice6.somafm.com/gsclassic-128-mp3
-#DESCRIPTION samo fm - Groove Salad Classic
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/lush-128-mp3
-#DESCRIPTION samo fm - Lush
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/fluid-128-mp3
-#DESCRIPTION samo fm - Fluid
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice6.somafm.com/poptron-128-mp3
-#DESCRIPTION samo fm - Pop Tron
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice6.somafm.com/metal-128-mp3
-#DESCRIPTION samo fm - Metal Detector
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/covers-128-mp3
-#DESCRIPTION samo fm - Covers
+#DESCRIPTION SomaFM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/beatblender-128-mp3:K_S_11_2024
+#DESCRIPTION SomaFM - Beat Blender
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/brfm-128-mp3:02
+#DESCRIPTION SomaFM - Black Rock FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice1.somafm.com/bootliquor-128-mp3:03
+#DESCRIPTION SomaFM - Boot Liquor
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/bossa-256-mp3:04
+#DESCRIPTION SomaFM - Bossa Beyond (Special)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/chillits-256-mp3
+#DESCRIPTION SomaFM - Chillits Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/christmas-256-mp3
+#DESCRIPTION SomaFM - Christmas Lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/xmasrocks-128-mp3
+#DESCRIPTION SomaFM - Christmas Rocks!
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/cliqhop-128-mp3
-#DESCRIPTION samo fm - cliqhop idm
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice1.somafm.com/bootliquor-128-mp3
-#DESCRIPTION samo fm - Boot Liquor
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/illstreet-128-mp3
-#DESCRIPTION samo fm - Illinois Street Lounge
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/deepspaceone-128-mp3
-#DESCRIPTION samo fm - Deep Space One
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice6.somafm.com/vaporwaves-128-mp3
-#DESCRIPTION samo fm - Vaporwaves
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice1.somafm.com/7soul-128-mp3
-#DESCRIPTION samo fm - Seven Inch Soul
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice1.somafm.com/seventies-128-mp3
-#DESCRIPTION samo fm - Left Coast 70s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice6.somafm.com/reggae-128-mp3
-#DESCRIPTION samo fm - Heavyweight Reggae
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice6.somafm.com/secretagent-128-mp3
-#DESCRIPTION samo fm - Secret Agent
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/thetrip-128-mp3
-#DESCRIPTION samo fm - The Trip
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/sonicuniverse-128-mp3
-#DESCRIPTION samo fm - Sonic Universe
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice1.somafm.com/missioncontrol-128-mp3
-#DESCRIPTION samo fm - Mission Control
+#DESCRIPTION SomaFM - cliqhop idm
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/covers-128-mp3:09
+#DESCRIPTION SomaFM - Covers
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/deepspaceone-128-mp3:10
+#DESCRIPTION SomaFM - Deep Space One
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/defcon-256-mp3
+#DESCRIPTION SomaFM - DEF CON Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/deptstore-256-mp3
+#DESCRIPTION SomaFM - Department Store Christmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice6.somafm.com/digitalis-128-mp3
-#DESCRIPTION samo fm - Digitalis
+#DESCRIPTION SomaFM - Digitalis
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/doomed-256-mp3
+#DESCRIPTION SomaFM - Doomed
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/dronezone-128-mp3
+#DESCRIPTION SomaFM - Drone Zone
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/dubstep-128-mp3
+#DESCRIPTION SomaFM - Dub Step Beyond
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/fluid-128-mp3
+#DESCRIPTION SomaFM - Fluid
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice6.somafm.com/folkfwd-128-mp3
-#DESCRIPTION samo fm - Folk Forward
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/thistle-128-mp3
-#DESCRIPTION samo fm - ThistleRadio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice1.somafm.com/specials-128-mp3
-#DESCRIPTION samo fm - Specials
+#DESCRIPTION SomaFM - Folk Forward
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/groovesalad-128-mp3
+#DESCRIPTION SomaFM - Groove Salad
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice6.somafm.com/gsclassic-128-mp3
+#DESCRIPTION SomaFM - Groove Salad Classic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice6.somafm.com/reggae-128-mp3
+#DESCRIPTION SomaFM - Heavyweight Reggae
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/illstreet-128-mp3
+#DESCRIPTION SomaFM - Illinois Street Lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice5.somafm.com/indiepop-128-mp3
+#DESCRIPTION SomaFM - Indie Pop Rocks!
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice5.somafm.com/jollysoul-128-mp3
+#DESCRIPTION SomaFM - Jolly Ol' Soul
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice1.somafm.com/seventies-128-mp3
+#DESCRIPTION SomaFM - Left Coast 70s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/lush-128-mp3
+#DESCRIPTION SomaFM - Lush
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice6.somafm.com/metal-128-mp3
+#DESCRIPTION SomaFM - Metal Detector
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice1.somafm.com/missioncontrol-128-mp3
+#DESCRIPTION SomaFM - Mission Control
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice5.somafm.com/n5md-128-mp3
+#DESCRIPTION SomaFM - n5MD Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice6.somafm.com/poptron-128-mp3
+#DESCRIPTION SomaFM - Pop Tron
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice6.somafm.com/secretagent-128-mp3
+#DESCRIPTION SomaFM - Secret Agent
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice1.somafm.com/7soul-128-mp3
+#DESCRIPTION SomaFM - Seven Inch Soul
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/sf1033-128-mp3
+#DESCRIPTION SomaFM - SF-10/33
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/sfinsf-128-mp3
+#DESCRIPTION SomaFM - SF in SF
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/scanner-128-mp3
+#DESCRIPTION SomaFM - SF Police Scanner
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice1.somafm.com/live-128-mp3
-#DESCRIPTION samo fm - Live
+#DESCRIPTION SomaFM - Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice1.somafm.com/specials-128-mp3
+#DESCRIPTION SomaFM - Specials
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/sonicuniverse-128-mp3
+#DESCRIPTION SomaFM - Sonic Universe
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/spacestation-128-mp3
+#DESCRIPTION SomaFM - Space Station Soma
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/suburbsofgoa-128-mp3
+#DESCRIPTION SomaFM - Suburbs of Goa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice6.somafm.com/synphaera-128-mp3
+#DESCRIPTION SomaFM - Synphaera Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/darkzone-128-mp3
+#DESCRIPTION SomaFM - The Dark Zone
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/insound-256-mp3
+#DESCRIPTION SomaFM - The In-Sound
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/thetrip-128-mp3
+#DESCRIPTION SomaFM - The Trip
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/thistle-128-mp3
+#DESCRIPTION SomaFM - ThistleRadio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/tikitime-256-mp3
+#DESCRIPTION SomaFM - Tiki Time (Special)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice2.somafm.com/u80s-128-mp3
+#DESCRIPTION SomaFM - Underground 80s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice6.somafm.com/vaporwaves-128-mp3
+#DESCRIPTION SomaFM - Vaporwaves
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com/xmasinfrisko-128-mp3
+#DESCRIPTION SomaFM - Xmas in Frisko
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION FluxFM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-fluxfmberlin-aacplus-64-6698635:001KS-13-12-23
@@ -2545,8 +2577,6 @@
 #DESCRIPTION Schottland - SchottenRadio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice-the.musicradio.com/SmoothScotlandMP3
 #DESCRIPTION Schottland - Smooth Radio Scotland live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice4.somafm.com\thistle-128-mp3
-#DESCRIPTION Schottland - SomaFM: ThistleRadio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//c26.radioboss.fm%3a8313/stream
 #DESCRIPTION Schottland - Super Sound Radio Scotland live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge-bauerall-01-gos2.sharp-stream.com/tayfm.aac
