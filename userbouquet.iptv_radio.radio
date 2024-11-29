@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 27.11.2024 19:46 by Team www.hdfreaks.cc
+#DESCRIPTION Update 29.11.2024 16:14 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -349,6 +349,8 @@
 #DESCRIPTION Radio BOB! - Hardrock-Stream
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-radiobobmetal3070164-mp3-192-5354778
 #DESCRIPTION Radio BOB! - Metal-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-bobhairmetal-mp3-192-1656252
+#DESCRIPTION Radio BOB! - Hair Metal
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-radiobobmetalcore1855704-mp3-192-1809267
 #DESCRIPTION Radio BOB! - Metalcore-Stream
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-radiobobnumetal-mp3-192-3677695
@@ -779,6 +781,8 @@
 #DESCRIPTION laut.fm - Greensleeves-Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/greller
 #DESCRIPTION laut.fm - Greller (MI)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/hard-trance
+#DESCRIPTION Laut.fm - Hard Trance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/harfe
 #DESCRIPTION laut.fm - Harfe Rheinsee
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/hellradio666
@@ -929,6 +933,14 @@
 #DESCRIPTION laut.fm - The Beat Goes On
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//the-dorian-gray-music.stream.laut.fm/the-dorian-gray-music
 #DESCRIPTION laut.fm - The Dorian Gray Music
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/trance
+#DESCRIPTION Laut.fm - Trance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/trance02
+#DESCRIPTION Laut.fm - Trance 02
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//trancebeats.stream.laut.fm/trancebeats
+#DESCRIPTION Laut.fm - Trancebeats
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/trancemotionfm
+#DESCRIPTION Laut.fm - Trancemotion FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/turn-on-your-receiver
 #DESCRIPTION laut.fm - Turn On Your Receiver
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/vinyl-maxi-fm
@@ -4833,28 +4845,6 @@
 #DESCRIPTION Exclusive Radio - Ziggy Marley
 #SERVICE 4097:0:2:1041:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/zztop/icecast.audio
 #DESCRIPTION Exclusive Radio - ZZ Top
-#SERVICE 4097:0:2:36:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/1920/icecast.audio
-#DESCRIPTION Exclusive Radio - 1920's
-#SERVICE 4097:0:2:38:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/1930/icecast.audio
-#DESCRIPTION Exclusive Radio - 1930's
-#SERVICE 4097:0:2:40:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/1940/icecast.audio
-#DESCRIPTION Exclusive Radio - 1940's
-#SERVICE 4097:0:2:44:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/50s/icecast.audio
-#DESCRIPTION Exclusive Radio - 1950's
-#SERVICE 4097:0:2:46:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/60s/icecast.audio
-#DESCRIPTION Exclusive Radio - 1960's
-#SERVICE 4097:0:2:48:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/70s/icecast.audio
-#DESCRIPTION Exclusive Radio - 1970's
-#SERVICE 4097:0:2:50:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/80s/icecast.audio
-#DESCRIPTION Exclusive Radio - 1980's
-#SERVICE 4097:0:2:52:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/90s/icecast.audio
-#DESCRIPTION Exclusive Radio - 1990's
-#SERVICE 4097:0:2:1043:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/00s/icecast.audio
-#DESCRIPTION Exclusive Radio - 2000's
-#SERVICE 4097:0:2:1045:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/10s/icecast.audio
-#DESCRIPTION Exclusive Radio - 2010's
-#SERVICE 4097:0:2:1047:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/2020/icecast.audio
-#DESCRIPTION Exclusive Radio - 2020's
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Virgin Radio Italy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icy.unitedradio.it/VirginRockClassics.mp3
