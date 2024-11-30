@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 29.11.2024 16:14 by Team www.hdfreaks.cc
+#DESCRIPTION Update 30.11.2024 18:09 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -624,7 +624,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.livestreamingservice.com/181-xmix_128k.mp3
 #DESCRIPTION 181.fm  - Christmas Mix
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
-#DESCRIPTION Laut.fm
+#DESCRIPTION laut.fm
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/1000club:K.S.30082023
 #DESCRIPTION laut.fm - 1000 Club
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/1000countryhits
@@ -782,7 +782,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/greller
 #DESCRIPTION laut.fm - Greller (MI)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/hard-trance
-#DESCRIPTION Laut.fm - Hard Trance
+#DESCRIPTION laut.fm - Hard Trance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/harfe
 #DESCRIPTION laut.fm - Harfe Rheinsee
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/hellradio666
@@ -934,13 +934,13 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//the-dorian-gray-music.stream.laut.fm/the-dorian-gray-music
 #DESCRIPTION laut.fm - The Dorian Gray Music
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/trance
-#DESCRIPTION Laut.fm - Trance
+#DESCRIPTION laut.fm - Trance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/trance02
-#DESCRIPTION Laut.fm - Trance 02
+#DESCRIPTION laut.fm - Trance 02
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//trancebeats.stream.laut.fm/trancebeats
-#DESCRIPTION Laut.fm - Trancebeats
+#DESCRIPTION laut.fm - Trancebeats
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/trancemotionfm
-#DESCRIPTION Laut.fm - Trancemotion FM
+#DESCRIPTION laut.fm - Trancemotion FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/turn-on-your-receiver
 #DESCRIPTION laut.fm - Turn On Your Receiver
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/vinyl-maxi-fm
@@ -9645,3 +9645,35 @@
 #DESCRIPTION HotMix - Tic Toc
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-zen-en-mp3:69
 #DESCRIPTION HotMix - Zen
+#SERVICE 1:64:D:0:0:0:0:0:0:0:
+#DESCRIPTION YouRadio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nl4.mystreaming.net/uber-app/starboxmotown/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - Motown
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//2.mystreaming.net/er-app/disco/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - Disco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nl4.mystreaming.net/uber-app/starboxsoftrock/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - Soft Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nl4.mystreaming.net/uber-app/starboxcountry/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - Country
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nl4.mystreaming.net/uber-app/boomerang1920s/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - 1920
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//2.mystreaming.net/uber-app/boomerang1930s/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - 1930
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nl4.mystreaming.net/uber-app/boomerang1940s/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - 1940
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nl4.mystreaming.net/uber-app/boomerang1950s/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - 1950
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nl4.mystreaming.net/uber-app/boomerang1960s/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - 1960
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//2.mystreaming.net/uber-app/boomerang1970s/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - 1970
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//2.mystreaming.net/uber-app/boomerang1980s/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - 1980
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nl4.mystreaming.net/uber-app/boomerang1990s/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - 1990
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nl4.mystreaming.net/uber-app/boomerang2000s/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - 2000
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//2.mystreaming.net/uber-app/boomerang2010s/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - 2010
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//2.mystreaming.net/uber-app/boomerang2020s/icecast.audio
+#DESCRIPTION YouRadio Greatest Hits - 2020
