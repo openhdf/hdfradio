@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 06.12.2024 20:49 by Team www.hdfreaks.cc
+#DESCRIPTION Update 06.12.2024 21:28 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1077,11 +1077,7 @@
 #DESCRIPTION BR Radio - Bayern 1 Franken
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dispatcher.rndfnk.com/br/br1/mainfranken/mp3/mid
 #DESCRIPTION BR Radio - Bayern 1 Mainfranken
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dispatcher.rndfnk.com/br/br2/nord/mp3/mid
-#DESCRIPTION BR Radio - Bayern 2 Nord
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dispatcher.rndfnk.com/br/br2/sued/mp3/mid
-#DESCRIPTION BR Radio - Bayern 2 Sued
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/br/br3/live/aac/low
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/br/br3/live/mp3/mid
 #DESCRIPTION BR Radio - Bayern 3
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dispatcher.rndfnk.com/br/brklassik/live/mp3/high
 #DESCRIPTION BR Radio - BR-Klassik
@@ -1983,8 +1979,6 @@
 #DESCRIPTION egoFM - egoFLASH
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//egofm-soul.cast.addradio.de/egofm/soul/mp3/high/stream.mp3
 #DESCRIPTION egoFM - egoSOUL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//egofm-ais-edge-4009-fra-dtag-cdn.cast.addradio.de/egofm/riff/mp3/high/stream.mp3
-#DESCRIPTION egoFM - egoRIFF
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//egofm-rap.cast.addradio.de/egofm/rap/mp3/high/stream.mp3
 #DESCRIPTION egoFM - egoRAP
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//egofm-snow.cast.addradio.de/egofm/snow/mp3/high/stream.mp3
@@ -2015,11 +2009,11 @@
 #DESCRIPTION Radio Energy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge06.streamonkey.net/energy-digital/stream/mp3
 #DESCRIPTION Radio Energy - National
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge53.streamonkey.net/energy-summerhits/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge09.streamonkey.net/energy-summerhits/stream/mp3
 #DESCRIPTION Radio Energy - Summerhits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge52.streamonkey.net/energy-hits/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge12.streamonkey.net/energy-hits/stream/mp3
 #DESCRIPTION Radio Energy - Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge53.streamonkey.net/energy-dance/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge07.streamonkey.net/energy-dance/stream/mp3
 #DESCRIPTION Radio Energy - Dance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge03.streamonkey.net/energy-digital/stream/mp3
 #DESCRIPTION Radio Energy - Sachsen
@@ -2031,10 +2025,6 @@
 #DESCRIPTION Los 40 - Principales España
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25633.live.streamtheworld.com/LOS40_CLASSICAAC.aac
 #DESCRIPTION Los 40 - Classic
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//20103.live.streamtheworld.com/LOS40_DANCEAAC.aac
-#DESCRIPTION Los 40 - Dance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//20103.live.streamtheworld.com/LOS40_CAT.mp3
-#DESCRIPTION Los 40 - ELS40 Catalunya
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Absolut Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//absolut-hot.live-sm.absolutradio.de/absolut-germany/stream/mp3
@@ -2299,8 +2289,6 @@
 #DESCRIPTION FluxFM - 60er
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-chillout-aacplus-64-5024703:012
 #DESCRIPTION FluxFM - Chillout
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-melides-aacplus-64-8367889
-#DESCRIPTION FluxFM - Melides Art Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-yogasounds-aacplus-64-6792162
 #DESCRIPTION FluxFM - Yoga Sounds
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fluxfm.streamabc.net/flx-event02-aacplus-64-5884732
@@ -2805,26 +2793,16 @@
 #DESCRIPTION Radio Aetter
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//stream.bbfm.sk/bbfm128.mp3
 #DESCRIPTION BB FM radio
-#SERVICE 4097:0:2:1:0:0:0:0:0:0:https%3a//solid1.streamupsolutions.com/proxy/lesgqyll/BAradio
-#DESCRIPTION Bratislavske Radio
-#SERVICE 4097:0:2:1:0:0:0:0:0:0:https%3a//stream.radia.sk%3a9001/demomusic-387
-#DESCRIPTION Demomusic radio
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//stream.21.sk/detskeradio-128.mp3
 #DESCRIPTION Detske Radio
-#SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//stream2.bestfm.sk%3a80/128.mp3
-#DESCRIPTION Radio Best FM
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//109.71.67.102%3a8000/beta_live_high.mp3
 #DESCRIPTION Radio Beta
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//109.71.67.102%3a8000/beta_cspop.mp3
 #DESCRIPTION Radio Beta - Ceske a Slovenske hity
-#SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//109.71.67.102%3a8000/beta_80a90.mp3
-#DESCRIPTION Radio Beta - Hity 80s a 90s
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//109.71.67.102%3a8000/beta_jubilanti.mp3
 #DESCRIPTION Radio Beta - Hrame Jubilantom
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//radiobiblia.online%3a8000/stream.ogg
 #DESCRIPTION Radio Biblia
-#SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//stream.dobreradio.sk%3a8813/dobreradio.mp3
-#DESCRIPTION Dobre radio
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:https%3a//stream.bauermedia.sk/europa2.mp3
 #DESCRIPTION Europa 2
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//stream.expres.sk/128.mp3
@@ -2833,8 +2811,6 @@
 #DESCRIPTION Fit Radio
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//icecast2.radionet.sk/freshradio.sk
 #DESCRIPTION FRESH radio
-#SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//radioserver.online%3a8826/festdobre.mp3
-#DESCRIPTION Radio Fest Dobra Muzika
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//icecast.stv.livebox.sk/fm_128.mp3
 #DESCRIPTION Radio FM
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//stream.funradio.sk%3a8000/fun128.mp3
@@ -2869,8 +2845,6 @@
 #DESCRIPTION Radio Logos
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:https%3a//extra.mediacp.eu/stream/RadioParada,o.z.
 #DESCRIPTION Radio Parada - Vyšny Hrusov
-#SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//sc1.ipip.cz%3a8030/;
-#DESCRIPTION Radio Pohoda
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//radioserver.online%3a8822/;
 #DESCRIPTION Radio Pokoj
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//s32.myradiostream.com%3a10486/;
@@ -2885,18 +2859,12 @@
 #DESCRIPTION N-Radio
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:https%3a//stream.sepia.sk%3a8000/jazz192.mp3
 #DESCRIPTION Radio Jazz
-#SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//radio.treecom.net/jupiter_128.mp3
-#DESCRIPTION Radio Jupiter
-#SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//shout.alconet.sk/radioliptov
-#DESCRIPTION Radio Liptov
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//icecast.stv.livebox.sk/litera_128.mp3
 #DESCRIPTION Radio Litera
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//audio.lumen.sk%3a8000/live128.mp3
 #DESCRIPTION Radio Lumen
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//185.98.208.12%3a8000/;stream/1
 #DESCRIPTION Radio Modra
-#SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//nonstop.out.airtime.pro%3a8000/nonstop_a
-#DESCRIPTION Nonstop Radio
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//live.radiopiestany.sk%3a8000/live.mp3
 #DESCRIPTION Radio Piestany
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//icecast.stv.livebox.sk/pyramida_128.mp3
@@ -3001,8 +2969,6 @@
 #DESCRIPTION CRo Plus
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//icecast5.play.cz%3a8000/crojuniormaxi128.mp3
 #DESCRIPTION CRo Radio Junior
-#SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//icecast7.play.cz/crojuniormini128.mp3
-#DESCRIPTION CRo Radio Junior Pisnicky
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//rozhlas.stream/pohoda_mp3_128.mp3
 #DESCRIPTION CRo Radio Pohoda
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//rozhlas.stream/region_high.aac
@@ -3027,14 +2993,10 @@
 #DESCRIPTION CRo Hradec Kralove
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//rozhlas.stream/kv_mp3_128.mp3
 #DESCRIPTION CRo Karlovy vary
-#SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//ice.actve.net/fm-zet
-#DESCRIPTION Radio ZET
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//ice.abradio.cz%3a8000/prachen128.mp3
 #DESCRIPTION Rock Radio
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//icecast8.play.cz/classic128.mp3
 #DESCRIPTION Classic Praha
-#SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//icecast7.play.cz/croretro128.mp3
-#DESCRIPTION Radio Retro
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//icecast1.play.cz/signal192.mp3
 #DESCRIPTION Signal Radio
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/radiozlin128.mp3
@@ -3057,24 +3019,14 @@
 #DESCRIPTION Radio Folk
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//mp3stream4.abradio.cz%3a8000/humor128.mp3
 #DESCRIPTION Radio Humor
-#SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//ice.abradio.cz/povidka128.mp3
-#DESCRIPTION Radio Povidka
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//ice3.abradio.cz/pohadka128.mp3
 #DESCRIPTION Radio Pohadka
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//icecast5.play.cz/dechovka128.mp3
 #DESCRIPTION Radio Dechovka
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//icecast3.play.cz/radio-nostalgie128.mp3
 #DESCRIPTION Radio Nostalgie
-#SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//icecast8.play.cz/radiodalnice.mp3
-#DESCRIPTION Radio Dalnice
-#SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//icecast6.play.cz%3a8000/petrov128.mp3
-#DESCRIPTION Radio Petrov
-#SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//icecast6.play.cz/radiodixie192.mp3
-#DESCRIPTION Radio Dixie
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//icecast1.play.cz/kiss128.mp3
 #DESCRIPTION Radio Kiss
-#SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//icecast8.play.cz/radiorubi128.mp3
-#DESCRIPTION Radio Rubi
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//icecast6.play.cz/radio-kromeriz128.mp3
 #DESCRIPTION Radio Kromeriz
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//icecast6.play.cz/jih128.mp3
@@ -3089,8 +3041,6 @@
 #DESCRIPTION Radio 7
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//ice4.abradio.cz/coop128.mp3
 #DESCRIPTION COOP TIP Radio
-#SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//ice4.abradio.cz/cooptuty128.mp3
-#DESCRIPTION Coop TUTY Radio
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//ice4.abradio.cz/merkur-casino128.mp3
 #DESCRIPTION Radio Merkur
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//ice3.abradio.cz/expert-128.mp3
@@ -3303,8 +3253,6 @@
 #DESCRIPTION Radio Click & Country
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//westradio.cz/radio/8010/radio.mp3
 #DESCRIPTION Radio Diana – Comedy Club
-#SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//westradio.cz/radio/8020/radio.mp3
-#DESCRIPTION Radio Diana – Dance Club
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//westradio.cz/radio/8000/radio.mp3
 #DESCRIPTION Radio Diana – Retro Club
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//mp3stream3.abradio.cz/expert-128.mp3
@@ -3353,8 +3301,6 @@
 #DESCRIPTION Radio Svit
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//12901.cloudrad.io%3a9306/live
 #DESCRIPTION Radio Trojka
-#SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//ice3.abradio.cz/zelenahora128.mp3
-#DESCRIPTION Radio Zelena hora
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//ice5.abradio.cz/romaradio128.mp3
 #DESCRIPTION Radio Roma
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//icecast6.play.cz/seejay128.mp3
@@ -3367,10 +3313,6 @@
 #DESCRIPTION Star The Mix
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//stream.svobodny-vysilac.cz%3a8000/live.mp3
 #DESCRIPTION Svobodny vysilac CS
-#SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//live.skyradio.gr%3a8114/stream
-#DESCRIPTION The Best Firearms
-#SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//centovacast.divinestreams.co.uk%3a7812/;
-#DESCRIPTION TLIG Radio Czech
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//icecast2.play.cz/Underground128.mp3
 #DESCRIPTION Underground Radio
 #SERVICE 4097:0:2:1:0:0:0:0:0:0:http%3a//stream.wehouseradio.com/;
@@ -3619,16 +3561,12 @@
 #DESCRIPTION Exclusive Radio - Aerosmith Only Hits
 #SERVICE 4097:0:2:68:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/algreen/icecast.audio
 #DESCRIPTION Exclusive Radio - Al Green
-#SERVICE 4097:0:2:70:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/aljarreau/icecast.audio
-#DESCRIPTION Exclusive Radio - Al Jarreau
 #SERVICE 4097:0:2:72:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/alabama/icecast.audio
 #DESCRIPTION Exclusive Radio - Alabama
 #SERVICE 4097:0:2:74:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/alanismorissette/icecast.audio
 #DESCRIPTION Exclusive Radio - Alanis Morissette
 #SERVICE 4097:0:2:76:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/albertcollins/icecast.audio
 #DESCRIPTION Exclusive Radio - Albert Collins
-#SERVICE 4097:0:2:78:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/alecbenjamin/icecast.audio
-#DESCRIPTION Exclusive Radio - Alec Benjamin
 #SERVICE 4097:0:2:80:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/alicecooper/icecast.audio
 #DESCRIPTION Exclusive Radio - Alice Cooper
 #SERVICE 4097:0:2:80:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/alicecooperhits/icecast.audio
@@ -3647,8 +3585,6 @@
 #DESCRIPTION Exclusive Radio - Andy Williams
 #SERVICE 4097:0:2:90:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/andywilliamshits/icecast.audio
 #DESCRIPTION Exclusive Radio - Andy Williams Only Hits
-#SERVICE 4097:0:2:92:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/annemurray/icecast.audio
-#DESCRIPTION Exclusive Radio - Anne Murray
 #SERVICE 4097:0:2:92:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/annielennox/icecast.audio
 #DESCRIPTION Exclusive Radio - Annie Lennox
 #SERVICE 4097:0:2:92:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/arcticmonkeys/icecast.audio
@@ -3665,8 +3601,6 @@
 #DESCRIPTION Exclusive Radio - Avicii
 #SERVICE 4097:0:2:98:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/avrillavigne/icecast.audio
 #DESCRIPTION Exclusive Radio - Avril Lavigne
-#SERVICE 4097:0:2:100:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bachmanturneroverdrive/icecast.audio
-#DESCRIPTION Exclusive Radio - Bachmann-Turner Overdrive
 #SERVICE 4097:0:2:102:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/backstreetboys/icecast.audio
 #DESCRIPTION Exclusive Radio - Backstreet Boys
 #SERVICE 4097:0:2:102:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/badbunny/icecast.audio
@@ -3699,10 +3633,6 @@
 #DESCRIPTION Exclusive Radio - Bee Gees
 #SERVICE 4097:0:2:116:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/belindacarlisle/icecast.audio
 #DESCRIPTION Exclusive Radio - Belinda Carlisle
-#SERVICE 4097:0:2:118:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/benharper/icecast.audio
-#DESCRIPTION Exclusive Radio - Ben Harper
-#SERVICE 4097:0:2:120:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bettemidler/icecast.audio
-#DESCRIPTION Exclusive Radio - Bette Midler
 #SERVICE 4097:0:2:122:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/beyonce/icecast.audio
 #DESCRIPTION Exclusive Radio - Beyonce
 #SERVICE 4097:0:2:122:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/beyoncehits/icecast.audio
@@ -3783,8 +3713,6 @@
 #DESCRIPTION Exclusive Radio - Buddy Holly
 #SERVICE 4097:0:2:182:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/buddyhollyhits/icecast.audio
 #DESCRIPTION Exclusive Radio - Buddy Holly Only Hits
-#SERVICE 4097:0:2:182:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/bunnywailer/icecast.audio
-#DESCRIPTION Exclusive Radio - Bunny Wailer
 #SERVICE 4097:0:2:182:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/burnaboy/icecast.audio
 #DESCRIPTION Exclusive Radio - Burna Boy
 #SERVICE 4097:0:2:182:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/burningspear/icecast.audio
@@ -3809,8 +3737,6 @@
 #DESCRIPTION Exclusive Radio - Cars
 #SERVICE 4097:0:2:196:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/catstevens/icecast.audio
 #DESCRIPTION Exclusive Radio - Cat Stevens
-#SERVICE 4097:0:2:198:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/celeste/icecast.audio
-#DESCRIPTION Exclusive Radio - Celeste
 #SERVICE 4097:0:2:198:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/celinedion/icecast.audio
 #DESCRIPTION Exclusive Radio - Celine Dion
 #SERVICE 4097:0:2:205:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/charleypride/icecast.audio
@@ -3821,8 +3747,6 @@
 #DESCRIPTION Exclusive Radio - Charlie Puth
 #SERVICE 4097:0:2:207:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/charlieparker/icecast.audio
 #DESCRIPTION Exclusive Radio - Charlie Parker
-#SERVICE 4097:0:2:209:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/cheaptrick/icecast.audio
-#DESCRIPTION Exclusive Radio - Cheap Trick
 #SERVICE 4097:0:2:211:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/cher/icecast.audio
 #DESCRIPTION Exclusive Radio - Cher
 #SERVICE 4097:0:2:213:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/chic/icecast.audio
