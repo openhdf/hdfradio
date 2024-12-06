@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 06.12.2024 20:35 by Team www.hdfreaks.cc
+#DESCRIPTION Update 06.12.2024 20:49 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1323,8 +1323,6 @@
 #DESCRIPTION NDR Radio - NDR Info Spezial
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3
 #DESCRIPTION NDR Radio - NDR Kultur
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.ndr.de/ndr/ndrplus/live/mp3/128/stream.mp3
-#DESCRIPTION NDR Radio - NDR Plus
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.ndr.de/ndr/ndrschlager/live/mp3/128/stream.mp3
 #DESCRIPTION NDR Radio - NDR Schlager
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
@@ -1385,8 +1383,6 @@
 #DESCRIPTION Star FM - Berlin
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/nrw/mp3-192
 #DESCRIPTION Star FM - NRW
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//starfm.streamabc.net/30-starfmsachsen-mp3-128-1812785
-#DESCRIPTION Star FM - Maximum Rock Sachsen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/national/mp3-192
 #DESCRIPTION Star FM - Maximum Rock National
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.starfm.de/90srock/mp3-192
@@ -1405,8 +1401,6 @@
 #DESCRIPTION Star FM - Festival Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/ballads/mp3-192
 #DESCRIPTION Star FM - Rock Ballads
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/feelgood/mp3-192
-#DESCRIPTION Star FM - Feel Good Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.starfm.de/alternative.mp3
 #DESCRIPTION Star FM - Alternative Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/newrock/mp3-192
@@ -1579,8 +1573,6 @@
 #DESCRIPTION HIT RADIO FFH - FFH LEIDER GEIL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqhappyhits.aac
 #DESCRIPTION HIT RADIO FFH - FFH HAPPY HITS
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/jokefm/hqlivestream.aac
-#DESCRIPTION HIT RADIO FFH - JOKE FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqtop40.aac
 #DESCRIPTION HIT RADIO FFH - FFH TOP 40
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/hqparty.aac
@@ -1649,8 +1641,6 @@
 #DESCRIPTION radio.de
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//solid24.streamupsolutions.com/proxy/nilxzqeg
 #DESCRIPTION radio.de - Bar Legend Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.wostreaming.net/direct/ppm-jazz24mp3-ibc1
-#DESCRIPTION radio.de - Jazz24
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//vip2.fastcast4u.com/proxy/classicrockdoug
 #DESCRIPTION radio.de - Classic Rock Florida HD
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5109_128
@@ -1703,8 +1693,6 @@
 #DESCRIPTION Radio Arabella AT - Arabella Niederösterreich
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-wien
 #DESCRIPTION Radio Arabella AT - Arabella Wien
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-obereroesterreich
-#DESCRIPTION Radio Arabella AT - Arabella Oberösterreich
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-relax
 #DESCRIPTION Radio Arabella AT - Arabella Relax
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-gold
@@ -1731,8 +1719,6 @@
 #DESCRIPTION Radio Arabella AT - Arabella Ti Amo
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-holiday
 #DESCRIPTION Radio Arabella AT - Arabella Holiday
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-wienerschmaeh
-#DESCRIPTION Radio Arabella AT - Arabella Wiener Schmäh
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-christmas
 #DESCRIPTION Radio Arabella AT - Arabella Christmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streams.arabella.at/arabella-magic?aggregator=radio-at
@@ -1769,8 +1755,6 @@
 #DESCRIPTION Radio Arabella DE - Modern Rock
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Österreich
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio2.stream24.net%3a9120/live.mp3
-#DESCRIPTION Österreich - Radio ECHOPLUS
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.antenne.at/as
 #DESCRIPTION Österreich - Antenne Steiermark
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.antenne.at/ak
@@ -1827,8 +1811,6 @@
 #DESCRIPTION Österreich - Kronehit-Eurodance X-Press
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//secureonair.krone.at/pirate.aac
 #DESCRIPTION Österreich - Kronehit-Pirate Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//musikwelle.com%3a8443/ukw
-#DESCRIPTION Österreich - Musikwelle
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/oe1-q2a
 #DESCRIPTION Österreich - Ö1
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/oe3-q2a
@@ -1865,8 +1847,6 @@
 #DESCRIPTION Österreich - Welle 1 Austria
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a17128/stream
 #DESCRIPTION Österreich - Welle 1 Linz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a15256/stream
-#DESCRIPTION Österreich - Welle 1 Kärnten
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a18128/stream
 #DESCRIPTION Österreich - Welle 1 Salzburg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//c02.lexycast.de%3a4300/play.mp3
