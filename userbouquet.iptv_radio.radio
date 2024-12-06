@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 30.11.2024 18:09 by Team www.hdfreaks.cc
+#DESCRIPTION Update 06.12.2024 15:55 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -7272,30 +7272,6 @@
 #SERVICE 4097:0:2:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/bollywoodyoyohoneysingh/icecast.audio
 #DESCRIPTION Yo Yo Honey Singh
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
-#DESCRIPTION Boomerang Radio
-#SERVICE 4097:0:2:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/boomerang1920s/icecast.audio
-#DESCRIPTION Boomerang 1920's
-#SERVICE 4097:0:2:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/boomerang1930s/icecast.audio
-#DESCRIPTION Boomerang 1930's
-#SERVICE 4097:0:2:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/boomerang1940s/icecast.audio
-#DESCRIPTION Boomerang 1940's
-#SERVICE 4097:0:2:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/boomerang1950s/icecast.audio
-#DESCRIPTION Boomerang 1950's
-#SERVICE 4097:0:2:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/boomerang1960s/icecast.audio
-#DESCRIPTION Boomerang 1960's
-#SERVICE 4097:0:2:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/boomerang1970s/icecast.audio
-#DESCRIPTION Boomerang 1970's
-#SERVICE 4097:0:2:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/boomerang1980s/icecast.audio
-#DESCRIPTION Boomerang 1980's
-#SERVICE 4097:0:2:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/boomerang1990s/icecast.audio
-#DESCRIPTION Boomerang 1990's
-#SERVICE 4097:0:2:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/boomerang1970s/icecast.audio
-#DESCRIPTION Boomerang 2000's
-#SERVICE 4097:0:2:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/boomerang1980s/icecast.audio
-#DESCRIPTION Boomerang 2010's
-#SERVICE 4097:0:2:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/boomerang1990s/icecast.audio
-#DESCRIPTION Boomerang 2020's
-#SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Happy Feet Radio
 #SERVICE 4097:0:2:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/hfballet/icecast.audio
 #DESCRIPTION Happy Feet Radio - Ballet
@@ -8375,70 +8351,6 @@
 #DESCRIPTION UnitedInIslam Radio :Quran Recitation With English Translation - 128 kbit/s
 #SERVICE 4097:0:2:97:0:0:0:0:0:0:http%3a//188.247.86.67%3a8000/3
 #DESCRIPTION RADIO FANN JORDAN - 128 kbit/s
-#SERVICE 1:64:D:0:0:0:0:0:0:0:
-#DESCRIPTION Afrika
-#SERVICE 4097:0:2:3:0:0:0:0:0:0:http%3a//192.95.18.39%3a5127/stream/1/
-#DESCRIPTION Afrik Best Radio.GH - 128 kbit/s
-#SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//s8.voscast.com%3a8252/stream/1/
-#DESCRIPTION PIKINE DIASPORA RADIO : la radio du citoyen modele du Senegal - 64 kbit/s
-#SERVICE 4097:0:2:7:0:0:0:0:0:0:http%3a//173.244.208.77%3a9000/stream/1/
-#DESCRIPTION Bongo Radio - Channel One - 64 kbit/s
-#SERVICE 4097:0:2:9:0:0:0:0:0:0:http%3a//173.244.208.77%3a8000/stream/3/
-#DESCRIPTION Bongo Radio - Zilipendwa Channel - 128 kbit/s
-#SERVICE 4097:0:2:11:0:0:0:0:0:0:http%3a//173.244.208.77%3a8000/stream/1/
-#DESCRIPTION Bongo Radio - Channel One : Tanzania Best For Bongo Flava - 128 kbit/s
-#SERVICE 4097:0:2:13:0:0:0:0:0:0:http%3a//listen.radionomy.com/RADIOZOUGLOU
-#DESCRIPTION Jamendo Lounge - 128 kbit/s
-#SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//136.0.17.26%3a8000/stream/1/
-#DESCRIPTION Radio Africa Online - 96 kbit/s
-#SERVICE 4097:0:2:17:0:0:0:0:0:0:http%3a//5.135.154.69%3a8888/stream/1/
-#DESCRIPTION Radio Africana - 128 kbit/s
-#SERVICE 4097:0:2:19:0:0:0:0:0:0:http%3a//stream.laut.fm/africa_goes_angeln
-#DESCRIPTION Africa Goes Angeln - 128 kbit/s
-#SERVICE 4097:0:2:21:0:0:0:0:0:0:http%3a//167.114.131.90%3a5546/stream/1/
-#DESCRIPTION DENYIGBAN AFRICA MEDIA - 128 kbit/s
-#SERVICE 4097:0:2:23:0:0:0:0:0:0:http%3a//s2.myradiostream.com%3a5788/stream/1/
-#DESCRIPTION BarakaFM - 96 kbit/s
-#SERVICE 4097:0:2:27:0:0:0:0:0:0:http%3a//173.244.208.77%3a8000/stream/4/
-#DESCRIPTION Bongo Radio - African Grooves Channel - 128 kbit/s
-#SERVICE 4097:0:2:29:0:0:0:0:0:0:http%3a//173.244.208.77%3a8000/stream/2/
-#DESCRIPTION Bongo Radio - East African Music Channel - 128 kbit/s
-#SERVICE 4097:0:2:31:0:0:0:0:0:0:http%3a//5.135.154.69%3a8516/stream/1/
-#DESCRIPTION FamilyGH - 96 kbit/s
-#SERVICE 4097:0:2:33:0:0:0:0:0:0:http%3a//38.96.175.97%3a6042
-#DESCRIPTION sunuker fm: The Number One African Rdio in Los Angeles - 128 kbit/s
-#SERVICE 4097:0:2:35:0:0:0:0:0:0:http%3a//209.9.238.5%3a8580
-#DESCRIPTION Pan African Allstars Radio - 48 kbit/s
-#SERVICE 4097:0:2:37:0:0:0:0:0:0:http%3a//37.187.146.76%3a9000/stream/1/
-#DESCRIPTION Azawan amazigh by Yabiladi.com - 128 kbit/s
-#SERVICE 4097:0:2:39:0:0:0:0:0:0:http%3a//37.59.47.192%3a8740/stream/1/
-#DESCRIPTION Bakus Radio USA - 128 kbit/s
-#SERVICE 4097:0:2:41:0:0:0:0:0:0:http%3a//usa10.fastcast4u.com%3a2650/stream/1/
-#DESCRIPTION Radio Motaog - 128 kbit/s
-#SERVICE 4097:0:2:43:0:0:0:0:0:0:http%3a//46.28.49.164%3a7096
-#DESCRIPTION Spice Of Africa Radio - 128 kbit/s
-#SERVICE 4097:0:2:45:0:0:0:0:0:0:http%3a//108.61.154.147%3a6222
-#DESCRIPTION AutoDJ Stream - 128 kbit/s
-#SERVICE 4097:0:2:47:0:0:0:0:0:0:http%3a//stream.radio.co/s8267df4de/listen
-#DESCRIPTION African Revival Radio - 128 kbit/s
-#SERVICE 4097:0:2:49:0:0:0:0:0:0:http%3a//stream.radio.co/sca4d4ab4e/listen
-#DESCRIPTION UDR RADIO - 128 kbit/s
-#SERVICE 4097:0:2:51:0:0:0:0:0:0:http%3a//173.244.208.77%3a9000/stream/5/
-#DESCRIPTION Bongo Radio - Taarab and Mduara Channel - 64 kbit/s
-#SERVICE 4097:0:2:53:0:0:0:0:0:0:http%3a//sc7.mystreamserver.com%3a8002
-#DESCRIPTION AKWAABA RADIO USA - Ghanas Best Online Radio - 128 kbit/s
-#SERVICE 4097:0:2:55:0:0:0:0:0:0:http%3a//stream.radio.co/s7ee52dd88/listen
-#DESCRIPTION MCR Live - 128 kbit/s
-#SERVICE 4097:0:2:57:0:0:0:0:0:0:http%3a//s8.voscast.com%3a8542/stream/1/
-#DESCRIPTION AHENFiE DRUMS RADiO - 64 kbit/s
-#SERVICE 4097:0:2:59:0:0:0:0:0:0:http%3a//23.82.11.88%3a5128/stream/1/
-#DESCRIPTION CALMRADIO.COM - Africa - 128 kbit/s
-#SERVICE 4097:0:2:61:0:0:0:0:0:0:http%3a//radiocast.rtp.pt/rdpafrica80a.mp3
-#DESCRIPTION RDP Africa - Main - 128 kbit/s
-#SERVICE 4097:0:2:63:0:0:0:0:0:0:rtsp%3a//148.obj.netromedia.net/radiocitizenlive/radiocitizenlive
-#DESCRIPTION radio citizen - 128 kbit/s
-#SERVICE 4097:0:2:65:0:0:0:0:0:0:http%3a//stream.zenolive.com/g7kmkpsrgvduv
-#DESCRIPTION - - 128 kbit/s
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Spanien
 #SERVICE 4097:0:2:3:0:0:0:0:0:0:http%3a//dreamsiteradiocp.com%3a8060/stream/1/
