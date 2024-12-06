@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 06.12.2024 15:55 by Team www.hdfreaks.cc
+#DESCRIPTION Update 06.12.2024 20:11 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -277,8 +277,6 @@
 #DESCRIPTION Radio Ton
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream24.radiohost.de/radioton-bw_mp3-192
 #DESCRIPTION Radio Ton - Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream29.radiohost.de/radioton-80er_mp3-192
-#DESCRIPTION Radio Ton - Weihnachten
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream27.radiohost.de/radioton-popup2_mp3-192
 #DESCRIPTION Radio Ton - Ukraine
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream28.radiohost.de/radioton-80er_disco_mp3-192
@@ -507,8 +505,6 @@
 #DESCRIPTION Antenne Thüringen - YESTERHITS-Stream
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antennethueringen.de/rock/mp3-192/web/
 #DESCRIPTION Antenne Thüringen - Rock Webradio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//antenne-th.divicon-stream.net/antth-dorfkind-mp3-192-2300562
-#DESCRIPTION Antenne Thüringen - Dorfkindradio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Antenne Bayern
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/antenne/stream/mp3
@@ -1449,8 +1445,6 @@
 #DESCRIPTION Radio Regenbogen - Sdbaden Schwarzwald
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-softlazy-aac-128-5484078
 #DESCRIPTION Radio Regenbogen - Soft and Lazy
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-workout-aac-128-5969699
-#DESCRIPTION Radio Regenbogen - Workout
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-top40-aac-128-2919565
 #DESCRIPTION Radio Regenbogen - Top 40
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-musical-aac-128-6749248
@@ -1467,18 +1461,10 @@
 #DESCRIPTION Radio Regenbogen - Spotlight
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-oldies-aac-128-9511176
 #DESCRIPTION Radio Regenbogen - Oldies
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-80er-aac-128-9786248
-#DESCRIPTION Radio Regenbogen - 80er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-90er-aac-128-2246215
-#DESCRIPTION Radio Regenbogen - 90er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-2000er-aac-128-6899103
-#DESCRIPTION Radio Regenbogen - 2000er
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-2010er-aac-128-1077012
 #DESCRIPTION Radio Regenbogen - 2010er
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-inthemix-aac-128-6946417
 #DESCRIPTION Radio Regenbogen - In The Mix
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-90erdance-aac-128-5448140
-#DESCRIPTION Radio Regenbogen - 90er Dance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-konfetti-aac-128-2414600
 #DESCRIPTION Radio Regenbogen - Konfetti-Party
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-latin-aac-128-1269018
@@ -1491,8 +1477,6 @@
 #DESCRIPTION Radio Regenbogen - Classic Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-70errockrr-aac-128-1260178
 #DESCRIPTION Radio Regenbogen - 70er Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-80erpoprock-aac-128-1311878
-#DESCRIPTION Radio Regenbogen - 80er Pop-Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-modernrockrr-aac-128-9602877
 #DESCRIPTION Radio Regenbogen - Modern Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-hiphop-aac-128-9752208
@@ -5121,42 +5105,6 @@
 #DESCRIPTION RMF MAXX - Warszawa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxxx_wlc
 #DESCRIPTION RMF MAXX - Włocławek
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxx_2004
-#DESCRIPTION RMF MAXX 2004
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxx_2005
-#DESCRIPTION RMF MAXX 2005
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxx_2006
-#DESCRIPTION RMF MAXX 2006
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxx_2007
-#DESCRIPTION RMF MAXX 2007
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxx_2008
-#DESCRIPTION RMF MAXX 2008
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxx_2009
-#DESCRIPTION RMF MAXX 2009
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxx_2010
-#DESCRIPTION RMF MAXX 2010
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxx_2011
-#DESCRIPTION RMF MAXX 2011
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxx_2012
-#DESCRIPTION RMF MAXX 2012
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxx_2013
-#DESCRIPTION RMF MAXX 2013
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxx_2014
-#DESCRIPTION RMF MAXX 2014
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxx_2015
-#DESCRIPTION RMF MAXX 2015
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxx_2016
-#DESCRIPTION RMF MAXX 2016
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxx_2017
-#DESCRIPTION RMF MAXX 2017
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxx_2018
-#DESCRIPTION RMF MAXX 2018
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxx_2019
-#DESCRIPTION RMF MAXX 2019
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxx_2020
-#DESCRIPTION RMF MAXX 2020
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/rmf_maxx_2021
-#DESCRIPTION RMF MAXX 2021
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/radio_alex
 #DESCRIPTION Radio Alex
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.150.20.7/radio_gra
