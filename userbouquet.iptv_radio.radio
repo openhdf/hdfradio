@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 06.12.2024 20:11 by Team www.hdfreaks.cc
+#DESCRIPTION Update 06.12.2024 20:35 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1635,26 +1635,10 @@
 #DESCRIPTION harmony.fm - Feelings
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.harmonyfm.de/hrmchannels/hqschlager.mp3
 #DESCRIPTION harmony.fm - Schlager Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hqstars13.mp3
-#DESCRIPTION harmony.fm - Billy Joel Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hqstars12.mp3
-#DESCRIPTION harmony.fm - Eurythmics Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hqstars11.mp3
-#DESCRIPTION harmony.fm - Madonna Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hqstars10.mp3
 #DESCRIPTION harmony.fm - Queen Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hqstars09.mp3
-#DESCRIPTION harmony.fm - Roxette
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hqstars08.mp3
-#DESCRIPTION harmony.fm - Kim Wilde Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hqstars07.mp3
-#DESCRIPTION harmony.fm - Whitney Houston Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hqstars06.mp3
-#DESCRIPTION harmony.fm - Michael Jackson
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hqstars05.mp3
 #DESCRIPTION harmony.fm - Pet Shop Boys Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hqstars04.mp3
-#DESCRIPTION harmony.fm - Elton John Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hqstars03.mp3
 #DESCRIPTION harmony.fm - Depeche Mode Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.harmonyfm.de/hrmchannels/hqstars02.mp3
@@ -2047,34 +2031,6 @@
 #DESCRIPTION JAM FM - 2000er
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.jam.fm/2010er/mp3-192/
 #DESCRIPTION JAM FM - 2010er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.jam.fm/charts
-#DESCRIPTION JAM FM - Charts
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.jam.fm/jamfm-nmr
-#DESCRIPTION JAM FM - New Music Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.jam.fm/jamfm-bl
-#DESCRIPTION JAM FM - Black Label
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.jam.fm/elektro
-#DESCRIPTION JAM FM - Elektro
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.jam.fm/rap
-#DESCRIPTION JAM FM - Rap
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.jam.fm/deutschrap
-#DESCRIPTION JAM FM - Generation Deutschrap
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.jam.fm/party
-#DESCRIPTION JAM FM - Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.jam.fm/workout
-#DESCRIPTION JAM FM - Workout
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.jam.fm/study
-#DESCRIPTION JAM FM - Study
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.jam.fm/chill
-#DESCRIPTION JAM FM - Chill
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast.radiogroup.com.ua
-#DESCRIPTION JAM FM - Kiew
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/russkiye
-#DESCRIPTION JAM FM - Russkiye Kitty
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/djcooper
-#DESCRIPTION JAM FM - DJ Cooper
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/kpop
-#DESCRIPTION JAM FM - K-Pop
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio Energy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge06.streamonkey.net/energy-digital/stream/mp3
@@ -2537,8 +2493,6 @@
 #DESCRIPTION partyvibe - rock
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Schottland
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s4.radio.co/s311a77fcf/listen
-#DESCRIPTION Schottland - Beat 106 Scotland live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs18.aac
 #DESCRIPTION Schottland - BFBS Scotland live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.bdfm.radio%3a8000/blackdiamondfm
@@ -2551,10 +2505,6 @@
 #DESCRIPTION Schottland - Celtic Sounds von laut.fm
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge-bauerall-01-gos2.sharp-stream.com/clyde1.aac
 #DESCRIPTION Schottland - Clyde 1 102.5 FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//everestcast.shoutcastservices.com%3a1355/stream
-#DESCRIPTION Schottland - Expat Radio Scotland live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radio.co/s61c103204/listen
-#DESCRIPTION Schottland - Forth Valley Radio live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media-ice.musicradio.com/HeartOxfordshireMP3
 #DESCRIPTION Schottland - FOX FM 102.6
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media-ice.musicradio.com/HeartEdinburgh
@@ -2563,26 +2513,16 @@
 #DESCRIPTION Schottland - Heart Scotland - West live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//jenny.torontocast.com%3a2000/stream/highlanderradio/stream
 #DESCRIPTION Schottland - Highlander Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.canstream.co.uk%3a9129/live.mp3
-#DESCRIPTION Schottland - Jambo! Radio Scotland live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge-ads-05-gos2.sharp-stream.com/nationscotlandi.aac
 #DESCRIPTION Schottland - Nation Radio Scotland live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s39.myradiostream.com%3a10532/;
-#DESCRIPTION Schottland - New Scotland Radio live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen-pureradio.sharp-stream.com/pure_radio.mp3
 #DESCRIPTION Schottland - Pure Radio Scotland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ais-sa2.cdnstream1.com/1981_128.mp3
 #DESCRIPTION Schottland - School Of Rock live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3afs1.stream24.net%3a8700/live.mp3
-#DESCRIPTION Schottland - SchottenRadio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice-the.musicradio.com/SmoothScotlandMP3
 #DESCRIPTION Schottland - Smooth Radio Scotland live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//c26.radioboss.fm%3a8313/stream
-#DESCRIPTION Schottland - Super Sound Radio Scotland live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge-bauerall-01-gos2.sharp-stream.com/tayfm.aac
 #DESCRIPTION Schottland - Tay 102.8 FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming02.zfast.co.uk/proxy/twolochs1
-#DESCRIPTION Schottland - Two Lochs Radio 106.6
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Mexiko
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic75-cybertec.radioca.st/stream
