@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 07.12.2024 17:51 by Team www.hdfreaks.cc
+#DESCRIPTION Update 07.12.2024 20:42 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -6629,38 +6629,8 @@
 #DESCRIPTION NPO KX
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//22333.live.streamtheworld.com/SLAM_AAC.aac
 #DESCRIPTION SLAM!
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25323.live.streamtheworld.com/WEB10_AAC.aac
-#DESCRIPTION SLAM! Non-stop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25233.live.streamtheworld.com/WEB16_AAC.aac
-#DESCRIPTION SLAM! Housuh In De Pauzuh
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25253.live.streamtheworld.com/WEB14_AAC.aac
-#DESCRIPTION SLAM! 40
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25283.live.streamtheworld.com/WEB08_AAC.aac
-#DESCRIPTION SLAM! Summer
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//22553.live.streamtheworld.com/WEB15_AAC.aac
-#DESCRIPTION SLAM! 00´s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25283.live.streamtheworld.com/WEB11_AAC.aac
-#DESCRIPTION SLAM! Hardstyle
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25283.live.streamtheworld.com/WEB12_AAC.aac
-#DESCRIPTION SLAM! The Boom Room
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25253.live.streamtheworld.com/WEB13_AAC.aac
-#DESCRIPTION SLAM! MixMarathon
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25323.live.streamtheworld.com/WEB09_AAC.aac
-#DESCRIPTION SLAM! Juize
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22613.live.streamtheworld.com/100PNL_AAC.aac
 #DESCRIPTION 100% NL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25283.live.streamtheworld.com/WEB01_AAC.aac
-#DESCRIPTION 100% Feest
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25233.live.streamtheworld.com/WEB05_AAC.aac
-#DESCRIPTION 100% Kerst
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25233.live.streamtheworld.com/WEB03_AAC.aac
-#DESCRIPTION 100% Liefde
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22553.live.streamtheworld.com/WEB04_AAC.aac
-#DESCRIPTION 100% Nederpop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22593.live.streamtheworld.com/WEB02_AAC.aac
-#DESCRIPTION 100% Non-Stop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25253.live.streamtheworld.com/WEB06_AAC.aac
-#DESCRIPTION 100% Puur
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21293.live.streamtheworld.com/VERONICA.mp3
 #DESCRIPTION Veronica Radio live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25273.live.streamtheworld.com/SRGSTR09.mp3
@@ -6721,16 +6691,8 @@
 #DESCRIPTION SKY Radio - Summer Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.player.arrow.nl/arrow
 #DESCRIPTION Arrow Classic Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20073.live.streamtheworld.com/RADIO10.mp3?:60_23_10_23
-#DESCRIPTION Radio 10 - live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25323.live.streamtheworld.com/TLPSTR18.mp3?
-#DESCRIPTION Radio 10 - 60´s & 70´s Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22553.live.streamtheworld.com/TLPSTR20.mp3?
-#DESCRIPTION Radio 10 - 80´er Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25333.live.streamtheworld.com/TLPSTR22.mp3?
 #DESCRIPTION Radio 10 - 90´er Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25323.live.streamtheworld.com/TLPSTR23.mp3?
-#DESCRIPTION Radio 10 - Disco Classics
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22613.live.streamtheworld.com/TLPSTR04.mp3?
 #DESCRIPTION Radio 10 - Love Songs
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22343.live.streamtheworld.com/TLPSTR15.mp3?
@@ -6747,14 +6709,6 @@
 #DESCRIPTION JOE Nederland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.tukkerfm.nl/tukkerfm
 #DESCRIPTION Tukker FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25433.live.streamtheworld.com/RADIODECIBEL.mp3
-#DESCRIPTION Radio Decibel - live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22603.live.streamtheworld.com/DECIBELEURODANCE.mp3:80
-#DESCRIPTION Radio Decibel - Eurodance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25433.live.streamtheworld.com/DECIBEL80S.mp3
-#DESCRIPTION Radio Decibel - Greatest Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22603.live.streamtheworld.com/DECIBELIBIZA.mp3
-#DESCRIPTION Radio Decibel - Party
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream2.music-radio4all.nl%3a8443/stream.mp3
 #DESCRIPTION Radio4All
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.costahitradio.com/8134/stream
@@ -7071,28 +7025,18 @@
 #DESCRIPTION Starbox Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxblues/icecast.audio
 #DESCRIPTION Starbox Radio - Blues
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxchart/icecast.audio
-#DESCRIPTION Starbox Radio - Chart
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxcountry/icecast.audio
 #DESCRIPTION Starbox Radio - Country
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxcrooners/icecast.audio
-#DESCRIPTION Starbox Radio - Crooners
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxeasy/icecast.audio
 #DESCRIPTION Starbox Radio - Easy
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxfolk/icecast.audio
-#DESCRIPTION Starbox Radio - Folk
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxindie/icecast.audio
 #DESCRIPTION Starbox Radio - Indie
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxirishfolk/icecast.audio
 #DESCRIPTION Starbox Radio - Irish Folk
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxjazz/icecast.audio
 #DESCRIPTION Starbox Radio - Jazz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxlove/icecast.audio
-#DESCRIPTION Starbox Radio - Love
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxmotown/icecast.audio
 #DESCRIPTION Starbox Radio - Motown
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxnewcountry/icecast.audio
-#DESCRIPTION Starbox Radio - New Country
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxnorthernsoul/icecast.audio
 #DESCRIPTION Starbox Radio - Northern Soul
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxreggae/icecast.audio
@@ -7297,8 +7241,6 @@
 #DESCRIPTION TURKULERLE TURKIYE - 128 kbit/s
 #SERVICE 4097:0:2:7:0:0:0:0:0:0:http%3a//radyo.yayin.com.tr%3a6042/stream/1/
 #DESCRIPTION Radyo Romantik Türk - 128 kbit/s
-#SERVICE 4097:0:2:9:0:0:0:0:0:0:http%3a//dinle.arabeskradyo.biz%3a2011/stream/1/
-#DESCRIPTION Arabesk Radyo - 128 kbit/s
 #SERVICE 4097:0:2:11:0:0:0:0:0:0:http%3a//yayin.arabeskturk.com%3a8000/stream/1/
 #DESCRIPTION Arabesk Turk - 128 kbit/s
 #SERVICE 4097:0:2:13:0:0:0:0:0:0:http%3a//live4.radyotvonline.com%3a9400/stream/1/
@@ -8409,8 +8351,6 @@
 #DESCRIPTION Klassik Radio - Beats
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-movienational-aac-128-2085172
 #DESCRIPTION Klassik Radio - Movie
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr_asejotj5ekq_hjz5-mp3-192-6184227
-#DESCRIPTION Klassik Radio - Romantischer Abend
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klassikr-friendshome-mp3-192-9930818
 #DESCRIPTION Klassik Radio - Friends @ Home
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr_8b1x2061bli_t4lb-mp3-192-4825001
@@ -8449,8 +8389,6 @@
 #DESCRIPTION Klassik Radio - Classic Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klassikr-loungebeat-mp3-192-4898133
 #DESCRIPTION Klassik Radio - Lounge Beat 1
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klassikr-lounge-mp3-192-2204076
-#DESCRIPTION Klassik Radio - Easy Lounge Beat
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr_0ij8k7ykcbt_y6sr-mp3-192-8191933
 #DESCRIPTION Klassik Radio - Vitality
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr_5onrt7sbxhi_qq9e-mp3-192-1970067
@@ -8463,12 +8401,8 @@
 #DESCRIPTION Klassik Radio - Piano
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klassikr-rockclassic-mp3-192-9679992
 #DESCRIPTION Klassik Radio - Classic meets Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr_kt2aermjjsq_n3nv-mp3-192-7780180
-#DESCRIPTION Klassik Radio - Musical Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr-games-mp3-192-4470099
 #DESCRIPTION Klassik Radio - Games Soundtracks
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr_xm8o70imbm0_g6n8-mp3-192-8990256
-#DESCRIPTION Klassik Radio - Streaming & Serien Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr_od1nkisewt4_s9sa-mp3-192-6119591
 #DESCRIPTION Klassik Radio - Movie Heroes
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr_l7egybib0zd_vhrw-mp3-192-5399228
@@ -8591,8 +8525,6 @@
 #DESCRIPTION Radio ffn - ffn Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-stream20.radiohost.de/ffn-rockt_mp3-192
 #DESCRIPTION Radio ffn - ffn rockt!
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-stream25.radiohost.de/tannenbaum_mp3-192
-#DESCRIPTION Radio ffn - ffn Tannenbaum
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-de-hz-fal-stream04-cluster01.radiohost.de/ffn-auszeit_fm_mp3-192
 #DESCRIPTION Radio ffn - Auszeit FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-stream23.radiohost.de/radiobollerwagen_mp3-192
@@ -8605,8 +8537,6 @@
 #DESCRIPTION Radio ffn - Radio Roland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-stream27.radiohost.de/ffn-radio_rotkaeppchen_mp3-192
 #DESCRIPTION Radio ffn - Radio Rotkäppchen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-stream25.radiohost.de/storiesfm_mp3-192
-#DESCRIPTION Radio ffn - Stories FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-de-hz-fal-stream02-cluster01.radiohost.de/ffn-607080radio_mp3-192
 #DESCRIPTION Radio ffn - 607080
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
@@ -8983,10 +8913,6 @@
 #DESCRIPTION BBC Radio Ulster
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_wales_fm/bbc_radio_wales_fm.isml/bbc_radio_wales_fm-audio%3d96000.norewind.m3u8
 #DESCRIPTION BBC Radio Wales
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_manchester/bbc_radio_manchester.isml/bbc_radio_manchester-audio%3d96000.norewind.m3u8:10
-#DESCRIPTION BBC Radio Manchester
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_oxford/bbc_radio_oxford.isml/bbc_radio_oxford-audio%3d96000.norewind.m3u8
-#DESCRIPTION BBC Radio Oxford
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_merseyside/bbc_radio_merseyside.isml/bbc_radio_merseyside-audio%3d96000.norewind.m3u8
 #DESCRIPTION BBC Radio Merseyside
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fr1.1mix.co.uk%3a8060/192
@@ -9061,8 +8987,6 @@
 #DESCRIPTION Radio Caroline Flashback
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen.radioking.com/radio/34544/stream/70739
 #DESCRIPTION Retrosounds Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamer-uk.rinse.fm%3a8443/stream
-#DESCRIPTION Rinse FM UK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//admin.stream.rinse.fm/proxy/kool/stream
 #DESCRIPTION Kool FM UK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming05.liveboxstream.uk/proxy/selectr1/stream
@@ -9073,8 +8997,6 @@
 #DESCRIPTION Smooth Radio UK live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media-ssl.musicradio.com/SmoothChill
 #DESCRIPTION Smooth Chill UK
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21333.live.streamtheworld.com/SMOOTHRELAX_SYD_AAC.aac
-#DESCRIPTION Smooth relax UK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.sheffieldlive.org%3a8000/shefflive.mp3
 #DESCRIPTION Sheffield live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen-msmn.sharp-stream.com/solarlow.mp3
