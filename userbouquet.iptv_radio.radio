@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 06.12.2024 21:28 by Team www.hdfreaks.cc
+#DESCRIPTION Update 07.12.2024 17:51 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -4217,8 +4217,6 @@
 #DESCRIPTION Exclusive Radio - Lewis Capaldi
 #SERVICE 4097:0:2:578:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/liamgallagher/icecast.audio
 #DESCRIPTION Exclusive Radio - Liam Gallagher
-#SERVICE 4097:0:2:578:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lilnasx/icecast.audio
-#DESCRIPTION Exclusive Radio - Lil Nas X
 #SERVICE 4097:0:2:578:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lindaronstadt/icecast.audio
 #DESCRIPTION Exclusive Radio - Linda Ronstadt
 #SERVICE 4097:0:2:578:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/lindisfarne/icecast.audio
@@ -5109,8 +5107,6 @@
 #DESCRIPTION OPEN FM Ballady Wszech Czasów
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/106
 #DESCRIPTION OPEN FM Beats & Bass
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/411
-#DESCRIPTION OPEN FM Bff
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/116
 #DESCRIPTION OPEN FM Bieganie
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/59
@@ -5183,8 +5179,6 @@
 #DESCRIPTION OPEN FM Hip Hop Ulica
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/23
 #DESCRIPTION OPEN FM Hip-Hop USA
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/327
-#DESCRIPTION OPEN FM Hot Lista
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/5
 #DESCRIPTION OPEN FM House
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/138
@@ -5199,8 +5193,6 @@
 #DESCRIPTION OPEN FM Jazz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/362
 #DESCRIPTION OPEN FM Joga
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/147
-#DESCRIPTION OPEN FM K-pop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/16
 #DESCRIPTION OPEN FM Kids - Muzyka & Ciekawostki
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/8
@@ -5221,10 +5213,6 @@
 #DESCRIPTION OPEN FM Latino Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/121
 #DESCRIPTION OPEN FM Love
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/366
-#DESCRIPTION OPEN FM Miejska Stacja
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/44
-#DESCRIPTION OPEN FM Mundial - Katar 2022
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/70
 #DESCRIPTION OPEN FM Muzyka do snu
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/38
@@ -5249,8 +5237,6 @@
 #DESCRIPTION OPEN FM Odgłosy Natury
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/160
 #DESCRIPTION OPEN FM Piosenki dla dzieci
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/353
-#DESCRIPTION OPEN FM Piosenki Po Angielsku
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/1
 #DESCRIPTION OPEN FM Po Polsku
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/17
@@ -5293,8 +5279,6 @@
 #DESCRIPTION OPEN FM Rocks
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/103
 #DESCRIPTION OPEN FM Sad
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/410
-#DESCRIPTION OPEN FM Schodki
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/18
 #DESCRIPTION OPEN FM Sexy: Soul & R'n'B
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/60
@@ -5303,8 +5287,6 @@
 #DESCRIPTION OPEN FM Spacer
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/28
 #DESCRIPTION OPEN FM Szanty
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/347
-#DESCRIPTION OPEN FM Szkoła
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/193
 #DESCRIPTION OPEN FM Szum
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/83
@@ -5321,8 +5303,6 @@
 #DESCRIPTION OPEN FM Top 20 PL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/99
 #DESCRIPTION OPEN FM Top 20 Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/426
-#DESCRIPTION OPEN FM Top 2022 Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/176
 #DESCRIPTION OPEN FM Top Wszech Czasów - Hip-Hop PL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/152
@@ -6715,20 +6695,10 @@
 #DESCRIPTION Radio 538 - Classics
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25233.live.streamtheworld.com/TLPSTR09.mp3?
 #DESCRIPTION Radio 538 - Non-Stop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22713.live.streamtheworld.com/TLPSTR06.mp3?
-#DESCRIPTION Radio 538 - Zomer
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22543.live.streamtheworld.com/TLPSTR11.mp3?
-#DESCRIPTION Radio 538 - Hitzone
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22323.live.streamtheworld.com/TLPSTR01.mp3?
-#DESCRIPTION Radio 538 - Dance Depth.
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22553.live.streamtheworld.com/TLPSTR13.mp3?
 #DESCRIPTION Radio 538 - TOP 50
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25233.live.streamtheworld.com/TLPSTR19.mp3?
 #DESCRIPTION Radio 538 - Ibiza
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22323.live.streamtheworld.com/TLPSTR16.mp3?
-#DESCRIPTION Radio 538 - Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25233.live.streamtheworld.com/TLPSTR21.mp3?
-#DESCRIPTION Radio 538 - 90´S
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25643.live.streamtheworld.com/SKYRADIO.mp3?
 #DESCRIPTION SKY Radio - live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25233.live.streamtheworld.com/SRGSTR01.mp3?:50
@@ -6769,16 +6739,6 @@
 #DESCRIPTION Radio 10 - Top 4000
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25293.live.streamtheworld.com/SUBLIME.mp3?:23_10_23
 #DESCRIPTION Sublime - live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22613.live.streamtheworld.com/SUBLIMESOUL.mp3?
-#DESCRIPTION Sublime - Soul
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22713.live.streamtheworld.com/SUBLIMESMOOTH.mp3?:70
-#DESCRIPTION Sublime - Smooth
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22613.live.streamtheworld.com/SUBLIME500.mp3?
-#DESCRIPTION Sublime - Classics
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25303.live.streamtheworld.com/SUBLIME_FUNK_DISCO.mp3?
-#DESCRIPTION Sublime - Funk & Disco
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22613.live.streamtheworld.com/SUBLIMEARROWJAZZ.mp3?
-#DESCRIPTION Sublime - Jazz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.joyradio.nl/joyradio
 #DESCRIPTION Joy Radio NL Hits Only!
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21313.live.streamtheworld.com/BNR_NIEUWSRADIO.mp3?
@@ -7299,52 +7259,22 @@
 #DESCRIPTION Tinder Radio
 #SERVICE 4097:0:2:34:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/bollywoodmix/icecast.audio
 #DESCRIPTION Tinder Radio - World Bollywood
-#SERVICE 4097:0:2:34:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/beachparty/icecast.audio
-#DESCRIPTION Tinder Radio - Beach Party
 #SERVICE 4097:0:2:223:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/christmascarols/icecast.audio
 #DESCRIPTION Tinder Radio - Christmas Carols
 #SERVICE 4097:0:2:225:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/christmaspop/icecast.audio
 #DESCRIPTION Tinder Radio - Christmas Pop
-#SERVICE 4097:0:2:231:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/club/icecast.audio
-#DESCRIPTION Tinder Radio - Club
-#SERVICE 4097:0:2:231:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/chilldance/icecast.audio
-#DESCRIPTION Tinder Radio - Dance Chill
 #SERVICE 4097:0:2:231:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/disco/icecast.audio
 #DESCRIPTION Tinder Radio - Disco
-#SERVICE 4097:0:2:231:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/afternoon/icecast.audio
-#DESCRIPTION Tinder Radio - Good Afternoon
-#SERVICE 4097:0:2:231:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/goodevening/icecast.audio
-#DESCRIPTION Tinder Radio - Good Evening
-#SERVICE 4097:0:2:231:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/goodmorning/icecast.audio
-#DESCRIPTION Tinder Radio - Good Morning
-#SERVICE 4097:0:2:231:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/goodnight/icecast.audio
-#DESCRIPTION Tinder Radio - Good Night
-#SERVICE 4097:0:2:231:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/happy/icecast.audio
-#DESCRIPTION Tinder Radio - Happy
 #SERVICE 4097:0:2:231:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/hollywoodandbroadway/icecast.audio
 #DESCRIPTION Tinder Radio - Hollywood & Broadway Musicals
 #SERVICE 4097:0:2:231:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/chart/icecast.audio
 #DESCRIPTION Tinder Radio - Hot Hits
-#SERVICE 4097:0:2:231:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/ibiza/icecast.audio
-#DESCRIPTION Tinder Radio - Ibiza
-#SERVICE 4097:0:2:647:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/ministryofsound/icecast.audio
-#DESCRIPTION Tinder Radio - Ministry of Sound
-#SERVICE 4097:0:2:653:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/movieandtvthemes/icecast.audio
-#DESCRIPTION Tinder Radio - Movie & TV Themes
 #SERVICE 4097:0:2:701:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/party/icecast.audio
 #DESCRIPTION Tinder Radio - Party
-#SERVICE 4097:0:2:703:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/partyanthems/icecast.audio
-#DESCRIPTION Tinder Radio - Party Anthems
-#SERVICE 4097:0:2:753:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/rave/icecast.audio
-#DESCRIPTION Tinder Radio - Rave
 #SERVICE 4097:0:2:777:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/rocknrollparty/icecast.audio
 #DESCRIPTION Tinder Radio - Rock N' Roll Party
 #SERVICE 4097:0:2:777:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/tiktoktrending/icecast.audio
 #DESCRIPTION Tinder Radio - Tik Tok Trending
-#SERVICE 4097:0:2:1019:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/wedding/icecast.audio
-#DESCRIPTION Tinder Radio - Wedding
-#SERVICE 4097:0:2:1021:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/weddingclassical/icecast.audio
-#DESCRIPTION Tinder Radio - Wedding Classical
 #SERVICE 4097:0:2:66:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/afrobeats/icecast.audio
 #DESCRIPTION Tinder Radio - World Afrobeats
 #SERVICE 4097:0:2:166:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/brazil/icecast.audio
@@ -7359,8 +7289,6 @@
 #DESCRIPTION Tinder Radio - World K-Pop
 #SERVICE 4097:0:2:659:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/musiquefrancaise/icecast.audio
 #DESCRIPTION Tinder Radio - World Musique Francaise
-#SERVICE 4097:0:2:669:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/nzmusic/icecast.audio
-#DESCRIPTION Tinder Radio - World New Zealand
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Turkey
 #SERVICE 4097:0:2:3:0:0:0:0:0:0:http%3a//shoutcast.radyogrup.com%3a1030/stream/1/
