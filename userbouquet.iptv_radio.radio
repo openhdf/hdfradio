@@ -14,6 +14,26 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxeschlager6333124-mp3-192-1509811
 #DESCRIPTION Deluxe Music - Schlager Deluxe
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
+#DESCRIPTION Radio PSR
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/psr-live/mp3-192/mediaplayer:01KS180723
+#DESCRIPTION Radio PSR - Live-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/psr-partymix/mp3-192/mediaplayer
+#DESCRIPTION Radio PSR - Party-Mix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/psr-event01/mp3-192/mediaplayer
+#DESCRIPTION Radio PSR - Weihnachts-Superhits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/psr-chartbreaker/mp3-192/mediaplayer
+#DESCRIPTION Radio PSR - Chartbreaker
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/psr-80er/mp3-192/mediaplayer
+#DESCRIPTION Radio PSR - 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/psr-90er/mp3-192/mediaplayer
+#DESCRIPTION Radio PSR - 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/sachsensongs/mp3-192/mediaplayer
+#DESCRIPTION Radio PSR - Sachsensongs
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/sommerhits/mp3-192/mediaplayer
+#DESCRIPTION Radio PSR - Sommerhits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/sinnlostelefon/mp3-192/mediaplayer:09
+#DESCRIPTION Radio PSR - Sinnlos-Telefon
+#SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Hörspiele
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hoerspiel.stream.laut.fm/hoerspiel
 #DESCRIPTION Hörspiel-Radio - Hörspiele aus allen Genres
@@ -421,26 +441,6 @@
 #DESCRIPTION Radio BOB! - Fury in the Slaughterhouse-Stream
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-radiobobbosshoss3509320-mp3-192-5309717
 #DESCRIPTION Radio BOB! - The BossHoss Rockshow-Stream
-#SERVICE 1:64:D:0:0:0:0:0:0:0:
-#DESCRIPTION Radio PSR
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/psr-live/mp3-192/mediaplayer:01KS180723
-#DESCRIPTION Radio PSR - Live-Stream
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/psr-partymix/mp3-192/mediaplayer
-#DESCRIPTION Radio PSR - Party-Mix
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/psr-event01/mp3-192/mediaplayer
-#DESCRIPTION Radio PSR - Weihnachts-Superhits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/psr-chartbreaker/mp3-192/mediaplayer
-#DESCRIPTION Radio PSR - Chartbreaker
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/psr-80er/mp3-192/mediaplayer
-#DESCRIPTION Radio PSR - 80er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/psr-90er/mp3-192/mediaplayer
-#DESCRIPTION Radio PSR - 90er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/sachsensongs/mp3-192/mediaplayer
-#DESCRIPTION Radio PSR - Sachsensongs
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/sommerhits/mp3-192/mediaplayer
-#DESCRIPTION Radio PSR - Sommerhits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/sinnlostelefon/mp3-192/mediaplayer:09
-#DESCRIPTION Radio PSR - Sinnlos-Telefon
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Antenne NRW
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/antenne-nrw/stream/mp3
