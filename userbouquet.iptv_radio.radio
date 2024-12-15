@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 15.12.2024 12:46 by Team www.hdfreaks.cc
+#DESCRIPTION Update 15.12.2024 14:04 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -3285,8 +3285,6 @@
 #DESCRIPTION Zoner Underground Network
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION HiRes Radio Stations
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.centaury.cl%3a7570/SuperStereoHiRes3Plus
-#DESCRIPTION SuperStereo 3+ - New Wave,Synth Pop(HiRes)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//r5.zetcast.net/flac
 #DESCRIPTION 60 North Radio - Eclectic Music Mix (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.95bfm.com/stream112
@@ -3421,6 +3419,8 @@
 #DESCRIPTION SuperStereo 2 - 50s 60s 70s (HiRes)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.centaury.cl%3a7570/SuperStereoHiRes3
 #DESCRIPTION SuperStereo 3 - 80s (HiRes)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.centaury.cl%3a7570/SuperStereoHiRes3Plus
+#DESCRIPTION SuperStereo 3+ - New Wave, Synth Pop(HiRes)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.centaury.cl%3a7570/SuperStereoHiRes4
 #DESCRIPTION SuperStereo 4 - Ballads 80s 90s 00s (HiRes)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.centaury.cl%3a7570/SuperStereoHiRes4Plus
