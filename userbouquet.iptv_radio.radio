@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 15.12.2024 14:04 by Team www.hdfreaks.cc
+#DESCRIPTION Update 16.12.2024 17:38 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -8973,3 +8973,21 @@
 #DESCRIPTION YouRadio Greatest Hits - 2010
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//2.mystreaming.net/uber-app/boomerang2020s/icecast.audio
 #DESCRIPTION YouRadio Greatest Hits - 2020
+#SERVICE 1:64:D:0:0:0:0:0:0:0:
+#DESCRIPTION Radio Lausitz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge17.radio.radiolausitz.de/radiolausitz-live/stream/mp3
+#DESCRIPTION Radio Lausitz - Livestream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.radiolausitz.de/radiolausitz-zwei?
+#DESCRIPTION Radio Lausitz - 2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge17.radio.radiolausitz.de/radiolausitz-80er/stream/mp3
+#DESCRIPTION Radio Lausitz - 80er Kulthits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge17.radio.radiolausitz.de/radiolausitz-90er/stream/mp3
+#DESCRIPTION Radio Lausitz - 90erXXL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge17.radio.radiolausitz.de/radiolausitz-tophits/stream/mp3
+#DESCRIPTION Radio Lausitz - TopHits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge17.radio.radiolausitz.de/radiolausitz-freitagnacht/stream/mp3
+#DESCRIPTION Radio Lausitz - FreitagNacht
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge17.radio.radiolausitz.de/radiolausitz-weihnachten/stream/mp3
+#DESCRIPTION Radio Lausitz - Weihnachtsradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge17.radio.radiolausitz.de/radiolausitz-sommerradio/stream/mp3
+#DESCRIPTION Radio Lausitz - Sommerradio
