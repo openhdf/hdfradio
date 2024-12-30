@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 30.12.2024 12:22 by Team www.hdfreaks.cc
+#DESCRIPTION Update 30.12.2024 12:33 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1631,9 +1631,9 @@
 #DESCRIPTION harmony.fm - Tina Turner Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION radio.de
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//solid24.streamupsolutions.com/proxy/nilxzqeg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//solid24.streamupsolutions.com/proxy/nilxzqeg?mp=/;type=mp3
 #DESCRIPTION radio.de - Bar Legend Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//vip2.fastcast4u.com/proxy/classicrockdoug
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//vip2.fastcast4u.com/proxy/classicrockdoug?mp=/1
 #DESCRIPTION radio.de - Classic Rock Florida HD
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5109_128
 #DESCRIPTION radio.de - AceRadio-Classic RnB
