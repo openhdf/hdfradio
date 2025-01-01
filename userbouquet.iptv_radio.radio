@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 30.12.2024 19:31 by Team www.hdfreaks.cc
+#DESCRIPTION Update 01.01.2025 12:03 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -8351,3 +8351,63 @@
 #DESCRIPTION Radio Lausitz - Weihnachtsradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge17.radio.radiolausitz.de/radiolausitz-sommerradio/stream/mp3
 #DESCRIPTION Radio Lausitz - Sommerradio
+#SERVICE 1:64:D:0:0:0:0:0:0:0:
+#DESCRIPTION BB Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-bbradiolive-mp3-128-4531502:01012025_K.S
+#DESCRIPTION BB Radio - Livestream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-bbrwelovemusic-aacplus-64-9543854
+#DESCRIPTION BB Radio - We love music
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-bbradioplus80er-mp3-128-5626890
+#DESCRIPTION BB Radio - Plus 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-bbradioplus90er-mp3-128-8831581
+#DESCRIPTION BB Radio - Plus 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-straetermusik-mp3-128-9613107
+#DESCRIPTION BB Radio - Sträter:Musik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-bbrpartydance-aacplus-64-2074244
+#DESCRIPTION BB Radio - Party & Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/livestream-berlinpotsdam/stream.aac?quality=10
+#DESCRIPTION BB Radio - Berlin/Potsdam
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/livestream-niederlausitz/stream.aac?quality=10
+#DESCRIPTION BB Radio - Niederlausitz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/livestream-havelland/stream.aac?quality=10
+#DESCRIPTION BB Radio - Brandenburg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/livestream-oderland/stream.aac?quality=10
+#DESCRIPTION BB Radio - Oderland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/livestream-prignitz/stream.aac?quality=10
+#DESCRIPTION BB Radio - Prignitz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/livestream-nordost/stream.aac?quality=10
+#DESCRIPTION BB Radio - Nordost
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/urban-germany/stream.aac?quality=10
+#DESCRIPTION BB Radio - Deutsche Hip Hop Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/sommer/stream.aac?quality=10
+#DESCRIPTION BB Radio - Sommer
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/80er/stream.aac?quality=10
+#DESCRIPTION BB Radio - 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/90er/stream.aac?quality=10
+#DESCRIPTION BB Radio - 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/2000er/stream.aac?quality=10
+#DESCRIPTION BB Radio - 2000er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/2010er/stream.aac?quality=10
+#DESCRIPTION BB Radio - 2010er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/brandneu/stream.aac?quality=10
+#DESCRIPTION BB Radio - BrandNeu
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/top-50/stream.aac?quality=10
+#DESCRIPTION BB Radio - Top 50
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/deutsche-hits/stream.aac?quality=10
+#DESCRIPTION BB Radio - Deutsche Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/superstars/stream.aac?quality=10
+#DESCRIPTION BB Radio - Superstars
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/rock/stream.aac?quality=10
+#DESCRIPTION BB Radio - Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/oldies/stream.aac?quality=10
+#DESCRIPTION BB Radio - Oldies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/bb-radio-schlager/stream.aac?quality=10
+#DESCRIPTION BB Radio - Schlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/feten-hits/stream.aac?quality=10
+#DESCRIPTION BB Radio - Feten Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/soft/stream.aac?quality=10:28
+#DESCRIPTION BB Radio - Soft
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/weihnachts-hits/stream.aac?quality=10
+#DESCRIPTION BB Radio - Weihnachts-Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/weihnachtsmusik/stream.aac?quality=10
+#DESCRIPTION BB Radio - Weihnachtsmusik
