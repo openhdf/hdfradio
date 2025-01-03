@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 02.01.2025 17:12 by Team www.hdfreaks.cc
+#DESCRIPTION Update 03.01.2025 19:58 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2992,7 +2992,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//88.212.34.18%3a8050/mp3midband
 #DESCRIPTION G-Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//play.radio7.sk/64
-#DESCRIPTION Radio 7
+#DESCRIPTION Radio 7 SK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//78.24.9.110%3a31088/;stream/1
 #DESCRIPTION Radio Janko Hrasko
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.frontinus.sk%3a8000/frontinus128.mp3
@@ -3183,8 +3183,6 @@
 #DESCRIPTION Radio Krokodyl
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice.abradio.cz/tloskov128.mp3
 #DESCRIPTION Radio Tloskov
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast8.play.cz/radio7-128.mp3
-#DESCRIPTION Radio 7
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice4.abradio.cz/coop128.mp3
 #DESCRIPTION COOP TIP Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice4.abradio.cz/merkur-casino128.mp3
@@ -3243,8 +3241,6 @@
 #DESCRIPTION Hitradio Bonton
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice.abradio.cz/hit10128.mp3
 #DESCRIPTION Hitradio Desitka
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_ORION_128.mp3
-#DESCRIPTION Hitradio Orion
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast8.play.cz/expres128mp3
 #DESCRIPTION Expres FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast2.play.cz%3a8000/Clubradio.mp3
@@ -3306,7 +3302,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast8.play.cz/color128.mp3
 #DESCRIPTION Color Music Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast7.play.cz/relax128.mp3
-#DESCRIPTION Radio Relax
+#DESCRIPTION Radio Relax CZ
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast9.play.cz/netro-life-radio.mp3
 #DESCRIPTION Netro Life Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice.actve.net/web-pg-pohadky
@@ -5384,7 +5380,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radio5.com.pl%3a8888/radio5suwalki
 #DESCRIPTION Radio 5
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radio7.pl%3a443
-#DESCRIPTION Radio 7
+#DESCRIPTION Radio 7 PL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s4.radio.co/s1b687cf20/low
 #DESCRIPTION Radio 7 Toronto
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.232.4.33%3a9305/stream
@@ -5577,8 +5573,6 @@
 #DESCRIPTION Radio Lipsko
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream10.hosterion.pl%3a8004/stream
 #DESCRIPTION Radio Listek FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//panel.nadaje.com%3a11058
-#DESCRIPTION Radio Logos
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7570/stream
 #DESCRIPTION Radio Lolusiowe
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4stream.pl%3a18094
@@ -5700,7 +5694,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream1.dabcom.pl/rdn_ns
 #DESCRIPTION Radio R.D.N. Nowy Sącz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.slotex.pl/shoutcast/7614/stream
-#DESCRIPTION Radio Relax
+#DESCRIPTION Radio Relax PL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.rockserwis.fm/live
 #DESCRIPTION Radio Rockserwis.fm
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//51.255.8.139%3a9048/stream
@@ -5927,8 +5921,6 @@
 #DESCRIPTION bigFM - Charts
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.bigfm.de/tiktokcharts/mp3-128/radiode
 #DESCRIPTION bigFM - TikTok Charts
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-rapfeature-aac-128-3272803
-#DESCRIPTION bigFM - Deutschrap rasiert
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.bigfm.de/rockamring/mp3-128/radiode
 #DESCRIPTION bigFM - Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.bigfm.de/confidence/mp3-128/radiode
@@ -6744,7 +6736,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiocast.rtp.pt/rdpafrica80a.mp3
 #DESCRIPTION RDP Africa - Main - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//link.radios.pt/radiovidigueira
-#DESCRIPTION Unnamed Server - 128 kbit/s
+#DESCRIPTION Unnamed Server POR - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com%3a80/BrooseBreeeeeze
 #DESCRIPTION JamendoLounge - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//link.radios.pt/radioclubedepenafiel
@@ -7237,8 +7229,6 @@
 #DESCRIPTION TENIENTIKO.COM RADIO - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/1000-HITS-Sweet-Radio
 #DESCRIPTION 1000HITSSweetRadio - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/mozart
-#DESCRIPTION JamendoLounge - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//5.39.76.68%3a8050
 #DESCRIPTION DISTINTA FM - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/todocountryradio
@@ -7302,7 +7292,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//2.139.144.101%3a8020/stream/1/
 #DESCRIPTION Star People - 256 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.capsulaimposible.com%3a8000/stream/2/canalebro.mp3
-#DESCRIPTION Unnamed Server - 128 kbit/s
+#DESCRIPTION Unnamed Server ESP - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/AQUA-RADIO-ONLINE
 #DESCRIPTION AQUARADIOONLINE - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com%3a80/ACRADULTROCKNOW
