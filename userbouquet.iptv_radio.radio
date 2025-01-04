@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 04.01.2025 11:54 by Team www.hdfreaks.cc
+#DESCRIPTION Update 04.01.2025 22:44 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1995,7 +1995,7 @@
 #DESCRIPTION Radio Energy - National
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge09.streamonkey.net/energy-summerhits/stream/mp3
 #DESCRIPTION Radio Energy - Summerhits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge12.streamonkey.net/energy-hits/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge07.streamonkey.net/energy-hits/stream/mp3
 #DESCRIPTION Radio Energy - Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge07.streamonkey.net/energy-dance/stream/mp3
 #DESCRIPTION Radio Energy - Dance
@@ -2031,7 +2031,7 @@
 #DESCRIPTION Absolut Radio - 80er
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge59.live-sm.absolutradio.de/absolut-rock
 #DESCRIPTION Absolut Radio - Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge12.live-sm.absolutradio.de/absolut-musicxl
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge11.live-sm.absolutradio.de/absolut-musicxl/stream/mp3
 #DESCRIPTION Absolut Radio - Music XL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge07.live-sm.absolutradio.de/absolut-ai
 #DESCRIPTION Absolut Radio - Absolut Radio AI
@@ -2341,8 +2341,6 @@
 #DESCRIPTION Mixed Channels - RADIO fresh80s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//c30.radioboss.fm%3a8173/hifi.mp3
 #DESCRIPTION Mixed Channels - RadioFREIZEIT
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge12.streamonkey.net/nostalgie-live/stream/mp3
-#DESCRIPTION Mixed Channels - Nostalgie Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge66.streamonkey.net/fho-schwarzwaldradiolive/stream/mp3
 #DESCRIPTION Mixed Channels - Schwarzwaldradio – Classic Hits & Super Oldies
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn-de-hz-fal-stream08-cluster01.radiohost.de/radiobollerwagen_mp3-192
@@ -2409,8 +2407,6 @@
 #DESCRIPTION Mixed Channels - Rádio Huila
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paineldj5.com.br%3a20087/stream
 #DESCRIPTION Mixed Channels - Rádio Huambo – RNA
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paineldj5.com.br%3a20096/stream
-#DESCRIPTION Mixed Channels - Rádio Benguela – RNA
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//c23.radioboss.fm%3a8129/stream:01012025_K.S.
 #DESCRIPTION Mixed Channels - 80s FlashBack Radio (Chile)
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
@@ -3029,8 +3025,6 @@
 #DESCRIPTION Radio Piestany
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.stv.livebox.sk/pyramida_128.mp3
 #DESCRIPTION Radio Pyramida
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mpc2.mediacp.eu%3a8200/rebecaweb
-#DESCRIPTION Radio Rebeca
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.rusyn.fm/rusyny.mp3
 #DESCRIPTION Rusyn FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiosity.online%3a8000/aac
@@ -3669,8 +3663,6 @@
 #DESCRIPTION Exclusive Radio - Andy Williams Only Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/annielennox/icecast.audio
 #DESCRIPTION Exclusive Radio - Annie Lennox
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/arcticmonkeys/icecast.audio
-#DESCRIPTION Exclusive Radio - Artic Monkeys
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/arethafranklin/icecast.audio
 #DESCRIPTION Exclusive Radio - Aretha Franklin
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/arethafranklinhits/icecast.audio
@@ -5383,8 +5375,6 @@
 #DESCRIPTION Radio 5
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radio7.pl%3a443
 #DESCRIPTION Radio 7 PL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s4.radio.co/s1b687cf20/low
-#DESCRIPTION Radio 7 Toronto
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.232.4.33%3a9305/stream
 #DESCRIPTION Radio 80
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/ye5kghkgcm0uv
@@ -6261,8 +6251,6 @@
 #DESCRIPTION Radio meuh.com
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp4.com%3a8056/stream/1/
 #DESCRIPTION Radio Maria France
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.121.29.104%3a8142/stream/1/
-#DESCRIPTION Radio Saint Louis
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nr6.newradio.it%3a9104/
 #DESCRIPTION Radio Studio Nord
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/arcadie
@@ -8149,7 +8137,7 @@
 #DESCRIPTION RT1 Relax
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge65.streamonkey.net/rt1-ch29/stream/mp3
 #DESCRIPTION RT1 Chill out
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge12.streamonkey.net/rt1-ch35/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge07.streamonkey.net/rt1-ch35/stream/mp3
 #DESCRIPTION RT1 Synthwave
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge67.streamonkey.net/rt1-ch36/stream/mp3
 #DESCRIPTION RT1 Ikarus Festival Radio
