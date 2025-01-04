@@ -3,6 +3,6 @@ Changelog v2.17.6:
 - added an option to update the favorites list
 - added fix for YouTube
 - removed YouTube player selection
-- updated finnish translation (thanks Orlandox)
+- updated finnish translation (thanks @Orlandox)
 - update the streamchecker helper tool
 - some small fixes
