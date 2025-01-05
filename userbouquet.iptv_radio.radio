@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 05.01.2025 12:21 by Team www.hdfreaks.cc
+#DESCRIPTION Update 05.01.2025 12:38 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -3166,7 +3166,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast5.play.cz/dechovka128.mp3
 #DESCRIPTION Radio Dechovka
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast3.play.cz/radio-nostalgie128.mp3
-#DESCRIPTION Radio Nostalgie
+#DESCRIPTION Radio Nostalgie CZ
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast1.play.cz/kiss128.mp3
 #DESCRIPTION Radio Kiss
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast6.play.cz/radio-kromeriz128.mp3
@@ -8423,3 +8423,13 @@
 #DESCRIPTION Berliner Rundfunk 91.4 - Simone´s Weihnachtsradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream32.radiohost.de/brf-weihnachten_mp3-128?
 #DESCRIPTION Berliner Rundfunk 91.4 - Weihnachtsradio
+#SERVICE 1:64:D:0:0:0:0:0:0:0:
+#DESCRIPTION Nostalgie Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge80.streamonkey.net/nostalgie-live?aggregator=shorty
+#DESCRIPTION Nostalgie Radio - Livestream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge84.streamonkey.net/nostalgie-90er?aggregator=shorty
+#DESCRIPTION Nostalgie Radio - 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge63.streamonkey.net/nostalgie-80er?aggregator=shorty
+#DESCRIPTION Nostalgie Radio - 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge15.streamonkey.net/nostalgie-sommer?aggregator=shorty
+#DESCRIPTION Nostalgie Radio - Sommer
