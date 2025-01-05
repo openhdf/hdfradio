@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 04.01.2025 22:44 by Team www.hdfreaks.cc
+#DESCRIPTION Update 05.01.2025 12:21 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -5727,8 +5727,6 @@
 #DESCRIPTION Radio Strefa FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream2.nadaje.com%3a8012
 #DESCRIPTION Radio Sud
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//4stream.pl%3a18320
-#DESCRIPTION Radio SuDi Planet FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.super.fm%3a8443/superfm.mp3
 #DESCRIPTION Radio Super FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiosygnaly2.uni.opole.pl%3a8000/stream
@@ -6774,7 +6772,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//web.bolognauno.it%3a9944/stream/1/
 #DESCRIPTION Nettuno Bologna Uno
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//159.69.217.78%3a8000
-#DESCRIPTION Radio 2000 Radio 2000
+#DESCRIPTION Radio 2000
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.studiopiu.net%3a8005
 #DESCRIPTION Radio 60 70 80 - Italy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//onair20.xdevel.com%3a8204
