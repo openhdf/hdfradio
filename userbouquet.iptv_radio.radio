@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 05.01.2025 12:38 by Team www.hdfreaks.cc
+#DESCRIPTION Update 05.01.2025 20:48 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -8425,11 +8425,29 @@
 #DESCRIPTION Berliner Rundfunk 91.4 - Weihnachtsradio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Nostalgie Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge80.streamonkey.net/nostalgie-live?aggregator=shorty
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge67.streamonkey.net/nostalgie-live
 #DESCRIPTION Nostalgie Radio - Livestream
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge84.streamonkey.net/nostalgie-90er?aggregator=shorty
-#DESCRIPTION Nostalgie Radio - 90er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge63.streamonkey.net/nostalgie-80er?aggregator=shorty
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge61.streamonkey.net/nostalgie-80er
 #DESCRIPTION Nostalgie Radio - 80er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge15.streamonkey.net/nostalgie-sommer?aggregator=shorty
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge59.streamonkey.net/nostalgie-90er
+#DESCRIPTION Nostalgie Radio - 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge09.streamonkey.net/nostalgie-danceparty
+#DESCRIPTION Nostalgie Radio - Dance Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/de/57477/mp3_128.mp3
+#DESCRIPTION Nostalgie Radio - Best of 60's
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/de/57478/mp3_128.mp3
+#DESCRIPTION Nostalgie Radio - Best of 70's
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/de/57484/mp3_128.mp3
+#DESCRIPTION Nostalgie Radio - Blues
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/de/57482/mp3_128.mp3
+#DESCRIPTION Nostalgie Radio - Disco Fever
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/de/57481/mp3_128.mp3
+#DESCRIPTION Nostalgie Radio - New Wave
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/de/57486/mp3_128.mp3
+#DESCRIPTION Nostalgie Radio - Pop Rock 80
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/de/57483/mp3_128.mp3
+#DESCRIPTION Nostalgie Radio - Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//scdn.nrjaudio.fm/adwz1/de/57485/mp3_128.mp3
+#DESCRIPTION Nostalgie Radio - Route 66
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge11.streamonkey.net/nostalgie-sommer
 #DESCRIPTION Nostalgie Radio - Sommer
