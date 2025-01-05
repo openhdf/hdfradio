@@ -1,8 +1,6 @@
-Changelog v2.17.6:
-- fixed an issue when editing the favorites list
-- added an option to update the favorites list
-- added fix for YouTube
-- removed YouTube player selection
-- updated finnish translation (thanks @Orlandox)
-- update the streamchecker helper tool
+Changelog v2.17.7:
+- Playlist editor revised
+- empty lines are now ignored when reading the radio list
+- translations updated (thanks @Warder and @Orlandox)
+- streamchecker revised
 - some small fixes
