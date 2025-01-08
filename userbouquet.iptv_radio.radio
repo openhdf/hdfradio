@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 05.01.2025 20:48 by Team www.hdfreaks.cc
+#DESCRIPTION Update 08.01.2025 20:34 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -3607,6 +3607,8 @@
 #DESCRIPTION SUN – Le Son Unique (FLAC 1556kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.norbert.de/zappa.flac
 #DESCRIPTION Zappa Stream Radio (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//progressieverock.nl%3a1973/flac
+#DESCRIPTION Progressieverock.nl (FLAC)
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Exclusive Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/10cc/icecast.audio
@@ -6123,6 +6125,12 @@
 #DESCRIPTION 2FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//2fm.nl/ic2fmretro//retro
 #DESCRIPTION 2FM Retro
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.beeradio.nl/main
+#DESCRIPTION bee Radio NL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.beeradio.nl/classics
+#DESCRIPTION bee Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.beeradio.nl/xmas
+#DESCRIPTION bee Xmas
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Frankreich
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stric6.streamakaci.com/4uclassicrock.mp3
