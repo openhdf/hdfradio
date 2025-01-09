@@ -1,6 +1,8 @@
-Changelog v2.17.7:
-- Playlist editor revised
-- empty lines are now ignored when reading the radio list
-- translations updated (thanks @Warder and @Orlandox)
+Changelog v2.17.8:
+- reading main list revised
+- Lyrics skins for 'Clean' and 'Rock' revised
+- checking for streamtitle for some 'Nostalgie Radio' streams via gstplayer
+- checking for permissions when saving as embedded lyrics
+- filter rules for extracting artist and song expanded
 - streamchecker revised
-- some small fixes
+- many small changes
