@@ -6,3 +6,12 @@ Changelog v2.17.8:
 - filter rules for extracting artist and song expanded
 - streamchecker revised
 - many small changes
+
+Changelog v2.17.6:
+- fixed an issue when editing the favorites list
+- added an option to update the favorites list
+- added fix for YouTube
+- removed YouTube player selection
+- updated finnish translation (thanks @Orlandox)
+- update the streamchecker helper tool
+- some small fixes
