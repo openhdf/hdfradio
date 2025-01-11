@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 08.01.2025 20:34 by Team www.hdfreaks.cc
+#DESCRIPTION Update 11.01.2025 17:10 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2409,6 +2409,8 @@
 #DESCRIPTION Mixed Channels - Rádio Huambo – RNA
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//c23.radioboss.fm%3a8129/stream:01012025_K.S.
 #DESCRIPTION Mixed Channels - 80s FlashBack Radio (Chile)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s2.ssl-stream.com%3a8050/256.mp3
+#DESCRIPTION Mixed Channels - 80s Forever
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION SATzentrale
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//satzentrale.stream.laut.fm/satzentrale
