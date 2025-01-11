@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 11.01.2025 17:10 by Team www.hdfreaks.cc
+#DESCRIPTION Update 11.01.2025 21:19 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1369,39 +1369,43 @@
 #DESCRIPTION MDR Radio - MDR TWEENS
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Star FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.starfm.de/nbg.mp3
-#DESCRIPTION Star FM - Nürnberg
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.starfm.de/berlin.mp3
-#DESCRIPTION Star FM - Berlin
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/nrw/mp3-192
-#DESCRIPTION Star FM - NRW
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/national/mp3-192
-#DESCRIPTION Star FM - Maximum Rock National
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.starfm.de/90srock/mp3-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/national/mp3-192/iradio
+#DESCRIPTION Star FM - MAXIMUM ROCK National
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/sachsen/mp3-192/iradio
+#DESCRIPTION Star FM - MAXIMUM ROCK Sachsen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/nbg/mp3-192/iradio
+#DESCRIPTION Star FM - MAXIMUM ROCK Nürnberg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/berlin/mp3-192/iradio
+#DESCRIPTION Star FM - MAXIMUM ROCK Berlin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/nrw/mp3-192/iradio
+#DESCRIPTION Star FM - MAXIMUM ROCK NRW
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.starfm.de/90srock/mp3-192/iradio
 #DESCRIPTION Star FM - 90s Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.starfm.de/80er.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/80srock/mp3-192/iradio
 #DESCRIPTION Star FM - 80s Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.starfm.de/classic_rock.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/classic/mp3-192/iradio
 #DESCRIPTION Star FM - Classic Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.starfm.de/from_hell.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/fromhell/mp3-192/iradio
 #DESCRIPTION Star FM - From Hell
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/hardrock/mp3-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/hardrock/mp3-192/iradio
 #DESCRIPTION Star FM - Hard Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/newmetal/mp3-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/newmetal/mp3-192/iradio
 #DESCRIPTION Star FM - New Metal
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/festival/mp3-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/festival/mp3-192/iradio
 #DESCRIPTION Star FM - Festival Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/ballads/mp3-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/ballads/mp3-192/iradio
 #DESCRIPTION Star FM - Rock Ballads
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.starfm.de/alternative.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/alternat/mp3-192/iradio
 #DESCRIPTION Star FM - Alternative Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/newrock/mp3-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/newrock/mp3-192/iradio
 #DESCRIPTION Star FM - New Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.starfm.de/country_rock.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/country/mp3-192/iradio
 #DESCRIPTION Star FM - Country Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.starfm.de/blues.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/blues/mp3-192/iradio
 #DESCRIPTION Star FM - Blues Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.starfm.de/xmas_rock.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/xmas2/mp3-192/iradio
+#DESCRIPTION Star FM - Weihnachtsradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.starfm.de/xmas/mp3-192/iradio
 #DESCRIPTION Star FM - Christmas Rock
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio Fantasy
