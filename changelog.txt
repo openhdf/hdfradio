@@ -1,3 +1,9 @@
+Changelog v2.17.9:
+- extracting artist and song revised
+- searching for cover picture revised
+- added fix for YouTube
+- some small fixes
+
 Changelog v2.17.8:
 - reading main list revised
 - Lyrics skins for 'Clean' and 'Rock' revised
