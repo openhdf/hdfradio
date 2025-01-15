@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 11.01.2025 21:19 by Team www.hdfreaks.cc
+#DESCRIPTION Update 15.01.2025 18:03 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -8465,3 +8465,151 @@
 #DESCRIPTION Nostalgie Radio - Route 66
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge11.streamonkey.net/nostalgie-sommer
 #DESCRIPTION Nostalgie Radio - Sommer
+#SERVICE 1:64:D:0:0:0:0:0:0:0:
+#DESCRIPTION 1.FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/club_mobile_mp3:15_01_25_K_S
+#DESCRIPTION 1.FM - 00s Hip Hop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/acpl_mobile_mp3
+#DESCRIPTION 1.FM - 2010s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/partyzone90s_mobile_mp3
+#DESCRIPTION 1.FM - 90s Alternative
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/spanishtophits_mobile_mp3
+#DESCRIPTION 1.FM - 90s Hip Hop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/slowjamz_mobile_mp3
+#DESCRIPTION 1.FM - 90s RnB
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/back280s_mobile_mp3
+#DESCRIPTION 1.FM - A List 80s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/70s_mobile_mp3
+#DESCRIPTION 1.FM - Absolute 70's Pop Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/90s_mobile_mp3:08
+#DESCRIPTION 1.FM - Absolute 90s Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/latino_mobile_mp3
+#DESCRIPTION 1.FM - Absolute Pop Latino Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/trance_mobile_mp3:10
+#DESCRIPTION 1.FM - Absolute Trance (Euro)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/ajazz_mobile_mp3
+#DESCRIPTION 1.FM - Adore Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/electronica_mobile_mp3
+#DESCRIPTION 1.FM - Afterbeat Electronica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/80s_90s_mobile_mp3
+#DESCRIPTION 1.FM - All Euro 80's Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/x_mobile_mp3
+#DESCRIPTION 1.FM - Alternative Rock X Hits Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/christmas_mobile_mp3
+#DESCRIPTION 1.FM - Always-Christmas Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/ambientpsy_mobile_mp3:16
+#DESCRIPTION 1.FM - Ambient Psychill
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/top40_mobile_mp3:17
+#DESCRIPTION 1.FM - Amsterdam Trance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/60s_70s_mobile_mp3
+#DESCRIPTION 1.FM - Back To The 50's & 60's Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/baroque_mobile_mp3
+#DESCRIPTION 1.FM - Baroque
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/smoothjazz_mobile_mp3
+#DESCRIPTION 1.FM - Bay Smooth Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/onelive_mobile_mp3
+#DESCRIPTION 1.FM - Beloved Ballads
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/blues_mobile_mp3
+#DESCRIPTION 1.FM - Blues
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/psytrance_mobile_mp3
+#DESCRIPTION 1.FM - BOM Psytrance Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/bombaybeats_mobile_mp3:24
+#DESCRIPTION 1.FM - Bombay Beats India Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/spanishparty_mobile_mp3
+#DESCRIPTION 1.FM - bops & vibes
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/bossanova_mobile_mp3
+#DESCRIPTION 1.FM - Bossa Nova Hits Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/brazilianbirds_mobile_mp3
+#DESCRIPTION 1.FM - Brazilian Birds Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/caferadio_mobile_mp3
+#DESCRIPTION 1.FM - Cafe Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/gospel_mobile_mp3
+#DESCRIPTION 1.FM - Calming Piano
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/chilloutlounge_mobile_mp3
+#DESCRIPTION 1.FM - Chillout Lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/circuitpride_mobile_mp3
+#DESCRIPTION 1.FM - Circuit Pride Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/ccountry_mobile_mp3:32
+#DESCRIPTION 1.FM - Classic Country
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/crock_mobile_mp3
+#DESCRIPTION 1.FM - Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/top40ballads_mobile_mp3
+#DESCRIPTION 1.FM - Comfort Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/praise_mobile_mp3
+#DESCRIPTION 1.FM - Contemporary Christian
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/costadelmarchillout_mobile_mp3
+#DESCRIPTION 1.FM - Costa Del Mar
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/country_mobile_mp3
+#DESCRIPTION 1.FM - Country Range
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/dance_mobile_mp3
+#DESCRIPTION 1.FM - Dance One Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/deephouse_mobile_mp3
+#DESCRIPTION 1.FM - Deep House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/deeptech_mobile_mp3:40
+#DESCRIPTION 1.FM - Deep Techno & Deep House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/disco_mobile_mp3
+#DESCRIPTION 1.FM - Disco Ball 70's-80's Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/polskafm_mobile_mp3
+#DESCRIPTION 1.FM - Essential Classical
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/funkyexpress_mobile_mp3
+#DESCRIPTION 1.FM - Funky Express Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/gorillafm_mobile_mp3
+#DESCRIPTION 1.FM - Gorilla FM Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/dubstep_mobile_mp3
+#DESCRIPTION 1.FM - High Speed
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/highvoltage_mobile_mp3
+#DESCRIPTION 1.FM - High Voltage Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/acountry_mobile_mp3
+#DESCRIPTION 1.FM - Hot Country
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/italiaonair_mobile_mp3:48
+#DESCRIPTION 1.FM - Italia On Air Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/kidsfm_mobile_mp3
+#DESCRIPTION 1.FM - lo-fi
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/loveclassics_mobile_mp3
+#DESCRIPTION 1.FM - Love Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/magic80_mobile_mp3
+#DESCRIPTION 1.FM - Magic 80 Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/eurovision_mobile_mp3
+#DESCRIPTION 1.FM - Millennial Nostalgia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/moviesoundtracks_mobile_mp3
+#DESCRIPTION 1.FM - Movie Soundtracks Hits Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/mpb_mobile_mp3
+#DESCRIPTION 1.FM - MPB Hits Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/classical_mobile_mp3
+#DESCRIPTION 1.FM - Otto's Classical Music Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/opera_mobile_mp3:56
+#DESCRIPTION 1.FM - Otto's Opera House Music Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/oldschool_mobile_mp3
+#DESCRIPTION 1.FM - Our n B
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/radiogaia_mobile_mp3
+#DESCRIPTION 1.FM - Radio Gaia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/edm_mobile_mp3
+#DESCRIPTION 1.FM - Rap Pregame
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/reggae_mobile_mp3
+#DESCRIPTION 1.FM - Reggae
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/reggaeton_mobile_mp3
+#DESCRIPTION 1.FM - Reggaeton Heat
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/spanisholdies_mobile_mp3
+#DESCRIPTION 1.FM - RnB Love Songs
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/rockclassics_mobile_mp3
+#DESCRIPTION 1.FM - Rock Classics Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/samba_mobile_mp3:64
+#DESCRIPTION 1.FM - Samba Hits Brazil Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/sambarock_mobile_mp3
+#DESCRIPTION 1.FM - Samba Rock Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/sax4ever_mobile_mp3
+#DESCRIPTION 1.FM - Sax4Love
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/sertanejo_mobile_mp3
+#DESCRIPTION 1.FM - Sertaneja Hits Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/spa_mobile_mp3
+#DESCRIPTION 1.FM - Spa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/allmixedup_mobile_mp3
+#DESCRIPTION 1.FM - Sunshine
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/top40_mobile_mp3
+#DESCRIPTION 1.FM - Top 40
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/jamz_mobile_mp3
+#DESCRIPTION 1.FM - Top Rap
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/ibizachill_mobile_mp3
+#DESCRIPTION 1.FM - Tropical House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/hits2000_mobile_mp3
+#DESCRIPTION 1.FM - Y2K
