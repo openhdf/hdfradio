@@ -1,3 +1,8 @@
+Changelog v2.17.10:
+- searching for cover picture improved
+- searching for stream title expanded
+- many small changes
+
 Changelog v2.17.9:
 - extracting artist and song revised
 - searching for cover picture revised
