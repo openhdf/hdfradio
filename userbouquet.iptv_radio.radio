@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 16.01.2025 19:15 by Team www.hdfreaks.cc
+#DESCRIPTION Update 17.01.2025 16:37 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -8501,7 +8501,7 @@
 #DESCRIPTION 1.FM - Always-Christmas Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/ambientpsy_mobile_mp3:16
 #DESCRIPTION 1.FM - Ambient Psychill
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/top40_mobile_mp3:17
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/atr_mobile_mp3:17
 #DESCRIPTION 1.FM - Amsterdam Trance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/60s_70s_mobile_mp3
 #DESCRIPTION 1.FM - Back To The 50's & 60's Radio
