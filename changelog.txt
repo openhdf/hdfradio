@@ -1,3 +1,9 @@
+Changelog v2.18.0:
+- added compatible mode for YouTube playback
+- fixed searching for stream title
+- translations updated (thanks @Warder)
+- many small changes
+
 Changelog v2.17.10:
 - searching for cover picture improved
 - searching for stream title expanded
