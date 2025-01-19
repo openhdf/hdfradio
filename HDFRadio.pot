@@ -118,6 +118,9 @@ msgstr ""
 msgid "Activate this option to be able to choose 'additional keywords'."
 msgstr ""
 
+msgid "Activate this option to use the compatible mode for YouTube playback."
+msgstr ""
+
 msgid "Add Lyrics?"
 msgstr ""
 
@@ -310,6 +313,9 @@ msgid "Choose whether to use streams in DASH MP4 format, if available."
 msgstr ""
 
 msgid "Cleanup"
+msgstr ""
+
+msgid "Compatible YouTube mode"
 msgstr ""
 
 msgid "Consider only this folder."
