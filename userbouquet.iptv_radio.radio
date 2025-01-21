@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 17.01.2025 16:37 by Team www.hdfreaks.cc
+#DESCRIPTION Update 21.01.2025 17:44 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1017,6 +1017,8 @@
 #DESCRIPTION Rock Antenne - Coversong
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.rockantenne.de/xmas-rock/stream/mp3
 #DESCRIPTION Rock Antenne - Xmas Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s8-webradio.rockantenne.de/indie
+#DESCRIPTION Rock Antenne - Indie
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Hitradio Antenne 1
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne1.de/80er/livestream2.mp3
