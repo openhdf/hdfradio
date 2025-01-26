@@ -395,10 +395,16 @@ msgstr ""
 msgid "Do you really want to remove all songs from the playlist?"
 msgstr ""
 
+msgid "Do you really want to remove all videos?"
+msgstr ""
+
 msgid "Do you really want to remove this song?"
 msgstr ""
 
 msgid "Do you really want to remove this stream?"
+msgstr ""
+
+msgid "Do you really want to remove this video?"
 msgstr ""
 
 msgid "Do you really want to start the cleanup?"
@@ -500,7 +506,7 @@ msgstr ""
 msgid "HDF Radio"
 msgstr ""
 
-msgid "HDF Radio Player"
+msgid "HDF Radio Changelog"
 msgstr ""
 
 msgid "HDF Radio Edit Favourites"
@@ -519,6 +525,9 @@ msgid "HDF Radio Lyrics"
 msgstr ""
 
 msgid "HDF Radio Lyrics Browser"
+msgstr ""
+
+msgid "HDF Radio Player"
 msgstr ""
 
 msgid "HDF Radio Settings"
@@ -624,6 +633,9 @@ msgid "No Artist found"
 msgstr ""
 
 msgid "No Songtitle found"
+msgstr ""
+
+msgid "No YouTube videos found."
 msgstr ""
 
 msgid "No description is available for this song."
@@ -797,6 +809,9 @@ msgid ""
 "or to add the song to your playlist."
 msgstr ""
 
+msgid "Press OK to remove videos from your YouTube favourites."
+msgstr ""
+
 msgid "Press OK to rename a favourites list."
 msgstr ""
 
@@ -804,6 +819,9 @@ msgid "Press OK to rename a playlist."
 msgstr ""
 
 msgid "Press OK to update your radio list."
+msgstr ""
+
+msgid "Press OK to view the changelog."
 msgstr ""
 
 msgid "Press OK, to delete incomplete recordings, advertisements and empty folders."
@@ -839,6 +857,9 @@ msgid "Radio list update failed!"
 msgstr ""
 
 msgid "Radio list update successful."
+msgstr ""
+
+msgid "Reading YouTube list failed!"
 msgstr ""
 
 msgid "Reading the radio list failed!"
@@ -878,6 +899,12 @@ msgid "Remove"
 msgstr ""
 
 msgid "Remove Stream from favourite list"
+msgstr ""
+
+msgid "Remove YouTube favourites"
+msgstr ""
+
+msgid "Remove all"
 msgstr ""
 
 msgid "Remove all songs from the playlist"
@@ -991,6 +1018,9 @@ msgstr ""
 msgid "Show 'HDF Radio' in mainmenu?"
 msgstr ""
 
+msgid "Show changelog"
+msgstr ""
+
 msgid "Show cover in fullscreen"
 msgstr ""
 
@@ -1040,6 +1070,9 @@ msgid "Start YouTube Party Mode"
 msgstr ""
 
 msgid "Start recording"
+msgstr ""
+
+msgid "Starting YouTube Favourites ..."
 msgstr ""
 
 msgid "Starting YouTube Party Mode ..."
