@@ -1,3 +1,11 @@
+Changelog v2.19.0:
+- added option to create/play a favorites list from YouTube videos
+- streamripper monitoring improved
+- added fix for YouTube
+- added option to view the changelog
+- removed audio info in YouTube player
+- many small changes
+
 Changelog v2.18.0:
 - added compatible mode for YouTube playback
 - fixed searching for stream title
