@@ -702,6 +702,9 @@ msgstr ""
 msgid "Parent directory"
 msgstr ""
 
+msgid "Play YouTube favourites"
+msgstr ""
+
 msgid "Play YouTube video"
 msgstr ""
 
