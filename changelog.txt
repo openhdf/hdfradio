@@ -1,4 +1,9 @@
-Changelog v2.19.0:
+v2.19.1:
+- added option to translate changelog and help text, if not already translated
+- translations updated (thanks @Warder and @Orlandox)
+- some small changes
+
+v2.19.0:
 - added option to create/play a favorites list from YouTube videos
 - streamripper monitoring improved
 - added fix for YouTube
@@ -6,24 +11,24 @@ Changelog v2.19.0:
 - removed audio info in YouTube player
 - many small changes
 
-Changelog v2.18.0:
+v2.18.0:
 - added compatible mode for YouTube playback
 - fixed searching for stream title
 - translations updated (thanks @Warder)
 - many small changes
 
-Changelog v2.17.10:
+v2.17.10:
 - searching for cover picture improved
 - searching for stream title expanded
 - many small changes
 
-Changelog v2.17.9:
+v2.17.9:
 - extracting artist and song revised
 - searching for cover picture revised
 - added fix for YouTube
 - some small fixes
 
-Changelog v2.17.8:
+v2.17.8:
 - reading main list revised
 - Lyrics skins for 'Clean' and 'Rock' revised
 - checking for streamtitle for some 'Nostalgie Radio' streams via gstplayer
@@ -32,14 +37,14 @@ Changelog v2.17.8:
 - streamchecker revised
 - many small changes
 
-Changelog v2.17.7:
+v2.17.7:
 - Playlist editor revised
 - empty lines are now ignored when reading the radio list
 - translations updated (thanks @Warder and @Orlandox)
 - streamchecker revised
 - some small fixes
 
-Changelog v2.17.6:
+v2.17.6:
 - fixed an issue when editing the favorites list
 - added an option to update the favorites list
 - added fix for YouTube
