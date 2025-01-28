@@ -1,0 +1,45 @@
+Usage and instructions - HDF Radio Player
+
+The player has 3 different modes to choose from:
+ - Play recordings from the radio plugin
+ - Play local folders
+ - Play local folder with playlist
+
+Key assignments:
+Menu button - shows the menu for the settings
+Button 2 - change the view for the list mode/information
+Button 5 - removes the selected song from the own playlist
+Button 5 (on folder) - add folders and subfolders to playlist
+Button 8 - activates the random mode for the files in the playlist
+Button 0 - removes all files from the own playlist after confirmation
+Buttons 1,4,7 and 3,6,9 - can be used for spooling
+Red button - shows the menu for the direct key assignment
+Red long - starts the Youtube party mode and plays all videos for the songs from the playlist
+Green button - starts the screensaver with cover and display of title and artist
+Green button long -  hides the entire player
+Yellow button - changes the player mode
+Yellow long/Video button - try to find a video for the current song on youtube and plays it
+Blue button - switch between directories and playlist
+Blue button long - open the search function
+Text button - shows the lyrics for the current title, if available
+Text button long - shows the lyrics browser and the saved textfiles
+EPG/Guide button - opens the selection of own playlists if there are several
+Info button - shows various title information
+Info button long - shows the cover in full screen
+Help button - shows this help
+PVR/Video button long - plays all your YouTube favorites in random mode
+Power button - turns the TV off and on, if the TV Power option has been activated in the radio plugin
+EPG/Guide button - Translate song information and lyrics in the respective screen
+Green button (during YouTube playback) - adds the video to your YouTube favorites
+Red button (during YouTube playback) - removes the video from your YouTube favorites
+
+Information about about own playlists:
+By default, your own playlist is saved in the file /etc/enigma2/hdfradio_userplaylist.
+Additional playlists can also be created in the menu.
+The file /etc/enigma2/hdfradio_userplaylist_{new name} is created.
+Furthermore, the playlists can be renamed, edited or deleted in the menu.
+
+Additional Information:
+The Youtube player uses the queries from the Taapat Youtube plugin.
+This plugin is automatically installed in the HDF image.
+Questions and positive feedback in the HDFreaks forum.
