@@ -27,6 +27,7 @@ Power button - turns the TV off and on, if the TV Power option has been activate
 EPG/Guide button - Translate song information and lyrics in the respective screen
 Green button (during YouTube playback) - adds the video to your YouTube favorites
 Red button (during YouTube playback) - removes the video from your YouTube favorites
+Yellow button (during playback of YouTube favorites) - shows the playlist of your YouTube favorites
 
 Notes on the recording function:
 A folder HDF-Radio is automatically created for the recording path.

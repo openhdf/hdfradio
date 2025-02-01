@@ -1,3 +1,8 @@
+v2.19.2:
+- added option to view your YouTube favorites list during playback
+- help text translations updated (thanks @Warder and @Orlandox)
+- some small changes
+
 v2.19.1:
 - added option to translate changelog and help text, if not already translated
 - translations updated (thanks @Warder and @Orlandox)
