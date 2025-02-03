@@ -225,6 +225,9 @@ msgstr ""
 msgid "Choose a stream from the list."
 msgstr ""
 
+msgid "Choose a YouTube video:"
+msgstr ""
+
 msgid "Choose favourites list"
 msgstr ""
 
