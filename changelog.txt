@@ -1,3 +1,9 @@
+v2.19.3:
+- fixed an issue wenn removing a video from YouTube favorites
+- favorites popup box revised
+- translations and help texts updated (thanks @Warder and @Orlandox)
+- many small changes
+
 v2.19.2:
 - added option to view your YouTube favorites list during playback
 - help text translations updated (thanks @Warder and @Orlandox)
