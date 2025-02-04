@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 30.01.2025 18:08 by Team www.hdfreaks.cc
+#DESCRIPTION Update 04.02.2025 18:40 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1751,6 +1751,8 @@
 #DESCRIPTION Radio Arabella DE - Christmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.stream.radioarabella.de/radioarabella-modernrock/stream/mp3
 #DESCRIPTION Radio Arabella DE - Modern Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge15.stream.radioarabella.de/radioarabella-austropop/stream/mp3
+#DESCRIPTION Radio Arabella DE - Austro Pop
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Österreich
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.antenne.at/as
@@ -1759,6 +1761,8 @@
 #DESCRIPTION Österreich - Antenne Kärnten
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge01.radio.antennevorarlberg.at/av-christkindl
 #DESCRIPTION Österreich - Antenne Vorarlberg - Christkindlradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream01.matze-hosting.de/8006/stream
+#DESCRIPTION Österreich - Crazy Burgenland Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//onair.krone.at/kronehit.mp3
 #DESCRIPTION Österreich - Kronehit-Digital
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//136.243.111.216/bigcitybeats
