@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 06.02.2025 17:50 by Team www.hdfreaks.cc
+#DESCRIPTION Update 07.02.2025 18:44 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -301,8 +301,6 @@
 #DESCRIPTION Radio Ton - Ukraine
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream28.radiohost.de/radioton-80er_disco_mp3-192
 #DESCRIPTION Radio Ton - 80er Disco
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream29.radiohost.de/radioton-80er_zauberwrfel_mp3-192
-#DESCRIPTION Radio Ton - 80er Zauberwürfel
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream26.radiohost.de/radioton-80er_feelings_mp3-192
 #DESCRIPTION Radio Ton - 80er Feelings
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream28.radiohost.de/radioton-80er_workout_mp3-192
@@ -315,20 +313,10 @@
 #DESCRIPTION Radio Ton - 80er Germany
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream28.radiohost.de/radioton-80er_live_mp3-192
 #DESCRIPTION Radio Ton - 80er Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream29.radiohost.de/radioton-80er_hollywood_mp3-192
-#DESCRIPTION Radio Ton - 80er Hollywood
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream28.radiohost.de/radioton-80er_rock_mp3-192
 #DESCRIPTION Radio Ton - 80er Rock
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio BOB!
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-radiobobnational5043365-mp3-192-2943705
-#DESCRIPTION Radio BOB! - Livestream National
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-radioboblive-mp3-192-3829599
-#DESCRIPTION Radio BOB! - Livestream Hessen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-boblivenrwmitte7969951-mp3-192-6085175
-#DESCRIPTION Radio BOB! - Livestream NRW
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-radiobobshlive1415002-mp3-192-6231206
-#DESCRIPTION Radio BOB! - Livestream SH
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-radiobobclassicrock1594088-mp3-192-3516780
 #DESCRIPTION Radio BOB! - Classic Rock-Stream
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-radiobobalternativerock9577444-mp3-192-2041777
@@ -1735,8 +1723,6 @@
 #DESCRIPTION Radio Arabella DE - 70er
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.stream.radioarabella.de/radioarabella-classicrock/stream/mp3
 #DESCRIPTION Radio Arabella DE - Classic Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge65.stream.radioarabella.de/radioarabella-arabellakult/stream/mp3
-#DESCRIPTION Radio Arabella DE - Kult
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge62.stream.radioarabella.de/radioarabella-latino/stream/mp3
 #DESCRIPTION Radio Arabella DE - Latino
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge69.stream.radioarabella.de/radioarabella-90er/stream/mp3
@@ -1961,24 +1947,10 @@
 #DESCRIPTION WeaReoNe - REPLAY.FM
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION egoFM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//egofm-live.cast.addradio.de/egofm/live/mp3/high/stream.mp3
-#DESCRIPTION egoFM - Live Stream
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cast.egofm.de/egofmhalloffame.mp3
 #DESCRIPTION egoFM - Hall of Fame
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cast.egofm.de/egofmsoundtrack.mp3
 #DESCRIPTION egoFM - Soundtrack
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//egofm-sun.cast.addradio.de/egofm/sun/mp3/high/stream.mp3
-#DESCRIPTION egoFM - egoSUN
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//egofm-flash.cast.addradio.de/egofm/flash/mp3/high/stream.mp3
-#DESCRIPTION egoFM - egoFLASH
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//egofm-soul.cast.addradio.de/egofm/soul/mp3/high/stream.mp3
-#DESCRIPTION egoFM - egoSOUL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//egofm-rap.cast.addradio.de/egofm/rap/mp3/high/stream.mp3
-#DESCRIPTION egoFM - egoRAP
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//egofm-snow.cast.addradio.de/egofm/snow/mp3/high/stream.mp3
-#DESCRIPTION egoFM - egoSNOW
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//egofm-pure.cast.addradio.de/egofm/pure/mp3/high/stream.mp3
-#DESCRIPTION egoFM - egoPURE
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cast.egofm.de/egofmseewald.mp3
 #DESCRIPTION egoFM - SEEWALD
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cast.egofm.de/egofmrnb.mp3
@@ -2051,16 +2023,6 @@
 #DESCRIPTION Absolut Radio - Christmastime
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio Hamburg
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge05.streamonkey.net/rhh-1036
-#DESCRIPTION Radio Hamburg - Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge11.streamonkey.net/rhh-neuemusik
-#DESCRIPTION Radio Hamburg - Neue Musik
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge65.streamonkey.net/rhh-top800
-#DESCRIPTION Radio Hamburg - TOP 834
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge59.streamonkey.net/rhh-weihnachten
-#DESCRIPTION Radio Hamburg - Weihnachtshits nonstop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge66.streamonkey.net/caravanfm-primestream
-#DESCRIPTION Radio Hamburg - CARAVAN.fm
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION M1.FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//tuner.m1.fm/charts.mp3
@@ -2417,7 +2379,7 @@
 #DESCRIPTION Mixed Channels - Rádio Huila
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paineldj5.com.br%3a20087/stream
 #DESCRIPTION Mixed Channels - Rádio Huambo – RNA
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//c23.radioboss.fm%3a8129/stream:01012025_K.S.
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//c23.radioboss.fm%3a8129/stream
 #DESCRIPTION Mixed Channels - 80s FlashBack Radio (Chile)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s2.ssl-stream.com%3a8050/256.mp3
 #DESCRIPTION Mixed Channels - 80s Forever
@@ -2437,8 +2399,6 @@
 #DESCRIPTION partyvibe
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.partyvibe.com%3a8060
 #DESCRIPTION partyvibe - reggae
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.partyvibe.com%3a8069
-#DESCRIPTION partyvibe - ambient
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.partyvibe.com%3a8062
 #DESCRIPTION partyvibe - psychedelic trance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.partyvibe.com%3a8061
@@ -2607,8 +2567,6 @@
 #DESCRIPTION 90s90s - Rave
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90ssommerhits7739935-mp3-192-4515340
 #DESCRIPTION 90s90s - Sommerhits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90ssimulcast-mp3-192-6412329
-#DESCRIPTION 90s90s - DAB+
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90sreggae-mp3-192-2403753?
 #DESCRIPTION 90s90s - Reggae
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90s90s00s-mp3-192-4732500?
@@ -3021,8 +2979,6 @@
 #DESCRIPTION Radio Tatras International
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.bauermedia.sk/melody-hi.mp3
 #DESCRIPTION Radio Melody
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radioking.com/radio/276343/stream/321985
-#DESCRIPTION Radio Muzika
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nradio.ice.infomaniak.ch/nradio-32.aac
 #DESCRIPTION N-Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sepia.sk%3a8000/jazz192.mp3
@@ -3033,8 +2989,6 @@
 #DESCRIPTION Radio Lumen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.98.208.12%3a8000/;stream/1
 #DESCRIPTION Radio Modra
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiopiestany.sk%3a8000/live.mp3
-#DESCRIPTION Radio Piestany
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.stv.livebox.sk/pyramida_128.mp3
 #DESCRIPTION Radio Pyramida
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.rusyn.fm/rusyny.mp3
@@ -3439,12 +3393,6 @@
 #DESCRIPTION Absolutely Top (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bfm-stream.lancs.ac.uk/flac
 #DESCRIPTION Bailrigg FM - Lancaster's Student Sound (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//5.128.138.8%3a8000/stream
-#DESCRIPTION BesideFM - Rock and Blues channel (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//5.128.138.8%3a8000/opus
-#DESCRIPTION BesideFM - Chillout channel (Opus)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//maggie.torontocast.com%3a8076/flac
-#DESCRIPTION JB Radio-2 - new experience of hq audio (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s2.audiostream.hu/bdpstrock_FLAC
 #DESCRIPTION BDPST ROCK Rádió - Budapest ROCK Rádió Online (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cityradio.ddns.net%3a8000/cityradio48flac
@@ -3511,24 +3459,6 @@
 #DESCRIPTION PureClassix Radio (320kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mscp4.live-streams.nl%3a8142/lounge.ogg
 #DESCRIPTION Pure Lounge Radio (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamserver.pure-isp.eu/radio/8000/flac
-#DESCRIPTION Pure Radio Holland - The Undergound Channel (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamserver.pure-isp.eu/radio/8010/flac
-#DESCRIPTION Pure Radio Holland - Hardcore Channel (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamserver.pure-isp.eu/radio/8020/flac
-#DESCRIPTION Pure Radio Holland - Trance-Electro Channel (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamserver.pure-isp.eu/radio/8030/flac
-#DESCRIPTION Pure Radio Holland - Dance Channel (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamserver.pure-isp.eu/radio/8040/flac
-#DESCRIPTION Pure Radio Holland - DownTempo Channel (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamserver.pure-isp.eu/radio/8060/flac
-#DESCRIPTION Pure Radio Holland - Live Party Channel (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamserver.pure-isp.eu/radio/8050/flac
-#DESCRIPTION Pure Radio Holland - DJ R.I.P.’s Podcast (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamserver.pure-isp.eu/radio/8070/flac
-#DESCRIPTION Pure Radio Holland - Various Channel (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamserver.pure-isp.eu/radio/8100/flac
-#DESCRIPTION Pure Radio Holland - Rap & HIP-HOP Channel (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.audiomastering.lt%3a8000/pure
 #DESCRIPTION Radio Audiomastering Dance/Electronic (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//admin.biasradio.com/radio/8000/flac
@@ -3821,8 +3751,6 @@
 #DESCRIPTION Exclusive Radio - Carole King
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/carpenters/icecast.audio
 #DESCRIPTION Exclusive Radio - Carpenters
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/carrieunderwood/icecast.audio
-#DESCRIPTION Exclusive Radio - Carrie Underwood
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/thecars/icecast.audio
 #DESCRIPTION Exclusive Radio - Cars
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/catstevens/icecast.audio
@@ -5399,10 +5327,6 @@
 #DESCRIPTION Radio Bezpieczna Podróż
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.164.158.230%3a9070
 #DESCRIPTION Radio Biedrzychowice
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.121.91.156%3a8000
-#DESCRIPTION Radio BIGbbs
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.slotex.pl%3a7014
-#DESCRIPTION Radio Blue Moon
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s6.radiohost.pl%3a8888
 #DESCRIPTION Radio Bogoria
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7212
@@ -5469,8 +5393,6 @@
 #DESCRIPTION Radio Elka Leszno
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.euroradio.fm%3a8000/euroradio1
 #DESCRIPTION Radio Euroradio FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7506/stream
-#DESCRIPTION Radio EuroStacja
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/yx6cub73kwzuv
 #DESCRIPTION Radio Express FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.nadaje.com%3a8200/szczecinfm
@@ -5527,8 +5449,6 @@
 #DESCRIPTION Radio Ibiza
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7438/stream
 #DESCRIPTION Radio Ilona
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioimperium.pl%3a8443/stream
-#DESCRIPTION Radio Imperium
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.wzielonej.pl/radio/8000/1
 #DESCRIPTION Radio Index
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7870
@@ -5687,8 +5607,6 @@
 #DESCRIPTION Radio Pro-Radio Zgierz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.232.4.33%3a9073/stream
 #DESCRIPTION Radio ProRock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//solid24.streamupsolutions.com/proxy/hgrchhkx
-#DESCRIPTION Radio PRS24
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//51.255.8.139%3a8822/stream
 #DESCRIPTION Radio Pryzmat
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7572
@@ -6143,8 +6061,6 @@
 #DESCRIPTION bee Radio NL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.beeradio.nl/classics
 #DESCRIPTION bee Classics
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.beeradio.nl/xmas
-#DESCRIPTION bee Xmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.noordzee105.be/noordzee-192
 #DESCRIPTION Radio Nordzee - 24/24u Livestream
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.noordzee105.be/gold
@@ -6281,8 +6197,6 @@
 #DESCRIPTION Radio Studio Nord
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/arcadie
 #DESCRIPTION Radio Suisse Classique
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.121.148.49%3a7777/stream/1/
-#DESCRIPTION Radio VAOVAO MAHASOA
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rcf.streamakaci.com/rcfdigital.mp3
 #DESCRIPTION RCF digital
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//free.rcast.net/245538
@@ -6783,10 +6697,6 @@
 #DESCRIPTION La Voce Della Tua Citt
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dance.lolliradio.net%3a8030
 #DESCRIPTION LOLLIRADIO DANCE - Dance - House Hits - Italy
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hits.lolliradio.net
-#DESCRIPTION LOLLIRADIO HITS - Top Hits - Italy
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//italia.lolliradio.net
-#DESCRIPTION LOLLIRADIO ITALIA - Solo Canzoni Italiane - Italy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice07.fluidstream.net%3a80/lovefm.mp3
 #DESCRIPTION Love FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.mediastreaming.it%3a7140/
@@ -6957,8 +6867,6 @@
 #DESCRIPTION Radio ARGOSARONIKOS 104
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//usa2-vn.mixstream.net%3a8018/stream/1/
 #DESCRIPTION Radio Dee Jay 94.2 Greece
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//87.98.216.129%3a10968/stream/1/
-#DESCRIPTION Radio ENA - Adelaide Greek Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.onweb.gr%3a8828
 #DESCRIPTION Radio Energeia 106.4 Korinthos Greece
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//i6.streams.ovh/sc/radiolampsi/stream
@@ -7183,8 +7091,6 @@
 #DESCRIPTION Powerhitz - Christmas Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.powerhitz.com/wild?aw_0_req.gdpr=true
 #DESCRIPTION Powerhitz - Wild 99 (Hispanic Rhythm)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n3ab-e2.revma.ihrhls.com/zc1465
-#DESCRIPTION Q104.3. New York's Classic Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s18.myradiostream.com%3a9314/stream/1/
 #DESCRIPTION Radio Aktiva 87.7 FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nebula.shoutca.st%3a8016/stream
@@ -7221,8 +7127,6 @@
 #DESCRIPTION CLASSIC ROCK MIAMI - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//84.232.4.5%3a19000/stream/1/
 #DESCRIPTION Efecto FM - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.121.155.204%3a8022/stream/1/
-#DESCRIPTION Best Spain - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.radioradio.es%3a8000/stream/1/
 #DESCRIPTION Radio Radio Network - Marbella v2 - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/Ambiance-classique
@@ -7253,8 +7157,6 @@
 #DESCRIPTION The Groovy MIXX - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stm1.emiteonline.com%3a8004/hitelgrado
 #DESCRIPTION Hit Radio Zona Oriental 96.2 - 96 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/AdagioRadio
-#DESCRIPTION AdagioRadio - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//192.99.8.192%3a2296/stream/1/
 #DESCRIPTION TENIENTIKO.COM RADIO - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/1000-HITS-Sweet-Radio
@@ -7263,8 +7165,6 @@
 #DESCRIPTION DISTINTA FM - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/todocountryradio
 #DESCRIPTION The Fashion Place - LS Retail - Retail Music International - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//92.48.87.11%3a8192/stream/1/
-#DESCRIPTION Coast FM - Tenerife - 192 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stm1.emiteonline.com%3a8024/antenahuelva
 #DESCRIPTION Antena Huelva Radio - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server10.emitironline.com%3a10044/radio.mp3
@@ -7663,8 +7563,6 @@
 #DESCRIPTION Radio ffn - Energie Bremen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-stream22.radiohost.de/peppermintfm_mp3-192
 #DESCRIPTION Radio ffn - Peppermint FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-stream29.radiohost.de/radioroland_mp3-192
-#DESCRIPTION Radio ffn - Radio Roland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ffn-de-hz-fal-stream02-cluster01.radiohost.de/ffn-607080radio_mp3-192
 #DESCRIPTION Radio ffn - 607080
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
@@ -7903,8 +7801,6 @@
 #DESCRIPTION Radio Seefunk - Die besten Lovesongs
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Delta Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deltaradio.streamabc.net/rc-deltaliveshsued-mp3-192-8020733
-#DESCRIPTION Delta Radio - Live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deltaathome-mp3-192-2388092
 #DESCRIPTION Delta Radio - At Home
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deltaradio.streamabc.net/regc-deltabrandneu-mp3-192-9090903
@@ -8017,28 +7913,6 @@
 #DESCRIPTION Toneart - myXmas
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Großbritannien
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
-#DESCRIPTION BBC Radio 1
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
-#DESCRIPTION BBC Radio 2
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8
-#DESCRIPTION BBC Radio 3
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8
-#DESCRIPTION BBC Radio 4
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d96000.norewind.m3u8
-#DESCRIPTION BBC Radio 4 Extra
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
-#DESCRIPTION BBC Radio 5 live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
-#DESCRIPTION BBC Radio 6 Music
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio%3d96000.norewind.m3u8
-#DESCRIPTION BBC Radio Scotland
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio%3d96000.norewind.m3u8
-#DESCRIPTION BBC Radio Ulster
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_wales_fm/bbc_radio_wales_fm.isml/bbc_radio_wales_fm-audio%3d96000.norewind.m3u8
-#DESCRIPTION BBC Radio Wales
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_merseyside/bbc_radio_merseyside.isml/bbc_radio_merseyside-audio%3d96000.norewind.m3u8
-#DESCRIPTION BBC Radio Merseyside
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fr1.1mix.co.uk%3a8060/192
 #DESCRIPTION 1Mix E.D.M. UK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fr1.1mix.co.uk%3a8060/320h
@@ -8373,7 +8247,7 @@
 #DESCRIPTION Radio Lausitz - Sommerradio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION BB Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-bbradiolive-mp3-128-4531502:01012025_K.S
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-bbradiolive-mp3-128-4531502
 #DESCRIPTION BB Radio - Livestream
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-bbrwelovemusic-aacplus-64-9543854
 #DESCRIPTION BB Radio - We love music
@@ -8425,7 +8299,7 @@
 #DESCRIPTION BB Radio - Schlager
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/feten-hits/stream.aac?quality=10
 #DESCRIPTION BB Radio - Feten Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/soft/stream.aac?quality=10:28
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/soft/stream.aac?quality=10
 #DESCRIPTION BB Radio - Soft
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bb-radio.api.radiosphere.io/channels/weihnachts-hits/stream.aac?quality=10
 #DESCRIPTION BB Radio - Weihnachts-Hits
@@ -8433,7 +8307,7 @@
 #DESCRIPTION BB Radio - Weihnachtsmusik
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Berliner Rundfunk 91.4
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream02.radiohost.de/brf_mp3-192:01012025_K.S.01
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream02.radiohost.de/brf_mp3-192
 #DESCRIPTION Berliner Rundfunk 91.4 - Live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream07.radiohost.de/brf-disco_mp3-192?
 #DESCRIPTION Berliner Rundfunk 91.4 - Disco
@@ -8495,7 +8369,7 @@
 #DESCRIPTION Nostalgie Radio - Sommer
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION 1.FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/club_mobile_mp3:15_01_25_K_S
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/club_mobile_mp3
 #DESCRIPTION 1.FM - 00s Hip Hop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/acpl_mobile_mp3
 #DESCRIPTION 1.FM - 2010s
@@ -8509,11 +8383,11 @@
 #DESCRIPTION 1.FM - A List 80s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/70s_mobile_mp3
 #DESCRIPTION 1.FM - Absolute 70's Pop Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/90s_mobile_mp3:08
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/90s_mobile_mp3
 #DESCRIPTION 1.FM - Absolute 90s Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/latino_mobile_mp3
 #DESCRIPTION 1.FM - Absolute Pop Latino Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/trance_mobile_mp3:10
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/trance_mobile_mp3
 #DESCRIPTION 1.FM - Absolute Trance (Euro)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/ajazz_mobile_mp3
 #DESCRIPTION 1.FM - Adore Jazz
@@ -8525,9 +8399,9 @@
 #DESCRIPTION 1.FM - Alternative Rock X Hits Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/christmas_mobile_mp3
 #DESCRIPTION 1.FM - Always-Christmas Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/ambientpsy_mobile_mp3:16
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/ambientpsy_mobile_mp3
 #DESCRIPTION 1.FM - Ambient Psychill
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/atr_mobile_mp3:17
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/atr_mobile_mp3
 #DESCRIPTION 1.FM - Amsterdam Trance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/60s_70s_mobile_mp3
 #DESCRIPTION 1.FM - Back To The 50's & 60's Radio
@@ -8541,7 +8415,7 @@
 #DESCRIPTION 1.FM - Blues
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/psytrance_mobile_mp3
 #DESCRIPTION 1.FM - BOM Psytrance Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/bombaybeats_mobile_mp3:24
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/bombaybeats_mobile_mp3
 #DESCRIPTION 1.FM - Bombay Beats India Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/spanishparty_mobile_mp3
 #DESCRIPTION 1.FM - bops & vibes
@@ -8557,7 +8431,7 @@
 #DESCRIPTION 1.FM - Chillout Lounge
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/circuitpride_mobile_mp3
 #DESCRIPTION 1.FM - Circuit Pride Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/ccountry_mobile_mp3:32
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/ccountry_mobile_mp3
 #DESCRIPTION 1.FM - Classic Country
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/crock_mobile_mp3
 #DESCRIPTION 1.FM - Classic Rock
@@ -8573,7 +8447,7 @@
 #DESCRIPTION 1.FM - Dance One Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/deephouse_mobile_mp3
 #DESCRIPTION 1.FM - Deep House
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/deeptech_mobile_mp3:40
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/deeptech_mobile_mp3
 #DESCRIPTION 1.FM - Deep Techno & Deep House
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/disco_mobile_mp3
 #DESCRIPTION 1.FM - Disco Ball 70's-80's Radio
@@ -8589,7 +8463,7 @@
 #DESCRIPTION 1.FM - High Voltage Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/acountry_mobile_mp3
 #DESCRIPTION 1.FM - Hot Country
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/italiaonair_mobile_mp3:48
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/italiaonair_mobile_mp3
 #DESCRIPTION 1.FM - Italia On Air Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/kidsfm_mobile_mp3
 #DESCRIPTION 1.FM - lo-fi
@@ -8605,7 +8479,7 @@
 #DESCRIPTION 1.FM - MPB Hits Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/classical_mobile_mp3
 #DESCRIPTION 1.FM - Otto's Classical Music Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/opera_mobile_mp3:56
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/opera_mobile_mp3
 #DESCRIPTION 1.FM - Otto's Opera House Music Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/oldschool_mobile_mp3
 #DESCRIPTION 1.FM - Our n B
@@ -8621,7 +8495,7 @@
 #DESCRIPTION 1.FM - RnB Love Songs
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/rockclassics_mobile_mp3
 #DESCRIPTION 1.FM - Rock Classics Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/samba_mobile_mp3:64
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/samba_mobile_mp3
 #DESCRIPTION 1.FM - Samba Hits Brazil Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//strm112.1.fm/sambarock_mobile_mp3
 #DESCRIPTION 1.FM - Samba Rock Radio
@@ -8651,13 +8525,5 @@
 #DESCRIPTION Violent Forces Radio - 80s Thrash (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.tuneintoradio1.com/listen/vfr_80s/radio.mp3
 #DESCRIPTION Violent Forces Radio - 80s Thrash (mp3)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//onair.dancewave.online%3a8082/dance.flac.ogg
-#DESCRIPTION Dance Wave! (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//onair.dancewave.online%3a8082/dance.mp3
-#DESCRIPTION Dance Wave! (mp3)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//onair.dancewave.online%3a8082/retrodance.flac.ogg
-#DESCRIPTION Dance Wave Retro! (Flac)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//onair.dancewave.online%3a8082/retrodance.mp3
-#DESCRIPTION Dance Wave Retro! (mp3)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.metal-invasion.fr%3a8000/stream.mp3
 #DESCRIPTION Metal Invasion Radio - France (mp3)
