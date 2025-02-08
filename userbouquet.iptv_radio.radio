@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 08.02.2025 11:30 by Team www.hdfreaks.cc
+#DESCRIPTION Update 08.02.2025 15:19 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -8525,13 +8525,13 @@
 #DESCRIPTION Violent Forces Radio - 80s Thrash (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.tuneintoradio1.com/listen/vfr_80s/radio.mp3
 #DESCRIPTION Violent Forces Radio - 80s Thrash (mp3)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//onair.dancewave.online%3a8082/dance.flac.ogg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dancewave.online/dance.flac.ogg
 #DESCRIPTION Dance Wave! (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//onair.dancewave.online%3a8082/dance.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dancewave.online/dance.mp3
 #DESCRIPTION Dance Wave! (mp3)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//onair.dancewave.online%3a8082/retrodance.flac.ogg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dancewave.online/retrodance.flac.ogg
 #DESCRIPTION Dance Wave Retro! (Flac)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//onair.dancewave.online%3a8082/retrodance.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dancewave.online/retrodance.mp3
 #DESCRIPTION Dance Wave Retro! (mp3)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.metal-invasion.fr%3a8000/stream.mp3
 #DESCRIPTION Metal Invasion Radio - France (mp3)
