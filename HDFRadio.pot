@@ -240,6 +240,9 @@ msgstr ""
 msgid "Choose playlist"
 msgstr ""
 
+msgid "Choose search:"
+msgstr ""
+
 msgid "Choose the cover path"
 msgstr ""
 
@@ -279,6 +282,9 @@ msgid "Choose the skin for the HDF Radio plugin."
 msgstr ""
 
 msgid "Choose to start the radio or player automatically on boot, or turn off the autostart option."
+msgstr ""
+
+msgid "Choose where to search."
 msgstr ""
 
 msgid "Choose whether 'HDF Radio Player' should be shown in the mainmenu or not."
@@ -413,6 +419,9 @@ msgstr ""
 msgid "Do you really want to start the cleanup?"
 msgstr ""
 
+msgid "Download from 'radio-browser.info'"
+msgstr ""
+
 msgid "Edit favourites list"
 msgstr ""
 
@@ -492,6 +501,9 @@ msgstr ""
 
 #, python-format
 msgid "Favourites list '%s' successfully loaded."
+msgstr ""
+
+msgid "Favourites list '%s' updated successfully."
 msgstr ""
 
 msgid "Favourites list successfully renamed."
@@ -833,6 +845,9 @@ msgstr ""
 msgid "Press OK, to delete incomplete recordings, advertisements and empty folders."
 msgstr ""
 
+msgid "Press OK, to download a radio list from 'radio-browser.info'."
+msgstr ""
+
 msgid "Press OK, to export your favourites list as a bouquet."
 msgstr ""
 
@@ -965,6 +980,12 @@ msgid "Searching for Lyrics ..."
 msgstr ""
 
 msgid "Select a favourites list."
+msgstr ""
+
+msgid "Select the country for downloading the radio list."
+msgstr ""
+
+msgid "Select the country:"
 msgstr ""
 
 msgid "Select the favourites list you want to add the stream to."
@@ -1167,6 +1188,9 @@ msgstr ""
 msgid ""
 "The recording path has not been set.\n"
 "Do you really want to save?"
+msgstr ""
+
+msgid "The search results are successfully saved as:"
 msgstr ""
 
 msgid ""
