@@ -1,3 +1,10 @@
+v2.20.0:
+- added option to download radio lists from 'radio-browser.info'
+- added option to search for radio station at 'radio-browser.info'
+- search function for radio stations expanded
+- translations updated (thanks @Warder and @Orlandox)
+- some small changes
+
 v2.19.3:
 - fixed an issue wenn removing a video from YouTube favorites
 - favorites popup box revised
