@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 08.02.2025 15:19 by Team www.hdfreaks.cc
+#DESCRIPTION Update 10.02.2025 18:01 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -5947,6 +5947,20 @@
 #DESCRIPTION RSI Rete Due Live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/retetre/mp3_128
 #DESCRIPTION RSI Rete Tre Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//spoonradio.ice.infomaniak.ch/spoonradio-high.mp3
+#DESCRIPTION Spoon Radio - Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//spoonradioclassicrock.ice.infomaniak.ch/spoon-classicrock-hd.aac
+#DESCRIPTION Spoon Radio - Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac
+#DESCRIPTION Spoon Radio - Rock Ballads
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//spoonradiohardrock.ice.infomaniak.ch/spoon-hardrock-hd.aac
+#DESCRIPTION Spoon Radio - Hard Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//spoonradioacousticrock.ice.infomaniak.ch/spoon-acousticrock-hd.aac
+#DESCRIPTION Spoon Radio - Acoustic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//spoonradiomodernrock.ice.infomaniak.ch/spoon-modernrock-hd.aac
+#DESCRIPTION Spoon Radio - Modern Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//spoonradioalternativerock.ice.infomaniak.ch/spoon-alternativerock-hd.aac
+#DESCRIPTION Spoon Radio - Alternative Rock
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Niederlande
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.omroep.nl/radio1-bb-mp3
