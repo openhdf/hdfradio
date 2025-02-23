@@ -1,3 +1,10 @@
+v2.20.3:
+- VirtualKeyBoard updated
+- improved filter rules for extracting artist and song
+- adjusted zPositions for eLabels in 'Clean' skins
+- streamchecker updated
+- some small changes
+
 v2.20.2:
 - VirtualKeyBoard updated
 - skins updated
