@@ -1,3 +1,9 @@
+v2.20.4:
+- searching for stream title for openATV adapted (thanks @4l3x2k)
+- added encoding detection for stream title via gstplayer (thanks @4l3x2k)
+- improved filter rules for extracting artist and song
+- searching for cover picture improved
+
 v2.20.3:
 - VirtualKeyBoard updated
 - improved filter rules for extracting artist and song
