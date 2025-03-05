@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 01.03.2025 12:09 by Team www.hdfreaks.cc
+#DESCRIPTION Update 05.03.2025 17:49 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -8589,3 +8589,717 @@
 #DESCRIPTION PsyStation - Ethnic Chill
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fr1-play.adtonos.com/8101/psystation-zenonseque
 #DESCRIPTION PsyStation - Zenonseque
+#SERVICE 1:64:D:0:0:0:0:0:0:0:
+#DESCRIPTION Radio Sydney
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ---- Select an Artist ----
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER150:doctor_who_mrz_25
+#DESCRIPTION Radio Sydney - ABBA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER170
+#DESCRIPTION Radio Sydney - AC/DC
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER77
+#DESCRIPTION Radio Sydney - Barbara Streisand
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER89
+#DESCRIPTION Radio Sydney - Beach Boys
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER142
+#DESCRIPTION Radio Sydney - Beatles
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER177
+#DESCRIPTION Radio Sydney - Bee Gees
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER171
+#DESCRIPTION Radio Sydney - Billy Joel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER178
+#DESCRIPTION Radio Sydney - Black Eyed Peas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER164
+#DESCRIPTION Radio Sydney - Bob Dylan & Neal Young
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER76:10
+#DESCRIPTION Radio Sydney - Bruce Springsteen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER95
+#DESCRIPTION Radio Sydney - Cat Stevens
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER168
+#DESCRIPTION Radio Sydney - Celine Dion
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER96
+#DESCRIPTION Radio Sydney - Cliff Richards
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER97
+#DESCRIPTION Radio Sydney - Daniel O´Donnell
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER153
+#DESCRIPTION Radio Sydney - David Bowie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER98
+#DESCRIPTION Radio Sydney - Dean Martin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER80
+#DESCRIPTION Radio Sydney - Destinys Child
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER90
+#DESCRIPTION Radio Sydney - Doors
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER162
+#DESCRIPTION Radio Sydney - Doris Day
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER78:20
+#DESCRIPTION Radio Sydney - Eagles
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER82
+#DESCRIPTION Radio Sydney - Ella Fitzgerald
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER146
+#DESCRIPTION Radio Sydney - Elton John
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER143
+#DESCRIPTION Radio Sydney - Elvis
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER158
+#DESCRIPTION Radio Sydney - Eminem
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER172
+#DESCRIPTION Radio Sydney - Enya
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER173
+#DESCRIPTION Radio Sydney - Frank Sinatra
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER159
+#DESCRIPTION Radio Sydney - Garth Brooks
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER174
+#DESCRIPTION Radio Sydney - Iron Maiden
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER83
+#DESCRIPTION Radio Sydney - John Farnhem
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER99:30
+#DESCRIPTION Radio Sydney - Britney Spears
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER100
+#DESCRIPTION Radio Sydney - Bon Jovi
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER101
+#DESCRIPTION Radio Sydney - Def Leppard
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER102
+#DESCRIPTION Radio Sydney - Foreigner
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER103
+#DESCRIPTION Radio Sydney - Tim McGraw
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER104
+#DESCRIPTION Radio Sydney - Simon & Garfunkel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER105
+#DESCRIPTION Radio Sydney - Chicago
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER106
+#DESCRIPTION Radio Sydney - Eric Clapton
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER107
+#DESCRIPTION Radio Sydney - Santana
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER108
+#DESCRIPTION Radio Sydney - Alan Jackson
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER109:40
+#DESCRIPTION Radio Sydney - Guns & Roses
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER110
+#DESCRIPTION Radio Sydney - Shania Twin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER157
+#DESCRIPTION Radio Sydney - Journey
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER111
+#DESCRIPTION Radio Sydney - Fleetwood Mac
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER112
+#DESCRIPTION Radio Sydney - Van Halen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER113
+#DESCRIPTION Radio Sydney - Bruno Mars
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER114
+#DESCRIPTION Radio Sydney - Kanye West
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER154
+#DESCRIPTION Radio Sydney - Lady Gaga
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER115
+#DESCRIPTION Radio Sydney - Justin Bieber
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER174
+#DESCRIPTION Radio Sydney - Scooter
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER84:50
+#DESCRIPTION Radio Sydney - Johnny Cash
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER85
+#DESCRIPTION Radio Sydney - Joy Division
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER166
+#DESCRIPTION Radio Sydney - Kenny Rogers
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER91
+#DESCRIPTION Radio Sydney - Kinks
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER175
+#DESCRIPTION Radio Sydney - Kylie Minogue
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER147
+#DESCRIPTION Radio Sydney - Led Zeppelin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER145
+#DESCRIPTION Radio Sydney - Madonna
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER75
+#DESCRIPTION Radio Sydney - Mariah Carey
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER144
+#DESCRIPTION Radio Sydney - Michael Jackson
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER176
+#DESCRIPTION Radio Sydney - Midnight Oil
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER152:60
+#DESCRIPTION Radio Sydney - Miley Cyrus / Taylor Swift
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER161
+#DESCRIPTION Radio Sydney - Monkees
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER86
+#DESCRIPTION Radio Sydney - Nat King Cole
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER167
+#DESCRIPTION Radio Sydney - Neil Diamond
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER148
+#DESCRIPTION Radio Sydney - Pink Floyd
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER163
+#DESCRIPTION Radio Sydney - Phil Collins & Genesis
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER87
+#DESCRIPTION Radio Sydney - R.E.M.
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER81
+#DESCRIPTION Radio Sydney - Rihanna
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER165
+#DESCRIPTION Radio Sydney - Rod Stewart
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER149
+#DESCRIPTION Radio Sydney - Rolling Stones
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER92:70
+#DESCRIPTION Radio Sydney - Sex Pistols
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER160
+#DESCRIPTION Radio Sydney - Spice Girls
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER73
+#DESCRIPTION Radio Sydney - Stars on 45 & ELO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER88
+#DESCRIPTION Radio Sydney - Steely Dan
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER79
+#DESCRIPTION Radio Sydney - Sting
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER93
+#DESCRIPTION Radio Sydney - Tom Jones
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER94
+#DESCRIPTION Radio Sydney - Tony Bennett
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER74
+#DESCRIPTION Radio Sydney - Whitney Housten
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER118
+#DESCRIPTION Radio Sydney - Lil Wayne
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER119:80
+#DESCRIPTION Radio Sydney - Linkin Park
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER120
+#DESCRIPTION Radio Sydney - Julio Eglesias
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER121
+#DESCRIPTION Radio Sydney - Brian Adams
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER122
+#DESCRIPTION Radio Sydney - Olivia Newton John
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER123
+#DESCRIPTION Radio Sydney - Stevie Wonder
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER124
+#DESCRIPTION Radio Sydney - Tina Turner
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER125
+#DESCRIPTION Radio Sydney - Linda Ronstadt
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER126
+#DESCRIPTION Radio Sydney - Donna Summer
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER127
+#DESCRIPTION Radio Sydney - Coldplay
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER155
+#DESCRIPTION Radio Sydney - Nikki Minaj
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER128:90
+#DESCRIPTION Radio Sydney - Flo Rida
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER129
+#DESCRIPTION Radio Sydney - Red Hot Chilli Peppers
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER130
+#DESCRIPTION Radio Sydney - Georges Michael
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER131
+#DESCRIPTION Radio Sydney - Barry Manilow
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER132
+#DESCRIPTION Radio Sydney - Tom Petty
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER156
+#DESCRIPTION Radio Sydney - Usher
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER133
+#DESCRIPTION Radio Sydney - Robbie Williams
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER116
+#DESCRIPTION Radio Sydney - Katy Perry
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER117:98
+#DESCRIPTION Radio Sydney - Jay Z
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION -------- ** Electronic - Select a Room ** ------------
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION --- On The Radio --------------
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER72
+#DESCRIPTION Radio Sydney - Top 40 Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER46
+#DESCRIPTION Radio Sydney - Pop Dance Remix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER21
+#DESCRIPTION Radio Sydney - Disco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER41
+#DESCRIPTION Radio Sydney - Nineties Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER42
+#DESCRIPTION Radio Sydney - Noughties Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER24
+#DESCRIPTION Radio Sydney - Eighties Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER33
+#DESCRIPTION Radio Sydney - Dance Hits 2010
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER34
+#DESCRIPTION Radio Sydney - Dance Hits 2011
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER35
+#DESCRIPTION Radio Sydney - Dance Hits 2012
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER36
+#DESCRIPTION Radio Sydney - Dance Hits 2013
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER37
+#DESCRIPTION Radio Sydney - Dance Hits 2014
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER38
+#DESCRIPTION Radio Sydney - Dance Hits 2015
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER39
+#DESCRIPTION Radio Sydney - Dance Hits 2016
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER40
+#DESCRIPTION Radio Sydney - Dance Hits 2017
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER41
+#DESCRIPTION Radio Sydney - Dance Hits 2018
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER42
+#DESCRIPTION Radio Sydney - Dance Hits 2019
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER171
+#DESCRIPTION Radio Sydney - Dance Hits 2020
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER177
+#DESCRIPTION Radio Sydney - Dance Hits 2021
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER180
+#DESCRIPTION Radio Sydney - Dance Hits 2022
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER183
+#DESCRIPTION Radio Sydney - Dance Hits 2023
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER186
+#DESCRIPTION Radio Sydney - Dance Hits 2024
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER17
+#DESCRIPTION Radio Sydney - Syth Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER7
+#DESCRIPTION Radio Sydney - Big Beat
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER50
+#DESCRIPTION Radio Sydney - Xmas Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.theradio.eu%3a9000/radiobondifm.mp3
+#DESCRIPTION Radio Sydney - Radio Bondi 91.1 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER166
+#DESCRIPTION Radio Sydney - ZFM 94.5 FM Newcastle
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER16
+#DESCRIPTION Radio Sydney - iRadio London UK
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER165
+#DESCRIPTION Radio Sydney - ZFM Russia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION --- The Hard Stuff --------------
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER19
+#DESCRIPTION Radio Sydney - Techno
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.theradio.eu%3a9000/BF6
+#DESCRIPTION Radio Sydney - Newcastle Hardcore
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER22
+#DESCRIPTION Radio Sydney - Drum´n´Bass
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER34
+#DESCRIPTION Radio Sydney - Hard Trance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER33
+#DESCRIPTION Radio Sydney - Hard Style
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION --- In The House --------------
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER35
+#DESCRIPTION Radio Sydney - House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER25
+#DESCRIPTION Radio Sydney - Electro House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER20
+#DESCRIPTION Radio Sydney - Deep House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER49
+#DESCRIPTION Radio Sydney - Progressive House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER32
+#DESCRIPTION Radio Sydney - Hard House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER1
+#DESCRIPTION Radio Sydney - Acid House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER38
+#DESCRIPTION Radio Sydney - Italian House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER14
+#DESCRIPTION Radio Sydney - Tribal House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER16
+#DESCRIPTION Radio Sydney - Warehouse House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER40
+#DESCRIPTION Radio Sydney - Lounge House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER45
+#DESCRIPTION Radio Sydney - Piano House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER50
+#DESCRIPTION Radio Sydney - Circuit House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER47
+#DESCRIPTION Radio Sydney - Soulful House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER8
+#DESCRIPTION Radio Sydney - Big Room House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER4
+#DESCRIPTION Radio Sydney - Balearica House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER30
+#DESCRIPTION Radio Sydney - Future House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER15
+#DESCRIPTION Radio Sydney - UK Garage
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER48
+#DESCRIPTION Radio Sydney - Trap
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER5
+#DESCRIPTION Radio Sydney - Bass House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER11
+#DESCRIPTION Radio Sydney - Club House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER36
+#DESCRIPTION Radio Sydney - Ibiza Club
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER37
+#DESCRIPTION Radio Sydney - Indie Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER10
+#DESCRIPTION Radio Sydney - Classic House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER29
+#DESCRIPTION Radio Sydney - Funky House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER44
+#DESCRIPTION Radio Sydney - Organ House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION --- At The Club --------------
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER12
+#DESCRIPTION Radio Sydney - Club Racks
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER3
+#DESCRIPTION Radio Sydney - Anthems
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER1
+#DESCRIPTION Radio Sydney - DJ Mix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER28
+#DESCRIPTION Radio Sydney - Funk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER2
+#DESCRIPTION Radio Sydney - Ambient
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER13
+#DESCRIPTION Radio Sydney - Trance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER27
+#DESCRIPTION Radio Sydney - Eurodance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER26
+#DESCRIPTION Radio Sydney - Eurobeat
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER31
+#DESCRIPTION Radio Sydney - Happy Hardcore
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION --- We’re Going Underground ------
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER68
+#DESCRIPTION Radio Sydney - Northern Soul
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER43
+#DESCRIPTION Radio Sydney - Old School Rave
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER39
+#DESCRIPTION Radio Sydney - Jungle & Breakbeat
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER71
+#DESCRIPTION Radio Sydney - Dancehall
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER23
+#DESCRIPTION Radio Sydney - Dubstep
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER6
+#DESCRIPTION Radio Sydney - Bassline
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION -------------*** Pop *** -------------
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION --- The Best of the Top 40 -------------
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER30
+#DESCRIPTION Radio Sydney - Current Top 40
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER29
+#DESCRIPTION Radio Sydney - Classic Hits Mix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER31
+#DESCRIPTION Radio Sydney - Rolling Stone Top 500
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER43
+#DESCRIPTION Radio Sydney - Hits of 2010
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER54
+#DESCRIPTION Radio Sydney - Hits of 2011
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER45
+#DESCRIPTION Radio Sydney - Hits of 2012
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER46
+#DESCRIPTION Radio Sydney - Hits of 2013
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER47
+#DESCRIPTION Radio Sydney - Hits of 2014
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER48
+#DESCRIPTION Radio Sydney - Hits of 2015
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER49
+#DESCRIPTION Radio Sydney - Hits of 2016
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER50
+#DESCRIPTION Radio Sydney - Hits of 2017
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER51
+#DESCRIPTION Radio Sydney - Hits of 2018
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER52
+#DESCRIPTION Radio Sydney - Hits of 2019
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER172
+#DESCRIPTION Radio Sydney - Hits of 2020
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER178
+#DESCRIPTION Radio Sydney - Hits of 2021
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER181
+#DESCRIPTION Radio Sydney - Hits of 2022
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER184
+#DESCRIPTION Radio Sydney - Hits of 2023
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER187
+#DESCRIPTION Radio Sydney - Hits of 2024
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER74
+#DESCRIPTION Radio Sydney - Aussie Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER77
+#DESCRIPTION Radio Sydney - The Sixties
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER81
+#DESCRIPTION Radio Sydney - The Seventies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER85
+#DESCRIPTION Radio Sydney - The Eighties
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER89
+#DESCRIPTION Radio Sydney - The Nineties
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER94
+#DESCRIPTION Radio Sydney - The Noughties
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER63
+#DESCRIPTION Radio Sydney - Aussie Talent Shows
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION --- It is new but Sounds like ------------
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER84
+#DESCRIPTION Radio Sydney - New Seventies Style
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER88
+#DESCRIPTION Radio Sydney - New Eighties Style
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER93
+#DESCRIPTION Radio Sydney - New Nineties Style
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION --- The Hits behind the Hits -------------
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER79
+#DESCRIPTION Radio Sydney - Sixties Alt
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER83
+#DESCRIPTION Radio Sydney - Seventies Alt
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER87
+#DESCRIPTION Radio Sydney - Eighties Alt
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER92
+#DESCRIPTION Radio Sydney - Grunge & 90s Alt
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION --- Britpop -------------
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER72
+#DESCRIPTION Radio Sydney - UK Invasion 1960s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER73
+#DESCRIPTION Radio Sydney - UK Mid Nineties
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER32
+#DESCRIPTION Radio Sydney - All Time UK Best
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ---- Affilate Station Relays -------------
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER136
+#DESCRIPTION Radio Sydney - Radio Canberra
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER140
+#DESCRIPTION Radio Sydney - Radio Melbourne
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER137
+#DESCRIPTION Radio Sydney - Radio Hobart
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER138
+#DESCRIPTION Radio Sydney - Radio Adelaide
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER139
+#DESCRIPTION Radio Sydney - Radio Perth
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER134
+#DESCRIPTION Radio Sydney - Radio Darwin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER135
+#DESCRIPTION Radio Sydney - Radio Brisbane
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ------ ** Country Eras ** -------------
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER132
+#DESCRIPTION Radio Sydney - Modern Country
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER133
+#DESCRIPTION Radio Sydney - Modern Traditional
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER53
+#DESCRIPTION Radio Sydney - Hits 0f 2010
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER54
+#DESCRIPTION Radio Sydney - Hits 0f 2011
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER55
+#DESCRIPTION Radio Sydney - Hits 0f 2012
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER56
+#DESCRIPTION Radio Sydney - Hits 0f 2013
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER57
+#DESCRIPTION Radio Sydney - Hits 0f 2014
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER58
+#DESCRIPTION Radio Sydney - Hits 0f 2015
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER59
+#DESCRIPTION Radio Sydney - Hits 0f 2016
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER60
+#DESCRIPTION Radio Sydney - Hits 0f 2017
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER61
+#DESCRIPTION Radio Sydney - Hits 0f 2018
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER62
+#DESCRIPTION Radio Sydney - Hits 0f 2019
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER170
+#DESCRIPTION Radio Sydney - Hits 0f 2020
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER176
+#DESCRIPTION Radio Sydney - Hits 0f 2021
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER179
+#DESCRIPTION Radio Sydney - Hits 0f 2022
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER182
+#DESCRIPTION Radio Sydney - Hits 0f 2023
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER185
+#DESCRIPTION Radio Sydney - Hits 0f 2024
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER134
+#DESCRIPTION Radio Sydney - Fifties & Sixties
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER135
+#DESCRIPTION Radio Sydney - Seventies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER136
+#DESCRIPTION Radio Sydney - Eighties
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER137
+#DESCRIPTION Radio Sydney - Nineties Country
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER138
+#DESCRIPTION Radio Sydney - Noughties Country
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER140
+#DESCRIPTION Radio Sydney - All Time Top 200
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER139
+#DESCRIPTION Radio Sydney - Indie Country
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER24
+#DESCRIPTION Radio Sydney - Truck Driving Country
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER173
+#DESCRIPTION Radio Sydney - Xmas Country
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ------ ** Country Affilates ** -------------
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.theradio.eu%3a9000/zfm.mp3
+#DESCRIPTION Radio Sydney - ZFM Newcastle
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER141
+#DESCRIPTION Radio Sydney - Grunning 88 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER147
+#DESCRIPTION Radio Sydney - Truckie 87.6 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER148
+#DESCRIPTION Radio Sydney - Holbrook 88 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER149
+#DESCRIPTION Radio Sydney - Albury 88 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER142
+#DESCRIPTION Radio Sydney - Jugoing 88 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER143
+#DESCRIPTION Radio Sydney - Coolac 87.6 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER144
+#DESCRIPTION Radio Sydney - Tuckerbox 88 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER160
+#DESCRIPTION Radio Sydney - Tumblong 87.6 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER145
+#DESCRIPTION Radio Sydney - Adelong 87.6 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER146
+#DESCRIPTION Radio Sydney - Tarcutta 88 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER157
+#DESCRIPTION Radio Sydney - Broadford 87.8 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER141
+#DESCRIPTION Radio Sydney - Yass 88 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER144
+#DESCRIPTION Radio Sydney - Gundagai 88 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER158
+#DESCRIPTION Radio Sydney - Wandong 87.8 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER159
+#DESCRIPTION Radio Sydney - Ned Kelly 88 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER152
+#DESCRIPTION Radio Sydney - Benalia 88 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER154
+#DESCRIPTION Radio Sydney - Bushranger 87.8 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER153
+#DESCRIPTION Radio Sydney - Violet Town FM 88
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER155
+#DESCRIPTION Radio Sydney - Avenel 88 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER156
+#DESCRIPTION Radio Sydney - Seymour 87.8 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER150
+#DESCRIPTION Radio Sydney - Springhurst 88 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER146
+#DESCRIPTION Radio Sydney - Cootamundra 88 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER151
+#DESCRIPTION Radio Sydney - Wang FM 87.8
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER163
+#DESCRIPTION Radio Sydney - Tamworth FM 88
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER162
+#DESCRIPTION Radio Sydney - Armidale FM 88
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER161
+#DESCRIPTION Radio Sydney - Newcastle FM 88
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ------ ** Urban ** -------------
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER65
+#DESCRIPTION Radio Sydney - R n B
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER64
+#DESCRIPTION Radio Sydney - Motown
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER66
+#DESCRIPTION Radio Sydney - Hip Hop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER69
+#DESCRIPTION Radio Sydney - Old School Rap
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER67
+#DESCRIPTION Radio Sydney - Grime
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER71
+#DESCRIPTION Radio Sydney - Dancehall
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER20
+#DESCRIPTION Radio Sydney - Ska
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER114
+#DESCRIPTION Radio Sydney - Reggae
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER68
+#DESCRIPTION Radio Sydney - Nothern Soul
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.theradio.eu%3a9000/northsoul.mp3
+#DESCRIPTION Radio Sydney - NothernSoulFM.com
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ------ ** Indie ** -------------
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER14
+#DESCRIPTION Radio Sydney - Aussie Artists
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER15
+#DESCRIPTION Radio Sydney - World Artists
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER42
+#DESCRIPTION Radio Sydney - Country Artists
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION --- Affiliate Station Relays -------------
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER163
+#DESCRIPTION Radio Sydney - TCR - Tamworth FM 88
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER162
+#DESCRIPTION Radio Sydney - TCR - Armidale FM 88
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER161
+#DESCRIPTION Radio Sydney - TCR - Newcastle FM 88
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ------ ** Easy ** -------------
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER120
+#DESCRIPTION Radio Sydney - Easy Vocal
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER119
+#DESCRIPTION Radio Sydney - Easy Intrumental
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER122
+#DESCRIPTION Radio Sydney - Easy Oldies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER175
+#DESCRIPTION Radio Sydney - Easy Mix 2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER25
+#DESCRIPTION Radio Sydney - Love Songs
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER121
+#DESCRIPTION Radio Sydney - Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER151
+#DESCRIPTION Radio Sydney - Wang FM 87.8
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ------ ** World ** -------------
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER103
+#DESCRIPTION Radio Sydney - Eurovision
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER105
+#DESCRIPTION Radio Sydney - African
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER106
+#DESCRIPTION Radio Sydney - Asian
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER107
+#DESCRIPTION Radio Sydney - European
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER108
+#DESCRIPTION Radio Sydney - Middle Eastern
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER109
+#DESCRIPTION Radio Sydney - Islander
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER110
+#DESCRIPTION Radio Sydney - Israeli
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER113
+#DESCRIPTION Radio Sydney - Aussie Aboriginal
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER111
+#DESCRIPTION Radio Sydney - J(Japan) Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER112
+#DESCRIPTION Radio Sydney - K(Korea) Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ------ ** Film Music ** -------------
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER11
+#DESCRIPTION Radio Sydney - Film Themes
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER13
+#DESCRIPTION Radio Sydney - Musicals
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER117
+#DESCRIPTION Radio Sydney - Bollywood
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER12
+#DESCRIPTION Radio Sydney - Eighties Film Music
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ------ ** Classical ** -------------
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER8
+#DESCRIPTION Radio Sydney - Light Classical
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER9
+#DESCRIPTION Radio Sydney - Opera
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER10
+#DESCRIPTION Radio Sydney - Only Mozart
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ------ ** Oldies ** -------------
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER100
+#DESCRIPTION Radio Sydney - Thirties & Forties
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER75
+#DESCRIPTION Radio Sydney - The Fifties
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER77
+#DESCRIPTION Radio Sydney - The Sixties
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER122
+#DESCRIPTION Radio Sydney - Easy Oldies Mix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER2
+#DESCRIPTION Radio Sydney - Old Time Radio 1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER5
+#DESCRIPTION Radio Sydney - Old Time Radio 2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER6
+#DESCRIPTION Radio Sydney - Forties Band Remotes
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ------ ** Talk ** -------------
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm22.com.au%3a8000/CONTAINER169
+#DESCRIPTION Radio Sydney - News 24/7
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER130
+#DESCRIPTION Radio Sydney - Comedy Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER26
+#DESCRIPTION Radio Sydney - Space Exploration
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER27
+#DESCRIPTION Radio Sydney - Corporate Training
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//127.0.0.1/hdfradio
+#DESCRIPTION ------ ** More ** -------------
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER98
+#DESCRIPTION Radio Sydney - Teen Superstars
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER109
+#DESCRIPTION Radio Sydney - Aboriginal Artists
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER124
+#DESCRIPTION Radio Sydney - Christmas 365
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER118
+#DESCRIPTION Radio Sydney - Blues and Soul
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER127
+#DESCRIPTION Radio Sydney - Motavation
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER128
+#DESCRIPTION Radio Sydney - National Pride
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER126
+#DESCRIPTION Radio Sydney - Christian Music
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER17
+#DESCRIPTION Radio Sydney - Metal
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER16
+#DESCRIPTION Radio Sydney - Eighties Hair Metal
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER19
+#DESCRIPTION Radio Sydney - Punk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER18
+#DESCRIPTION Radio Sydney - Punk Metal Mix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER123
+#DESCRIPTION Radio Sydney - Folk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER21
+#DESCRIPTION Radio Sydney - Kids Music
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER22
+#DESCRIPTION Radio Sydney - Kids Xmas Music
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER125
+#DESCRIPTION Radio Sydney - Experimental
