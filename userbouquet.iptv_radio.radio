@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 05.03.2025 17:49 by Team www.hdfreaks.cc
+#DESCRIPTION Update 08.03.2025 10:20 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -9303,3 +9303,13 @@
 #DESCRIPTION Radio Sydney - Kids Xmas Music
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//abm21.com.au%3a8000/CONTAINER125
 #DESCRIPTION Radio Sydney - Experimental
+#SERVICE 1:64:D:0:0:0:0:0:0:0:
+#DESCRIPTION Radio Reeperbahn
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s35.derstream.net/reeperbahn.mp3
+#DESCRIPTION Radio Reeperbahn - Hits von St.Pauli
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s35.derstream.net/reeperbahn-ch4.mp3
+#DESCRIPTION Radio Reeperbahn - Deephouse Hits von St. Pauli
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s35.derstream.net/reeperbahn-ch2.mp3
+#DESCRIPTION Radio Reeperbahn - 90er Hits von St. Pauli
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s35.derstream.net/reeperbahn-ch3.mp3
+#DESCRIPTION Radio Reeperbahn - Weihnachts-Hits von St. Pauli
