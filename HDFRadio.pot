@@ -407,6 +407,9 @@ msgstr ""
 msgid "Do you really want to remove all videos?"
 msgstr ""
 
+msgid "Do you really want to remove this separator line?"
+msgstr ""
+
 msgid "Do you really want to remove this song?"
 msgstr ""
 
@@ -459,6 +462,9 @@ msgid "Enter the name of the favourites list:"
 msgstr ""
 
 msgid "Enter the name of the playlist:"
+msgstr ""
+
+msgid "Enter the name of the separator line:"
 msgstr ""
 
 msgid "Enter the new name of the favourites list:"
@@ -705,7 +711,7 @@ msgstr ""
 msgid "OK"
 msgstr ""
 
-msgid "OK, to add the stream to the favourites list. OK in the favourites list, to activate the move mode. Button 8, to add the stream to another list. EPG, to choose a favourites list."
+msgid "OK, to add the stream to the favourites list. OK in the favourites list, to activate the move mode. Button 5, to add a separator line. 8, to add the stream to another list. EPG, to choose a favourites list."
 msgstr ""
 
 msgid "Offline"
