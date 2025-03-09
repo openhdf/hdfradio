@@ -650,7 +650,7 @@ msgstr ""
 msgid "No Songtitle found"
 msgstr ""
 
-msgid "No YouTube videos found."
+msgid "No YouTube favourites found."
 msgstr ""
 
 msgid "No description is available for this song."
