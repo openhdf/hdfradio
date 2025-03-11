@@ -1,3 +1,12 @@
+v2.20.6:
+- added option to add a separator in radio list
+- added option to rename entry in radio list
+- fixed reading lyrics text file
+- translations updated (thanks @Warder and @Orlandox)
+- skins updated
+- streamchecker updated
+- some small changes and fixes
+
 v2.20.5:
 - added 'Classic' skins
 - searching for stream title for openATV updated (thanks @4l3x2k)
