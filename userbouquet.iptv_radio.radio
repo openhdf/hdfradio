@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 12.03.2025 18:03 by Team www.hdfreaks.cc
+#DESCRIPTION Update 12.03.2025 18:06 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -9319,3 +9319,33 @@
 #DESCRIPTION Radio Reeperbahn - 90er Hits von St. Pauli
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s35.derstream.net/reeperbahn-ch3.mp3
 #DESCRIPTION Radio Reeperbahn - Weihnachts-Hits von St. Pauli
+#SERVICE 1:64:D:0:0:0:0:0:0:0:
+#DESCRIPTION Life Radio Tirol
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.liferadio.tirol/live/aac-256/SHQ
+#DESCRIPTION Life Radio Tirol - Super Qualität! 256kbps AAC
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.liferadio.tirol/live/mp3-192/link
+#DESCRIPTION Life Radio Tirol - Life Radio Tirol
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.liferadio.tirol/sommer/mp3-192/link
+#DESCRIPTION Life Radio Tirol - Sommerhitparty
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.liferadio.tirol/schlager/mp3-192/link
+#DESCRIPTION Life Radio Tirol - Schlagerpuls
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.liferadio.tirol/80s/mp3-192/link
+#DESCRIPTION Life Radio Tirol - 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.liferadio.tirol/90s/mp3-192/link
+#DESCRIPTION Life Radio Tirol - 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.liferadio.tirol/oldies/mp3-192/link
+#DESCRIPTION Life Radio Tirol - Golden Oldies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.liferadio.tirol/rock/mp3-192/link
+#DESCRIPTION Life Radio Tirol - Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.liferadio.tirol/italo/mp3-192/link
+#DESCRIPTION Life Radio Tirol - Italo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.liferadio.tirol/chartbreaker/mp3-192/link
+#DESCRIPTION Life Radio Tirol - Chartbreaker
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.liferadio.tirol/partyhitmix/mp3-192/link
+#DESCRIPTION Life Radio Tirol - Partyhitmix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.liferadio.tirol/malle/mp3-192/link
+#DESCRIPTION Life Radio Tirol - Alles Malle
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.liferadio.tirol/MUONLY/mp3-192/link
+#DESCRIPTION Life Radio Tirol - Nur die Musik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.liferadio.tirol/weihnachten/mp3-192/link
+#DESCRIPTION Life Radio Tirol - Weihnachtshits
