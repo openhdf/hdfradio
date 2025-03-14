@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 12.03.2025 18:06 by Team www.hdfreaks.cc
+#DESCRIPTION Update 14.03.2025 16:37 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -7951,6 +7951,36 @@
 #DESCRIPTION Atlantis Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//str3.openstream.co/651
 #DESCRIPTION Awesome 80s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d128000.norewind.m3u8
+#DESCRIPTION BBC Radio 1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d128000.norewind.m3u8
+#DESCRIPTION BBC Radio 1 Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d128000.norewind.m3u8
+#DESCRIPTION BBC Radio 1Xtra
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d128000.norewind.m3u8
+#DESCRIPTION BBC Radio 2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8
+#DESCRIPTION BBC Radio 3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8
+#DESCRIPTION BBC Radio 4
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d128000.norewind.m3u8
+#DESCRIPTION BBC Radio 4 Extra
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d128000.norewind.m3u8
+#DESCRIPTION BBC Radio 5 Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d128000.norewind.m3u8
+#DESCRIPTION BBC Radio 6 Music
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//as-hls-ww-live.akamaized.net/pool_41858929/live/ww/bbc_radio_bristol/bbc_radio_bristol.isml/bbc_radio_bristol-audio%3d96000.norewind.m3u8
+#DESCRIPTION BBC Radio Bristol
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//as-hls-ww-live.akamaized.net/pool_24792333/live/ww/bbc_radio_cymru/bbc_radio_cymru.isml/bbc_radio_cymru-audio%3d128000.norewind.m3u8
+#DESCRIPTION BBC Radio Cymru
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//as-hls-ww-live.akamaized.net/pool_98610936/live/ww/bbc_radio_cymru_2/bbc_radio_cymru_2.isml/bbc_radio_cymru_2-audio%3d128000.norewind.m3u8
+#DESCRIPTION BBC Radio Cymru 2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//as-hls-ww-live.akamaized.net/pool_43178797/live/ww/bbc_radio_foyle/bbc_radio_foyle.isml/bbc_radio_foyle-audio%3d128000.norewind.m3u8
+#DESCRIPTION BBC Radio Foyle
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//lstn.lv/bbcradio.m3u8?station=bbc_radio_gloucestershire&bitrate=96000
+#DESCRIPTION BBC Radio Gloucestershire
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa
+#DESCRIPTION 107.3 BBC Radio Uganda
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//finland.discovertrance.com%3a8212/listen.mp3
 #DESCRIPTION Discover Trance Radio UK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dancestream.danceradiouk.com/;
