@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 14.03.2025 16:37 by Team www.hdfreaks.cc
+#DESCRIPTION Update 15.03.2025 12:00 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -6941,6 +6941,16 @@
 #DESCRIPTION 107.7 The Bone. The Bone Rocks the Bay
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//strm112.1.fm/top40_64
 #DESCRIPTION 1.FM - Absolute TOP 40 Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio-edge1.cdnstream.com/5101_128
+#DESCRIPTION 2000 FM - Alternative Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio-edge1.cdnstream.com/5102_128
+#DESCRIPTION 2000 FM - Chillin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio-edge1.cdnstream.com/5103_128
+#DESCRIPTION 2000 FM - Country
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio-edge1.cdnstream.com/5104_128
+#DESCRIPTION 2000 FM - Hard Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio-edge1.cdnstream.com/5105_128
+#DESCRIPTION 2000 FM - RnB Hip-Hop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5106_128
 #DESCRIPTION 2000 FM - Top 40
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ares5.radiochoice.net/1020_a0countryhits128k
