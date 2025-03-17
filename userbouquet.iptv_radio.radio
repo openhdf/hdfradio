@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 15.03.2025 12:00 by Team www.hdfreaks.cc
+#DESCRIPTION Update 17.03.2025 17:55 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1633,8 +1633,6 @@
 #DESCRIPTION radio.de - Bar Legend Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//vip2.fastcast4u.com/proxy/classicrockdoug?mp=/1
 #DESCRIPTION radio.de - Classic Rock Florida HD
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5109_128
-#DESCRIPTION radio.de - AceRadio-Classic RnB
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//eu10.fastcast4u.com%3a8120/stream/1/
 #DESCRIPTION radio.de - B4B Radio Disco Funk
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge59.streamonkey.net/gong-live
@@ -9389,3 +9387,47 @@
 #DESCRIPTION Life Radio Tirol - Nur die Musik
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.liferadio.tirol/weihnachten/mp3-192/link
 #DESCRIPTION Life Radio Tirol - Weihnachtshits
+#SERVICE 1:64:D:0:0:0:0:0:0:0:
+#DESCRIPTION AceRadio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5107_128
+#DESCRIPTION AceRadio - 90s Alternative Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5108_128
+#DESCRIPTION AceRadio - 90s Pop Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5109_128
+#DESCRIPTION AceRadio - Classic RnB
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5110_128
+#DESCRIPTION AceRadio - Country Gold
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5111_128
+#DESCRIPTION AceRadio - Country Mix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5112_128
+#DESCRIPTION AceRadio - Glee Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5113_128
+#DESCRIPTION AceRadio - New Country
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5114_128
+#DESCRIPTION AceRadio - RnB Mix Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5115_128
+#DESCRIPTION AceRadio - The 80s Soft Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5125_128
+#DESCRIPTION AceRadio - The Super 70s Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5127_128
+#DESCRIPTION AceRadio - The Vocal Jazz Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5128_128
+#DESCRIPTION AceRadio - Todays R&B
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5124_128
+#DESCRIPTION AceRadio - The Soft Hits Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5123_128
+#DESCRIPTION AceRadio - The Smooth Jazz Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5118_128
+#DESCRIPTION AceRadio - The Classic Rock Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5120_128
+#DESCRIPTION AceRadio - The Hard Rock Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5116_128
+#DESCRIPTION AceRadio - The Alternative Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5117_128
+#DESCRIPTION AceRadio - The Awesome 80s Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5119_128
+#DESCRIPTION AceRadio - The Hitz Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5121_128
+#DESCRIPTION AceRadio - The Mix Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5122_128
+#DESCRIPTION AceRadio - The Super Rock Mix
