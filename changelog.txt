@@ -1,6 +1,13 @@
+v2.20.8:
+- encoding detection for stream title via gstplayer revised (thanks @4l3x2k)
+- updated finnish translation (thanks @Orlandox)
+- updated polish translation (thanks @PaPs1)
+- 'Clean' skins revised
+- some code changes
+
 v2.20.7:
 - translation function expanded
-- allow higher resolution when playing YouTube with exteplayer3
+- allowed higher resolution when playing YouTube with exteplayer3
 - quickbuttons revised
 
 v2.20.6:
