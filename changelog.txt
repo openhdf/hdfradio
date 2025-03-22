@@ -1,3 +1,9 @@
+v2.20.9:
+- fixed playing the same track after playing a YouTube video
+- ignore unusable YouTube format
+- translation function expanded
+- some small changes
+
 v2.20.8:
 - encoding detection for stream title via gstplayer revised (thanks @4l3x2k)
 - updated finnish translation (thanks @Orlandox)
