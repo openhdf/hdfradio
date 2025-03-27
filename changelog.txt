@@ -1,3 +1,10 @@
+v2.20.10:
+- added fix for YouTube
+- API for 'radio-browser.info' updated
+- translation function expanded
+- encoding detection for stream title via gstplayer revised
+- some small changes
+
 v2.20.9:
 - fixed playing the same track after playing a YouTube video
 - ignore unusable YouTube format
