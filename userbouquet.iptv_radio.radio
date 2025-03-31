@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 28.03.2025 15:19 by Team www.hdfreaks.cc
+#DESCRIPTION Update 31.03.2025 18:29 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1829,6 +1829,24 @@
 #DESCRIPTION Österreich - Welle 1 Salzburg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//c02.lexycast.de%3a4300/play.mp3
 #DESCRIPTION Österreich - Generation Mix Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ---- Superfly ----
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.superfly.fm/superfly-live
+#DESCRIPTION Österreich - Superfly Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.superfly.fm/superfly-pure
+#DESCRIPTION Österreich - Superfly Pure
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.superfly.fm/superfly-easy
+#DESCRIPTION Österreich - Superfly Easy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.superfly.fm/superfly-club
+#DESCRIPTION Österreich - Superfly Club
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.superfly.fm/superfly-hiphop
+#DESCRIPTION Österreich - Superfly Hip Hop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.superfly.fm/superfly-beach
+#DESCRIPTION Österreich - Superfly Beach
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.superfly.fm/superfly-world
+#DESCRIPTION Österreich - Superfly World
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.superfly.fm/superfly-jazz
+#DESCRIPTION Österreich - Superfly Jazz
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION RauteMusik
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//12punks-high.rautemusik.fm
