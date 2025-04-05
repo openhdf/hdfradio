@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 31.03.2025 18:29 by Team www.hdfreaks.cc
+#DESCRIPTION Update 05.04.2025 09:25 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -495,6 +495,8 @@
 #DESCRIPTION Antenne Thüringen - YESTERHITS-Stream
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antennethueringen.de/rock/mp3-192/web/
 #DESCRIPTION Antenne Thüringen - Rock Webradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//antenne-thueringen.api.radiosphere.io/channels/App_AT_Dorfkindradio/stream.aac?
+#DESCRIPTION Antenne Thüringen – Dorfkindradio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Antenne Bayern
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/antenne/stream/mp3
