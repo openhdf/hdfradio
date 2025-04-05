@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 05.04.2025 10:17 by Team www.hdfreaks.cc
+#DESCRIPTION Update 05.04.2025 10:22 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2385,7 +2385,7 @@
 #DESCRIPTION Mixed Channels - psyradio * fm - chillout
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rqstream.radioq.de/stream/192.mp3
 #DESCRIPTION Mixed Channels - Radio Q - Wir sind der Campus
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//autozugradio-stream31.radiohost.de/autozugradio-blau_mp3-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//autozugradio.stream32.radiohost.de/autozugradio-blau_mp3-192
 #DESCRIPTION Mixed Channels - Autozugradio Sylt
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio21.streamabc.net/radio21-radio21dabns-mp3-256-5529609
 #DESCRIPTION Mixed Channels - The Wolf *Deutschlands Country Radio*
