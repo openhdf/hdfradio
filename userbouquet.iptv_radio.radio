@@ -1,18 +1,14 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 05.04.2025 09:25 by Team www.hdfreaks.cc
+#DESCRIPTION Update 05.04.2025 10:17 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
 #DESCRIPTION Deluxe Music - Deluxe Lounge
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxemusic1636722-aacplus-64-8368771
 #DESCRIPTION Deluxe Music - Music Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxe20003608688-mp3-192-9396248
-#DESCRIPTION Deluxe Music - Deluxe 2000
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxeeasy7122651-mp3-128-6100697
 #DESCRIPTION Deluxe Music - Deluxe Easy
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxeschlager6333124-mp3-192-1509811
-#DESCRIPTION Deluxe Music - Schlager Deluxe
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio PSR
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/psr-live/mp3-192/mediaplayer
@@ -1679,37 +1675,37 @@
 #DESCRIPTION Radio Bremen - Bremen Vier Heuckzeug
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio Arabella AT
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-niederoesterreich
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streams.arabella.at/arabella-niederoesterreich
 #DESCRIPTION Radio Arabella AT - Arabella Niederösterreich
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-wien
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streams.arabella.at/arabella-wien
 #DESCRIPTION Radio Arabella AT - Arabella Wien
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-relax
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streams.arabella.at/arabella-relax
 #DESCRIPTION Radio Arabella AT - Arabella Relax
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-gold
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streams.arabella.at/arabella-gold
 #DESCRIPTION Radio Arabella AT - Arabella Gold
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-hot
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streams.arabella.at/arabella-hot
 #DESCRIPTION Radio Arabella AT - Arabella Hot
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streams.arabella.at/arabella-80er
 #DESCRIPTION Radio Arabella AT - Arabella 80er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-austropop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streams.arabella.at/arabella-austropop
 #DESCRIPTION Radio Arabella AT - Arabella Austropop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-lovesongs
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streams.arabella.at/arabella-lovesongs
 #DESCRIPTION Radio Arabella AT - Arabella Lovesongs
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-70er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streams.arabella.at/arabella-70er
 #DESCRIPTION Radio Arabella AT - Arabella 70er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-goldenoldies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streams.arabella.at/arabella-goldenoldies
 #DESCRIPTION Radio Arabella AT - Arabella Golden Oldies
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streams.arabella.at/arabella-90er
 #DESCRIPTION Radio Arabella AT - Arabella 90er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-schlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streams.arabella.at/arabella-schlager
 #DESCRIPTION Radio Arabella AT - Arabella Schlager
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streams.arabella.at/arabella-rock
 #DESCRIPTION Radio Arabella AT - Arabella Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-tiamo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streams.arabella.at/arabella-tiamo
 #DESCRIPTION Radio Arabella AT - Arabella Ti Amo
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-holiday
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streams.arabella.at/arabella-holiday
 #DESCRIPTION Radio Arabella AT - Arabella Holiday
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streams.arabella.at/arabella-christmas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streams.arabella.at/arabella-christmas
 #DESCRIPTION Radio Arabella AT - Arabella Christmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streams.arabella.at/arabella-magic?aggregator=radio-at
 #DESCRIPTION Radio Arabella AT - Arabella MAGIC
@@ -4765,284 +4761,6 @@
 #DESCRIPTION Meloradio - Wrocław
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ml.cdn.eurozet.pl/MELDEL.mp3
 #DESCRIPTION Meloradio - Delicate
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/10
-#DESCRIPTION OPEN FM - #popularne
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/72
-#DESCRIPTION OPEN FM - 00s Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/352
-#DESCRIPTION OPEN FM - 10s Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/3
-#DESCRIPTION OPEN FM - 80s Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/14
-#DESCRIPTION OPEN FM - 90s Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/64
-#DESCRIPTION OPEN FM - 100% Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/55
-#DESCRIPTION OPEN FM - 500 Alternative Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/94
-#DESCRIPTION OPEN FM - 500 Electronic Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/54
-#DESCRIPTION OPEN FM - 500 Heavy Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/84
-#DESCRIPTION OPEN FM - 500 Hip-Hop Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/81
-#DESCRIPTION OPEN FM - 500 Party Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/26
-#DESCRIPTION OPEN FM - 500 R'n'B Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/30
-#DESCRIPTION OPEN FM - 500 Reggae Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/82
-#DESCRIPTION OPEN FM - 500 Rock Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/11
-#DESCRIPTION OPEN FM - 1001 Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/34
-#DESCRIPTION OPEN FM - Alt Cafe
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/43
-#DESCRIPTION OPEN FM - Alt Classic
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/9
-#DESCRIPTION OPEN FM - Alt Club
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/6
-#DESCRIPTION OPEN FM - Alt Freszzz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/36
-#DESCRIPTION OPEN FM - Alt PL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/40
-#DESCRIPTION OPEN FM - American Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/20
-#DESCRIPTION OPEN FM - Ballady Wszech Czasów
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/106
-#DESCRIPTION OPEN FM - Beats & Bass
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/116
-#DESCRIPTION OPEN FM - Bieganie
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/59
-#DESCRIPTION OPEN FM - Biesiada
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/66
-#DESCRIPTION OPEN FM - Biesiada Śląska
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/141
-#DESCRIPTION OPEN FM - Cardio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/33
-#DESCRIPTION OPEN FM - Chillout
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/13
-#DESCRIPTION OPEN FM - Ciężkie Brzmienia
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/46
-#DESCRIPTION OPEN FM - Classic Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/108
-#DESCRIPTION OPEN FM - Classic Metal
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/50
-#DESCRIPTION OPEN FM - Classic Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/32
-#DESCRIPTION OPEN FM - Classic Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/76
-#DESCRIPTION OPEN FM - Crema Cafe
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/31
-#DESCRIPTION OPEN FM - Dance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/21
-#DESCRIPTION OPEN FM - Disco Polo
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/49
-#DESCRIPTION OPEN FM - Disco Polo Classic
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/57
-#DESCRIPTION OPEN FM - Disco Polo Freszzz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/114
-#DESCRIPTION OPEN FM - Do Auta Club
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/113
-#DESCRIPTION OPEN FM - Do Auta Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/74
-#DESCRIPTION OPEN FM - Dobranoc
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/137
-#DESCRIPTION OPEN FM - Dobry Wieczór
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/68
-#DESCRIPTION OPEN FM - DubStep
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/41
-#DESCRIPTION OPEN FM - Drum'n'Bass
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/69
-#DESCRIPTION OPEN FM - Dzień Dobry!
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/361
-#DESCRIPTION OPEN FM - EDM Anthems
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/65
-#DESCRIPTION OPEN FM - Fitness
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/39
-#DESCRIPTION OPEN FM - Freszzz: Zima 2022
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/118
-#DESCRIPTION OPEN FM - Giganci Rocka
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/364
-#DESCRIPTION OPEN FM - Girl Power!
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/157
-#DESCRIPTION OPEN FM - Grunge
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/58
-#DESCRIPTION OPEN FM - Gwiazdy
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/120
-#DESCRIPTION OPEN FM - Happy
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/93
-#DESCRIPTION OPEN FM - Hip-Hop Freszzz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.open.fm/107
-#DESCRIPTION OPEN FM - Hip-Hop Klasyk
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.open.fm/143
-#DESCRIPTION OPEN FM - Hip-Hop Motywacyjny
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/24
-#DESCRIPTION OPEN FM - Hip-Hop PL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/92
-#DESCRIPTION OPEN FM - Hip Hop Ulica
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/23
-#DESCRIPTION OPEN FM - Hip-Hop USA
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/5
-#DESCRIPTION OPEN FM - House
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/138
-#DESCRIPTION OPEN FM - Hygge
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/2
-#DESCRIPTION OPEN FM - Impreza
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/12
-#DESCRIPTION OPEN FM - Impreza PL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/27
-#DESCRIPTION OPEN FM - Italo Disco
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/166
-#DESCRIPTION OPEN FM - Jazz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/362
-#DESCRIPTION OPEN FM - Joga
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/16
-#DESCRIPTION OPEN FM - Kids - Muzyka & Ciekawostki
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/8
-#DESCRIPTION OPEN FM - Klub 90
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/142
-#DESCRIPTION OPEN FM - Kołysanki
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/89
-#DESCRIPTION OPEN FM - Kolędy
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/161
-#DESCRIPTION OPEN FM - Koncentracja
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/37
-#DESCRIPTION OPEN FM - Kraina Łagodności
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/48
-#DESCRIPTION OPEN FM - Ladies Cafe
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/102
-#DESCRIPTION OPEN FM - Ladies Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/19
-#DESCRIPTION OPEN FM - Latino Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/121
-#DESCRIPTION OPEN FM - Love
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/70
-#DESCRIPTION OPEN FM - Muzyka do snu
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/38
-#DESCRIPTION OPEN FM - Muzyka Filmowa
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/67
-#DESCRIPTION OPEN FM - Muzyka Klasyczna
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/87
-#DESCRIPTION OPEN FM - Na Gwiazdkę
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/88
-#DESCRIPTION OPEN FM - Na Gwiazdkę Jazz & Classic
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/90
-#DESCRIPTION OPEN FM - Na Gwiazdkę Hity
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/56
-#DESCRIPTION OPEN FM - Na Gwiazdkę PL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/91
-#DESCRIPTION OPEN FM - Na Gwiazdkę Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/163
-#DESCRIPTION OPEN FM - Największe Przeboje XX w.
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/117
-#DESCRIPTION OPEN FM - Nauka
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/52
-#DESCRIPTION OPEN FM - Odgłosy Natury
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/160
-#DESCRIPTION OPEN FM - Piosenki dla dzieci
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/1
-#DESCRIPTION OPEN FM - Po Polsku
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/17
-#DESCRIPTION OPEN FM - Po Polsku 60/70
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/79
-#DESCRIPTION OPEN FM - Po Polsku 80
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/369
-#DESCRIPTION OPEN FM - Po Polsku 90
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/128
-#DESCRIPTION OPEN FM - Polo & Dance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/177
-#DESCRIPTION OPEN FM - Polska Rocks!
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/29
-#DESCRIPTION OPEN FM - Polski Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/45
-#DESCRIPTION OPEN FM - Polski Rock Classic
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/165
-#DESCRIPTION OPEN FM - Polskie Ballady
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/22
-#DESCRIPTION OPEN FM - Polskie Reggae
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/194
-#DESCRIPTION OPEN FM - Pozytywki
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/109
-#DESCRIPTION OPEN FM - Praca
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/104
-#DESCRIPTION OPEN FM - Praca Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/78
-#DESCRIPTION OPEN FM - Punk Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/168
-#DESCRIPTION OPEN FM - Radio Rak'n'Roll
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/380
-#DESCRIPTION OPEN FM - Reklama
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/112
-#DESCRIPTION OPEN FM - Relaks
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/25
-#DESCRIPTION OPEN FM - Retro Cafe
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/61
-#DESCRIPTION OPEN FM - Rock Ballady
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/77
-#DESCRIPTION OPEN FM - Rocks
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/103
-#DESCRIPTION OPEN FM - Sad
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/18
-#DESCRIPTION OPEN FM - Sexy: Soul & R'n'B
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/60
-#DESCRIPTION OPEN FM - Smooth Jazz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/144
-#DESCRIPTION OPEN FM - Spacer
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/28
-#DESCRIPTION OPEN FM - Szanty
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/193
-#DESCRIPTION OPEN FM - Szum
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/83
-#DESCRIPTION OPEN FM - Top 20 Alt
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/53
-#DESCRIPTION OPEN FM - Top 20 Disco Polo
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/98
-#DESCRIPTION OPEN FM - Top 20 Hip-Hop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/95
-#DESCRIPTION OPEN FM - Top 20 Impreza
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/96
-#DESCRIPTION OPEN FM - Top 20 Pop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/97
-#DESCRIPTION OPEN FM - Top 20 PL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/99
-#DESCRIPTION OPEN FM - Top 20 Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/176
-#DESCRIPTION OPEN FM - Top Wszech Czasów - Hip-Hop PL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/152
-#DESCRIPTION OPEN FM - Top Wszech Czasów - Polska
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/153
-#DESCRIPTION OPEN FM - Top Wszech Czasów - Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/186
-#DESCRIPTION OPEN FM - Top Wszech Czasów - Rock PL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/151
-#DESCRIPTION OPEN FM - Top Wszech Czasów - Świat
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/7
-#DESCRIPTION OPEN FM - Trance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/355
-#DESCRIPTION OPEN FM - Trap PL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/354
-#DESCRIPTION OPEN FM - Trap USA
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/101
-#DESCRIPTION OPEN FM - Trening
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/111
-#DESCRIPTION OPEN FM - Tylko Polskie Przeboje
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/365
-#DESCRIPTION OPEN FM - W Domu
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/381
-#DESCRIPTION OPEN FM - W Podróży
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/4
-#DESCRIPTION OPEN FM - We Dwoje
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/126
-#DESCRIPTION OPEN FM - Weekend Chill
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/127
-#DESCRIPTION OPEN FM - Weekend Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/110
-#DESCRIPTION OPEN FM - Wesele
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/173
-#DESCRIPTION 4FUN Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.open.fm/367
-#DESCRIPTION WP Radio: muzyka i informacje
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/2010-1.mp3
 #DESCRIPTION ESKA - Bełchatów
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/2300-1.mp3
