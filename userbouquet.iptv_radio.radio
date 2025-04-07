@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 07.04.2025 18:03 by Team www.hdfreaks.cc
+#DESCRIPTION Update 07.04.2025 18:10 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1825,7 +1825,7 @@
 #DESCRIPTION Österreich - Radio Wien
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3
 #DESCRIPTION Österreich - Radio Stephansdom
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//u1-tirol-stream20.radiohost.de/u1-tirol-live_mp3-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//u1-tirol.stream06.radiohost.de/u1-tirol-live_mp3-192
 #DESCRIPTION Österreich - Radio U1
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a19000/stream
 #DESCRIPTION Österreich - Welle 1 Austria
@@ -2129,8 +2129,6 @@
 #DESCRIPTION I LOVE Music - I Love ROBIN SCHULZ
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.ilovemusic.de/iloveradio7.mp3
 #DESCRIPTION I LOVE Music - I Love THE BEACH
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.ilovemusic.de/iloveradio20.mp3
-#DESCRIPTION I LOVE Music - I Love THE CLUB
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.ilovemusic.de/iloveradio4.mp3
 #DESCRIPTION I LOVE Music - I Love THE DJ BY DJ MAG
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.ilovemusic.de/iloveradio15.mp3
@@ -2409,8 +2407,6 @@
 #DESCRIPTION Mixed Channels - Rádio Namibe 88.5 FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mediaserv33.live-streams.nl%3a8089/stream
 #DESCRIPTION Mixed Channels - Rádio Ecclesia
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio8.cmaudioevideo.com/proxy/radiohui/stream
-#DESCRIPTION Mixed Channels - Rádio Huila
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paineldj5.com.br%3a20087/stream
 #DESCRIPTION Mixed Channels - Rádio Huambo – RNA
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//c23.radioboss.fm%3a8129/stream
@@ -5295,8 +5291,6 @@
 #DESCRIPTION Radio Mega
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//51.255.8.139%3a8738/stream
 #DESCRIPTION Radio Metal Live Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7048/stream
-#DESCRIPTION Radio Michałowo FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7350
 #DESCRIPTION Radio Miłosne Serca Dwa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//minimalmix.radioca.st/media
@@ -5373,8 +5367,6 @@
 #DESCRIPTION Radio Płock FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioplonsk.pl%3a9360
 #DESCRIPTION Radio Płońsk
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.hitnet.live/radio/8000/radio.mp3
-#DESCRIPTION Radio PoloRadio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//91.232.4.33%3a9209
 #DESCRIPTION Radio Pomost
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sluchaj.link%3a5443/popradio
@@ -5447,12 +5439,8 @@
 #DESCRIPTION Radio Sygnały
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream4.nadaje.com%3a11986/prs
 #DESCRIPTION Radio Szczecin
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7254
-#DESCRIPTION Radio Szkocja
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7138
 #DESCRIPTION Radio Śpioch
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7006
-#DESCRIPTION Radio Światowid
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.243.52.116%3a8010
 #DESCRIPTION Radio Świnoujście
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.slotex.pl/shoutcast/7822/stream
