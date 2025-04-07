@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 07.04.2025 18:00 by Team www.hdfreaks.cc
+#DESCRIPTION Update 07.04.2025 18:03 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -291,26 +291,34 @@
 #DESCRIPTION Perfect Radio - Wavemusic
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio Ton
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream24.radiohost.de/radioton-bw_mp3-192
-#DESCRIPTION Radio Ton - Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream28.radiohost.de/radioton-popup2_mp3-192
-#DESCRIPTION Radio Ton - Ukraine
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream28.radiohost.de/radioton-80er_disco_mp3-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream29.radiohost.de/radioton-bw_mp3-192?:Doctor_Who_04_25
+#DESCRIPTION Radio Ton - Radio Ton Baden-Württemberg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream29.radiohost.de/radioton-top_1000_mp3-192?
+#DESCRIPTION Radio Ton - Top 1.000
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream29.radiohost.de/radioton-80er_disco_mp3-192?
 #DESCRIPTION Radio Ton - 80er Disco
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream26.radiohost.de/radioton-80er_feelings_mp3-192
-#DESCRIPTION Radio Ton - 80er Feelings
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream28.radiohost.de/radioton-80er_workout_mp3-192
-#DESCRIPTION Radio Ton - 80er Workout
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream28.radiohost.de/radioton-80er_funky_friday_mp3-192
-#DESCRIPTION Radio Ton - 80er Funky Friday
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream28.radiohost.de/radioton-80er_longplayer_mp3-192
-#DESCRIPTION Radio Ton - 80er Longplayer
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream28.radiohost.de/radioton-80er_germany_mp3-192
-#DESCRIPTION Radio Ton - 80er Germany
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream28.radiohost.de/radioton-80er_live_mp3-192
-#DESCRIPTION Radio Ton - 80er Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream28.radiohost.de/radioton-80er_rock_mp3-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream24.radiohost.de/radioton-80er_rock_mp3-192?
 #DESCRIPTION Radio Ton - 80er Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream24.radiohost.de/radioton-80er_funky_friday_mp3-192?
+#DESCRIPTION Radio Ton - 80er Funky Friday
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream29.radiohost.de/radioton-80er_germany_mp3-192?
+#DESCRIPTION Radio Ton - 80er Germany
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream29.radiohost.de/radioton-80er_zauberwrfel_mp3-192?
+#DESCRIPTION Radio Ton - 80er Zauberwürfel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream26.radiohost.de/radioton-80er_longplayer_mp3-192?
+#DESCRIPTION Radio Ton - 80er Longplayer
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream29.radiohost.de/radioton-80er_workout_mp3-192?
+#DESCRIPTION Radio Ton - 80er Workout
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream26.radiohost.de/radioton-80er_hollywood_mp3-192?:10
+#DESCRIPTION Radio Ton - 80er Hollywood
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream26.radiohost.de/radioton-80er_live_mp3-192?
+#DESCRIPTION Radio Ton - 80er Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream29.radiohost.de/radioton-80er_feelings_mp3-192?
+#DESCRIPTION Radio Ton - 80er Feelings
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream26.radiohost.de/radioton-popup1_mp3-192?
+#DESCRIPTION Radio Ton - Weihnachten
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton-stream24.radiohost.de/radioton-popup2_mp3-192?:14
+#DESCRIPTION Radio Ton - Ukraine
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio BOB!
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-radiobobclassicrock1594088-mp3-192-3516780
