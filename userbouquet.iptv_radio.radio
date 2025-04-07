@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 07.04.2025 18:10 by Team www.hdfreaks.cc
+#DESCRIPTION Update 07.04.2025 19:26 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -6061,26 +6061,6 @@
 #DESCRIPTION Vishal & Shekhar
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/bollywoodyoyohoneysingh/icecast.audio
 #DESCRIPTION Yo Yo Honey Singh
-#SERVICE 1:64:D:0:0:0:0:0:0:0:
-#DESCRIPTION Happy Feet Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/hfballet/icecast.audio
-#DESCRIPTION Happy Feet Radio - Ballet
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/hfballroom/icecast.audio
-#DESCRIPTION Happy Feet Radio - Ballroom
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/hfcontemporary/icecast.audio
-#DESCRIPTION Happy Feet Radio - Contemporary
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/hffolk/icecast.audio
-#DESCRIPTION Happy Feet Radio - Folk
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/hfhiphop/icecast.audio
-#DESCRIPTION Happy Feet Radio - Hip Hop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/hfirishdance/icecast.audio
-#DESCRIPTION Happy Feet Radio - Irish Dance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/hfjazz/icecast.audio
-#DESCRIPTION Happy Feet Radio - Jazz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/hfmoderndance/icecast.audio
-#DESCRIPTION Happy Feet Radio - Modern Dance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/hftapdance/icecast.audio
-#DESCRIPTION Happy Feet Radio - Tap Dance
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio Paradiso
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-paradisoberlin-mp3-128-5481878?
