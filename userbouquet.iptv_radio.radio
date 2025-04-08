@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 08.04.2025 17:39 by Team www.hdfreaks.cc
+#DESCRIPTION Update 08.04.2025 17:42 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -7833,7 +7833,7 @@
 #DESCRIPTION RT1 80er
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge65.streamonkey.net/rt1-ch12/stream/mp3
 #DESCRIPTION RT1 90er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge04.streamonkey.net/rt1-ch10/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge85.streamonkey.net/rt1-ch01/stream/mp3?
 #DESCRIPTION RT1 2000er
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge14.streamonkey.net/rt1-ch16/stream/mp3
 #DESCRIPTION RT1 Deutsche Hits
@@ -7843,7 +7843,7 @@
 #DESCRIPTION RT1 Brandneu
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge66.streamonkey.net/rt1-ch18/stream/mp3
 #DESCRIPTION RT1 Funk
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge04.streamonkey.net/rt1-ch25/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge84.streamonkey.net/rt1-ch25/stream/mp3
 #DESCRIPTION RT1 Xmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge09.streamonkey.net/rt1-ch22/stream/mp3
 #DESCRIPTION RT1 Power Workout
