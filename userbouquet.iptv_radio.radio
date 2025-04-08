@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 07.04.2025 19:26 by Team www.hdfreaks.cc
+#DESCRIPTION Update 08.04.2025 17:39 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -3421,8 +3421,10 @@
 #DESCRIPTION 95bFM - Arcade Radio (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cdn05.radio.cloud%3a8120/ATD-OMNIA-GAT
 #DESCRIPTION Absolutely Top (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bfm-stream.lancs.ac.uk/flac
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bfm-live.lancs.ac.uk/listen/bfm/flac
 #DESCRIPTION Bailrigg FM - Lancaster's Student Sound (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.bailriggfm.co.uk/listen/bfm/320.mp3
+#DESCRIPTION Bailrigg FM - Lancaster's Student Sound (MP3)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s2.audiostream.hu/bdpstrock_FLAC
 #DESCRIPTION BDPST ROCK Rádió - Budapest ROCK Rádió Online (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cityradio.ddns.net%3a8000/cityradio48flac
@@ -3487,8 +3489,6 @@
 #DESCRIPTION PureClassix Radio (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server5.radio-streams.net%3a8001/live
 #DESCRIPTION PureClassix Radio (320kbps)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mscp4.live-streams.nl%3a8142/lounge.ogg
-#DESCRIPTION Pure Lounge Radio (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.audiomastering.lt%3a8000/pure
 #DESCRIPTION Radio Audiomastering Dance/Electronic (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//admin.biasradio.com/radio/8000/flac
@@ -3605,7 +3605,7 @@
 #DESCRIPTION SUN – Le Son Unique (FLAC 1556kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.norbert.de/zappa.flac
 #DESCRIPTION Zappa Stream Radio (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//progressieverock.nl%3a1973/flac
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//altair.streamerr.co%3a8018/luisteren
 #DESCRIPTION Progressieverock.nl (FLAC)
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Exclusive Radio
