@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 08.04.2025 17:42 by Team www.hdfreaks.cc
+#DESCRIPTION Update 09.04.2025 18:18 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -5747,12 +5747,8 @@
 #DESCRIPTION NPO KX
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//22333.live.streamtheworld.com/SLAM_AAC.aac
 #DESCRIPTION SLAM!
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22613.live.streamtheworld.com/100PNL_AAC.aac
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//27823.live.streamtheworld.com/100PNL_AAC.aac
 #DESCRIPTION 100% NL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22723.live.streamtheworld.com/SRGSTR11.mp3
-#DESCRIPTION Veronica Rockradio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25273.live.streamtheworld.com/SRGSTR10.mp3
-#DESCRIPTION Veronica Top 1000 Allertijden
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_64.aac
 #DESCRIPTION Qmusic live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur_64.aac
@@ -5787,7 +5783,7 @@
 #DESCRIPTION Sky Radio - Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25293.live.streamtheworld.com/SRGSTR03.mp3?
 #DESCRIPTION Sky Radio - Lovesongs
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22613.live.streamtheworld.com/SRGSTR08.mp3?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25223.live.streamtheworld.com/SRGSTR08.mp3
 #DESCRIPTION Sky Radio - Christmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25353.live.streamtheworld.com/SRGSTR24.mp3?
 #DESCRIPTION SKY Radio - Non-Stop@Work
@@ -6095,8 +6091,6 @@
 #DESCRIPTION Starbox Radio - Easy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxindie/icecast.audio
 #DESCRIPTION Starbox Radio - Indie
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxirishfolk/icecast.audio
-#DESCRIPTION Starbox Radio - Irish Folk
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxjazz/icecast.audio
 #DESCRIPTION Starbox Radio - Jazz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//drive.uber.radio/uber-app/starboxmotown/icecast.audio
