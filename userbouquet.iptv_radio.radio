@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 09.04.2025 18:18 by Team www.hdfreaks.cc
+#DESCRIPTION Update 18.04.2025 16:31 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2353,7 +2353,7 @@
 #DESCRIPTION Mixed Channels - Das Inselradio Mallorca
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nrw1.streamabc.net/92-nrw1-mp3-128-5352676
 #DESCRIPTION Mixed Channels - NRW 1
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup-stream09.radiohost.de/radio-holiday_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream09.radiohost.de/radio-holiday_mp3-192
 #DESCRIPTION Mixed Channels - Radio Holiday
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//meerradio.ip-streaming.net/meerradio
 #DESCRIPTION Mixed Channels - Meer Radio
@@ -3607,6 +3607,28 @@
 #DESCRIPTION Zappa Stream Radio (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//altair.streamerr.co%3a8018/luisteren
 #DESCRIPTION Progressieverock.nl (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mediacp.jb-radio.net%3a8001/flac
+#DESCRIPTION JB Radio-2 (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//studio.haarlem105.nl%3a8000/haarlem105DAB.flac?_res_tag_=audio
+#DESCRIPTION Haarlem 105 NL (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiozender.mpbnetwerken.nl/radio1-stl
+#DESCRIPTION MBP Radio 1 IR (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live7.avf.ch/lux_main
+#DESCRIPTION Lux Radio CH (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tornagaleones.ddns.net%3a9000/Flac
+#DESCRIPTION Radio Tornagaleones Chile (Flac)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tornagaleones.ddns.net%3a9000/stream
+#DESCRIPTION Radio Tornagaleones Chile (AAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.heerema.net/studio?_res_tag_=audio
+#DESCRIPTION FZO Radio NL (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.fzo.nu/studio.aac
+#DESCRIPTION FZO Radio NL (AAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.campusgrenoble.org/dab
+#DESCRIPTION Radio Campus Grenoble 90.8 (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live7.avf.ch%3a8000/urbn_main
+#DESCRIPTION URBN Radio CH (FLAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dr2101.ice.infomaniak.ch/dr2103.mp3
+#DESCRIPTION URBN Radio CH (mp3)
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Exclusive Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er-app/10cc/icecast.audio
@@ -5795,7 +5817,7 @@
 #DESCRIPTION Arrow Classic Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25333.live.streamtheworld.com/TLPSTR22.mp3?
 #DESCRIPTION Radio 10 - 90´er Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22613.live.streamtheworld.com/TLPSTR04.mp3?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22603.live.streamtheworld.com/TLPSTR04.mp3
 #DESCRIPTION Radio 10 - Love Songs
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22343.live.streamtheworld.com/TLPSTR15.mp3?
 #DESCRIPTION Radio 10 - Non-stop
@@ -5817,8 +5839,6 @@
 #DESCRIPTION Rivierenland Radio (320kbit/s)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sonic.magicdragon.nl/8044/stream
 #DESCRIPTION Stadsradio.Nl
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server.yesterdayland.online/radio/8000/listen
-#DESCRIPTION Yesterday Land
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast3.asurahosting.com/proxy/breakou1/stream
 #DESCRIPTION Funky Channel
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.100.145.187%3a18304/;
@@ -5953,7 +5973,7 @@
 #DESCRIPTION Not Gaming FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionti.com/nti-128.mp3
 #DESCRIPTION NTI - LA NOUVELLE TENDANCE
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com%3a80/bd.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen.mixlr.com/35f1caec150578c7d26a0fd22c0142c2
 #DESCRIPTION Oye Tu Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radioclassique.ice.infomaniak.ch/radioclassique-high.mp3
 #DESCRIPTION Radio Classique
@@ -6277,18 +6297,12 @@
 #DESCRIPTION Tinder Radio - Tik Tok Trending
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/afrobeats/icecast.audio
 #DESCRIPTION Tinder Radio - World Afrobeats
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/brazil/icecast.audio
-#DESCRIPTION Tinder Radio - World Brazil
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/deutschemusik/icecast.audio
-#DESCRIPTION Tinder Radio - World Deutsche Musik
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/italy/icecast.audio
 #DESCRIPTION Tinder Radio - World Italy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/jpop/icecast.audio
 #DESCRIPTION Tinder Radio - World J-Pop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/kpop/icecast.audio
 #DESCRIPTION Tinder Radio - World K-Pop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/musiquefrancaise/icecast.audio
-#DESCRIPTION Tinder Radio - World Musique Francaise
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Turkey
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast.radyogrup.com%3a1030/stream/1/
@@ -6303,8 +6317,6 @@
 #DESCRIPTION İmaj Pop - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//yayin1.yayindakiler.com%3a3156/stream/1/
 #DESCRIPTION DOST RADYO 103.0 MHZ - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bozkurtlarfm.canliyayinda.com%3a4040/stream/1/
-#DESCRIPTION BOZKURTLAR FM - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//95.173.188.166%3a9984/stream/1/
 #DESCRIPTION Turkrapfm - 64 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//yayin1.yayindakiler.com%3a3192/stream/1/
@@ -7301,7 +7313,7 @@
 #DESCRIPTION radio 88.6 - Classic Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge13.streamonkey.net/radio886-rotweissrock/stream/mp3
 #DESCRIPTION radio 88.6 - Rot Weiss Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.streamonkey.net/radio886-newrock/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge67.streamonkey.net/radio886-newrock/stream/mp3
 #DESCRIPTION radio 88.6 - New Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge60.streamonkey.net/radio886-metal/stream/mp3
 #DESCRIPTION radio 88.6 - Metal
@@ -7413,24 +7425,16 @@
 #DESCRIPTION Radio 7 - Best of Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-classicrock-mp3-192-7415448
 #DESCRIPTION Radio 7 - Classic Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-dancefestival-mp3-192-9445394
-#DESCRIPTION Radio 7 - Dance Festival
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-danceparty-mp3-192-7041831
 #DESCRIPTION Radio 7 - Dance Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-datenight-mp3-192-7204680
-#DESCRIPTION Radio 7 - Datenight
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-escparty-mp3-192-3260460
 #DESCRIPTION Radio 7 - ESC Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-fuessehoch-mp3-192-4971749
-#DESCRIPTION Radio 7 - Füße hoch
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-grillundchill-mp3-192-8381795
 #DESCRIPTION Radio 7 - Grill & Chill
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-gutelaune-mp3-192-3847369
 #DESCRIPTION Radio 7 - Gute Laune
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-hitsfuerkids-mp3-192-3353207
 #DESCRIPTION Radio 7 - Hits für Kids
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-kitahits-mp3-192-8578014
-#DESCRIPTION Radio 7 - Kita Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-konfettihits-mp3-192-5530227
 #DESCRIPTION Radio 7 - Konfetti Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-kuschelrock-mp3-192-8218710
@@ -7439,26 +7443,14 @@
 #DESCRIPTION Radio 7 - Lounge
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-lovesongs-mp3-192-6244584
 #DESCRIPTION Radio 7 - Lovesongs
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-maedelsparty-mp3-192-2518942
-#DESCRIPTION Radio 7 - Mädelsparty
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-mallehits-mp3-192-1646708
 #DESCRIPTION Radio 7 - Malle Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-prideparty-mp3-192-4596294
-#DESCRIPTION Radio 7 - Pride Party
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-relaxeddinner-mp3-192-6977073
 #DESCRIPTION Radio 7 - Relaxed Dinner
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-rockparty-mp3-192-5076277
 #DESCRIPTION Radio 7 - Rock Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-singersongwriter-mp3-192-3972302
-#DESCRIPTION Radio 7 - Singer Songwriter
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-sommerparty-mp3-192-3794053
 #DESCRIPTION Radio 7 - Sommer Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-sonntagmorgen-mp3-192-5043807
-#DESCRIPTION Radio 7 - Sonntagmorgen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-strandbar-mp3-192-3089324
-#DESCRIPTION Radio 7 - Strandbar
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-top100black-mp3-192-6951876
-#DESCRIPTION Radio 7 - Top 100 Black
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-top100hiphop-mp3-192-5437316
 #DESCRIPTION Radio 7 - Top 100 HipHop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-top100rnb-mp3-192-9117688
@@ -8363,8 +8355,6 @@
 #DESCRIPTION PsyStation - SuomiSoundi
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fr1-play.adtonos.com/8105/psystation-dark-roots-psy-trance
 #DESCRIPTION PsyStation - Dark Roots
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fr1-play.adtonos.com/8105/psystation-dark-psy-trance
-#DESCRIPTION PsyStation - Dark Psy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fr1-play.adtonos.com/8103/psystation-forest-psy-trance
 #DESCRIPTION PsyStation - Forest Psy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fr1-play.adtonos.com/8107/psystation-twilight-sounds
@@ -8377,8 +8367,6 @@
 #DESCRIPTION PsyStation - Minimal
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//m0859.contaboserver.net/proxy/house/stream
 #DESCRIPTION PsyStation - House
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fr1-play.adtonos.com/8108/psystation-ethnic-chill
-#DESCRIPTION PsyStation - Ethnic Chill
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fr1-play.adtonos.com/8101/psystation-zenonseque
 #DESCRIPTION PsyStation - Zenonseque
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
