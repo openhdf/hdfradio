@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 21.04.2025 19:23 by Team www.hdfreaks.cc
+#DESCRIPTION Update 21.04.2025 19:52 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -7301,7 +7301,7 @@
 #DESCRIPTION radio 88.6
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge64.streamonkey.net/radio886-onair/stream/mp3
 #DESCRIPTION radio 88.6 - OnAir
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge96.streamonkey.net/radio886-hardrock/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge10.streamonkey.net/radio886-hardrock/stream/mp3
 #DESCRIPTION radio 88.6 - Hard Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge67.streamonkey.net/radio886-classicrock/stream/mp3
 #DESCRIPTION radio 88.6 - Classic Rock
