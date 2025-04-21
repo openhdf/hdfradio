@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 20.04.2025 08:01 by Team www.hdfreaks.cc
+#DESCRIPTION Update 21.04.2025 19:23 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -469,8 +469,6 @@
 #DESCRIPTION Antenne NRW - 80er Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s2-webradio.antenne.nrw/antenne-nrw-80er-party/stream
 #DESCRIPTION Antenne NRW - 80er Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s7-webradio.antenne.nrw/antenne-nrw-80er-new-wave/stream
-#DESCRIPTION Antenne NRW - 80er New Wave
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s6-webradio.antenne.nrw/antenne-nrw-80er-disco-hits/stream
 #DESCRIPTION Antenne NRW - 80er Disco Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s5-webradio.antenne.nrw/antenne-nrw-70er-rock/stream
@@ -1729,7 +1727,7 @@
 #DESCRIPTION Radio Arabella DE - Golden Oldies
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge61.stream.radioarabella.de/radioarabella-70er/stream/mp3
 #DESCRIPTION Radio Arabella DE - 70er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.stream.radioarabella.de/radioarabella-classicrock/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge64.stream.radioarabella.de/radioarabella-classicrock/stream/mp3
 #DESCRIPTION Radio Arabella DE - Classic Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge62.stream.radioarabella.de/radioarabella-latino/stream/mp3
 #DESCRIPTION Radio Arabella DE - Latino
@@ -1743,7 +1741,7 @@
 #DESCRIPTION Radio Arabella DE - Oktoberfest
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge68.stream.radioarabella.de/radioarabella-weihnachten/stream/mp3
 #DESCRIPTION Radio Arabella DE - Christmas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge02.stream.radioarabella.de/radioarabella-modernrock/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge12.stream.radioarabella.de/radioarabella-modernrock/stream/mp3
 #DESCRIPTION Radio Arabella DE - Modern Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge15.stream.radioarabella.de/radioarabella-austropop/stream/mp3
 #DESCRIPTION Radio Arabella DE - Austro Pop
@@ -2305,8 +2303,6 @@
 #DESCRIPTION FluxFM - John Reed Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION ⇒ Mixed Channels Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//soundmanagement.streamguys1.com/WYXX
-#DESCRIPTION Mixed Channels - 97.7 Rock - WYXX
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bestofrockfm.stream.vip/rammstein/mp3-192/bestofrock.fm/
 #DESCRIPTION Mixed Channels - Rammstein.FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//metallica.hostingradio.ru/metallica96.aacp
