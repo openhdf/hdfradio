@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 21.04.2025 19:52 by Team www.hdfreaks.cc
+#DESCRIPTION Update 22.04.2025 20:48 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2465,8 +2465,6 @@
 #DESCRIPTION Schottland - Nation Radio Scotland live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen-pureradio.sharp-stream.com/pure_radio.mp3
 #DESCRIPTION Schottland - Pure Radio Scotland
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ais-sa2.cdnstream1.com/1981_128.mp3
-#DESCRIPTION Schottland - School Of Rock live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice-the.musicradio.com/SmoothScotlandMP3
 #DESCRIPTION Schottland - Smooth Radio Scotland live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge-bauerall-01-gos2.sharp-stream.com/tayfm.aac
@@ -6907,7 +6905,7 @@
 #DESCRIPTION Ambianceclassique - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/pilots-radio
 #DESCRIPTION Pilots Radio - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.viastreaming.net%3a7420/stream/1/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//securestreams4.autopo.st%3a1889/stream
 #DESCRIPTION Qfm Jazz - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/CITY-POP-RADIO
 #DESCRIPTION CITYPOPRADIO - 128 kbit/s
@@ -7243,7 +7241,7 @@
 #DESCRIPTION PRYSM - Dance Revival
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n11a-eu.rcs.revma.com/g9wspvm1pnhvv
 #DESCRIPTION PRYSM - Studio 54
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n06a-eu.rcs.revma.com/0rxtxh0a0mzuv
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n03a-eu.rcs.revma.com/0rxtxh0a0mzuv
 #DESCRIPTION PRYSM - Big Room EDM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n01a-eu.rcs.revma.com/arbkkamdzmzuv
 #DESCRIPTION PRYSM - Classic Dance
@@ -7723,7 +7721,7 @@
 #DESCRIPTION BBC Radio Gloucestershire
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa
 #DESCRIPTION 107.3 BBC Radio Uganda
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//finland.discovertrance.com%3a8212/listen.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//uk01.discovertrance.com/;.mp3
 #DESCRIPTION Discover Trance Radio UK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dancestream.danceradiouk.com/;
 #DESCRIPTION Dance Radio UK
