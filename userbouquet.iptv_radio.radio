@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 22.04.2025 20:48 by Team www.hdfreaks.cc
+#DESCRIPTION Update 24.04.2025 17:31 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2333,6 +2333,8 @@
 #DESCRIPTION Mixed Channels - Hard Rock Heaven
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fm02-ice.stream.khz.se/fm02_mp3
 #DESCRIPTION Mixed Channels - Bandit Rock 106.3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio21.streamabc.net/radio21-hannover-mp3-192-3735655
+#DESCRIPTION Mixed Channels - Radio 21 - bester ROCK 'N POP
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION ⇒ Mixed Channels Pop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice4.abradio.cz/depeche128.mp3
