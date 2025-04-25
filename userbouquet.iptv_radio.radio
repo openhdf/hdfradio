@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 24.04.2025 17:31 by Team www.hdfreaks.cc
+#DESCRIPTION Update 25.04.2025 18:10 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -8335,34 +8335,6 @@
 #DESCRIPTION Dance Wave Retro! (mp3)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.metal-invasion.fr%3a8000/stream.mp3
 #DESCRIPTION Metal Invasion Radio - France (mp3)
-#SERVICE 1:64:D:0:0:0:0:0:0:0:
-#DESCRIPTION PsyStation
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fr1-play.adtonos.com/8103/psystation-progressive-psy-trance-1
-#DESCRIPTION PsyStation - 24/7 Best Progressive Psytrance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fr1-play.adtonos.com/8105/psystation-full-on-psy-trance
-#DESCRIPTION PsyStation - Fullon
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fr1-play.adtonos.com/8101/psystation-classic-goa-psy-trance
-#DESCRIPTION PsyStation - Goa Classics
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fr1-play.adtonos.com/8103/pststation-nu-goa-psy-trance
-#DESCRIPTION PsyStation - Nu Goa
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fr1-play.adtonos.com/8103/psystation-suomisoundi-psy-trance
-#DESCRIPTION PsyStation - SuomiSoundi
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fr1-play.adtonos.com/8105/psystation-dark-roots-psy-trance
-#DESCRIPTION PsyStation - Dark Roots
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fr1-play.adtonos.com/8103/psystation-forest-psy-trance
-#DESCRIPTION PsyStation - Forest Psy
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fr1-play.adtonos.com/8107/psystation-twilight-sounds
-#DESCRIPTION PsyStation - Twilight Psy
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fr1-play.adtonos.com/8108/psystation-the-techno-show-1
-#DESCRIPTION PsyStation - Techno Show
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fr1-play.adtonos.com/8103/psystation-acid-techno-303
-#DESCRIPTION PsyStation - Acid Techno
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fr1-play.adtonos.com/8105/psystation-minimal
-#DESCRIPTION PsyStation - Minimal
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//m0859.contaboserver.net/proxy/house/stream
-#DESCRIPTION PsyStation - House
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//fr1-play.adtonos.com/8101/psystation-zenonseque
-#DESCRIPTION PsyStation - Zenonseque
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio Sydney
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
