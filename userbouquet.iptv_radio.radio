@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 27.04.2025 11:49 by Team www.hdfreaks.cc
+#DESCRIPTION Update 03.05.2025 09:47 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -3565,18 +3565,6 @@
 #DESCRIPTION ČRo Dvojka (Vorbis)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro-radio-junior-256.ogg
 #DESCRIPTION ČRo Rádio Junior (Vorbis)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/progressive-flac
-#DESCRIPTION SECTOR Progressive channel (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/space-flac
-#DESCRIPTION SECTOR Space channel (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/nota-flac
-#DESCRIPTION SECTOR Nota channel (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/geny-flac
-#DESCRIPTION SECTOR Geny channel (80er) (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/next-flac
-#DESCRIPTION SECTOR Next channel (90er) (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//89.223.45.5%3a8000/zed-160
-#DESCRIPTION SECTOR Zed channel (10er) (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secure.live-streams.nl/flac.ogg
 #DESCRIPTION Intense Radio - we love dance (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.linn.co.uk%3a8003/autodj
