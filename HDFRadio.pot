@@ -318,6 +318,9 @@ msgstr ""
 msgid "Choose whether to play the same or next song after playing a YouTube video, or whether to stop playback."
 msgstr ""
 
+msgid "Choose whether to show the clock in screensaver or not."
+msgstr ""
+
 msgid "Choose whether to use streams in DASH MP4 format, if available."
 msgstr ""
 
@@ -875,6 +878,9 @@ msgstr ""
 msgid "Radio"
 msgstr ""
 
+msgid "Radio list download failed!"
+msgstr ""
+
 msgid ""
 "Radio list download failed.\n"
 "Please try again later."
@@ -1055,6 +1061,9 @@ msgid "Show 'HDF Radio' in mainmenu?"
 msgstr ""
 
 msgid "Show changelog"
+msgstr ""
+
+msgid "Show clock in screensaver"
 msgstr ""
 
 msgid "Show cover in fullscreen"
