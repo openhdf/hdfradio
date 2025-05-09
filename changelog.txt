@@ -1,3 +1,9 @@
+v2.20.12:
+- added option to display clock in screensaver
+- added function to show/hide clock in hidden player screen
+- added function to show/hide clock in cover fullscreen mode
+- translations updated (thanks @Warder and @Orlandox)
+
 v2.20.11:
 - 'FileList' sorting revised
 - better handling of 'URLError'
