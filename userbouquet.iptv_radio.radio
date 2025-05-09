@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 03.05.2025 09:47 by Team www.hdfreaks.cc
+#DESCRIPTION Update 09.05.2025 16:18 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2365,6 +2365,8 @@
 #DESCRIPTION Mixed Channels - Handwerker Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wellenrausch.streamabc.net/95-radiowellenrausch-mp3-192-8870646
 #DESCRIPTION Mixed Channels - Radio Wellenrausch
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.madmenmedia.se/popfm_high
+#DESCRIPTION Mixed Channels - POP fm
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION ⇒ Mixed Channels Miscellaneous
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radio-matchbox.de/listen/matchbox/radio.mp3
