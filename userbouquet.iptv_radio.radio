@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 09.05.2025 16:18 by Team www.hdfreaks.cc
+#DESCRIPTION Update 09.05.2025 17:06 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -7665,12 +7665,6 @@
 #DESCRIPTION Toneart - Cosmic in the Mix
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//v2.radiodienst.de%3a8140/sweatinthemix
 #DESCRIPTION Toneart - Sweat in the mix
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//v2.radiodienst.de%3a8070/reggaeinthemix
-#DESCRIPTION Toneart - Reggae On!
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//v2.radiodienst.de%3a8100/disco
-#DESCRIPTION Toneart - Disco
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//v2.radiodienst.de%3a8110/kidsmix
-#DESCRIPTION Toneart - Kids
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//v2.radiodienst.de%3a9928/toneartradio
 #DESCRIPTION Toneart - Toneartradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//v2.radiodienst.de%3a8150/myxmas
