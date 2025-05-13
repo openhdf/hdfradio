@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 11.05.2025 09:36 by Team www.hdfreaks.cc
+#DESCRIPTION Update 13.05.2025 17:54 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2395,6 +2395,8 @@
 #DESCRIPTION Mixed Channels - Psyndora Psytrance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast.magicstreams.gr/sc/psychill/stream
 #DESCRIPTION Mixed Channels - Psyndora Chillout
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.kickfm.eu/mp3-hq
+#DESCRIPTION Mixed Channels - kick!fm
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//autozugradio.stream32.radiohost.de/autozugradio-blau_mp3-192
 #DESCRIPTION Mixed Channels - Autozugradio Sylt
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio21.streamabc.net/radio21-radio21dabns-mp3-256-5529609
