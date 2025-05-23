@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 22.05.2025 18:04 by Team www.hdfreaks.cc
+#DESCRIPTION Update 23.05.2025 16:36 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -9191,3 +9191,25 @@
 #DESCRIPTION AceRadio - The Mix Channel
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio.cdnstream1.com/5122_128
 #DESCRIPTION AceRadio - The Super Rock Mix
+#SERVICE 1:64:D:0:0:0:0:0:0:0:
+#DESCRIPTION Silvacast Premium Radios
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icepool.silvacast.com/COUNTRY108.mp3
+#DESCRIPTION Country 108
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icepool.silvacast.com/DIGGAFM.mp3
+#DESCRIPTION digga FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icepool.silvacast.com/DEFJAY.mp3
+#DESCRIPTION Def Jay
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icepool.silvacast.com/JACKFM.mp3
+#DESCRIPTION Jack FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icepool.silvacast.com/HIT104.mp3
+#DESCRIPTION HIT 104
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icepool.silvacast.com/VIBEFM.mp3
+#DESCRIPTION Vibe FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icepool.silvacast.com/GAYFM.mp3
+#DESCRIPTION Gay FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icepool.silvacast.com/GOLDFM.mp3
+#DESCRIPTION Gold FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icepool.silvacast.com/ROCKYFM.mp3
+#DESCRIPTION Rocky FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icepool.silvacast.com/KLASSIK1.mp3
+#DESCRIPTION KLASSIK 1
