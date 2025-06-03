@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 02.06.2025 16:48 by Team www.hdfreaks.cc
+#DESCRIPTION Update 03.06.2025 17:39 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -5705,6 +5705,8 @@
 #DESCRIPTION Spoon Radio - Modern Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//spoonradioalternativerock.ice.infomaniak.ch/spoon-alternativerock-hd.aac
 #DESCRIPTION Spoon Radio - Alternative Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge06.streamonkey.net/radiozuerileu-live
+#DESCRIPTION Radio ZüriLEU
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Niederlande
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
