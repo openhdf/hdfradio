@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 03.06.2025 17:39 by Team www.hdfreaks.cc
+#DESCRIPTION Update 05.06.2025 17:36 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2086,7 +2086,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.ilovemusic.de/iloveradio17.mp3
 #DESCRIPTION I LOVE Music - I Love CHILLPOP
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.ilovemusic.de/iloveradio36.mp3
-#DESCRIPTION I LOVE Music - I Love DANCE 2022
+#DESCRIPTION I LOVE Music - I Love DANCE 2025
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.ilovemusic.de/iloveradio103.mp3
 #DESCRIPTION I LOVE Music - I Love FIRST!
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.ilovemusic.de/iloveradio26.mp3
@@ -2102,11 +2102,11 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.ilovemusic.de/iloveradio3.mp3
 #DESCRIPTION I LOVE Music - I Love HIP HOP
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.ilovemusic.de/iloveradio35.mp3
-#DESCRIPTION I LOVE Music - I Love HIP HOP 2022
+#DESCRIPTION I LOVE Music - I Love HIP HOP 2025
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.ilovemusic.de/iloveradio27.mp3
 #DESCRIPTION I LOVE Music - I Love HIP HOP HISTORY
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.ilovemusic.de/iloveradio109.mp3
-#DESCRIPTION I LOVE Music - I Love HITS 2022
+#DESCRIPTION I LOVE Music - I Love HITS 2025
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.ilovemusic.de/iloveradio12.mp3
 #DESCRIPTION I LOVE Music - I Love HITS HISTORY
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.ilovemusic.de/iloveradio22.mp3
