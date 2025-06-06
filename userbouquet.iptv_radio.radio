@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 05.06.2025 17:36 by Team www.hdfreaks.cc
+#DESCRIPTION Update 06.06.2025 19:06 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -9183,3 +9183,17 @@
 #DESCRIPTION Rocky FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icepool.silvacast.com/KLASSIK1.mp3
 #DESCRIPTION KLASSIK 1
+#SERVICE 1:64:D:0:0:0:0:0:0:0:
+#DESCRIPTION Trigger.FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//triggerfm.ice.infomaniak.ch/triggerfm-256.mp3
+#DESCRIPTION Trigger.FM - Hauptprogramm
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//triggerfmmax.ice.infomaniak.ch/triggerfmmax-256.mp3
+#DESCRIPTION Trigger.FM - 80er & 90er Max
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//triggerfmhartmut.ice.infomaniak.ch/triggerfmhartmut-256.mp3
+#DESCRIPTION Trigger.FM - Oldies & deutsche Musik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//triggerfmderbeat.ice.infomaniak.ch/triggerfmderbeat-256.mp3
+#DESCRIPTION Trigger.FM - Der Beat
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ponyradio.ice.infomaniak.ch/ponyradio-256.mp3
+#DESCRIPTION Trigger.FM - Pony Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//app.radionewsai.com/api/newscasters/9e11b9e1-6fd3-4ec5-93eb-a3542e8516c1/latest.mp3
+#DESCRIPTION Trigger.FM - Kurzmeldungen
