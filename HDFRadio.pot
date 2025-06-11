@@ -1093,6 +1093,9 @@ msgstr ""
 msgid "Show song information"
 msgstr ""
 
+msgid "Show video"
+msgstr ""
+
 msgid "Shuffle"
 msgstr ""
 
@@ -1170,6 +1173,9 @@ msgid "The cover file was successfully removed."
 msgstr ""
 
 msgid "The cover path does not exists."
+msgstr ""
+
+msgid "The current song does not include a video."
 msgstr ""
 
 msgid "The directory does not have to be opened to select the desired path. The full path can be seen in the preview text."
@@ -1286,6 +1292,9 @@ msgid "Virtual KeyBoard"
 msgstr ""
 
 msgid "Virtual KeyBoard Text:"
+msgstr ""
+
+msgid "Waiting for new title ..."
 msgstr ""
 
 msgid "Webradio Plugin"
