@@ -1,3 +1,14 @@
+v2.21.0:
+- added option to watch local video in player by clicking OK twice
+- added option to change local song in lyrics screen with prev/next
+- jumping in the song with the number keys has been improved
+- automatic server selection for downloading from 'radio-browser.info'
+- cuesheet support removed
+- allow opening the playlist in screensaver without internet
+- changed graphics in virtual keyboard for Xion skins
+- translations updated (thanks @Warder, @Orlandox and @paps)
+- some small changes
+
 v2.20.12:
 - added option to display clock in screensaver
 - added function to show/hide clock in hidden player screen
