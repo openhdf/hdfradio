@@ -1,3 +1,8 @@
+v2.21.1:
+- added own 'ScrollLabel' to insert empty lines on the last page
+- fixed calculating songlength when using gstplayer
+- some small changes
+
 v2.21.0:
 - added option to watch local video in player by clicking OK twice
 - added option to change local song in lyrics screen with prev/next
