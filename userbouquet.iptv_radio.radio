@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 25.06.2025 18:54 by Team www.hdfreaks.cc
+#DESCRIPTION Update 30.06.2025 18:25 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -5528,7 +5528,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--04--cdn.cast.addradio.de/radiob2/national/mp3/high/stream.mp3
 #DESCRIPTION Schlager Radio - Livestream
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--07--cdn.cast.addradio.de/radiob2/schlagermixx/mp3/high/stream.mp3
-#DESCRIPTION Schlager Radio - Schlager Radio plus
+#DESCRIPTION Schlager Radio - Discofox Antenne
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--09--cdn.cast.addradio.de/radiob2/helenefischer/mp3/high/stream.mp3
 #DESCRIPTION Schlager Radio - Helene Fischer
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiob2--di--nacs-ais-lgc--07--cdn.cast.addradio.de/radiob2/rolandkaiser/mp3/high/stream.mp3
