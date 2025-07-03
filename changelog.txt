@@ -1,3 +1,9 @@
+v2.21.2:
+- fixed an issue when switching back to previous stream
+- saving and removing cover via info screen revised
+- fixed download radio lists from 'radio-browser.info' for portugal
+- some small changes
+
 v2.21.1:
 - added own 'ScrollLabel' to insert empty lines on the last page
 - fixed calculating songlength when using gstplayer
