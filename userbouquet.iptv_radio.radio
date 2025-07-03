@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 30.06.2025 18:25 by Team www.hdfreaks.cc
+#DESCRIPTION Update 03.07.2025 18:16 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2629,6 +2629,8 @@
 #DESCRIPTION 90s90s - Reggae
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90s90s00s-mp3-192-4732500?
 #DESCRIPTION 90s90s - 90s00s Millenium Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90schillout-mp3-192-9834343
+#DESCRIPTION 90s90s - Chill Out
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION 0nlineradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.0nlineradio.com/volksmusik
