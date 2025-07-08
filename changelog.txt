@@ -1,3 +1,9 @@
+v2.21.3:
+- added option to display radiologos
+- added option to hold lyrics
+- skins updated
+- some small changes
+
 v2.21.2:
 - fixed an issue when switching back to previous stream
 - saving and removing cover via info screen revised
