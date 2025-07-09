@@ -20,6 +20,9 @@ msgstr ""
 msgid "     Cover Path"
 msgstr ""
 
+msgid "     Logos Path"
+msgstr ""
+
 msgid "     Screensaver starts in ..."
 msgstr ""
 
@@ -195,6 +198,9 @@ msgstr ""
 msgid "Autostart on Boot?"
 msgstr ""
 
+msgid "Autoupdate"
+msgstr ""
+
 msgid "Back"
 msgstr ""
 
@@ -254,6 +260,9 @@ msgid ""
 "Press OK to open the browser."
 msgstr ""
 
+msgid "Choose the logos path"
+msgstr ""
+
 msgid "Choose the player which will be used for YouTube playback."
 msgstr ""
 
@@ -291,6 +300,9 @@ msgid "Choose whether 'HDF Radio Player' should be shown in the mainmenu or not.
 msgstr ""
 
 msgid "Choose whether 'HDF Radio' should be shown in the mainmenu or not."
+msgstr ""
+
+msgid "Choose whether radio logos displayed or not."
 msgstr ""
 
 msgid "Choose whether screensaver displayed or not."
@@ -337,6 +349,9 @@ msgid "Corrupt radio list!"
 msgstr ""
 
 msgid "Cover saved successfully."
+msgstr ""
+
+msgid "Cover updated successfully."
 msgstr ""
 
 msgid "Create favourites list"
@@ -572,6 +587,9 @@ msgstr ""
 msgid "Hide player"
 msgstr ""
 
+msgid "Hold"
+msgstr ""
+
 msgid "IP radio list was not found!"
 msgstr ""
 
@@ -726,6 +744,9 @@ msgstr ""
 msgid "Open lyrics browser"
 msgstr ""
 
+msgid "Overwrite cover"
+msgstr ""
+
 msgid "Parent directory"
 msgstr ""
 
@@ -878,6 +899,9 @@ msgstr ""
 msgid "Radio"
 msgstr ""
 
+msgid "Radio Logos"
+msgstr ""
+
 msgid "Radio list download failed!"
 msgstr ""
 
@@ -1022,6 +1046,11 @@ msgid ""
 "Select the path to save the covers found on 'theaudiodb.com'.\n"
 "Press OK to open the browser.\n"
 "A folder '%s' is automatically created for the path."
+msgstr ""
+
+msgid ""
+"Select the path where your radio logos are saved.\n"
+"Press OK to open the browser."
 msgstr ""
 
 msgid "Select the playlist to be played."
