@@ -1,3 +1,8 @@
+v2.21.4:
+- added option to set the path for radiologos
+- translations updated (thanks @Warder, @Orlandox and @paps)
+- some small changes
+
 v2.21.3:
 - added option to display radiologos
 - added option to hold lyrics
