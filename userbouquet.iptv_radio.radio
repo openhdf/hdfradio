@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 03.07.2025 18:16 by Team www.hdfreaks.cc
+#DESCRIPTION Update 10.07.2025 20:12 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2390,7 +2390,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wellenrausch.streamabc.net/95-radiowellenrausch-mp3-192-8870646
 #DESCRIPTION Mixed Channels - Radio Wellenrausch
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.madmenmedia.se/popfm_high
-#DESCRIPTION Mixed Channels - POP fm
+#DESCRIPTION Mixed Channels - POP fm - Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//karls.stream04.radiohost.de/karls-erlebnisradio_mp3-192
 #DESCRIPTION Mixed Channels - Karls Erlebnis - Radio!
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
