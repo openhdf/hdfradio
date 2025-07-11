@@ -1,3 +1,8 @@
+v2.21.5:
+- detection of radiologos extended
+- skins updated
+- some small changes
+
 v2.21.4:
 - added option to set the path for radiologos
 - translations updated (thanks @Warder, @Orlandox and @paps)
