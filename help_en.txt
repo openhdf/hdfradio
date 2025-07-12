@@ -45,6 +45,15 @@ The file /etc/enigma2/hdfradio_userlist_{new name} is created.
 The favorites are automatically updated when the radio list is updated.
 Furthermore, the favorite lists can be renamed, edited or deleted in the menu.
 
+Notes on the radio logos:
+If radio logos are enabled, the path to the logos can be selected in the menu.
+The stream name often contains ' - ' to separate the provider from the broadcaster.
+The name to the left of this is assumed to be the provider's name.
+The path to the logo would therefore be: {selected path}/{provider}/{stream name}.jpg
+Or globally for the provider: {selected path}/{provider}/{provider}.jpg
+If no provider is specified: {selected path}/{stream name}.jpg
+Supportet formats are 'jpg' and 'png'. The size should be about 150x150px.
+
 Additional Information:
 To display the title and cover, the ServiceApp must be set to Original or only the ServiceHisilicon must be installed.
 The display of the cover works completely without ServiceApp and ServiceHisilicon.
