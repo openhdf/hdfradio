@@ -46,7 +46,6 @@ The favorites are automatically updated when the radio list is updated.
 Furthermore, the favorite lists can be renamed, edited or deleted in the menu.
 
 Notes on the radio logos:
-If radio logos are enabled, the path to the logos can be selected in the menu.
 The stream name often contains ' - ' to separate the provider from the broadcaster.
 The name to the left of this is assumed to be the provider's name.
 The path to the logo would therefore be: {selected path}/{provider}/{stream name}.jpg
