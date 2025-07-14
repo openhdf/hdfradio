@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 14.07.2025 08:28 by Team www.hdfreaks.cc
+#DESCRIPTION Update 14.07.2025 14:21 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -9220,7 +9220,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//app.radionewsai.com/api/newscasters/9e11b9e1-6fd3-4ec5-93eb-a3542e8516c1/latest.mp3
 #DESCRIPTION Trigger.FM - Kurzmeldungen
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
-#DESCRIPTION Suomi
+#DESCRIPTION Finland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.mokkiradio.fi%3a18008/mokkiradio
 #DESCRIPTION Mökkiradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/top51/top51_64.aac?aw_0_1st.playerid=BMUK_tunein
