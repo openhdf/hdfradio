@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 13.07.2025 22:09 by Team www.hdfreaks.cc
+#DESCRIPTION Update 14.07.2025 08:28 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -5286,7 +5286,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a8880
 #DESCRIPTION Radio MaxPlay-FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/q18ty3qhwzzuv
-#DESCRIPTION Radio Mega
+#DESCRIPTION Radio MEGA
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//51.255.8.139%3a8738/stream
 #DESCRIPTION Radio Metal Live Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7350
@@ -9223,35 +9223,35 @@
 #DESCRIPTION Suomi
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.mokkiradio.fi%3a18008/mokkiradio
 #DESCRIPTION Mökkiradio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/top51/top51_64.aac?aw_0_1st.playerid=BMUK_tunein&aw_0_1st.skey=1752433020
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/top51/top51_64.aac?aw_0_1st.playerid=BMUK_tunein
 #DESCRIPTION Top51
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/tekoalyradio/tekoalyradio_64.aac?aw_0_1st.playerid=BMUK_tunein&aw_0_1st.skey=1752432939
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/tekoalyradio/tekoalyradio_64.aac?aw_0_1st.playerid=BMUK_tunein
 #DESCRIPTION Tekoälyradio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/suomirock/suomirock_64.aac?aw_0_1st.playerid=BMUK_tunein&aw_0_1st.skey=1752432839
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/suomirock/suomirock_64.aac?aw_0_1st.playerid=BMUK_tunein
 #DESCRIPTION SuomiRock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/radiopooki/radiopooki_64.aac?aw_0_1st.playerid=BMUK_tunein&aw_0_1st.skey=1752432723
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/radiopooki/radiopooki_64.aac?aw_0_1st.playerid=BMUK_tunein
 #DESCRIPTION Radio Pooki
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/radionova/radionova_64.aac?aw_0_1st.playerid=BMUK_tunein&aw_0_1st.skey=1752432636
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/radionova/radionova_64.aac?aw_0_1st.playerid=BMUK_tunein
 #DESCRIPTION Radio Nova
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/nostalgia/nostalgia_64.aac?aw_0_1st.playerid=BMUK_tunein&aw_0_1st.skey=1752432510
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/nostalgia/nostalgia_64.aac?aw_0_1st.playerid=BMUK_tunein
 #DESCRIPTION Radio Nostalgia
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/radiomega/radiomega_64.aac?aw_0_1st.playerid=BMUK_tunein&aw_0_1st.skey=1752432409
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/radiomega/radiomega_64.aac?aw_0_1st.playerid=BMUK_tunein
 #DESCRIPTION Radio Mega
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/radiocity/radiocity_64.aac?aw_0_1st.playerid=BMUK_tunein&aw_0_1st.skey=1752431373
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/radiocity/radiocity_64.aac?aw_0_1st.playerid=BMUK_tunein
 #DESCRIPTION Radio City
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/radio957/radio957_64.aac?aw_0_1st.playerid=BMUK_tunein&aw_0_1st.skey=1752431286
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/radio957/radio957_64.aac?aw_0_1st.playerid=BMUK_tunein
 #DESCRIPTION Radio 957
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/nrj/nrj_64.aac?aw_0_1st.playerid=BMUK_tunein&aw_0_1st.skey=1752431205
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/nrj/nrj_64.aac?aw_0_1st.playerid=BMUK_tunein
 #DESCRIPTION NRJ
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/iskelma/iskelma_64.aac?aw_0_1st.playerid=BMUK_tunein&aw_0_1st.skey=1752430996
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/iskelma/iskelma_64.aac?aw_0_1st.playerid=BMUK_tunein
 #DESCRIPTION Iskelmä
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/kiss/kiss_64.aac?aw_0_1st.playerid=BMUK_tunein&aw_0_1st.skey=1752430894
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/kiss/kiss_64.aac?aw_0_1st.playerid=BMUK_tunein
 #DESCRIPTION KISS
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/kasari/kasari_64.aac?aw_0_1st.playerid=BMUK_tunein&aw_0_1st.skey=1752430752
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/kasari/kasari_64.aac?aw_0_1st.playerid=BMUK_tunein
 #DESCRIPTION Kasari
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/basso/bassoradio_64.aac?aw_0_1st.playerid=BMUK_tunein&aw_0_1st.skey=1752430225
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/basso/bassoradio_64.aac?aw_0_1st.playerid=BMUK_tunein
 #DESCRIPTION Basso
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/ysari/ysari_64.aac?aw_0_1st.playerid=BMUK_tunein&aw_0_1st.skey=1752424952
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/ysari/ysari_64.aac?aw_0_1st.playerid=BMUK_tunein
 #DESCRIPTION Ysäri
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//yleradiolive.akamaized.net/hls/live/2027709/in-YleKuopio/256/variant.m3u8
 #DESCRIPTION YLE Radio Suomi - Kuopio
