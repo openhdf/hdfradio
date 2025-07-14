@@ -1,3 +1,9 @@
+v2.21.6:
+- added workaround for Finnish radio stations
+- resize radiologo if necessary
+- help texts updated (thanks @Warder and @Orlandox)
+- some small changes
+
 v2.21.5:
 - detection of radiologos extended
 - skins updated
