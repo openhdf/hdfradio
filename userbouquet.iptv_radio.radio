@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 15.07.2025 17:40 by Team www.hdfreaks.cc
+#DESCRIPTION Update 15.07.2025 20:47 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1752,109 +1752,113 @@
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Österreich
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.antenne.at/as
-#DESCRIPTION Österreich - Antenne Steiermark
+#DESCRIPTION Antenne Steiermark
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.antenne.at/ak
-#DESCRIPTION Österreich - Antenne Kärnten
+#DESCRIPTION Antenne Kärnten
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge82.streamonkey.net/anttirol-live
+#DESCRIPTION Antenne Tirol
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge01.radio.antennevorarlberg.at/av-christkindl
-#DESCRIPTION Österreich - Antenne Vorarlberg - Christkindlradio
+#DESCRIPTION Antenne Vorarlberg - Christkindlradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream01.matze-hosting.de/8006/stream
-#DESCRIPTION Österreich - Crazy Burgenland Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//onair.krone.at/kronehit.mp3
-#DESCRIPTION Österreich - Kronehit-Digital
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//136.243.111.216/bigcitybeats
-#DESCRIPTION Österreich - Kronehit-BigCity Beats Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit12.mp3
-#DESCRIPTION Österreich - Kronehit-Summer Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit-ultra-hd.aac
-#DESCRIPTION Österreich - Kronehit-UHD Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit23.mp3
-#DESCRIPTION Österreich - Kronehit-Dance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit22.mp3
-#DESCRIPTION Österreich - Kronehit-Fresh
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit14.mp3
-#DESCRIPTION Österreich - Kronehit-Love
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit03.mp3
-#DESCRIPTION Österreich - Kronehit-Disco
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit02.mp3
-#DESCRIPTION Österreich - Kronehit-Most Wanted
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit11.mp3
-#DESCRIPTION Österreich - Kronehit-Vollgas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit13.mp3
-#DESCRIPTION Österreich - Kronehit-Greatest Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit21.mp3
-#DESCRIPTION Österreich - Kronehit-Eurodance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit05.mp3
-#DESCRIPTION Österreich - Kronehit-Latino
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit1058.mp3
-#DESCRIPTION Österreich - Kronehit-UKW
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit04.mp3
-#DESCRIPTION Österreich - Kronehit-Retro
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//secureonair.krone.at/super80s.aac
-#DESCRIPTION Österreich - Kronehit-Super 80s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//secureonair.krone.at/rwr.aac
-#DESCRIPTION Österreich - Kronehit-Rot Weiss Rot
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//secureonair.krone.at/eurodance.aac
-#DESCRIPTION Österreich - Kronehit-Eurodance X-Press
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//secureonair.krone.at/pirate.aac
-#DESCRIPTION Österreich - Kronehit-Pirate Radio
+#DESCRIPTION Crazy Burgenland Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/oe1-q2a
-#DESCRIPTION Österreich - Ö1
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/oe3-q2a
-#DESCRIPTION Österreich - Ö3
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/campus-q2a
-#DESCRIPTION Österreich - Campus
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/fm4-q2a
-#DESCRIPTION Österreich - FM4
+#DESCRIPTION Ö1
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//oe1dd.mdn.ors.at/out/u/oe1dd/manifest.m3u8
-#DESCRIPTION Österreich - Radio OE 1 Dolby Audio 5.1
+#DESCRIPTION Ö1 Dolby Audio 5.1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/oe3-q2a
+#DESCRIPTION Hitradio Ö3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/campus-q2a
+#DESCRIPTION Campus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/fm4-q2a
+#DESCRIPTION FM4
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ors-sn09.ors-shoutcast.at/bgl-q2a
-#DESCRIPTION Österreich - Radio Burgenland
+#DESCRIPTION Radio Burgenland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/ktn-q2a
-#DESCRIPTION Österreich - Radio Kärnten
+#DESCRIPTION Radio Kärnten
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/noe-q2a
-#DESCRIPTION Österreich - Radio Niederösterreich
+#DESCRIPTION Radio Niederösterreich
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//orf-live.ors-shoutcast.at/ooe-q2a
-#DESCRIPTION Österreich - Radio Oberösterreich
+#DESCRIPTION Radio Oberösterreich
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//orf-live.ors-shoutcast.at/sbg-q2a
-#DESCRIPTION Österreich - Radio Salzburg
+#DESCRIPTION Radio Salzburg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//orf-live.ors-shoutcast.at/stm-q2a
-#DESCRIPTION Österreich - Radio Steiermark
+#DESCRIPTION Radio Steiermark
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//orf-live.ors-shoutcast.at/tir-q2a
-#DESCRIPTION Österreich - Radio Tirol
+#DESCRIPTION Radio Tirol
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//orf-live.ors-shoutcast.at/vbg-q2a
-#DESCRIPTION Österreich - Radio Vorarlberg
+#DESCRIPTION Radio Vorarlberg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//orf-live.ors-shoutcast.at/wie-q2a
-#DESCRIPTION Österreich - Radio Wien
+#DESCRIPTION Radio Wien
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3
-#DESCRIPTION Österreich - Radio Stephansdom
+#DESCRIPTION Radio Stephansdom
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//u1-tirol.stream06.radiohost.de/u1-tirol-live_mp3-192
-#DESCRIPTION Österreich - Radio U1
+#DESCRIPTION U1 Tirol
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a19000/stream
-#DESCRIPTION Österreich - Welle 1 Austria
+#DESCRIPTION Welle 1 Austria
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a17128/stream
-#DESCRIPTION Österreich - Welle 1 Linz
+#DESCRIPTION Welle 1 Linz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a18128/stream
-#DESCRIPTION Österreich - Welle 1 Salzburg
+#DESCRIPTION Welle 1 Salzburg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//c02.lexycast.de%3a4300/play.mp3
-#DESCRIPTION Österreich - Generation Mix Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
-#DESCRIPTION ---- Superfly ----
+#DESCRIPTION Generation Mix Radio
+#SERVICE 1:64:D:0:0:0:0:0:0:0:
+#DESCRIPTION Kronehit
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//onair.krone.at/kronehit.mp3
+#DESCRIPTION Kronehit - Digital
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//136.243.111.216/bigcitybeats
+#DESCRIPTION Kronehit - BigCity Beats Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit12.mp3
+#DESCRIPTION Kronehit - Summer Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit-ultra-hd.aac
+#DESCRIPTION Kronehit - UHD Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit23.mp3
+#DESCRIPTION Kronehit - Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit22.mp3
+#DESCRIPTION Kronehit - Fresh
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit14.mp3
+#DESCRIPTION Kronehit - Love
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit03.mp3
+#DESCRIPTION Kronehit - Disco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit02.mp3
+#DESCRIPTION Kronehit - Most Wanted
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit11.mp3
+#DESCRIPTION Kronehit - Vollgas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit13.mp3
+#DESCRIPTION Kronehit - Greatest Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit21.mp3
+#DESCRIPTION Kronehit - Eurodance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit05.mp3
+#DESCRIPTION Kronehit - Latino
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit1058.mp3
+#DESCRIPTION Kronehit - UKW
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit04.mp3
+#DESCRIPTION Kronehit - Retro
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//secureonair.krone.at/super80s.aac
+#DESCRIPTION Kronehit - Super 80s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//secureonair.krone.at/rwr.aac
+#DESCRIPTION Kronehit - Rot Weiss Rot
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//secureonair.krone.at/eurodance.aac
+#DESCRIPTION Kronehit - Eurodance X-Press
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//secureonair.krone.at/pirate.aac
+#DESCRIPTION Kronehit - Pirate Radio
+#SERVICE 1:64:D:0:0:0:0:0:0:0:
+#DESCRIPTION Superfly
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.superfly.fm/superfly-live
-#DESCRIPTION Österreich - Superfly Live
+#DESCRIPTION Superfly Live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.superfly.fm/superfly-pure
-#DESCRIPTION Österreich - Superfly Pure
+#DESCRIPTION Superfly Pure
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.superfly.fm/superfly-easy
-#DESCRIPTION Österreich - Superfly Easy
+#DESCRIPTION Superfly Easy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.superfly.fm/superfly-club
-#DESCRIPTION Österreich - Superfly Club
+#DESCRIPTION Superfly Club
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.superfly.fm/superfly-hiphop
-#DESCRIPTION Österreich - Superfly Hip Hop
+#DESCRIPTION Superfly Hip Hop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.superfly.fm/superfly-beach
-#DESCRIPTION Österreich - Superfly Beach
+#DESCRIPTION Superfly Beach
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.superfly.fm/superfly-world
-#DESCRIPTION Österreich - Superfly World
+#DESCRIPTION Superfly World
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.superfly.fm/superfly-jazz
-#DESCRIPTION Österreich - Superfly Jazz
+#DESCRIPTION Superfly Jazz
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION RauteMusik
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//12punks-high.rautemusik.fm
