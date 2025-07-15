@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 15.07.2025 16:42 by Team www.hdfreaks.cc
+#DESCRIPTION Update 15.07.2025 17:40 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -5869,7 +5869,7 @@
 #DESCRIPTION KINK live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25333.live.streamtheworld.com/KINK_DISTORTIONAAC.aac?
 #DESCRIPTION KINK Distortion
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.queerhits.nl/queerhits.hq
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.queerhits.nl/queerhits.hq
 #DESCRIPTION Queer Hits NL (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream2.music-radio4all.nl%3a8443/stream.mp3
 #DESCRIPTION Radio4All
@@ -9267,11 +9267,13 @@
 #DESCRIPTION Radio Sandels
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.madmenmedia.se/popfm_high
 #DESCRIPTION POP fm
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms-live-hitmix.nm-elemental.nelonenmedia.fi/master-256000.m3u8
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ms-live-hitmix.nm-elemental.nelonenmedia.fi/master-256000.m3u8
 #DESCRIPTION HitMix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ms-live-radiorock.nm-elemental.nelonenmedia.fi/master-256000.m3u8
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ms-live-radiorock.nm-elemental.nelonenmedia.fi/master-256000.m3u8
 #DESCRIPTION Radio Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wr2.downtime.fi/kaakko.aac
 #DESCRIPTION RadioSE
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioplay.fi/radiopori/radiopori_64.aac?aw_0_1st.playerid=BMUK_tunein
 #DESCRIPTION Radio Pori
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/n6yg5q0z8vzuv.m4a
+#DESCRIPTION Radio Musa
