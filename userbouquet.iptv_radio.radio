@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 15.07.2025 20:47 by Team www.hdfreaks.cc
+#DESCRIPTION Update 16.07.2025 08:33 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1751,26 +1751,10 @@
 #DESCRIPTION Radio Arabella DE - Austro Pop
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Österreich
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.antenne.at/as
-#DESCRIPTION Antenne Steiermark
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.antenne.at/ak
-#DESCRIPTION Antenne Kärnten
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge82.streamonkey.net/anttirol-live
-#DESCRIPTION Antenne Tirol
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge01.radio.antennevorarlberg.at/av-christkindl
-#DESCRIPTION Antenne Vorarlberg - Christkindlradio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream01.matze-hosting.de/8006/stream
-#DESCRIPTION Crazy Burgenland Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/oe1-q2a
 #DESCRIPTION Ö1
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//oe1dd.mdn.ors.at/out/u/oe1dd/manifest.m3u8
-#DESCRIPTION Ö1 Dolby Audio 5.1
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/oe3-q2a
-#DESCRIPTION Hitradio Ö3
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/campus-q2a
-#DESCRIPTION Campus
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/fm4-q2a
-#DESCRIPTION FM4
+#DESCRIPTION Ö1 (Dolby Audio 5.1)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ors-sn09.ors-shoutcast.at/bgl-q2a
 #DESCRIPTION Radio Burgenland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/ktn-q2a
@@ -1791,14 +1775,30 @@
 #DESCRIPTION Radio Wien
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3
 #DESCRIPTION Radio Stephansdom
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//u1-tirol.stream06.radiohost.de/u1-tirol-live_mp3-192
-#DESCRIPTION U1 Tirol
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/oe3-q2a
+#DESCRIPTION Hitradio Ö3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/fm4-q2a
+#DESCRIPTION FM4
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/campus-q2a
+#DESCRIPTION Campus
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a19000/stream
 #DESCRIPTION Welle 1 Austria
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a17128/stream
 #DESCRIPTION Welle 1 Linz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a18128/stream
 #DESCRIPTION Welle 1 Salzburg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.antenne.at/as
+#DESCRIPTION Antenne Steiermark
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.antenne.at/ak
+#DESCRIPTION Antenne Kärnten
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge82.streamonkey.net/anttirol-live
+#DESCRIPTION Antenne Tirol
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge01.radio.antennevorarlberg.at/av-christkindl
+#DESCRIPTION Antenne Vorarlberg - Christkindlradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream01.matze-hosting.de/8006/stream
+#DESCRIPTION Crazy Burgenland Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//u1-tirol.stream06.radiohost.de/u1-tirol-live_mp3-192
+#DESCRIPTION U1 Tirol
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//c02.lexycast.de%3a4300/play.mp3
 #DESCRIPTION Generation Mix Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
@@ -1844,21 +1844,21 @@
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Superfly
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.superfly.fm/superfly-live
-#DESCRIPTION Superfly Live
+#DESCRIPTION Superfly - Live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.superfly.fm/superfly-pure
-#DESCRIPTION Superfly Pure
+#DESCRIPTION Superfly - Pure
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.superfly.fm/superfly-easy
-#DESCRIPTION Superfly Easy
+#DESCRIPTION Superfly - Easy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.superfly.fm/superfly-club
-#DESCRIPTION Superfly Club
+#DESCRIPTION Superfly - Club
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.superfly.fm/superfly-hiphop
-#DESCRIPTION Superfly Hip Hop
+#DESCRIPTION Superfly - Hip Hop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.superfly.fm/superfly-beach
-#DESCRIPTION Superfly Beach
+#DESCRIPTION Superfly - Beach
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.superfly.fm/superfly-world
-#DESCRIPTION Superfly World
+#DESCRIPTION Superfly - World
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.superfly.fm/superfly-jazz
-#DESCRIPTION Superfly Jazz
+#DESCRIPTION Superfly - Jazz
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION RauteMusik
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//12punks-high.rautemusik.fm
@@ -2480,33 +2480,33 @@
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Schottland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs18.aac
-#DESCRIPTION Schottland - BFBS Scotland live
+#DESCRIPTION BFBS Scotland live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.bdfm.radio%3a8000/blackdiamondfm
-#DESCRIPTION Schottland - Black Diamond live
+#DESCRIPTION Black Diamond live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//uksouth.streaming.broadcast.radio/celtic
-#DESCRIPTION Schottland - Celtic Music Radio live
+#DESCRIPTION Celtic Music Radio live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//celtic-sound.stream.laut.fm/celtic-sound
-#DESCRIPTION Schottland - Celtic-Sound
+#DESCRIPTION Celtic-Sound
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//celtic-sounds.stream.laut.fm/celtic-sounds
-#DESCRIPTION Schottland - Celtic Sounds von laut.fm
+#DESCRIPTION Celtic Sounds von laut.fm
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge-bauerall-01-gos2.sharp-stream.com/clyde1.aac
-#DESCRIPTION Schottland - Clyde 1 102.5 FM
+#DESCRIPTION Clyde 1 102.5 FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media-ice.musicradio.com/HeartOxfordshireMP3
-#DESCRIPTION Schottland - FOX FM 102.6
+#DESCRIPTION FOX FM 102.6
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media-ice.musicradio.com/HeartEdinburgh
-#DESCRIPTION Schottland - Heart Scotland - East live
+#DESCRIPTION Heart Scotland - East live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice-sov.musicradio.com/HeartGlasgowMP3
-#DESCRIPTION Schottland - Heart Scotland - West live
+#DESCRIPTION Heart Scotland - West live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//jenny.torontocast.com%3a2000/stream/highlanderradio/stream
-#DESCRIPTION Schottland - Highlander Radio
+#DESCRIPTION Highlander Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge-ads-05-gos2.sharp-stream.com/nationscotlandi.aac
-#DESCRIPTION Schottland - Nation Radio Scotland live
+#DESCRIPTION Nation Radio Scotland live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen-pureradio.sharp-stream.com/pure_radio.mp3
-#DESCRIPTION Schottland - Pure Radio Scotland
+#DESCRIPTION Pure Radio Scotland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice-the.musicradio.com/SmoothScotlandMP3
-#DESCRIPTION Schottland - Smooth Radio Scotland live
+#DESCRIPTION Smooth Radio Scotland live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge-bauerall-01-gos2.sharp-stream.com/tayfm.aac
-#DESCRIPTION Schottland - Tay 102.8 FM
+#DESCRIPTION Tay 102.8 FM
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Mexiko
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//miledmusic75-cybertec.radioca.st/stream
