@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 16.07.2025 08:33 by Team www.hdfreaks.cc
+#DESCRIPTION Update 17.07.2025 18:33 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -7858,57 +7858,57 @@
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION RT1
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge11.streamonkey.net/rt1-ch24/stream/mp3
-#DESCRIPTION RT1 Rock
+#DESCRIPTION RT1 - Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge60.streamonkey.net/rt1-ch13/stream/mp3
-#DESCRIPTION RT1 Black
+#DESCRIPTION RT1 - Black
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge65.streamonkey.net/rt1-ch21/stream/mp3
-#DESCRIPTION RT1 Oldies
+#DESCRIPTION RT1 - Oldies
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge67.streamonkey.net/rt1-ch11/stream/mp3
-#DESCRIPTION RT1 80er
+#DESCRIPTION RT1 - 80er
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge65.streamonkey.net/rt1-ch12/stream/mp3
-#DESCRIPTION RT1 90er
+#DESCRIPTION RT1 - 90er
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge85.streamonkey.net/rt1-ch01/stream/mp3?
-#DESCRIPTION RT1 2000er
+#DESCRIPTION RT1 - 2000er
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge14.streamonkey.net/rt1-ch16/stream/mp3
-#DESCRIPTION RT1 Deutsche Hits
+#DESCRIPTION RT1 - Deutsche Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge03.streamonkey.net/rt1-ch32/stream/mp3
-#DESCRIPTION RT1 Classic Rock
+#DESCRIPTION RT1 - Classic Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge59.streamonkey.net/rt1-ch34/stream/mp3
-#DESCRIPTION RT1 Brandneu
+#DESCRIPTION RT1 - Brandneu
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge66.streamonkey.net/rt1-ch18/stream/mp3
-#DESCRIPTION RT1 Funk
+#DESCRIPTION RT1 - Funk
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge84.streamonkey.net/rt1-ch25/stream/mp3
-#DESCRIPTION RT1 Xmas
+#DESCRIPTION RT1 - Xmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge09.streamonkey.net/rt1-ch22/stream/mp3
-#DESCRIPTION RT1 Power Workout
+#DESCRIPTION RT1 - Power Workout
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge63.streamonkey.net/rt1-ch30/stream/mp3
-#DESCRIPTION RT1 Running
+#DESCRIPTION RT1 - Running
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge22.streamonkey.net/rt1-ch28/stream/mp3
-#DESCRIPTION RT1 Coffee
+#DESCRIPTION RT1 - Coffee
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge59.streamonkey.net/rt1-ch31/stream/mp3
-#DESCRIPTION RT1 Dinner & Cocktail Hits
+#DESCRIPTION RT1 - Dinner & Cocktail Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge60.streamonkey.net/rt1-ch14/stream/mp3
-#DESCRIPTION RT1 Clubbing
+#DESCRIPTION RT1 - Clubbing
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge21.streamonkey.net/rt1-ch17/stream/mp3
-#DESCRIPTION RT1 Euro Dance
+#DESCRIPTION RT1 - Euro Dance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge17.streamonkey.net/rt1-ch15/stream/mp3
-#DESCRIPTION RT1 Dance Party
+#DESCRIPTION RT1 - Dance Party
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge10.streamonkey.net/rt1-ch33/stream/mp3
-#DESCRIPTION RT1 Urban Beats
+#DESCRIPTION RT1 - Urban Beats
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge11.streamonkey.net/rt1-ch19/stream/mp3
-#DESCRIPTION RT1 In the Mix
+#DESCRIPTION RT1 - In the Mix
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge16.streamonkey.net/rt1-ch37/stream/mp3
-#DESCRIPTION RT1 Plärrer Radio
+#DESCRIPTION RT1 - Plärrer Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge18.streamonkey.net/rt1-ch20/stream/mp3
-#DESCRIPTION RT1 Lounge
+#DESCRIPTION RT1 - Lounge
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge01.streamonkey.net/rt1-ch23/stream/mp3
-#DESCRIPTION RT1 Relax
+#DESCRIPTION RT1 - Relax
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge65.streamonkey.net/rt1-ch29/stream/mp3
-#DESCRIPTION RT1 Chill out
+#DESCRIPTION RT1 - Chill out
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge07.streamonkey.net/rt1-ch35/stream/mp3
-#DESCRIPTION RT1 Synthwave
+#DESCRIPTION RT1 - Synthwave
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge67.streamonkey.net/rt1-ch36/stream/mp3
-#DESCRIPTION RT1 Ikarus Festival Radio
+#DESCRIPTION RT1 - Ikarus Festival Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION HotMix France
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.hotmixradio.fr/hotmix-2000s-fr-mp3
