@@ -46,11 +46,11 @@ The favorites are automatically updated when the radio list is updated.
 Furthermore, the favorite lists can be renamed, edited or deleted in the menu.
 
 Notes on the radio logos:
-The stream name often contains ' - ' to separate the provider from the broadcaster.
-The name to the left of this is assumed to be the provider's name.
-The path to the logo would therefore be: {selected path}/{provider}/{stream name}.jpg
-Or globally for the provider: {selected path}/{provider}/{provider}.jpg
-If no provider is specified: {selected path}/{stream name}.jpg
+A separate subfolder can be created for each category in the main list.
+For 'Mixed Channels' categories the common folder 'Mixed Channels' is accepted.
+The path for the stream would therefore be: {selected path}/{category}/{streamname}.jpg
+Or globally for the category: {selected path}/{category}/{category}.jpg
+If the stream is not included in the main list: {selected path}/{streamname}.jpg
 Supportet formats are 'jpg' and 'png'. The size should be about 150x150px.
 
 Additional Information:
