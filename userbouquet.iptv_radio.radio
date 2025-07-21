@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 20.07.2025 20:49 by Team www.hdfreaks.cc
+#DESCRIPTION Update 21.07.2025 18:27 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -423,6 +423,8 @@
 #DESCRIPTION Radio BOB! - KISS-Stream
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-radiobobmetallica3164584-mp3-192-3532789
 #DESCRIPTION Radio BOB! - Metallica-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-bobironmaiden-mp3-192-6408673
+#DESCRIPTION Radio BOB! - Iron Maiden
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-radiobobacdc4694296-mp3-192-2891760
 #DESCRIPTION Radio BOB! - AC/DC-Collection
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-bobrollingstones-mp3-192-1803639
@@ -441,50 +443,50 @@
 #DESCRIPTION Radio BOB! - Rock am Ring
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Antenne NRW
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s6-webradio.antenne.de/antenne-nrw/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream18.radiohost.de/radiogroup-antenne-nrw_mp3-192:k.s.210725
 #DESCRIPTION Antenne NRW - Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s6-webradio.antenne.de/antenne-nrw-70er-hits/stream/mp3
-#DESCRIPTION Antenne NRW - 70er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s4-webradio.antenne.de/antenne-nrw-80er-hits/stream/mp3
-#DESCRIPTION Antenne NRW - 80er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s2-webradio.antenne.de/antenne-nrw-90er-hits/stream/mp3
-#DESCRIPTION Antenne NRW - 90er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1-webradio.antenne.de/antenne-nrw-2000er-hits/stream/mp3
-#DESCRIPTION Antenne NRW - 2000er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-70er-hits/stream/aacp
+#DESCRIPTION Antenne NRW - 70er Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiogroup.de/radiogroup-flashback-80er/mp3-192
+#DESCRIPTION Antenne NRW - 80er Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-90er-hits/stream/aacp
+#DESCRIPTION Antenne NRW - 90er Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-2000er-hits/stream/aacp
+#DESCRIPTION Antenne NRW - 2000er Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s8-webradio.oldie-antenne.de/oldie-antenne
 #DESCRIPTION Antenne NRW - OLDIE ANTENNE
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3-webradio.antenne.nrw/antenne-nrw-rock-classics/stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiogroup.de/radiogroup-rock/mp3-192/
 #DESCRIPTION Antenne NRW - Rock Classics
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s4-webradio.antenne.nrw/antenne-nrw-ndw/stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-ndw/stream/aacp
 #DESCRIPTION Antenne NRW - NDW
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s7-webradio.antenne.nrw/antenne-nrw-fetenhits/stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-fetenhits/stream/aacp
 #DESCRIPTION Antenne NRW - Fetenhits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s4-webradio.antenne.nrw/antenne-nrw-disco-fever/stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-disco-fever/stream/aacp
 #DESCRIPTION Antenne NRW - Disco Fever
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s7-webradio.antenne.nrw/antenne-nrw-bella-italia/stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiogroup.de/radiogroup-bella-italia/mp3-192?
 #DESCRIPTION Antenne NRW - Bella Italia
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s8-webradio.antenne.nrw/antenne-nrw-90er-rock/stream
-#DESCRIPTION Antenne NRW - 90er Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s7-webradio.antenne.nrw/antenne-nrw-90er-party/stream
-#DESCRIPTION Antenne NRW - 90er Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s4-webradio.antenne.nrw/antenne-nrw-90er-eurodance/stream
-#DESCRIPTION Antenne NRW - 90er Eurodance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s5-webradio.antenne.nrw/antenne-nrw-80er-rock/stream
-#DESCRIPTION Antenne NRW - 80er Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s2-webradio.antenne.nrw/antenne-nrw-80er-party/stream
-#DESCRIPTION Antenne NRW - 80er Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s6-webradio.antenne.nrw/antenne-nrw-80er-disco-hits/stream
-#DESCRIPTION Antenne NRW - 80er Disco Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s5-webradio.antenne.nrw/antenne-nrw-70er-rock/stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream32.radiohost.de/radiogroup-rock_mp3-192?
 #DESCRIPTION Antenne NRW - 70er Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s4-webradio.antenne.de/antenne-nrw-weihnachts-hits/stream/mp3
-#DESCRIPTION Antenne NRW - Weihnachts-Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s7-webradio.antenne.nrw/country-antenne
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-80er-disco-hits/stream/aacp
+#DESCRIPTION Antenne NRW - 80er Disco Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream32.radiohost.de/radiogroup-rock_mp3-192?
+#DESCRIPTION Antenne NRW - 80er Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream32.radiohost.de/radiogroup-flashback-80er_mp3-192?
+#DESCRIPTION Antenne NRW - 80er Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-90er-eurodance/stream/aacp
+#DESCRIPTION Antenne NRW - 90er Eurodance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream32.radiohost.de/radiogroup-90er_mp3-192?
+#DESCRIPTION Antenne NRW - 90er Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream31.radiohost.de/radiogroup-90er_mp3-192?
+#DESCRIPTION Antenne NRW - 90er Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s7-webradio.antenne.nrw/country-antenne:o.k.
 #DESCRIPTION Antenne NRW - Country Antenne
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s6-webradio.antenne.nrw/antenne-nrw-ue30-party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-ue30-party/stream/aacp
 #DESCRIPTION Antenne NRW - Ü30 Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3-webradio.antenne.de/antenne-nrw-karneval/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-karneval/stream/aacp
 #DESCRIPTION Antenne NRW - Karneval
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-weihnachts-hits/stream/aacp
+#DESCRIPTION Antenne NRW - Weihnachts-Hits
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Antenne Thüringen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antennethueringen.de/live/mp3-192/web/
@@ -1161,6 +1163,8 @@
 #DESCRIPTION Radio SAW - 80er
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.saw-musikwelt.de/saw-70er/mp3-192/radioSAW-Musikwelt-Webseite/stream.mp3
 #DESCRIPTION Radio SAW - 70er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//vmg.streamabc.net/117-sawoldies-mp3-192-5779303
+#DESCRIPTION Radio SAW - Oldies
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.saw-musikwelt.de/saw-rock/mp3-192/radioSAW-Musikwelt-Webseite/stream.mp3
 #DESCRIPTION Radio SAW - Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.saw-musikwelt.de/saw-mrock/mp3-192/radioSAW-Musikwelt-Webseite/stream.mp3
@@ -1223,6 +1227,8 @@
 #DESCRIPTION Sunshine Live - 22 Jahre sunshine live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.sunshine-live.de/sp6/mp3-192/homepage/
 #DESCRIPTION Sunshine Live - Charts
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sunsl.streamabc.net/sunsl-sslcalmflow-mp3-192-1521706
+#DESCRIPTION Sunshine Live - Calm Flow by Karmaloft
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION SWR Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dispatcher.rndfnk.com/swr/swraktuell/live/mp3/128/stream.mp3
@@ -7607,6 +7613,8 @@
 #DESCRIPTION Delta Radio - Buzz Beat Boutique
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deltachartbuster-mp3-192-8321793
 #DESCRIPTION Delta Radio - Chartbuster der Woche
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deltacountry-mp3-192-4669283
+#DESCRIPTION Delta Radio - Country
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deltaradio.streamabc.net/regc-deltadeutsch-mp3-192-9837589
 #DESCRIPTION Delta Radio - Deutsch
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//deltaradio.streamabc.net/regc-deltarockpopreloaded-mp3-192-5287707
