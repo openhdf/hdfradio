@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 21.07.2025 18:27 by Team www.hdfreaks.cc
+#DESCRIPTION Update 21.07.2025 18:29 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -592,33 +592,33 @@
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION 181.fm
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.181fm.com/181-awesome80s_128k.mp3
-#DESCRIPTION 181.fm  - Awesome 80's
+#DESCRIPTION 181.fm - Awesome 80's
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.181fm.com/181-rock_128k.mp3
-#DESCRIPTION 181.fm  - Rock 181
+#DESCRIPTION 181.fm - Rock 181
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.181fm.com/181-greatoldies_128k.mp3
-#DESCRIPTION 181.fm  - Classic Hits 181
+#DESCRIPTION 181.fm - Classic Hits 181
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.181fm.com/181-star90s_128k.mp3
-#DESCRIPTION 181.fm  - Star '90s
+#DESCRIPTION 181.fm - Star '90s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.181fm.com/181-lite90s_128k.mp3
-#DESCRIPTION 181.fm  - Lite '90s
+#DESCRIPTION 181.fm - Lite '90s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.181fm.com/181-power_128k.mp3
-#DESCRIPTION 181.fm  - Power 181 (Top 40)
+#DESCRIPTION 181.fm - Power 181 (Top 40)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.181fm.com/181-themix_128k.mp3
-#DESCRIPTION 181.fm  - The Mix
+#DESCRIPTION 181.fm - The Mix
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.181fm.com/181-hardrock_128k.mp3
-#DESCRIPTION 181.fm  - The Rock! (Hard Rock)
+#DESCRIPTION 181.fm - The Rock! (Hard Rock)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.livestreamingservice.com/181-rock40_128k.mp3
-#DESCRIPTION 181.fm  - Rock 40 (Rock & Roll)
+#DESCRIPTION 181.fm - Rock 40 (Rock & Roll)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.181fm.com/181-80srnb_128k.mp3
-#DESCRIPTION 181.fm  - 80s RnB
+#DESCRIPTION 181.fm - 80s RnB
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.181fm.com/181-80scountry_128k.mp3
-#DESCRIPTION 181.fm  - 80s Country
+#DESCRIPTION 181.fm - 80s Country
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen.181fm.com/181-beatles_128k.mp3
 #DESCRIPTION 181.fm - The Beatles
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.livestreamingservice.com/181-xrock_128k.mp3
-#DESCRIPTION 181.fm  - Christmas Rock
+#DESCRIPTION 181.fm - Christmas Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.livestreamingservice.com/181-xmix_128k.mp3
-#DESCRIPTION 181.fm  - Christmas Mix
+#DESCRIPTION 181.fm - Christmas Mix
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION laut.fm
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/1000club
