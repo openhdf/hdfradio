@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 21.07.2025 18:29 by Team www.hdfreaks.cc
+#DESCRIPTION Update 24.07.2025 07:23 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -5579,21 +5579,21 @@
 #DESCRIPTION Schlager Radio - Regional Baden-Württemberg
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION bigFM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-bigfmbawue-aac-128-6601721
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-bigfmbawue-mp3-128-3029224
 #DESCRIPTION bigFM - bigFM Baden-Wuerttemberg
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-bigfmberlin-aac-128-5847438
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-bigfmberlin-mp3-128-6209157
 #DESCRIPTION bigFM - bigFM Berlin
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.bigfm.de/bremen/mp3-128/radiode
 #DESCRIPTION bigFM - bigFM Bremen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-bigfmhamburg-aac-128-8199226
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-bigfmhamburg-mp3-128-8274890
 #DESCRIPTION bigFM - bigFM Hamburg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.bigfm.de/niedersachsen/mp3-128/radiode
 #DESCRIPTION bigFM - bigFM Niedersachsen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.bigfm.de/nrw/mp3-128/radiode
 #DESCRIPTION bigFM - bigFM Nordrhein Westfalen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-bigfmrlp-aac-128-6277727
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-bigfmrlp-mp3-128-2726737
 #DESCRIPTION bigFM - bigFM Rheinland-Pfalz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-saarland-aac-128-7203001
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.bigfm.de/saarland/aac-128/stream.bigfm.de/radiode
 #DESCRIPTION bigFM - bigFM Saarland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.bigfm.de/hessen/mp3-128/radiode
 #DESCRIPTION bigFM - bigFM Hessen
