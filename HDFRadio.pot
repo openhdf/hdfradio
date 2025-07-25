@@ -703,6 +703,9 @@ msgstr ""
 msgid "No lyrics found"
 msgstr ""
 
+msgid "No playable video found."
+msgstr ""
+
 msgid "No saved lyrics found."
 msgstr ""
 
@@ -1217,6 +1220,9 @@ msgid ""
 msgstr ""
 
 msgid "The folder '%s' was created successfully."
+msgstr ""
+
+msgid "The following video could not be played and has therefore been removed from the current playlist:"
 msgstr ""
 
 msgid "The keyword must consist of at least 3 characters."
