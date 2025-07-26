@@ -1,3 +1,9 @@
+v2.21.8:
+- added detection of unplayable YouTube videos
+- detection of radiologos extended
+- translations updated (thanks @Warder and @Orlandox)
+- many small changes
+
 v2.21.7:
 - detection of radiologos revised
 - help texts updated (thanks @Warder and @Orlandox)
