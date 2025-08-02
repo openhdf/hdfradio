@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 29.07.2025 18:58 by Team www.hdfreaks.cc
+#DESCRIPTION Update 02.08.2025 10:43 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1760,7 +1760,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/oe1-q2a
 #DESCRIPTION Ö1
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//oe1dd.mdn.ors.at/out/u/oe1dd/manifest.m3u8
-#DESCRIPTION Ö1 (Dolby Audio 5.1)
+#DESCRIPTION Ö1 - Dolby Audio 5.1
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ors-sn09.ors-shoutcast.at/bgl-q2a
 #DESCRIPTION Radio Burgenland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/ktn-q2a
@@ -1788,11 +1788,11 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//orf-live.ors-shoutcast.at/campus-q2a
 #DESCRIPTION Campus
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a19000/stream
-#DESCRIPTION Welle 1 Austria
+#DESCRIPTION Welle 1 - Austria
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a17128/stream
-#DESCRIPTION Welle 1 Linz
+#DESCRIPTION Welle 1 - Linz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.welle1.at%3a18128/stream
-#DESCRIPTION Welle 1 Salzburg
+#DESCRIPTION Welle 1 - Salzburg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.antenne.at/as
 #DESCRIPTION Antenne Steiermark
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.antenne.at/ak
