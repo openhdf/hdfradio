@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 02.08.2025 10:43 by Team www.hdfreaks.cc
+#DESCRIPTION Update 02.08.2025 14:30 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -504,7 +504,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antennethueringen.de/rock/mp3-192/web/
 #DESCRIPTION Antenne Thüringen - Rock Webradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//antenne-thueringen.api.radiosphere.io/channels/App_AT_Dorfkindradio/stream.aac?
-#DESCRIPTION Antenne Thüringen – Dorfkindradio
+#DESCRIPTION Antenne Thüringen - Dorfkindradio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Antenne Bayern
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/antenne/stream/mp3
@@ -850,7 +850,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/radio-dance-welle
 #DESCRIPTION laut.fm - Radio Dance Welle
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/radiomegastar
-#DESCRIPTION laut.fm - Radio Megastar – 60s 70s 80s 90s
+#DESCRIPTION laut.fm - Radio Megastar - 60s 70s 80s 90s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/radio_pyrocluster
 #DESCRIPTION laut.fm - Radio Pyrocluster
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/radioschlaerpara
@@ -2378,7 +2378,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//c30.radioboss.fm%3a8173/hifi.mp3
 #DESCRIPTION Mixed Channels - RadioFREIZEIT
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge66.streamonkey.net/fho-schwarzwaldradiolive/stream/mp3
-#DESCRIPTION Mixed Channels - Schwarzwaldradio – Classic Hits & Super Oldies
+#DESCRIPTION Mixed Channels - Schwarzwaldradio - Classic Hits & Super Oldies
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn-de-hz-fal-stream08-cluster01.radiohost.de/radiobollerwagen_mp3-192
 #DESCRIPTION Mixed Channels - Radio Bollerwagen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//inselradio--di--nacs-ais-lgc--02--cdn.cast.addradio.de/inselradio/live/mp3/high
@@ -2416,7 +2416,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.104.6rtl.com/rtl-live/mp3-128/konsole/
 #DESCRIPTION Mixed Channels - 104.6 RTL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bytefm.cast.addradio.de/bytefm/main/mid/stream.mp3
-#DESCRIPTION Mixed Channels - ByteFM – für gute Musik
+#DESCRIPTION Mixed Channels - ByteFM - für gute Musik
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//air.jazz.w3.at/jazzw3.mp3
 #DESCRIPTION Mixed Channels - JazzW3
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamer.psyradio.org%3a8010/;listen.mp3
@@ -2438,7 +2438,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ukwesta.streaming.broadcast.radio/heatmallorca?1700222273501=
 #DESCRIPTION Mixed Channels - Heat Mallorca
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kathy.torontocast.com%3a1825/stream
-#DESCRIPTION Mixed Channels - CINEMIX – Film Music Station
+#DESCRIPTION Mixed Channels - CINEMIX - Film Music Station
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION ⇒ Mixed Channels International
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-41.zeno.fm/tkyvagcm738uv
@@ -2446,7 +2446,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mediaserv33.live-streams.nl%3a8089/stream
 #DESCRIPTION Mixed Channels - Rádio Ecclesia
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paineldj5.com.br%3a20087/stream
-#DESCRIPTION Mixed Channels - Rádio Huambo – RNA
+#DESCRIPTION Mixed Channels - Rádio Huambo - RNA
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//c23.radioboss.fm%3a8129/stream
 #DESCRIPTION Mixed Channels - 80s FlashBack Radio (Chile)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s2.ssl-stream.com%3a8050/256.mp3
@@ -3408,9 +3408,9 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.clickandcountry.cz%3a8000/clickandcountry.mp3
 #DESCRIPTION Radio Click & Country
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//westradio.cz/radio/8010/radio.mp3
-#DESCRIPTION Radio Diana – Comedy Club
+#DESCRIPTION Radio Diana - Comedy Club
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//westradio.cz/radio/8000/radio.mp3
-#DESCRIPTION Radio Diana – Retro Club
+#DESCRIPTION Radio Diana - Retro Club
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3stream3.abradio.cz/expert-128.mp3
 #DESCRIPTION Radio Dobris
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3stream4.abradio.cz/domino128.mp3
@@ -3492,13 +3492,13 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frequence3.net-radio.fr/frequence3.flac
 #DESCRIPTION Fréquence 3 (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frequence3.net-radio.fr/frequence3dance.flac
-#DESCRIPTION Fréquence 3 – Dance (FLAC)
+#DESCRIPTION Fréquence 3 - Dance (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frequence3.net-radio.fr/frequence3gold.flac
-#DESCRIPTION Fréquence 3 – Gold (FLAC)
+#DESCRIPTION Fréquence 3 - Gold (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frequence3.net-radio.fr/frequence3urban.flac
-#DESCRIPTION Fréquence 3 – Urban (FLAC)
+#DESCRIPTION Fréquence 3 - Urban (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frequence3.net-radio.fr/frequence3world.flac
-#DESCRIPTION Fréquence 3 – World (FLAC)
+#DESCRIPTION Fréquence 3 - World (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice2.ikoula.net-radio.fr/h2oradio.flac
 #DESCRIPTION H2O UHD (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediaserv30.live-streams.nl%3a8086
@@ -3602,7 +3602,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.sing-sing-bis.org%3a8000/singsingFlac
 #DESCRIPTION Sing Sing BIS France (Eclectic) (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//diffusion.lafrap.fr%3a8000/sun.flac
-#DESCRIPTION SUN – Le Son Unique (FLAC 1556kbps)
+#DESCRIPTION SUN - Le Son Unique (FLAC 1556kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.norbert.de/zappa.flac
 #DESCRIPTION Zappa Stream Radio (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//altair.streamerr.co%3a8018/luisteren
