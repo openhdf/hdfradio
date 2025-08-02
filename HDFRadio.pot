@@ -20,6 +20,9 @@ msgstr ""
 msgid "     Cover Path"
 msgstr ""
 
+msgid "     Download Logos"
+msgstr ""
+
 msgid "     Logos Path"
 msgstr ""
 
@@ -90,6 +93,9 @@ msgid "6 hours"
 msgstr ""
 
 msgid "A backup of the favourites was saved in '/tmp'."
+msgstr ""
+
+msgid "A backup of your previous logos has been created."
 msgstr ""
 
 msgid ""
@@ -217,6 +223,9 @@ msgid "Change Radio Player"
 msgstr ""
 
 msgid "Change YouTube Player"
+msgstr ""
+
+msgid "Changelog"
 msgstr ""
 
 msgid "Channel"
@@ -440,6 +449,9 @@ msgstr ""
 msgid "Do you really want to start the cleanup?"
 msgstr ""
 
+msgid "Do you want to overwrite the contents of the folder?"
+msgstr ""
+
 msgid "Download from 'radio-browser.info'"
 msgstr ""
 
@@ -659,6 +671,9 @@ msgstr ""
 msgid "Main list"
 msgstr ""
 
+msgid "Many thanks to 'Joerg1909' and 'Mr.TCT'."
+msgstr ""
+
 msgid "Maximum YouTube Resolution"
 msgstr ""
 
@@ -730,6 +745,11 @@ msgstr ""
 msgid ""
 "No update available.\n"
 "Your radio list is up to date."
+msgstr ""
+
+msgid ""
+"No update available.\n"
+"Your radio logos are up to date."
 msgstr ""
 
 msgid "No video found."
@@ -813,6 +833,12 @@ msgstr ""
 msgid "Please check your settings."
 msgstr ""
 
+msgid "Please choose a valid path for the radio logos!"
+msgstr ""
+
+msgid "Please choose another path for the radio logos!"
+msgstr ""
+
 msgid "Please set the ServiceApp to 'Original', if you cannot see the cover or the title of song."
 msgstr ""
 
@@ -838,6 +864,9 @@ msgid "Press OK to delete a favourites list."
 msgstr ""
 
 msgid "Press OK to delete a playlist."
+msgstr ""
+
+msgid "Press OK to download the radio logos."
 msgstr ""
 
 msgid "Press OK to edit a favourites list."
@@ -873,9 +902,6 @@ msgid "Press OK to rename a playlist."
 msgstr ""
 
 msgid "Press OK to update your radio list."
-msgstr ""
-
-msgid "Press OK to view the changelog."
 msgstr ""
 
 msgid "Press OK, to delete incomplete recordings, advertisements and empty folders."
@@ -920,6 +946,9 @@ msgid "Radio list update failed!"
 msgstr ""
 
 msgid "Radio list update successful."
+msgstr ""
+
+msgid "Radio logos successfully installed."
 msgstr ""
 
 msgid "Reading YouTube list failed!"
@@ -1092,9 +1121,6 @@ msgstr ""
 msgid "Show 'HDF Radio' in mainmenu?"
 msgstr ""
 
-msgid "Show changelog"
-msgstr ""
-
 msgid "Show clock in screensaver"
 msgstr ""
 
@@ -1228,6 +1254,9 @@ msgstr ""
 msgid "The keyword must consist of at least 3 characters."
 msgstr ""
 
+msgid "The path for the radio logos has been changed to the following path:"
+msgstr ""
+
 msgid "The path is not available"
 msgstr ""
 
@@ -1275,6 +1304,9 @@ msgid "The stream is already in your favourites list."
 msgstr ""
 
 msgid "The stream was successfully added to your favourites list."
+msgstr ""
+
+msgid "The verification of the radio logos on the server has failed!"
 msgstr ""
 
 msgid "The website 'theaudiodb.com' is currently not available."
@@ -1359,7 +1391,13 @@ msgstr ""
 msgid "Yes"
 msgstr ""
 
+msgid "You have less than 15MB free space."
+msgstr ""
+
 msgid "You have no permissions to save the file in the following folder:"
+msgstr ""
+
+msgid "You have no permissions to save the logos in this directory."
 msgstr ""
 
 msgid ""
