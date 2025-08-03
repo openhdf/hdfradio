@@ -249,6 +249,9 @@ msgstr ""
 msgid "Choose from different options to display the lyrics."
 msgstr ""
 
+msgid "Choose from different styles of radio logos and press OK to download them."
+msgstr ""
+
 msgid "Choose maximum resolution used when playing video."
 msgstr ""
 
@@ -866,9 +869,6 @@ msgstr ""
 msgid "Press OK to delete a playlist."
 msgstr ""
 
-msgid "Press OK to download the radio logos."
-msgstr ""
-
 msgid "Press OK to edit a favourites list."
 msgstr ""
 
@@ -1477,4 +1477,7 @@ msgid "unknown provider"
 msgstr ""
 
 msgid "unknown version"
+msgstr ""
+
+msgid "with border"
 msgstr ""
