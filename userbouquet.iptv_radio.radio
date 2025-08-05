@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 02.08.2025 14:30 by Team www.hdfreaks.cc
+#DESCRIPTION Update 05.08.2025 18:04 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -7071,14 +7071,20 @@
 #DESCRIPTION HitUkStation by PulsRadio - 192 kbit/s
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio Paradise
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioparadise.com/mp3-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioparadise.com/mp3-320
 #DESCRIPTION Radio Paradise - Main
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioparadise.com/mellow-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioparadise.com/mellow-320
 #DESCRIPTION Radio Paradise - Mellow
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioparadise.com/rock-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioparadise.com/rock-320
 #DESCRIPTION Radio Paradise - Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioparadise.com/global-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioparadise.com/global-320
 #DESCRIPTION Radio Paradise - Global
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioparadise.com/beyond-320
+#DESCRIPTION Radio Paradise - Beyond
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioparadise.com/serenity
+#DESCRIPTION Radio Paradise - Serenity
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioparadise.com/radio2050-320
+#DESCRIPTION Radio Paradise - Radio 2050
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Rockland Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bestofrockfm.stream.vip/80rock/mp3-192
