@@ -1,0 +1,9 @@
+v2.22.0
+py3.11.2
+py3.12
+py3.12.6
+py3.13
+cortexa15hf-neon-vfpv4
+cortexa7hf-vfp
+cortexa9hf-neon
+mips32el
