@@ -275,6 +275,11 @@ msgstr ""
 msgid "Choose the logos path"
 msgstr ""
 
+msgid ""
+"Choose the path for the radio logos.\n"
+"Press OK to open the browser."
+msgstr ""
+
 msgid "Choose the player which will be used for YouTube playback."
 msgstr ""
 
@@ -641,6 +646,9 @@ msgstr ""
 msgid "Insert into MP3"
 msgstr ""
 
+msgid "Installing"
+msgstr ""
+
 msgid "It's not possible to create a blank bouquet list."
 msgstr ""
 
@@ -846,6 +854,9 @@ msgid "Please set the ServiceApp to 'Original', if you cannot see the cover or t
 msgstr ""
 
 msgid "Please solve the problem and try again later."
+msgstr ""
+
+msgid "Please wait..."
 msgstr ""
 
 msgid "Press 'EPG/Guide' button to translate."
@@ -1078,11 +1089,6 @@ msgid ""
 "Select the path to save the covers found on 'theaudiodb.com'.\n"
 "Press OK to open the browser.\n"
 "A folder '%s' is automatically created for the path."
-msgstr ""
-
-msgid ""
-"Select the path where your radio logos are saved.\n"
-"Press OK to open the browser."
 msgstr ""
 
 msgid "Select the playlist to be played."
