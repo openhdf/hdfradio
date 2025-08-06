@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 05.08.2025 18:04 by Team www.hdfreaks.cc
+#DESCRIPTION Update 06.08.2025 17:21 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -9237,6 +9237,8 @@
 #DESCRIPTION Rocky FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icepool.silvacast.com/KLASSIK1.mp3
 #DESCRIPTION KLASSIK 1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icepool.silvacast.com/ESCRADIO.mp3
+#DESCRIPTION ESC Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Trigger.FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//triggerfm.ice.infomaniak.ch/triggerfm-256.mp3
