@@ -234,6 +234,9 @@ msgstr ""
 msgid "Channel Mode"
 msgstr ""
 
+msgid "Checking"
+msgstr ""
+
 msgid "Choose a stream"
 msgstr ""
 
@@ -378,6 +381,9 @@ msgid "Create playlist"
 msgstr ""
 
 msgid "Create your own playlist"
+msgstr ""
+
+msgid "Current version"
 msgstr ""
 
 msgid "Default"
@@ -646,6 +652,9 @@ msgstr ""
 msgid "Insert into MP3"
 msgstr ""
 
+msgid "Installed version"
+msgstr ""
+
 msgid "Installing"
 msgstr ""
 
@@ -753,14 +762,7 @@ msgstr ""
 msgid "No streams available!"
 msgstr ""
 
-msgid ""
-"No update available.\n"
-"Your radio list is up to date."
-msgstr ""
-
-msgid ""
-"No update available.\n"
-"Your radio logos are up to date."
+msgid "No update available."
 msgstr ""
 
 msgid "No video found."
@@ -866,6 +868,9 @@ msgid "Press 'Menu' to load the radio list."
 msgstr ""
 
 msgid "Press OK to add the selected song to your playlist. You can switch between the lists with the blue button. With OK in the playlist, the move mode is activated or deactivated."
+msgstr ""
+
+msgid "Press OK to check if your 'HDF Radio' plugin is up to date."
 msgstr ""
 
 msgid "Press OK to create a new favourites list."
@@ -1266,6 +1271,12 @@ msgstr ""
 msgid "The path is not available"
 msgstr ""
 
+msgid "The plugin is not up to date!"
+msgstr ""
+
+msgid "The plugin is up to date."
+msgstr ""
+
 msgid "The recording has ended."
 msgstr ""
 
@@ -1318,6 +1329,9 @@ msgstr ""
 msgid "The website 'theaudiodb.com' is currently not available."
 msgstr ""
 
+msgid "There is no current plugin available for this Python version!"
+msgstr ""
+
 msgid ""
 "This favourites list is empty.\n"
 "Please choose another list."
@@ -1344,7 +1358,13 @@ msgstr ""
 msgid "Turn off the TV and let playback run"
 msgstr ""
 
+msgid "Update check"
+msgstr ""
+
 msgid "Update radio list"
+msgstr ""
+
+msgid "Update your image!"
 msgstr ""
 
 msgid "Updated favourites lists:"
@@ -1420,6 +1440,18 @@ msgid "You just want to add all the songs in the following folder to your playli
 msgstr ""
 
 msgid "YouTube Video"
+msgstr ""
+
+msgid "Your radio list is not up to date!"
+msgstr ""
+
+msgid "Your radio list is up to date."
+msgstr ""
+
+msgid "Your radio logos are not up to date!"
+msgstr ""
+
+msgid "Your radio logos are up to date."
 msgstr ""
 
 msgid "active skin"
