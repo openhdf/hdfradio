@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 06.08.2025 17:21 by Team www.hdfreaks.cc
+#DESCRIPTION Update 09.08.2025 11:39 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -5807,16 +5807,26 @@
 #DESCRIPTION Qmusic Cristmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
 #DESCRIPTION ------ Radio 538 ------
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22343.live.streamtheworld.com/RADIO538.mp3?
-#DESCRIPTION Radio 538 - live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25333.live.streamtheworld.com/TLPSTR08.mp3?
-#DESCRIPTION Radio 538 - Classics
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25233.live.streamtheworld.com/TLPSTR09.mp3?
-#DESCRIPTION Radio 538 - Non-Stop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22553.live.streamtheworld.com/TLPSTR13.mp3?
-#DESCRIPTION Radio 538 - TOP 50
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25233.live.streamtheworld.com/TLPSTR19.mp3?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22333.live.streamtheworld.com/RADIO538.mp3
+#DESCRIPTION Radio 538 - 538
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22353.live.streamtheworld.com/TLPSTR09.mp3
+#DESCRIPTION Radio 538 - Non Stop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25273.live.streamtheworld.com/TLPSTR13.mp3
+#DESCRIPTION Radio 538 - Top50
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//29043.live.streamtheworld.com/TLPSTR19.mp3
 #DESCRIPTION Radio 538 - Ibiza
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//29033.live.streamtheworld.com/TLPSTR11.mp3
+#DESCRIPTION Radio 538 - Hitzone
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//28973.live.streamtheworld.com/TLPSTR16.mp3
+#DESCRIPTION Radio 538 - Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22533.live.streamtheworld.com/TLPSTR06.mp3
+#DESCRIPTION Radio 538 - Zomer
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22713.live.streamtheworld.com/TLPSTR01.mp3
+#DESCRIPTION Radio 538 - Dance Dept
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22723.live.streamtheworld.com/TLPSTR08.mp3
+#DESCRIPTION Radio 538 - Greatest Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25323.live.streamtheworld.com/TLPSTR21.mp3
+#DESCRIPTION Radio 538 - 90s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
 #DESCRIPTION ------ SKY Radio ------
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25643.live.streamtheworld.com/SKYRADIO.mp3?
