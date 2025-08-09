@@ -1,3 +1,9 @@
+v2.22.1:
+- update check added
+- download radio logos revised
+- translations updated (thanks @Warder, @Orlandox and @paps)
+- some small changes
+
 v2.22.0:
 - added option to select and download radio logos
   (Many thanks to everyone who helped collect the logos.)
