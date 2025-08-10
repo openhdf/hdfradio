@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 10.08.2025 14:15 by Team www.hdfreaks.cc
+#DESCRIPTION Update 10.08.2025 18:07 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -9581,8 +9581,6 @@
 #DESCRIPTION Nagh FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cdna.streamgates.net/RadioNas/Live-Audio/icecast.audio
 #DESCRIPTION Nas Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nrjstreaming.ahmed-melege.com/nrjegypt
-#DESCRIPTION NRJ FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.zeno.fm/0mz814shguhvv
 #DESCRIPTION Radio Rotana FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//eu9.fastcast4u.com/proxy/qwnhgmhw?mp=/1
@@ -9967,4 +9965,19 @@
 #DESCRIPTION Zeno FM - 24 Music FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.zeno.fm/7fwg1ezf0d0uv
 #DESCRIPTION Zeno FM - 3 FM Zambia
-
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.socialgenix.com/8004/stream
+#DESCRIPTION Egonair
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nrjstreaming.ahmed-melege.com/nrjegypt
+#DESCRIPTION NRJ Egypt
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen.radioking.com/radio/701108/stream/766352
+#DESCRIPTION Radio Moga
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//worldradio.online/proxy/?q=http%3a//nebula.shoutca.st%3a8211/1
+#DESCRIPTION Mega FM 92.7 Egypt
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio.nrpstream.com/listen/nogoumfm/radio.mp3
+#DESCRIPTION Nogoum FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-161.zeno.fm/cqd6hz68m98uv
+#DESCRIPTION Nogoum Mix 320
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.shafaq.com/radio
+#DESCRIPTION Radio Shafaq
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-156.zeno.fm/puv30d6l1bjtv
+#DESCRIPTION Radio Oum Kalthoum
