@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 10.08.2025 18:07 by Team www.hdfreaks.cc
+#DESCRIPTION Update 11.08.2025 08:11 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2439,6 +2439,8 @@
 #DESCRIPTION Mixed Channels - Heat Mallorca
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kathy.torontocast.com%3a1825/stream
 #DESCRIPTION Mixed Channels - CINEMIX - Film Music Station
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream1-epic-lounge.radiohost.de/hotel-lounge?ref=keepone
+#DESCRIPTION Mixed Channels - Epic Radio - Hotel Lounge
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION ⇒ Mixed Channels International
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-41.zeno.fm/tkyvagcm738uv
@@ -9981,3 +9983,11 @@
 #DESCRIPTION Radio Shafaq
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-156.zeno.fm/puv30d6l1bjtv
 #DESCRIPTION Radio Oum Kalthoum
+#SERVICE 1:64:D:0:0:0:0:0:0:0:
+#DESCRIPTION Cafe del Mar
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.radio.co/se1a320b47/listen
+#DESCRIPTION Cafe del Mar - Chill Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamer.radio.co/sb748f24ad/listen
+#DESCRIPTION Cafe del Mar - Calm Channel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s4.radio.co/seeae9c220/listen
+#DESCRIPTION Cafe del Mar - House Channel
