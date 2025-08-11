@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 11.08.2025 08:11 by Team www.hdfreaks.cc
+#DESCRIPTION Update 11.08.2025 12:18 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -9403,8 +9403,8 @@
 #DESCRIPTION NRJ Lebanon
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtstream.tanitweb.com/kef
 #DESCRIPTION RTT Radio Kef
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s45.myradiostream.com%3a18408/;
-#DESCRIPTION Radio Delta FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//tv2.fastcast4u.com%3a3401/live/deltafmlive.m3u8
+#DESCRIPTION Radio Delta Lebanon
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.arabicradio.net/hls/arabic_high.m3u8
 #DESCRIPTION Pars Today - Arabic
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.ifm.tn/radio/8000/ifmlive
@@ -9415,7 +9415,7 @@
 #DESCRIPTION Radio Tamanrasset
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.tda.dz/Bechar_64K.mp3
 #DESCRIPTION Radio Saoura Béchar
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioshamfm.grtvstream.com%3a8400/;
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioshamfm.grtvstream.com%3a8400/stream
 #DESCRIPTION Sham FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtstream.tanitweb.com/gafsa
 #DESCRIPTION RTT Radio Gafsa
@@ -9451,8 +9451,6 @@
 #DESCRIPTION Radio Laghouat
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dengegel-rojavaradio.radioca.st%3a8094/;
 #DESCRIPTION Rojava FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//23.92.21.22/vovan.mp3
-#DESCRIPTION Vana Tsain Voice of Van
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.tda.dz/Ouargla_64K.mp3
 #DESCRIPTION Radio Ouargla
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.tda.dz/ElBayedh_64K.mp3 
@@ -9470,9 +9468,9 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.voscast.com%3a9966/;
 #DESCRIPTION Melody FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.tda.dz/Tiaret_64K.mp3
-#DESCRIPTION Radio El Oued
+#DESCRIPTION Radio El Oued Tiaret
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.tda.dz/ouedSouf_64K.mp3
-#DESCRIPTION Radio El Oued
+#DESCRIPTION Radio El Oued Souf
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.tda.dz/Chlef_64K.mp3
 #DESCRIPTION Radio Chlef
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.diwanfm.net/stream
@@ -9483,8 +9481,6 @@
 #DESCRIPTION Radio Tébessa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.tda.dz/Tlemcen_64K.mp3
 #DESCRIPTION Radio Tlemcen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//5c7b683162943.streamlock.net/live/ngrp:radio-93-3_all/playlist.m3u8
-#DESCRIPTION Brtc I FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.tda.dz/Bejaia_64K.mp3
 #DESCRIPTION Radio Soummam
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nebula.shoutca.st%3a8211/mp3
@@ -9519,8 +9515,6 @@
 #DESCRIPTION Radio Médéa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.farah.fm%3a8000/;
 #DESCRIPTION Radio Farah FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.inet.sy%3a8000/melodyfm 
-#DESCRIPTION Melody FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.tda.dz/Tipaza_64K.mp3
 #DESCRIPTION Radio Tipaza
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webradio.tda.dz/Constantine_64K.mp3
@@ -9603,8 +9597,6 @@
 #DESCRIPTION Farah FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//l3.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio
 #DESCRIPTION Sharjah Quran Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.2me.com.au/2me
-#DESCRIPTION 2ME Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//manager5.streamradio.fr%3a1905/stream
 #DESCRIPTION Radio Sabra FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8
@@ -9651,14 +9643,10 @@
 #DESCRIPTION Sawt Loubnan
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiosunna.radioca.st/autodj
 #DESCRIPTION Al Menhaj Sunnah
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tanasuh.tv%3a8080/hls/fm.m3u8
-#DESCRIPTION Al Tanasuh
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ccfz.dyndns.org%3a4427/vfm
 #DESCRIPTION 92.6 FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//us3.internet-radio.com/proxy/alsumoodfm2020?mp=/stream
 #DESCRIPTION Alsumood FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.mada.ps%3a8010/ANGHAM
-#DESCRIPTION Radio Angham
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//str0.creacast.com/arcenciel45
 #DESCRIPTION Radio Arc-En-Ciel
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.knoozfm.net%3a8000/knoozfm
@@ -9731,20 +9719,14 @@
 #DESCRIPTION Sam FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radio.co/sa7e0251a2/listen
 #DESCRIPTION Sancta Maria Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sirius.shoutca.st%3a8390/index
-#DESCRIPTION Sawt Al Shaab FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//213.6.93.254%3a8000/sebafm
 #DESCRIPTION Radio Seba FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fm.ttu.edu.jo%3a88/broadwavelow.mp3
 #DESCRIPTION Tafila Technical University Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mp3quran.net%3a9960/;
-#DESCRIPTION Tayba FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//versionfm.com%3a8100/;
 #DESCRIPTION Version FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//securestreams2.autopo.st%3a1243/live
 #DESCRIPTION Watar FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ccfz.dyndns.org%3a4427/zfm
-#DESCRIPTION Zayed Radio For Qura an
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiotangermed-22.ice.infomaniak.ch/radiotangermed-22-128.mp3
 #DESCRIPTION Radio Tanger Med - Tanger Port Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//r.fm-radio.net/adania
@@ -9795,8 +9777,6 @@
 #DESCRIPTION 2MORO Sawt el Ghad
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/ps7z45v12k8uv
 #DESCRIPTION Radio 514
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//eu1.fastcast4u.com/proxy/prontofm
-#DESCRIPTION 90s FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//eu1.fastcast4u.com/proxy/prontofm?mp=/1
 #DESCRIPTION Radio 90s FM - Kansas City
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.hvips.com%3a8007/;
@@ -9827,52 +9807,6 @@
 #DESCRIPTION Radio Al Hara
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//manager8.streamradio.fr%3a2885/stream
 #DESCRIPTION Al Hayet FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mp3quran.net%3a9858/;
-#DESCRIPTION Al Quran Syaikh - Abdullah Al-Mattrod
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mp3quran.net%3a9954/;
-#DESCRIPTION Al Quran Syaikh - Abdullah bsfr
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mp3quran.net%3a9948/;
-#DESCRIPTION Al Quran Syaikh - Abdullah Khyat
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mp3quran.net%3a9852/;
-#DESCRIPTION Al Quran Syaikh - Abdulmohsen Al-Qasim
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mp3quran.net%3a9878/;
-#DESCRIPTION Al Quran Syaikh - Slaah Bukhatir
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mp3quran.net%3a9870/;
-#DESCRIPTION Al Quran Syaikh Abdelbari Al-Toubayti
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mp3quran.net%3a9862/;
-#DESCRIPTION Al Quran Syaikh Abdul Aziz Al-Ahmad
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mp3quran.net%3a9748/;
-#DESCRIPTION Al Quran Syaikh Abdul Baset Samad Pickthall Trans
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mp3quran.net%3a9746/;
-#DESCRIPTION Al Quran Syaikh Abdul Baset Samad Saheeh Intl Eng
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mp3quran.net%3a9868/;
-#DESCRIPTION Al Quran Syaikh Abdulbari Mohammad
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mp3quran.net%3a9980/;
-#DESCRIPTION Al Quran Syaikh Abdulbasit Abdulsamad
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mp3quran.net%3a9974/;
-#DESCRIPTION Al Quran Syaikh Abdulbasit Abdulsamad - Mjwd
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mp3quran.net%3a9850/;
-#DESCRIPTION Al Quran Syaikh Abdulhadi Kanakeri
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mp3quran.net%3a9860/;
-#DESCRIPTION Al Quran Syaikh Abdullah Al-Kandari
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mp3quran.net%3a9906/;
-#DESCRIPTION Al Quran Syaikh Tawfeeq As-Sayegh
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mp3quran.net%3a9778/;
-#DESCRIPTION Al Quran Syaikh Waleed Alnaehi - Qalon
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mp3quran.net%3a9772/;
-#DESCRIPTION Al Quran Syaikh Yahya Hawwa
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mp3quran.net%3a9776/;
-#DESCRIPTION Al Quran Syaikh Yasser Al-Qurashi
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mp3quran.net%3a9984/;
-#DESCRIPTION Al Quran Syaikh Yasser Aldosari
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mp3quran.net%3a9770/;
-#DESCRIPTION Al Quran Syaikh Yousef Alshoaey
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mp3quran.net%3a9768/;
-#DESCRIPTION Al Quran Syaikh Yousef Bin Noah Ahmad
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mp3quran.net%3a9890/;
-#DESCRIPTION Al Quran Syaikh Zaki Daghistani
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//vps1.osina.cloud%3a9304/stream
-#DESCRIPTION Al Salam FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.zeno.fm/x2u58hd0gchvv
 #DESCRIPTION Radio ALAyaam FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio2.pro-fhi.net%3a9067/;
@@ -9917,18 +9851,14 @@
 #DESCRIPTION Radio Chaabi Dialna
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice9.securenetsystems.net/CINAFM3
 #DESCRIPTION CINA FM 3
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//eu8.fastcast4u.com/proxy/clickfm
-#DESCRIPTION Click Radio Lebanon
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.zionmediait.com%3a5828/stream
 #DESCRIPTION Coptic Voice Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//virmach2.hajjam.net/;
-#DESCRIPTION Radio Coran Morocco
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s7.reliastream.com/proxy/osmmal01?mp=/stream
 #DESCRIPTION Radio Deesha K
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cdn.instream.audio:9069/stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cdn.instream.audio%3a9069/stream
 #DESCRIPTION Radio Delta FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast4.my-control-panel.com/proxy/dreamfmlebanon/stream
-#DESCRIPTION Dream FM
+#DESCRIPTION Dream FM Lebanon
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.zeno.fm/xa4yhh4k838uv
 #DESCRIPTION Zeno FM - Amr Diab FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.zeno.fm/yn114zz2p48uv
