@@ -1,3 +1,9 @@
+v2.22.2:
+- added filter rule for downloading cover pictures
+- some incorrect characters in songtitles are now being replaced
+- backup path for radio logos changed
+- some small changes
+
 v2.22.1:
 - update check added
 - download radio logos revised
