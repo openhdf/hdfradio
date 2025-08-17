@@ -1,3 +1,7 @@
+v2.22.3:
+- ChoiceBox for openViX fixed
+- some small changes and fixes
+
 v2.22.2:
 - added filter rule for downloading cover pictures
 - some incorrect characters in songtitles are now being replaced
