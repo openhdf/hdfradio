@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 15.08.2025 20:33 by Team www.hdfreaks.cc
+#DESCRIPTION Update 25.08.2025 18:12 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -5905,6 +5905,8 @@
 #DESCRIPTION Funky Channel
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3?
 #DESCRIPTION JOE Nederland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_nonstop_high.aac?
+#DESCRIPTION JOE non-stop Nederland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.joyradio.nl/joyradio
 #DESCRIPTION Joy Radio NL Hits Only!
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25233.live.streamtheworld.com/KINKAAC.aac?
