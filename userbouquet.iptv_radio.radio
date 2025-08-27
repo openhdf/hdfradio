@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 25.08.2025 18:12 by Team www.hdfreaks.cc
+#DESCRIPTION Update 27.08.2025 17:43 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1515,6 +1515,12 @@
 #DESCRIPTION ROCK FM - 80er ROCK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/90errock/mp3-128
 #DESCRIPTION ROCK FM - 90er ROCK
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-rockfm2000errock-mp3-128-3419186
+#DESCRIPTION ROCK FM - 2000er Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-rockfmkuschelrock-mp3-128-2007031
+#DESCRIPTION ROCK FM - Kuschelrock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-rockfmrockparty-mp3-128-2044020
+#DESCRIPTION ROCK FM - Rock Party
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/christmasrock/aac-128
 #DESCRIPTION ROCK FM - CHRISTMAS ROCK
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
