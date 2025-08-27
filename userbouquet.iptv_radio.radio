@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 27.08.2025 17:43 by Team www.hdfreaks.cc
+#DESCRIPTION Update 27.08.2025 18:48 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -7907,6 +7907,8 @@
 #DESCRIPTION SOUL RADIO Only Classic Soul live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ukrootsfm.mywire.org%3a8000/;:16_05_25_K.S.
 #DESCRIPTION UK Roots FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-mz.hellorayo.co.uk/planetrock.aac?aw_0_1st.skey=1602676850
+#DESCRIPTION Planet Rock
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION RT1
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge11.streamonkey.net/rt1-ch24/stream/mp3
@@ -10465,3 +10467,113 @@
 #DESCRIPTION Cafe del Mar - Calm Channel
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s4.radio.co/seeae9c220/listen
 #DESCRIPTION Cafe del Mar - House Channel
+#SERVICE 1:64:D:0:0:0:0:0:0:0:
+#DESCRIPTION Belgien
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ----- Joe -----
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicbe-cdp.triple-it.nl/joe.aac?aw_0_1st.skey=1718788807
+#DESCRIPTION Joe
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicbe-cdp.triple-it.nl/joe_top2000.aac?aw_0_1st.skey=1718788807
+#DESCRIPTION Joe - Top2000
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicbe-cdp.triple-it.nl/joe-gold.aac?aw_0_1st.skey=1718788807
+#DESCRIPTION Joe - Gold
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.aac?aw_0_1st.skey=1718788807
+#DESCRIPTION Joe - 80's & 90's
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.aac?aw_0_1st.skey=1718788807
+#DESCRIPTION Joe - lage landen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicbe-cdp.triple-it.nl/joe_easy.aac?aw_0_1st.skey=1718788807
+#DESCRIPTION Joe - easy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ----- Nostalgie -----
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//28513.live.streamtheworld.com/NOSTALGIEWHATAFEELING.mp3
+#DESCRIPTION Nostalgie
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//29053.live.streamtheworld.com/NOSTALGIEWAFEXTRAAAC.aac
+#DESCRIPTION Nostalgie - Top3000
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22593.live.streamtheworld.com/NOSTALGIEPLUS.mp3
+#DESCRIPTION Nostalgie - Nosta+
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ----- Willy -----
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicbe-cdp.triple-it.nl/willy.aac
+#DESCRIPTION Willy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac
+#DESCRIPTION Willy - class X
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ----- VRT -----
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/radio1.aac
+#DESCRIPTION VRT - Radio 1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/radio1_classics.aac
+#DESCRIPTION VRT - Radio 1 Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/radiobene.aac
+#DESCRIPTION VRT - Radio Bene
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/ra2ant.aac
+#DESCRIPTION VRT - Radio 2 Antwerpen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/ra2lim.aac
+#DESCRIPTION VRT - radio 2 Limburg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/ra2ovl.aac
+#DESCRIPTION VRT - Radio 2 Oost-Vlaanderen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/ra2wvl.aac
+#DESCRIPTION VRT - Radio 2 West-Vlaanderen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/ra2vlb.aac
+#DESCRIPTION VRT - Radio 2 Vlaams-Brabant
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/radio2_unwind.aac
+#DESCRIPTION VRT - Radio Unwind
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/klara.aac
+#DESCRIPTION VRT - Klara
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/klaracontinuo.aac
+#DESCRIPTION VRT - Klara Continuo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/stubru_tijdloze.aac
+#DESCRIPTION VRT - De Tijdloze
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/stubru.aac
+#DESCRIPTION VRT - Studio Brussel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http://icecast.vrtcdn.be/stubru_bruut.aac
+#DESCRIPTION VRT - Studio Brussel bruut
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicbe-cdp.triple-it.nl/willy.aac
+#DESCRIPTION VRT - Studio Brussel
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/stubru_tgs.aac
+#DESCRIPTION VRT - Studio Brussel vuurland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/stubru_untz.aac
+#DESCRIPTION VRT - Studio Brussel untz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/mnm.aac
+#DESCRIPTION VRT - MNM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/mnm_hits.aac
+#DESCRIPTION VRT - MNM Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.vrtcdn.be/ketnetradio.aac
+#DESCRIPTION VRT - Ketnet
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//progressive-audio.vrtcdn.be/content/fixed/11_11niws-snip_lo.mp3
+#DESCRIPTION VRT - NWS
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ----- RTBF -----
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.rtbf.be/viva-bxl/mp3-160/me
+#DESCRIPTION RTBF - Vivacité
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.rtbf.be/lapremiere/mp3-160/me
+#DESCRIPTION RTBF - La Première
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.rtbf.be/c21/mp3-160/me
+#DESCRIPTION RTBF - Classic 21
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.rtbf.be/musiq3/mp3-320/me
+#DESCRIPTION RTBF - Music 3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.rtbf.be/tipik/mp3-160/me
+#DESCRIPTION RTBF - Tipik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.rtbf.be/tarmac/mp3-160/me
+#DESCRIPTION RTBF - Tarmac
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.rtbf.be/mix/mp3-160/me
+#DESCRIPTION RTBF - Mix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.rtbf.be/vivaplus/mp3-160/me
+#DESCRIPTION RTBF - Viva+
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.rtbf.be/viva-sport/mp3-160/me
+#DESCRIPTION RTBF - Viva sport
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.rtbf.be/jam/mp3-160/me
+#DESCRIPTION RTBF - Jam
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ----- BRF -----
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.brf.be/brf1-high.mp3
+#DESCRIPTION BRF 1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.brf.be/brf2-high.mp3
+#DESCRIPTION BRF 2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ----- Mixed Stations -----
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiostudio.be/eazyfm
+#DESCRIPTION Eazy FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac?aw_0_1st.skey=1756289303
+#DESCRIPTION Q-Music
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//28563.live.streamtheworld.com/NRJBELGIEAAC.aac
+#DESCRIPTION NRJ Belgique
