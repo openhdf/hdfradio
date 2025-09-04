@@ -1,3 +1,10 @@
+v2.22.4:
+- chartlyrics.com added as backup for searching song lyrics
+- smooth opening of the song search screen
+- smooth opening of the menu screen
+- fixed a bug when updating song lyrics
+- some small changes
+
 v2.22.3:
 - ChoiceBox for openViX fixed
 - some small changes and fixes
