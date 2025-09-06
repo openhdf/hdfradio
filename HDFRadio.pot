@@ -17,13 +17,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "     Cover Path"
-msgstr ""
-
 msgid "     Download Logos"
 msgstr ""
 
-msgid "     Logos Path"
+msgid "     Path to the covers"
+msgstr ""
+
+msgid "     Path to the logos"
+msgstr ""
+
+msgid "     Path to the pictures"
 msgstr ""
 
 msgid "     Screensaver starts in ..."
@@ -33,21 +36,6 @@ msgid "     Show information and cover"
 msgstr ""
 
 msgid "     add own keywords"
-msgstr ""
-
-msgid "     concert"
-msgstr ""
-
-msgid "     festival"
-msgstr ""
-
-msgid "     live"
-msgstr ""
-
-msgid "     lyrics"
-msgstr ""
-
-msgid "     video"
 msgstr ""
 
 msgid " kbit/s"
@@ -283,6 +271,14 @@ msgid ""
 "Press OK to open the browser."
 msgstr ""
 
+msgid ""
+"Choose the path of your pictures.\n"
+"Press OK to open the browser."
+msgstr ""
+
+msgid "Choose the pictures path"
+msgstr ""
+
 msgid "Choose the player which will be used for YouTube playback."
 msgstr ""
 
@@ -354,6 +350,9 @@ msgid "Choose whether to show the clock in screensaver or not."
 msgstr ""
 
 msgid "Choose whether to use streams in DASH MP4 format, if available."
+msgstr ""
+
+msgid "Choose whether you want your own pictures to be displayed instead of the cover."
 msgstr ""
 
 msgid "Cleanup"
@@ -1153,6 +1152,9 @@ msgstr ""
 msgid "Show manual"
 msgstr ""
 
+msgid "Show own pictures in screensaver"
+msgstr ""
+
 msgid "Show screensaver"
 msgstr ""
 
@@ -1417,7 +1419,7 @@ msgstr ""
 msgid "Yes"
 msgstr ""
 
-msgid "You have less than 15MB free space."
+msgid "You have less than %s MB free space."
 msgstr ""
 
 msgid "You have no permissions to save the file in the following folder:"
