@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 30.08.2025 09:16 by Team www.hdfreaks.cc
+#DESCRIPTION Update 11.09.2025 19:49 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1815,36 +1815,34 @@
 #DESCRIPTION Generation Mix Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Kronehit
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//onair.krone.at/kronehit.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//secureonair.krone.at/kronehit1058.mp3
+#DESCRIPTION Kronehit - Live-Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//secureonair.krone.at/kronehit-hd.mp3
 #DESCRIPTION Kronehit - Digital
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//136.243.111.216/bigcitybeats
-#DESCRIPTION Kronehit - BigCity Beats Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit12.mp3
-#DESCRIPTION Kronehit - Summer Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit-ultra-hd.aac
-#DESCRIPTION Kronehit - UHD Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit23.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kronehit.streamabc.net/50-fschannel31-mp3-256-1075687
+#DESCRIPTION Kronehit - Sommer
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//secureonair.krone.at/kronehit-ultra-hd.aac
+#DESCRIPTION Kronehit - UHD
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kronehit.streamabc.net/50-fschannel39-mp3-256-9615564
 #DESCRIPTION Kronehit - Dance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit22.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kronehit.streamabc.net/50-fschannel30-mp3-256-5133635
 #DESCRIPTION Kronehit - Fresh
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit14.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kronehit.streamabc.net/50-fschannel1-mp3-256-8043604
 #DESCRIPTION Kronehit - Love
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit03.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kronehit.streamabc.net/50-fschannel41-mp3-256-2569903
+#DESCRIPTION Kronehit - Xmas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kronehit.streamabc.net/50-fschannel25-mp3-256-1724180
 #DESCRIPTION Kronehit - Disco
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit02.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//secureonair.krone.at/kronehit02.mp3
 #DESCRIPTION Kronehit - Most Wanted
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit11.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kronehit.streamabc.net/50-fschannel38-mp3-256-4127105
 #DESCRIPTION Kronehit - Vollgas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit13.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kronehit.streamabc.net/50-fschannel6-mp3-256-8600167
 #DESCRIPTION Kronehit - Greatest Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit21.mp3
-#DESCRIPTION Kronehit - Eurodance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit05.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kronehit.streamabc.net/50-fschannel5-mp3-256-1227911
 #DESCRIPTION Kronehit - Latino
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit1058.mp3
-#DESCRIPTION Kronehit - UKW
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secureonair.krone.at/kronehit04.mp3
-#DESCRIPTION Kronehit - Retro
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kronehit.streamabc.net/50-fschannel2-mp3-256-9785947
+#DESCRIPTION Kronehit - Hardstyle
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//secureonair.krone.at/super80s.aac
 #DESCRIPTION Kronehit - Super 80s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//secureonair.krone.at/rwr.aac
@@ -1853,6 +1851,12 @@
 #DESCRIPTION Kronehit - Eurodance X-Press
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//secureonair.krone.at/pirate.aac
 #DESCRIPTION Kronehit - Pirate Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kronehit.streamabc.net/50-fschannel35-mp3-256-6048236
+#DESCRIPTION Kronehit - Wahnsinn
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kronehit.streamabc.net/50-fschannel4-mp3-256-3015260
+#DESCRIPTION Kronehit - Gym
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//secureonair.krone.at/kronehit_owr.mp3
+#DESCRIPTION Kronehit - One World Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Superfly
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.superfly.fm/superfly-live
