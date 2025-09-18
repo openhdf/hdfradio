@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 16.09.2025 18:16 by Team www.hdfreaks.cc
+#DESCRIPTION Update 18.09.2025 21:20 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -93,13 +93,19 @@
 #DESCRIPTION Schlagerplanet Radio - 100% Weihnachtsschlager
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION RadioMonster.FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ic5.radiomonster.fm/tophits.ultra
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//tophits.radiomonster.fm/ultra
 #DESCRIPTION RadioMonster.FM - TopHits (320kbps)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ic1.radiomonster.fm/dance.ultra
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dance.radiomonster.fm/ultra
 #DESCRIPTION RadioMonster.FM - Dance (320kbps)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ic5.radiomonster.fm/evergreens.ultra
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//evergreens.radiomonster.fm/ultra
 #DESCRIPTION RadioMonster.FM - Evergreens (320kbps)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ic3.radiomonster.fm/schlager.ultra
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//90s.radiomonster.fm/ultra
+#DESCRIPTION RadioMonster.FM - 90s (320kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//2000s.radiomonster.fm/ultra
+#DESCRIPTION RadioMonster.FM - 2000s (320kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rock.radiomonster.fm/ultra
+#DESCRIPTION RadioMonster.FM - Rock (320kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//schlager.radiomonster.fm/ultra
 #DESCRIPTION RadioMonster.FM - Schlager (320kbps)
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION R.SA Sachsen
@@ -5937,6 +5943,8 @@
 #DESCRIPTION Sublime - live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.tukkerfm.nl/tukkerfm
 #DESCRIPTION Tukker FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//italo.live-streams.nl/
+#DESCRIPTION Fantasy Radio NL (256 kbps)
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Frankreich
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stric6.streamakaci.com/4uclassicrock.mp3
