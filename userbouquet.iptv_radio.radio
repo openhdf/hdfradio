@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 18.09.2025 21:20 by Team www.hdfreaks.cc
+#DESCRIPTION Update 24.09.2025 22:08 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -5945,6 +5945,8 @@
 #DESCRIPTION Tukker FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//italo.live-streams.nl/
 #DESCRIPTION Fantasy Radio NL (256 kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//securestreams.autopo.st%3a2549/stream
+#DESCRIPTION Delta Radio 60-70-80 Nijmegen NL (256 kbps)
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Frankreich
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stric6.streamakaci.com/4uclassicrock.mp3
@@ -6655,6 +6657,8 @@
 #DESCRIPTION BeirutNights.com Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//sip.blueradio.gr%3a8033/stream/1/
 #DESCRIPTION BLUE RADIO - Greece
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//blueswave.radio%3a8050/FlacBlues
+#DESCRIPTION BluesWave Radio Greece (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//i4.streams.ovh%3a8262/stream/1/
 #DESCRIPTION Captain-Radio.com
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cast.streams.ovh%3a9145/autodj
