@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 24.09.2025 22:08 by Team www.hdfreaks.cc
+#DESCRIPTION Update 25.09.2025 20:07 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2399,8 +2399,6 @@
 #DESCRIPTION Mixed Channels - Radio Bollerwagen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//inselradio--di--nacs-ais-lgc--02--cdn.cast.addradio.de/inselradio/live/mp3/high
 #DESCRIPTION Mixed Channels - Das Inselradio Mallorca
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//nrw1.streamabc.net/92-nrw1-mp3-128-5352676
-#DESCRIPTION Mixed Channels - NRW 1
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream09.radiohost.de/radio-holiday_mp3-192
 #DESCRIPTION Mixed Channels - Radio Holiday
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//meerradio.ip-streaming.net/meerradio
