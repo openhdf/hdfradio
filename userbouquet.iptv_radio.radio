@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 25.09.2025 20:07 by Team www.hdfreaks.cc
+#DESCRIPTION Update 26.09.2025 19:24 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -6905,6 +6905,8 @@
 #DESCRIPTION Joy Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//192.111.140.11%3a8548/stream
 #DESCRIPTION Kool Oldies Radio live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dc1.serverse.com/proxy/gjlrjfhp/stream
+#DESCRIPTION KVKVI Classic Hits US (160 kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ais-edge101-live365-dal02.cdnstream.com/a79417
 #DESCRIPTION Magic 80s Florida
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//air.broadcastinggroup.ro/MegaHit
@@ -6961,6 +6963,8 @@
 #DESCRIPTION Star 107.9 FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-151.zeno.fm/nxxk883r1nhvv?
 #DESCRIPTION Sunrise Radio Massachusetts
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//192.111.140.11%3a8323/;
+#DESCRIPTION Super CFL Radio Chicago US (320 kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ais-edge101-live365-dal02.cdnstream.com/a36545
 #DESCRIPTION The Choice - 80's Hair & 80's Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//online.radiodifusion.net%3a8020/stream/1/
