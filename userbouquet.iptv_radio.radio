@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 26.09.2025 19:24 by Team www.hdfreaks.cc
+#DESCRIPTION Update 29.09.2025 22:17 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -29,6 +29,46 @@
 #DESCRIPTION Radio PSR - Sommerhits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/sinnlostelefon/mp3-192/mediaplayer
 #DESCRIPTION Radio PSR - Sinnlos-Telefon
+#SERVICE 1:64:D:0:0:0:0:0:0:0:
+#DESCRIPTION Ostseewelle
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ostseewelle.stream11.radiohost.de/ostseewelle-nord_mp3-192
+#DESCRIPTION Ostseewelle - Vielfältige Musikstreams
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-oswoldies-mp3-128-8101166
+#DESCRIPTION Ostseewelle - Oldie Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-osw80er-mp3-128-3475358
+#DESCRIPTION Ostseewelle - 80er Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-osw90er-mp3-128-5736982
+#DESCRIPTION Ostseewelle - 90er Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-osw2000er-mp3-128-1925859
+#DESCRIPTION Ostseewelle - 2000er Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-osw2010er-mp3-128-1730903
+#DESCRIPTION Ostseewelle - 2010er Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-oswbrandneu-mp3-128-6854654
+#DESCRIPTION Ostseewelle - Brandneue Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-oswhiphophits-mp3-128-2116866
+#DESCRIPTION Ostseewelle - Deutsche Hip Hop Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-oswdeutsch-mp3-128-8765950
+#DESCRIPTION Ostseewelle - Deutsche Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-oswdb-mp3-128-3057868
+#DESCRIPTION Ostseewelle - Dance & Black Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-owpartyhitd-mp3-192-9111655
+#DESCRIPTION Ostseewelle - Party Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-oswrock-mp3-128-6949416
+#DESCRIPTION Ostseewelle - Rock Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-oswschlager-mp3-128-3202635
+#DESCRIPTION Ostseewelle - Schlager Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-oswchillout-mp3-128-6135624
+#DESCRIPTION Ostseewelle - Soft Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-owhitsfuerkids-mp3-192-9974357
+#DESCRIPTION Ostseewelle - Hits für Kids
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-oswsommer-mp3-128-6375323
+#DESCRIPTION Ostseewelle - Sommer Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-oswspecial-mp3-128-1105518
+#DESCRIPTION Ostseewelle - Special Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-oswweihnachtshits-mp3-128-1406873
+#DESCRIPTION Ostseewelle - Best of Weihnachtshits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//irmedia.streamabc.net/irm-oswxmasclassic-mp3-192-7837487
+#DESCRIPTION Ostseewelle - Weihnachtshits
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Hörspiele
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hoerspiel.stream.laut.fm/hoerspiel
