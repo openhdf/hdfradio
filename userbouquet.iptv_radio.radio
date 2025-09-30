@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 29.09.2025 22:17 by Team www.hdfreaks.cc
+#DESCRIPTION Update 30.09.2025 18:05 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -993,6 +993,12 @@
 #DESCRIPTION laut.fm - Wupper Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/wim
 #DESCRIPTION laut.fm - Wim
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/jetzt
+#DESCRIPTION laut.fm - Jetzt - Radio für 55+
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/radio-grafenwoehr
+#DESCRIPTION laut.fm - Radio Grafenwöhr
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/top100
+#DESCRIPTION laut.fm - TOP 100 Berlin
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Rock Antenne
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s6-webradio.rockantenne.de/rockantenne
@@ -5985,6 +5991,8 @@
 #DESCRIPTION Fantasy Radio NL (256 kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//securestreams.autopo.st%3a2549/stream
 #DESCRIPTION Delta Radio 60-70-80 Nijmegen NL (256 kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamer.hosting078.nl%3a1365/stream
+#DESCRIPTION Studio Grensstad NL
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Frankreich
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stric6.streamakaci.com/4uclassicrock.mp3
