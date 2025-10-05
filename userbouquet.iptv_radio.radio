@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 05.01.2025 19:21 by Team www.hdfreaks.cc
+#DESCRIPTION Update 05.01.2025 22:44 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -5849,6 +5849,8 @@
 #DESCRIPTION 2FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//2fm.nl/ic2fmretro//retro
 #DESCRIPTION 2FM Retro
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mediacp.audiostreamen.nl%3a8150/stream
+#DESCRIPTION All Time Hits - Non-stop Top 40 muziek (192 kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.player.arrow.nl/arrow
 #DESCRIPTION Arrow Classic Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.100.145.187%3a18304/;
@@ -5859,12 +5861,16 @@
 #DESCRIPTION Cobra Team NL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//playerservices.streamtheworld.com/api/livestream-redirect/CREAM.mp3
 #DESCRIPTION Cream Radio NL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//securestreams.autopo.st%3a2549/stream
+#DESCRIPTION Delta Radio 60-70-80 Nijmegen NL (256 kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.beeradio.nl/classics
 #DESCRIPTION bee Classics
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.beeradio.nl/main
 #DESCRIPTION bee Radio NL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//azuraserv3.live-streams.nl%3a8040/stream.mp3
 #DESCRIPTION Echte Piraten
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//italo.live-streams.nl/
+#DESCRIPTION Fantasy Radio NL (256 kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast3.asurahosting.com/proxy/breakou1/stream
 #DESCRIPTION Funky Channel
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3?
@@ -5877,6 +5883,8 @@
 #DESCRIPTION KINK live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25333.live.streamtheworld.com/KINK_DISTORTIONAAC.aac?
 #DESCRIPTION KINK Distortion
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-51.stream-server.nl%3a8427/
+#DESCRIPTION NOVA Classic Rock NL (192 kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream2.music-radio4all.nl%3a8443/stream.mp3
 #DESCRIPTION Radio4All
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radionl.fm/radionl
@@ -5887,16 +5895,14 @@
 #DESCRIPTION SLAM!
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sonic.magicdragon.nl/8044/stream
 #DESCRIPTION Stadsradio.NL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25293.live.streamtheworld.com/SUBLIME.mp3?
-#DESCRIPTION Sublime - live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.tukkerfm.nl/tukkerfm
-#DESCRIPTION Tukker FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//italo.live-streams.nl/
-#DESCRIPTION Fantasy Radio NL (256 kbps)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//securestreams.autopo.st%3a2549/stream
-#DESCRIPTION Delta Radio 60-70-80 Nijmegen NL (256 kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamer.hosting078.nl%3a1365/stream
 #DESCRIPTION Studio Grensstad NL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25293.live.streamtheworld.com/SUBLIME.mp3?
+#DESCRIPTION Sublime - live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//extragold.stream-server.nl
+#DESCRIPTION The Retro Sound - EXTRA GOLD CLASSICS (192 kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.tukkerfm.nl/tukkerfm
+#DESCRIPTION Tukker FM
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Frankreich
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stric6.streamakaci.com/4uclassicrock.mp3
