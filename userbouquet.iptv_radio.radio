@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 08.10.2025 19:32 by Team www.hdfreaks.cc
+#DESCRIPTION Update 08.10.2025 22:52 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -3575,8 +3575,6 @@
 #DESCRIPTION Sanctuary Radio - Dark Electro Channel (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//66.94.113.88%3a8000/retro_ultra_hq
 #DESCRIPTION Sanctuary Radio - 80’s Alternative Channel (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//66.94.113.88%3a8000/clubmix_ultra_hq
-#DESCRIPTION Sanctuary Radio - Club Mix Channel (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro3.flac
 #DESCRIPTION ČRo Vltava (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro-d-dur.flac
@@ -3615,8 +3613,6 @@
 #DESCRIPTION SUN - Le Son Unique (FLAC 1556kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.norbert.de/zappa.flac
 #DESCRIPTION Zappa Stream Radio (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//altair.streamerr.co%3a8018/luisteren
-#DESCRIPTION Progressieverock.nl (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mediacp.jb-radio.net%3a8001/flac
 #DESCRIPTION JB Radio-2 (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//studio.haarlem105.nl%3a8000/haarlem105DAB.flac?_res_tag_=audio
@@ -3629,8 +3625,6 @@
 #DESCRIPTION Radio Tornagaleones Chile (Flac)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tornagaleones.ddns.net%3a9000/stream
 #DESCRIPTION Radio Tornagaleones Chile (AAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.heerema.net/studio?_res_tag_=audio
-#DESCRIPTION FZO Radio NL (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.fzo.nu/studio.aac
 #DESCRIPTION FZO Radio NL (AAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.campusgrenoble.org/dab
@@ -6347,8 +6341,6 @@
 #DESCRIPTION Radio Clube de Lamego - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.23.85.126%3a8467/stream/1/
 #DESCRIPTION Radio Cova da Beira - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//109.71.41.6%3a8008/stream/1/
-#DESCRIPTION Radio Dueca - 96 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//centova.radio.com.pt%3a9548/stream/1/
 #DESCRIPTION realname - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stm6.conectastreaming.com%3a8272/stream/1/
@@ -6907,8 +6899,6 @@
 #DESCRIPTION Valencia Radio - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/TEEZ-FM
 #DESCRIPTION TEEZ-FM - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//204.12.193.98%3a8293/
-#DESCRIPTION SOLORADIO HELLIN - COPE - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//str3.openstream.co/2142
 #DESCRIPTION PulsRadio 2000 - 192 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sc6.gergosnet.com/stream/10/
@@ -6929,8 +6919,6 @@
 #DESCRIPTION A.1.ONE.SYMPHONY - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radios-online.info%3a3290
 #DESCRIPTION www.01global.com  RADIOCIEN Rivera Uruguay - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server8.20comunicacion.com%3a8200/stream/1/
-#DESCRIPTION Inre Radio Tenerife - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/B4BRadioSMOOTHJAZZ
 #DESCRIPTION Bravo!Opera - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//84.232.12.14%3a8000/caravacaradio
@@ -7137,8 +7125,6 @@
 #DESCRIPTION Klassik Radio - Johann Sebastian Bach
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klassikr-purebeethov-mp3-192-8105895
 #DESCRIPTION Klassik Radio - Ludwig van Beethoven
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klassikr-barock-mp3-192-7751777
-#DESCRIPTION Klassik Radio - Meisterwerke des Barock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klr_ywfg0xhyqhd_qj49-mp3-192-9330415
 #DESCRIPTION Klassik Radio - Filmklassiker
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//klassikr.streamabc.net/klassikr-newclassics-mp3-192-5772357
@@ -7701,8 +7687,6 @@
 #DESCRIPTION Radio X - Classic Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media-ssl.musicradio.com/RadioX-M-Christmas
 #DESCRIPTION Radio X - Indie Xmas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media-ssl.musicradio.com/RadioXOasis
-#DESCRIPTION Radio X - Oasis
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
 #DESCRIPTION ---- Mixed Stations ----
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fr1.1mix.co.uk%3a8060/192
@@ -9359,8 +9343,6 @@
 #DESCRIPTION Dream FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cast4.my-control-panel.com/proxy/dreamfmlebanon/stream
 #DESCRIPTION Dream FM Lebanon
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//uk5.internet-radio.com%3a8079/stream.mp3
-#DESCRIPTION Dubai Holy Quran
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radiojar.com/8s5u5tpdtwzuv
 #DESCRIPTION ERTU Al-Quran Al-Karim
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//carina.streamerr.co%3a2020/stream/OnSportFM
@@ -9497,14 +9479,8 @@
 #DESCRIPTION Islamic Voice Radio Melbourne
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//yayin.istanbulfm.com.tr/istanbulfm
 #DESCRIPTION Istanbul FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//str0.creacast.com/jowradio
-#DESCRIPTION JOW Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//jufmstreaming.ju.edu.jo%3a80/
 #DESCRIPTION JU FM 94.9
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//jufmstreaming.ju.edu.jo/?type=http
-#DESCRIPTION JUFM 94.9 (إذاعة الجامعة الأردنية)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.52.127.168/lb/2/aac_64.mp3
-#DESCRIPTION Jabal Lebnan
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.jesuscomingfm.com%3a8412/
 #DESCRIPTION Jesus Coming FM - Algerian Arabic
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.jesuscomingfm.com%3a8218/stream/
@@ -9555,10 +9531,6 @@
 #DESCRIPTION Mazaj FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//medradio.ice.infomaniak.ch/medradio-128.mp3
 #DESCRIPTION Medradio FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nebula.shoutca.st%3a8211/mp3
-#DESCRIPTION Mega FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nebula.shoutca.st%3a8211/stream
-#DESCRIPTION Mega FM 92.7
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radyomelodi.80.yayin.com.tr/
 #DESCRIPTION Melodi Radyo
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.voscast.com%3a9966/;
@@ -9591,8 +9563,6 @@
 #DESCRIPTION Médi 1 Radio Maghreb
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge.mixlr.com/channel/boaht
 #DESCRIPTION NOOR AL EMAN FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//95.216.36.232%3a8211/stream
-#DESCRIPTION NRC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrjstreaming.ahmed-melege.com/nrjegypt
 #DESCRIPTION NRJ FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ahmsamir.radioca.st/stream
@@ -9603,8 +9573,6 @@
 #DESCRIPTION Ninar FM - نينار اف ام
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//c2.accu.fm/audio/sweeper/60805bfcab53e339e04fcae9.m4a
 #DESCRIPTION Nineties FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio.nrpstream.com/listen/nogoumfm/radio.mp3
-#DESCRIPTION Nogoum FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream-161.zeno.fm/cqd6hz68m98uv
 #DESCRIPTION Nogoum Mix 320
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.105.4.53%3a4423/;stream.mp3
@@ -9633,8 +9601,6 @@
 #DESCRIPTION Pars Today - Arabic
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//svs.itworkscdn.net/pulse95live/pulse96/chunks.m3u8
 #DESCRIPTION Pulse 95 Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.zeno.fm/wbdjmmiuj37uv
-#DESCRIPTION QIM FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//quraanfm-radio.mbc.net/quraanfm-radio.m3u8
 #DESCRIPTION QURAN KAREEM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//virmach1.hajjam.net%3a8005/
@@ -9949,8 +9915,6 @@
 #DESCRIPTION Radyo 71 radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//yayin.turkhosted.com%3a3030//
 #DESCRIPTION Radyo 81
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radyoak.canliyayinda.com%3a8026/
-#DESCRIPTION Radyo AK radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//yayin.damarfm.com%3a8080/stream.nsv
 #DESCRIPTION Radyo Akademi
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ssl120.radyotelekom.com.tr/8710/stream/
@@ -9959,8 +9923,6 @@
 #DESCRIPTION Radyo Enerji Kutahya
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radyofenomen.com/fenomen/128/icecast.audio?/stream.mp3
 #DESCRIPTION Radyo FI
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radyofm23.canliyayinda.com%3a8280/stream.mp3
-#DESCRIPTION Radyo FM 23 radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//95.173.162.188%3a9952/stream.mp3
 #DESCRIPTION Radyo Gun radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radyo.yayindakiler.com%3a4118/stream
@@ -10145,8 +10107,6 @@
 #DESCRIPTION Yabiladi Radio - 100% Maroc
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radioking.com/radio/213058/stream/256153
 #DESCRIPTION Yanasalam
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radyovetv.com%3a8001/stream.mp3
-#DESCRIPTION Yozgat Sorgun FM radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//zamanalwaslradio.out.airtime.pro%3a8000/zamanalwaslradio_b
 #DESCRIPTION Zaman al wasl
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//equinox.shoutca.st%3a8127/
