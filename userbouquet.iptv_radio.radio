@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 07.10.2025 17:25 by Team www.hdfreaks.cc
+#DESCRIPTION Update 08.10.2025 10:17 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1403,7 +1403,7 @@
 #DESCRIPTION MDR Radio - MDR SPUTNIK POPKULT-Channel
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mdr-284331-5.cast.mdr.de/mdr/284331/5/mp3/high/stream.mp3
 #DESCRIPTION MDR Radio - MDR SPUTNIK ROBOTON-Channel
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mdr-284321-1.sslcast.mdr.de/mdr/284321/1/aac/high/stream.aac?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mdr-284331-1.sslcast.mdr.de/mdr/284331/1/mp3/high/stream.mp3
 #DESCRIPTION MDR Radio - MDR SPUTNIK ROCK-Channel
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mdr-284331-6.cast.mdr.de/mdr/284331/6/mp3/high/stream.mp3
 #DESCRIPTION MDR Radio - MDR SPUTNIK SOUNDCHECK-Channel
@@ -2487,8 +2487,6 @@
 #DESCRIPTION Mixed Channels - Epic Radio - Hotel Lounge
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION ⇒ Mixed Channels International
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mediaserv33.live-streams.nl%3a8089/stream
-#DESCRIPTION Mixed Channels - Rádio Ecclesia
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paineldj5.com.br%3a20087/stream
 #DESCRIPTION Mixed Channels - Rádio Huambo - RNA
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//c23.radioboss.fm%3a8129/stream
@@ -3093,8 +3091,6 @@
 #DESCRIPTION Radio Litera
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audio.lumen.sk%3a8000/live128.mp3
 #DESCRIPTION Radio Lumen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.98.208.12%3a8000/;stream/1
-#DESCRIPTION Radio Modra
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.stv.livebox.sk/pyramida_128.mp3
 #DESCRIPTION Radio Pyramida
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.rusyn.fm/rusyny.mp3
@@ -3115,22 +3111,6 @@
 #DESCRIPTION Radio WOW
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//80.242.44.249%3a8000/;stream/1
 #DESCRIPTION Radio Yes
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//158.193.82.41%3a8000/radiox_128.mp3
-#DESCRIPTION Radio X
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//158.193.82.41%3a8000/alternative.mp3
-#DESCRIPTION Radio X - Alternative
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//158.193.82.41%3a8000/chillout.mp3
-#DESCRIPTION Radio X - Chillout
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//158.193.82.41%3a8000/dance.mp3
-#DESCRIPTION Radio X - Dance X
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//158.193.82.41%3a8000/dnb.mp3
-#DESCRIPTION Radio X - DNB
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//158.193.82.41%3a8000/ludovky.mp3
-#DESCRIPTION Radio X - Folklore
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//158.193.82.41%3a8000/metal.mp3
-#DESCRIPTION Radio X - Metal
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//158.193.82.41%3a8000/oldies.mp3
-#DESCRIPTION Radio X - Oldies
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.sepia.sk%3a8000/rvhudba320.mp3
 #DESCRIPTION Rvhudba
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.zahorackeradio.sk%3a8000/zr128.mp3
@@ -4837,8 +4817,6 @@
 #DESCRIPTION ESKA - Zielona Góra
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/2420-1.mp3
 #DESCRIPTION ESKA - Żary
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/7990-1.mp3
-#DESCRIPTION ESKA - Z Wami FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6140-1.mp3
 #DESCRIPTION ESKA - Do Pracy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ic2.smcdn.pl/6130-1.mp3
@@ -5091,8 +5069,6 @@
 #DESCRIPTION Radio Bezpieczna Podróż
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.164.158.230%3a9070
 #DESCRIPTION Radio Biedrzychowice
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s6.radiohost.pl%3a8888
-#DESCRIPTION Radio Bogoria
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7212
 #DESCRIPTION Radio Brylant
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shot2.inten.pl%3a8888/rcfm.mp3
@@ -5183,8 +5159,6 @@
 #DESCRIPTION Radio Forte
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7178
 #DESCRIPTION Radio FortyPlus
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s4.radiohost.pl%3a7088
-#DESCRIPTION Radio Friends
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//51.255.8.139%3a8064/stream
 #DESCRIPTION Radio Gdynia
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream3.nadaje.com%3a8012
@@ -5201,8 +5175,6 @@
 #DESCRIPTION Radio Guardian
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.zenolive.com/qd8hws5efseuv
 #DESCRIPTION Radio Hard Blues
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7426/stream
-#DESCRIPTION Radio HellsFM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//51.255.8.139%3a9090/stream
 #DESCRIPTION Radio Hit-Radio.pl
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//46.170.199.85%3a8000
@@ -5219,8 +5191,6 @@
 #DESCRIPTION Radio Istebna
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//online.jard.pl%3a8744/jard1
 #DESCRIPTION Radio Jard
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiojazz.out.airtime.pro/radiojazz_a
-#DESCRIPTION Radio Jazz FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radio.co/s1136b59f3/listen
 #DESCRIPTION Radio JazzKultura
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radioo.eu%3a9900
@@ -5921,8 +5891,6 @@
 #DESCRIPTION Chante France 80s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.evasionfm.com/cf-emotion
 #DESCRIPTION Chante France Emotion
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/Classique-XIX
-#DESCRIPTION ClassiqueXIX
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio-contact.ice.infomaniak.ch/radio-contact-high.mp3
 #DESCRIPTION Contact la radio enjoy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//deltafmdunkerque.ice.infomaniak.ch/deltafmdunkerque-high.mp3
@@ -6359,8 +6327,6 @@
 #DESCRIPTION RADYO FM23 ELAZIG - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//38.96.148.39%3a8588
 #DESCRIPTION Kordon FM - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//yayin.liderhost.net%3a8555/stream/1/
-#DESCRIPTION Radyo Kuran - Kurani Kerim ve Turkce Meali - KuranRadyo.Com.TR - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.bigfm.de/bigfm-turkey-128-mp3
 #DESCRIPTION bigFM bigSES - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//38.96.148.39%3a8488
@@ -6447,8 +6413,6 @@
 #DESCRIPTION Radio Onda Viva - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//54.36.98.201%3a8040/stream/1/
 #DESCRIPTION Rádio 100% Portuguesa - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioamorportugal.com%3a8000/autodj.mp3
-#DESCRIPTION RÃ¡dio Amor Portugal AutoDj - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.32.188.17%3a8033/autodj
 #DESCRIPTION Antena Web Información - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//176.9.43.216%3a8027/stream/1/
@@ -7489,10 +7453,6 @@
 #DESCRIPTION Radio 7 - Lovesongs
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-mallehits-mp3-192-1646708
 #DESCRIPTION Radio 7 - Malle Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-relaxeddinner-mp3-192-6977073
-#DESCRIPTION Radio 7 - Relaxed Dinner
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-rockparty-mp3-192-5076277
-#DESCRIPTION Radio 7 - Rock Party
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-sommerparty-mp3-192-3794053
 #DESCRIPTION Radio 7 - Sommer Party
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio7.streamabc.net/87-top100hiphop-mp3-192-5437316
@@ -7829,14 +7789,6 @@
 #DESCRIPTION London Music Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//us3new.listen2myradio.com%3a2199/listen.php?port=8325&type=s2&mount=/stream
 #DESCRIPTION Loversrockradio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge-bauerall-01-gos2.sharp-stream.com/magic1054.aac
-#DESCRIPTION Magic Radio live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge-bauerall-01-gos2.sharp-stream.com/magicchilled.aac
-#DESCRIPTION Magic Chilled live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge-bauerall-01-gos2.sharp-stream.com/magicmellow.aac
-#DESCRIPTION Magic Mellow live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge-bauerall-01-gos2.sharp-stream.com/magicsoul.aac
-#DESCRIPTION Magic Soul live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mearnsfm.streammachine.co.uk/stream/mearnsfm
 #DESCRIPTION Mearns FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream1.hippynet.co.uk/stream/mearnsindie
@@ -7897,8 +7849,6 @@
 #DESCRIPTION RT1 - 2000er
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge14.streamonkey.net/rt1-ch16/stream/mp3
 #DESCRIPTION RT1 - Deutsche Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge03.streamonkey.net/rt1-ch32/stream/mp3
-#DESCRIPTION RT1 - Classic Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge59.streamonkey.net/rt1-ch34/stream/mp3
 #DESCRIPTION RT1 - Brandneu
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge66.streamonkey.net/rt1-ch18/stream/mp3
@@ -7907,8 +7857,6 @@
 #DESCRIPTION RT1 - Xmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge09.streamonkey.net/rt1-ch22/stream/mp3
 #DESCRIPTION RT1 - Power Workout
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge63.streamonkey.net/rt1-ch30/stream/mp3
-#DESCRIPTION RT1 - Running
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge22.streamonkey.net/rt1-ch28/stream/mp3
 #DESCRIPTION RT1 - Coffee
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge59.streamonkey.net/rt1-ch31/stream/mp3
@@ -7919,8 +7867,6 @@
 #DESCRIPTION RT1 - Euro Dance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge17.streamonkey.net/rt1-ch15/stream/mp3
 #DESCRIPTION RT1 - Dance Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge10.streamonkey.net/rt1-ch33/stream/mp3
-#DESCRIPTION RT1 - Urban Beats
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge11.streamonkey.net/rt1-ch19/stream/mp3
 #DESCRIPTION RT1 - In the Mix
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge16.streamonkey.net/rt1-ch37/stream/mp3
@@ -7929,8 +7875,6 @@
 #DESCRIPTION RT1 - Lounge
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge01.streamonkey.net/rt1-ch23/stream/mp3
 #DESCRIPTION RT1 - Relax
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge65.streamonkey.net/rt1-ch29/stream/mp3
-#DESCRIPTION RT1 - Chill out
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge07.streamonkey.net/rt1-ch35/stream/mp3
 #DESCRIPTION RT1 - Synthwave
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge67.streamonkey.net/rt1-ch36/stream/mp3
@@ -9325,10 +9269,6 @@
 #DESCRIPTION Adeem Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge.mixlr.com/channel/rumps
 #DESCRIPTION Afaq FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.52.127.132/lb/1/aac_64.mp3
-#DESCRIPTION Aghani Aghani Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//lbs-th2-2.nrjaudio.fm/lb/1/aac_64.mp3
-#DESCRIPTION Aghani FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tijaniyyah.asuscomm.com%3a8000/stream/4/;
 #DESCRIPTION Ahlu Al-Safa Clubhouse Sudan
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fm.alarabiya.net/fm/myStream/playlist.m3u8
@@ -9389,8 +9329,6 @@
 #DESCRIPTION Arabeskland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.4.87.79%3a8000/stream.mp3
 #DESCRIPTION Arabesque FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//istream.binarywaves.com%3a8081/hls/arabica/playlist.m3u8
-#DESCRIPTION Arabica TV
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radyo.yayindakiler.com%3a4084/stream
 #DESCRIPTION Armoni FM radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge.mixlr.com/channel/qtgru
