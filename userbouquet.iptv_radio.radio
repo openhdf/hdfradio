@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 08.10.2025 10:17 by Team www.hdfreaks.cc
+#DESCRIPTION Update 08.10.2025 19:32 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -5227,8 +5227,6 @@
 #DESCRIPTION Radio Leliwa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/2fa0gbhr9bhvv
 #DESCRIPTION Radio Lem FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast.com.pl%3a7990
-#DESCRIPTION Radio Lemko
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.zeno.fm/cdmhcpwy1f9uv
 #DESCRIPTION Radio Licznik FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7298
@@ -5289,8 +5287,6 @@
 #DESCRIPTION Radio Norda FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s5.citrus3.com%3a8028/stream
 #DESCRIPTION Radio NOTE.radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.profeto.pl/noweradio.mp3
-#DESCRIPTION Radio Nowe Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nowinki.pk.edu.pl%3a8000/nowinki
 #DESCRIPTION Radio Nowinki
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/ypqt40u0x1zuv
@@ -5355,10 +5351,6 @@
 #DESCRIPTION Radio Rockserwis.fm
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//51.255.8.139%3a9048/stream
 #DESCRIPTION Radio Romans
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7392
-#DESCRIPTION Radio Romantic Music
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7338/stream
-#DESCRIPTION Radio Róża Miłości
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.slotex.pl%3a7056
 #DESCRIPTION Radio RTO Trance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s2.radio.co/s0dc6b5c9b/listen
@@ -5381,8 +5373,6 @@
 #DESCRIPTION Radio SOK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7138/stream/1/
 #DESCRIPTION Radio Spioch
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.g-news.pl%3a8010/radio.mp3
-#DESCRIPTION Radio Stare Juchy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/5wegfyrra2zuv
 #DESCRIPTION Radio Starogard
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1.slotex.pl/shoutcast/7644/stream
@@ -5437,8 +5427,6 @@
 #DESCRIPTION Radio W Nienagannym Stylu
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sluchaj.link%3a5443/wasze
 #DESCRIPTION Radio Wasze Radio FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.weekendfm.pl%3a8000/weekendfm_najlepsza.mp3
-#DESCRIPTION Radio Weekend
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//widzewfm.ovh/radio/8000/live.mp3
 #DESCRIPTION Radio Widzew
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//217.182.76.63%3a8000/webstream
@@ -5455,8 +5443,6 @@
 #DESCRIPTION Radio Września FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiowyczes.pl%3a8081/radio/8000/stream
 #DESCRIPTION Radio Wyczes
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7010/stream
-#DESCRIPTION Radio Xmusic
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiozqlturapl.radioca.st/stream
 #DESCRIPTION Radio Z Qlturą
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//uksoutha.streaming.broadcast.radio%3a15190/zameknadaje
@@ -5883,8 +5869,6 @@
 #DESCRIPTION B4B RADIO DISCO FUNK OFFICIAL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//51.255.235.165%3a5528/stream/1/
 #DESCRIPTION Bobs Ska Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cdn.nrjaudio.fm/adwz1/fr/30213/mp3_128.mp3
-#DESCRIPTION CFM FRENCHIE
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.evasionfm.com/cf-70
 #DESCRIPTION Chante France 70s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream1.evasionfm.com/cf-80
@@ -5975,8 +5959,6 @@
 #DESCRIPTION Not Gaming FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionti.com/nti-128.mp3
 #DESCRIPTION NTI - LA NOUVELLE TENDANCE
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen.mixlr.com/35f1caec150578c7d26a0fd22c0142c2
-#DESCRIPTION Oye Tu Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radioclassique.ice.infomaniak.ch/radioclassique-high.mp3
 #DESCRIPTION Radio Classique
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//usa15.fastcast4u.com%3a8069/stream/1/
@@ -6005,8 +5987,6 @@
 #DESCRIPTION RCF Sud Belgique
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//i4.streams.ovh%3a8124/stream/1/
 #DESCRIPTION Rock Melodic Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//80.82.229.202%3a8000/sunhd.mp3
-#DESCRIPTION SUN
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.ch/vibration-high.mp3
 #DESCRIPTION Vibration CH
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/White-Fox-Radio
@@ -6041,8 +6021,6 @@
 #DESCRIPTION Bollywood Work Out
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/bollywood2010s/icecast.audio
 #DESCRIPTION Bollywood 2010's
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/bollywoodarrahman/icecast.audio
-#DESCRIPTION A.R. Rahman
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/bollywoodalkayagnik/icecast.audio
 #DESCRIPTION Alka Yagnik
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/bollywoodamittrivedi/icecast.audio
@@ -6071,8 +6049,6 @@
 #DESCRIPTION Shreya Ghoshal
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/bollywoodsonunigam/icecast.audio
 #DESCRIPTION Sonu Nigam
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/bollywoodsunidhichauhan/icecast.audio
-#DESCRIPTION Sunidhi Chauhan
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/bollywooduditnarayan/icecast.audio
 #DESCRIPTION Udit Narayan
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//drive.uber.radio/uber/bollywoodvishalandshekhar/icecast.audio
@@ -6319,30 +6295,20 @@
 #DESCRIPTION İmaj Pop - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//yayin1.yayindakiler.com%3a3156/stream/1/
 #DESCRIPTION DOST RADYO 103.0 MHZ - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//95.173.188.166%3a9984/stream/1/
-#DESCRIPTION Turkrapfm - 64 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//yayin1.yayindakiler.com%3a3192/stream/1/
 #DESCRIPTION Radyo 37 - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radyo.yayin.com.tr%3a8280/stream/1/
 #DESCRIPTION RADYO FM23 ELAZIG - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//38.96.148.39%3a8588
-#DESCRIPTION Kordon FM - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.bigfm.de/bigfm-turkey-128-mp3
 #DESCRIPTION bigFM bigSES - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//38.96.148.39%3a8488
-#DESCRIPTION RADYO KORDELYA - 24 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//95.173.162.184%3a7350/stream/1/
 #DESCRIPTION Yunus FM 94.0 - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radyo.ahiska.net%3a8063/stream/1/
-#DESCRIPTION AHISKA - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//yayin2.canliyayin.org%3a8002/
 #DESCRIPTION Cemre FM - 160 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s2.radio.co/s899a861e2/listen
 #DESCRIPTION London Turkish Radio - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//193.197.85.26%3a8000/stream/1/
 #DESCRIPTION JungerKulturKanal LIVE (c) Hochschule fuer Musik Karlsruhe 2017 - 256 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radyorumelim.canliyayinda.com%3a8690/stream/1/
-#DESCRIPTION Radyo Rumelim - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//yayin2.canliyayin.org%3a8002
 #DESCRIPTION 3 Nisan Radyo - 160 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radyo.turkuradyo.net%3a4591
@@ -6363,8 +6329,6 @@
 #DESCRIPTION Radio Nova Era FM - Porangatu GO - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//195.23.85.126%3a8495/stream/1/
 #DESCRIPTION R - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//213.136.92.8%3a8038/stream/1/
-#DESCRIPTION TOP FM 95.9 - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiocast.rtp.pt/antena280a.mp3
 #DESCRIPTION Antena 2 - Main - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiocast.rtp.pt/antena380a.mp3
@@ -6475,8 +6439,6 @@
 #DESCRIPTION MB STUDIO partygroove
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//212.7.194.63%3a9094/stream/1/
 #DESCRIPTION Multiradio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//web.bolognauno.it%3a9944/stream/1/
-#DESCRIPTION Nettuno Bologna Uno
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//159.69.217.78%3a8000
 #DESCRIPTION Radio 2000
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.studiopiu.net%3a8005
@@ -6491,8 +6453,6 @@
 #DESCRIPTION Radio Birikina
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.32.137.180%3a8533/stream/1/
 #DESCRIPTION Radio Canelli
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//62.196.165.48%3a8048/stream/1/
-#DESCRIPTION Radio Cortina
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radiodancefloor.it%3a80/dancefloor.mp3
 #DESCRIPTION Radio Dancefloor - 90s - 96 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radiodancefloor.it%3a443/stream/1/
@@ -6509,8 +6469,6 @@
 #DESCRIPTION Radio Juke Box Torino
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//wma06.fluidstream.net%3a3614
 #DESCRIPTION Radio Kiss Kiss Italia
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//94.177.187.252%3a8000/stream/2/
-#DESCRIPTION Radio Magic 2 paternopoli
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream15.top-ix.org%3a80/radiomanila
 #DESCRIPTION Radio Manila
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//54.37.84.199%3a8002/stream/1/
@@ -6609,8 +6567,6 @@
 #DESCRIPTION Lakka Souli Radio - 320 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.onweb.gr%3a8472
 #DESCRIPTION LRadio 87.5 Loutraki Greece
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.magicfmagrinio.net%3a9500
-#DESCRIPTION Magic FM Agrinio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.468.gr%3a9902
 #DESCRIPTION MasterFM 90.2 | Aigio | Greece - 320 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//176.31.118.194%3a11840/stream/1/
@@ -6629,8 +6585,6 @@
 #DESCRIPTION paros fm (Greece)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radio69.gr%3a6969/stream/1/
 #DESCRIPTION Radio 69 | TA KALYTERA LAIKA
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//95.154.242.114%3a8074
-#DESCRIPTION Radio 98.2 (Serres Greece)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s5.onweb.gr%3a8846
 #DESCRIPTION Radio Arhagelos 94.1 Rhodes Greece
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3.onweb.gr%3a8536
@@ -6665,8 +6619,6 @@
 #DESCRIPTION Studio3 | Thessaloniki | Greece
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.skyradio.gr%3a9920/stream/1/
 #DESCRIPTION Sky Radio 99.2 | Live From Ioannina Greece
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//217.20.116.68%3a32032/stream/1/
-#DESCRIPTION Sohos FM 88.7
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//178.32.146.187%3a2046/stream/1/
 #DESCRIPTION Sohos FM 88.7 - Thessaloniki
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//157.90.133.87%3a8808/stream/1/
@@ -6875,8 +6827,6 @@
 #DESCRIPTION Powerhitz - Wild 99 (Hispanic Rhythm)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s18.myradiostream.com%3a9314/stream/1/
 #DESCRIPTION Radio Aktiva 87.7 FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nebula.shoutca.st%3a8016/stream
-#DESCRIPTION Radio Max Music Greatest Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio25.virtualtronics.com%3a8114/stream/1/
 #DESCRIPTION Songs Lover
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ais-sa2.cdnstream1.com/1100_128
@@ -6893,8 +6843,6 @@
 #DESCRIPTION VIP Radio Louisiana
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio10.pro-fhi.net/flux-qlvuthph/128stream
 #DESCRIPTION West Coast Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//crystalout.surfernetwork.com%3a8001/WQNZ_MP3
-#DESCRIPTION WQNZ-FM 95.1 MHz
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Spanien
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp.com%3a8060/stream/1/
@@ -6913,8 +6861,6 @@
 #DESCRIPTION Efecto FM - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.radioradio.es%3a8000/stream/1/
 #DESCRIPTION Radio Radio Network - Marbella v2 - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/Ambiance-classique
-#DESCRIPTION Ambianceclassique - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/pilots-radio
 #DESCRIPTION Pilots Radio - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//securestreams4.autopo.st%3a1889/stream
@@ -7263,8 +7209,6 @@
 #DESCRIPTION PRYSM - Big Room EDM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n01a-eu.rcs.revma.com/arbkkamdzmzuv
 #DESCRIPTION PRYSM - Classic Dance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n21a-eu.rcs.revma.com/4eczgu8a0mzuv
-#DESCRIPTION PRYSM - Nu Disco
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n21a-eu.rcs.revma.com/01cty4t1pnhvv
 #DESCRIPTION PRYSM - Stage
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n05a-eu.rcs.revma.com/qh00tw3a0mzuv
@@ -7717,8 +7661,6 @@
 #DESCRIPTION BBC Radio Cymru 2
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//as-hls-ww-live.akamaized.net/pool_43178797/live/ww/bbc_radio_foyle/bbc_radio_foyle.isml/bbc_radio_foyle-audio%3d128000.norewind.m3u8
 #DESCRIPTION BBC Radio Foyle
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//lstn.lv/bbcradio.m3u8?station=bbc_radio_gloucestershire&bitrate=96000
-#DESCRIPTION BBC Radio Gloucestershire
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa
 #DESCRIPTION BBC World Service West and Central Africa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
