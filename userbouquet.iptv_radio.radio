@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 08.10.2025 22:52 by Team www.hdfreaks.cc
+#DESCRIPTION Update 09.10.2025 15:02 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -3041,10 +3041,6 @@
 #DESCRIPTION Europa 2
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.expres.sk/128.mp3
 #DESCRIPTION Radio Expres
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//solid1.streamupsolutions.com/proxy/utwrguip/stream
-#DESCRIPTION Fit Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast2.radionet.sk/freshradio.sk
-#DESCRIPTION FRESH radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.stv.livebox.sk/fm_128.mp3
 #DESCRIPTION Radio FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.funradio.sk%3a8000/fun128.mp3
@@ -3533,11 +3529,11 @@
 #DESCRIPTION Magic Radio Oldies Hits (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//maxxima.mine.nu%3a8000/maxx.ogg
 #DESCRIPTION MaXXima (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server9.streamserver24.com%3a18900/motherearth
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//motherearth.streamserver24.com/listen/motherearth/motherearth.aac
 #DESCRIPTION Mother Earth Radio (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server9.streamserver24.com%3a18910/motherearth.klassik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//motherearth.streamserver24.com/listen/motherearth_klassik/motherearth.klassik.aac
 #DESCRIPTION Mother Earth Klassik (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server9.streamserver24.com%3a18920/motherearth.instrumental
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//motherearth.streamserver24.com/listen/motherearth_instrumental/motherearth.instrumental.aac
 #DESCRIPTION Mother Earth Instrumental (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mscp3.live-streams.nl%3a8360/flac.flac
 #DESCRIPTION Naim Radio (FLAC)
@@ -5361,8 +5357,6 @@
 #DESCRIPTION Radio Sfera
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7488
 #DESCRIPTION Radio Składankowe Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7854/stream
-#DESCRIPTION Radio Sky Radio Polska
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7230/stream
 #DESCRIPTION Radio SOK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.slotex.pl%3a7138/stream/1/
@@ -6389,8 +6383,6 @@
 #DESCRIPTION Radio Sesimbra FM - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiocast.rtp.pt/rdpafrica80a.mp3
 #DESCRIPTION RDP Africa - Main - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//link.radios.pt/radiovidigueira
-#DESCRIPTION Unnamed Server POR - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com%3a80/BrooseBreeeeeze
 #DESCRIPTION JamendoLounge - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//link.radios.pt/radioclubedepenafiel
@@ -6903,8 +6895,6 @@
 #DESCRIPTION PulsRadio 2000 - 192 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sc6.gergosnet.com/stream/10/
 #DESCRIPTION MagicRadio by PulsRadio - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//eu1.fastcast4u.com%3a10936/stream/1/
-#DESCRIPTION OE Radio - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming6.elitecomunicacion.es%3a8202/stream/1/
 #DESCRIPTION Radio Star Terrassa - 256 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.radiopego.com%3a8000
@@ -6935,8 +6925,6 @@
 #DESCRIPTION Costa Del Mar - Chillout - 96 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio4.cdm-radio.com%3a18012/stream-mp3-Deep
 #DESCRIPTION Costa Del Mar - Deep House - 96 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server6.globalhostla.com%3a9302/stream
-#DESCRIPTION RUMBA STEREO 94.7 FM - 48 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//2.139.144.101%3a8020/stream/1/
 #DESCRIPTION Star People - 256 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.capsulaimposible.com%3a8000/stream/2/canalebro.mp3
@@ -6955,8 +6943,6 @@
 #DESCRIPTION Radio Manantial de Vida 88.3FM - 160 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com%3a80/RadioIsletaValencia
 #DESCRIPTION RadioIsletaValencia - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiotvstream.com%3a8000/stream.mp3
-#DESCRIPTION Cristo Vive La Radio - 160 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/albumradiopop
 #DESCRIPTION AlbumRadioPOP - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/GospelJazzRadio
@@ -9587,8 +9573,6 @@
 #DESCRIPTION Noursat Jordan TV
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice04.fluidstream.net/openlab.mp3
 #DESCRIPTION OpenLab
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamer.mada.ps%3a8034/orient
-#DESCRIPTION Orient Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ormanland.no-ip.info%3a8200/stream/1/
 #DESCRIPTION Orman_Radio_Jabal_Alarab
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s2.radio.co/s3ec20c9a3/listen
