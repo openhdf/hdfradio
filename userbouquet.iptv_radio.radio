@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 09.10.2025 15:02 by Team www.hdfreaks.cc
+#DESCRIPTION Update 09.10.2025 19:27 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -3591,10 +3591,8 @@
 #DESCRIPTION Linn Classical UK (320kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.linn.co.uk%3a8000/autodj
 #DESCRIPTION Linn Jazz UK (320kbps)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ecuamedios.net/8050/stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radioclub80.cl:8022/retro80.flac
 #DESCRIPTION Radio Club 80 HiFi (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ecuamedios.net%3a10850/stream
-#DESCRIPTION Radio Club 80 Senal Dance (320kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//funkyradio.streamingmedia.it/play.mp3
 #DESCRIPTION Funky Radio - Funk Music 60s70s80s (320kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//iradio.fi%3a8000/klasu-hi.mp3
