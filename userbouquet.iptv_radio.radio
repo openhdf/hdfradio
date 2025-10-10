@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 09.10.2025 19:27 by Team www.hdfreaks.cc
+#DESCRIPTION Update 10.10.2025 17:28 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -29,6 +29,42 @@
 #DESCRIPTION Radio PSR - Sommerhits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.radiopsr.de/sinnlostelefon/mp3-192/mediaplayer
 #DESCRIPTION Radio PSR - Sinnlos-Telefon
+#SERVICE 1:64:D:0:0:0:0:0:0:0:
+#DESCRIPTION Radio Westfalica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiowestfalica--di--nacs-ais-lgc--09--cdn.cast.addradio.de/radiowestfalica/live/mp3/high
+#DESCRIPTION Radio Westfalica - Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/dein80er/mid/stream.aac?
+#DESCRIPTION Radio Westfalica - Dein 80er Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/dein90er/mid/stream.aac?
+#DESCRIPTION Radio Westfalica - Dein 90er Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinradio03/aac/mid/stream.aac?
+#DESCRIPTION Radio Westfalica - Dein 2000er Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinradio02/mp3/high/stream.mp3?
+#DESCRIPTION Radio Westfalica - Dein Dance Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deindeutschpop/high/stream.mp3?
+#DESCRIPTION Radio Westfalica - Dein Deutsch Pop Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinradio07/mp3/high/stream.mp3?
+#DESCRIPTION Radio Westfalica - Dein HIP HOP Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinlounge/mid/stream.aac?
+#DESCRIPTION Radio Westfalica - Dein Lounge Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinlove/mid/stream.aac?
+#DESCRIPTION Radio Westfalica - Dein Love Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinradio06/aac/mid/stream.aac?
+#DESCRIPTION Radio Westfalica - Dein New Country Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinrock/low/stream.mp3?
+#DESCRIPTION Radio Westfalica - Dein Rock Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinradio04/aac/mid/stream.aac?
+#DESCRIPTION Radio Westfalica - Dein Rock Classic Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinschlager/low/stream.mp3?
+#DESCRIPTION Radio Westfalica - Dein Schlager Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deintop40/mid/stream.aac?
+#DESCRIPTION Radio Westfalica - Dein Top40 Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinurban/mid/stream.aac?
+#DESCRIPTION Radio Westfalica - Dein Urban Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinradio05/aac/mid/stream.aac?
+#DESCRIPTION Radio Westfalica - Dein Sommer Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinevent/mid/stream.aac?
+#DESCRIPTION Radio Westfalica - Dein Weihnachts Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Ostseewelle
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ostseewelle.stream11.radiohost.de/ostseewelle-nord_mp3-192
