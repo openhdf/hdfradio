@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 10.10.2025 17:28 by Team www.hdfreaks.cc
+#DESCRIPTION Update 11.10.2025 10:21 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -10323,3 +10323,23 @@
 #DESCRIPTION Q-Music
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//28563.live.streamtheworld.com/NRJBELGIEAAC.aac
 #DESCRIPTION NRJ Belgique
+#SERVICE 1:64:D:0:0:0:0:0:0:0:
+#DESCRIPTION Irland
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ----- Folk Alley -----
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//freshgrass.streamguys1.com/folkalley-128mp3
+#DESCRIPTION Folk Alley - 24-7 hosted music stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//freshgrass.streamguys1.com/freshcuts-128mp3
+#DESCRIPTION Folk Alley - Fresh Cuts
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//freshgrass.streamguys1.com/ss1-128mp3
+#DESCRIPTION Folk Alley - Classic Folk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//freshgrass.streamguys1.com/irish-128mp3
+#DESCRIPTION Folk Alley - Irish Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//freshgrass.streamguys1.com/folkalley-holiday-128mp3
+#DESCRIPTION Folk Alley - Halloween Scream Stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ----- Mixed Stations -----
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast02.siamsa.ie%3a8000/radio.mp3?
+#DESCRIPTION Radio Siamsa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//solid24.streamupsolutions.com/proxy/vbkiacud?mp=/live
+#DESCRIPTION Irish Pub Radio
