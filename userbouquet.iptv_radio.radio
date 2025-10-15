@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 13.10.2025 16:16 by Team www.hdfreaks.cc
+#DESCRIPTION Update 15.10.2025 19:19 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -5699,6 +5699,18 @@
 #DESCRIPTION Spoon Radio - Alternative Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge06.streamonkey.net/radiozuerileu-live
 #DESCRIPTION Radio ZüriLEU
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chmedia.streamabc.net/79-ffm-mp3-192-2470075?
+#DESCRIPTION Flashback FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chmedia.streamabc.net/79-r24-mp3-192-6659699?
+#DESCRIPTION Radio 24
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chmedia.streamabc.net/79-r32-mp3-192-5284783?
+#DESCRIPTION Radio 32
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chmedia.streamabc.net/79-fm1-mp3-192-7523806?
+#DESCRIPTION Radio FM1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chmedia.streamabc.net/79-pilatus-mp3-192-4664468?
+#DESCRIPTION Radio Pilatus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.streambase.ch/rsunshine/mp3-128/direct/?
+#DESCRIPTION Sunshine Radio CH
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Niederlande
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
