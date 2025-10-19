@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 15.10.2025 19:19 by Team www.hdfreaks.cc
+#DESCRIPTION Update 19.10.2025 18:10 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1564,7 +1564,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/bawue/aac-128
 #DESCRIPTION ROCK FM - Baden-Wuerttemberg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/metallica/aac-128
-#DESCRIPTION ROCK FM - Metallica
+#DESCRIPTION ROCK FM - We will Rock you Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/metal/aac-128
 #DESCRIPTION ROCK FM - Metal
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen2.de/deutschrock/mp3-128
