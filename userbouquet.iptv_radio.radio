@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 19.10.2025 18:10 by Team www.hdfreaks.cc
+#DESCRIPTION Update 23.10.2025 19:08 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2453,7 +2453,7 @@
 #DESCRIPTION Mixed Channels - Nova Classic Rock
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION ⇒ Mixed Channels Pop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//calm-tooth-a5d0.friese-scholz.workers.dev/radiomw
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radiomw.de/radiomw
 #DESCRIPTION Mixed Channels - Radio Mittelweser
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice4.abradio.cz/depeche128.mp3
 #DESCRIPTION Mixed Channels - Radio Depeche Mode - PŘEHRÁT | radia.cz
