@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 23.10.2025 19:08 by Team www.hdfreaks.cc
+#DESCRIPTION Update 27.10.2025 17:58 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -279,6 +279,12 @@
 #DESCRIPTION 80s80s - In the Mix
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/italohits/mp3-192/homepage/
 #DESCRIPTION 80s80s - Italo Disco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/italodiscomix/mp3-192/streams.80s80s.de/
+#DESCRIPTION 80s80s - Italo Disco in the Mix 192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/italodiscomix/mp3-128/streams.80s80s.de/
+#DESCRIPTION 80s80s - Italo Disco in the Mix 128
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/italodiscomix/aac-64/streams.80s80s.de/
+#DESCRIPTION 80s80s - Italo Disco in the Mix AAC+
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/livemusic/mp3-192/homepage/
 #DESCRIPTION 80s80s - Live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/summerhits/mp3-192/homepage/
