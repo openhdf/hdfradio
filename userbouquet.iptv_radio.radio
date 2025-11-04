@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 27.10.2025 17:58 by Team www.hdfreaks.cc
+#DESCRIPTION Update 04.11.2025 18:30 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2491,44 +2491,46 @@
 #DESCRIPTION Mixed Channels - Karls Erlebnis - Radio!
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION ⇒ Mixed Channels Miscellaneous
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radio-matchbox.de/listen/matchbox/radio.mp3
-#DESCRIPTION Mixed Channels - RadioMatchbox
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server31053.streamplus.de/;stream.mp3
-#DESCRIPTION Mixed Channels - TechnikRADIO-24 Stunden am Tag!
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webstream.galaxy-oberfranken.de/galaxy-oberfranken.mp3
-#DESCRIPTION Mixed Channels - Galaxy-Oberfranken
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.104.6rtl.com/rtl-live/mp3-128/konsole/
+#DESCRIPTION Mixed Channels - 104.6 RTL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//topradio-de-hz-fal-stream02-cluster01.radiohost.de/kissfm_mp3-192
 #DESCRIPTION Mixed Channels - 98.8 KISS FM - Der Beat von Berlin!
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//antnds.streamabc.net/ands-antenneschlager-mp3-192-8742257
 #DESCRIPTION Mixed Channels - Antenne Schlager
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.104.6rtl.com/rtl-live/mp3-128/konsole/
-#DESCRIPTION Mixed Channels - 104.6 RTL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bytefm.cast.addradio.de/bytefm/main/mid/stream.mp3
-#DESCRIPTION Mixed Channels - ByteFM - für gute Musik
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//air.jazz.w3.at/jazzw3.mp3
-#DESCRIPTION Mixed Channels - JazzW3
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamer.psyradio.org%3a8010/;listen.mp3
-#DESCRIPTION Mixed Channels - psyradio * fm - progressive
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamer.psyradio.org%3a8020/;listen.mp3
-#DESCRIPTION Mixed Channels - psyradio * fm - chillout
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast.magicstreams.gr/sc/psyndora/stream
-#DESCRIPTION Mixed Channels - Psyndora Psytrance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast.magicstreams.gr/sc/psychill/stream
-#DESCRIPTION Mixed Channels - Psyndora Chillout
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.kickfm.eu/mp3-hq
-#DESCRIPTION Mixed Channels - kick!fm
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//autozugradio.stream32.radiohost.de/autozugradio-blau_mp3-192
 #DESCRIPTION Mixed Channels - Autozugradio Sylt
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio21.streamabc.net/radio21-radio21dabns-mp3-256-5529609
-#DESCRIPTION Mixed Channels - The Wolf *Deutschlands Country Radio*
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-nflradio-mp3-192-6235135
-#DESCRIPTION Mixed Channels - RTL NFL Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ukwesta.streaming.broadcast.radio/heatmallorca?1700222273501=
-#DESCRIPTION Mixed Channels - Heat Mallorca
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bytefm.cast.addradio.de/bytefm/main/mid/stream.mp3
+#DESCRIPTION Mixed Channels - ByteFM - für gute Musik
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kathy.torontocast.com%3a1825/stream
 #DESCRIPTION Mixed Channels - CINEMIX - Film Music Station
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream1-epic-lounge.radiohost.de/hotel-lounge?ref=keepone
 #DESCRIPTION Mixed Channels - Epic Radio - Hotel Lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webstream.galaxy-oberfranken.de/galaxy-oberfranken.mp3
+#DESCRIPTION Mixed Channels - Galaxy-Oberfranken
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//a10.asurahosting.com%3a8850/radio.mp3
+#DESCRIPTION Mixed Channels - Hard Dance Family Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ukwesta.streaming.broadcast.radio/heatmallorca?1700222273501=
+#DESCRIPTION Mixed Channels - Heat Mallorca
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//air.jazz.w3.at/jazzw3.mp3
+#DESCRIPTION Mixed Channels - JazzW3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.kickfm.eu/mp3-hq
+#DESCRIPTION Mixed Channels - kick!fm
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast.magicstreams.gr/sc/psychill/stream
+#DESCRIPTION Mixed Channels - Psyndora Chillout
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast.magicstreams.gr/sc/psyndora/stream
+#DESCRIPTION Mixed Channels - Psyndora Psytrance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamer.psyradio.org%3a8020/;listen.mp3
+#DESCRIPTION Mixed Channels - psyradio * fm - chillout
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamer.psyradio.org%3a8010/;listen.mp3
+#DESCRIPTION Mixed Channels - psyradio * fm - progressive
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radio-matchbox.de/listen/matchbox/radio.mp3
+#DESCRIPTION Mixed Channels - RadioMatchbox
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-nflradio-mp3-192-6235135
+#DESCRIPTION Mixed Channels - RTL NFL Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server31053.streamplus.de/;stream.mp3
+#DESCRIPTION Mixed Channels - TechnikRADIO-24 Stunden am Tag!
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio21.streamabc.net/radio21-radio21dabns-mp3-256-5529609
+#DESCRIPTION Mixed Channels - The Wolf *Deutschlands Country Radio*
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION ⇒ Mixed Channels International
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paineldj5.com.br%3a20087/stream
