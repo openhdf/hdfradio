@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 07.11.2025 15:41 by Team www.hdfreaks.cc
+#DESCRIPTION Update 09.11.2025 20:06 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -9189,6 +9189,8 @@
 #DESCRIPTION YLE Radio Suomi - Turku
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//yleradiolive.akamaized.net/hls/live/2027674/in-YleX/256/variant.m3u8
 #DESCRIPTION YLE YLEX
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//yleradiolive.akamaized.net/hls/live/2027672/in-YleRadio1/256/variant.m3u8
+#DESCRIPTION YLE Radio 1
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ms-live-suomipop.nm-elemental.nelonenmedia.fi/master-256000.m3u8
 #DESCRIPTION Radio Suomipop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ms-live-loop.nm-elemental.nelonenmedia.fi/master-256000.m3u8
