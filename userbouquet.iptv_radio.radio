@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 09.11.2025 20:06 by Team www.hdfreaks.cc
+#DESCRIPTION Update 12.11.2025 17:43 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2423,40 +2423,40 @@
 #DESCRIPTION FluxFM - John Reed Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION ⇒ Mixed Channels Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bestofrockfm.stream.vip/rammstein/mp3-192/bestofrock.fm/
-#DESCRIPTION Mixed Channels - Rammstein.FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//metallica.hostingradio.ru/metallica96.aacp
-#DESCRIPTION Mixed Channels - Maximum Metallica
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hdradioclassicrock-rfritschka.radioca.st/stream
-#DESCRIPTION Mixed Channels - HD Radio - Classic Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//64.71.133.122%3a8000/;
-#DESCRIPTION Mixed Channels - Soft Classic Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//162.244.80.131%3a8020/stream
-#DESCRIPTION Mixed Channels - Radio Shadow Deep Tracks
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.radiohelgoland.de%3a8002/live
-#DESCRIPTION Mixed Channels - The Rock! Radio Helgoland
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//munichhh.stream.vip/live/mp3-320/
-#DESCRIPTION Mixed Channels - Munichs Hardest Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//krautrockworld.stream.laut.fm/krautrockworld
-#DESCRIPTION Mixed Channels - Krautrock World
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//onairmediagroup.live24.gr/legend1016xanthi
-#DESCRIPTION Mixed Channels - Legend FM 101.6 Rock Oldies
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stric6.streamakaci.com%3a80/4u80s.mp3
 #DESCRIPTION Mixed Channels - ABC - Stars 80` USA
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//antares.dribbcast.com/proxy/s8180/stream
-#DESCRIPTION Mixed Channels - Niche Radio - 24-7 Classic Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.emisorasmusicales.net/radio/8060/rockstar.mp3
-#DESCRIPTION Mixed Channels - RockStar
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fm02-ice.stream.khz.se/fm02_mp3
+#DESCRIPTION Mixed Channels - Bandit Rock 106.3
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//2217.cloudrad.io/;stream
 #DESCRIPTION Mixed Channels - HardRadio®
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hydra.cdnstream.com/1521_128
 #DESCRIPTION Mixed Channels - Hard Rock Heaven
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fm02-ice.stream.khz.se/fm02_mp3
-#DESCRIPTION Mixed Channels - Bandit Rock 106.3
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio21.streamabc.net/radio21-hannover-mp3-192-3735655
-#DESCRIPTION Mixed Channels - Radio 21 - bester ROCK 'N POP
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hdradioclassicrock-rfritschka.radioca.st/stream
+#DESCRIPTION Mixed Channels - HD Radio - Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//krautrockworld.stream.laut.fm/krautrockworld
+#DESCRIPTION Mixed Channels - Krautrock World
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//onairmediagroup.live24.gr/legend1016xanthi
+#DESCRIPTION Mixed Channels - Legend FM 101.6 Rock Oldies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//metallica.hostingradio.ru/metallica96.aacp
+#DESCRIPTION Mixed Channels - Maximum Metallica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//munichhh.stream.vip/live/mp3-320/
+#DESCRIPTION Mixed Channels - Munichs Hardest Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//antares.dribbcast.com/proxy/s8180/stream
+#DESCRIPTION Mixed Channels - Niche Radio - 24-7 Classic Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server-51.stream-server.nl%3a8427/
 #DESCRIPTION Mixed Channels - Nova Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio21.streamabc.net/radio21-hannover-mp3-192-3735655
+#DESCRIPTION Mixed Channels - Radio 21 - bester ROCK 'N POP
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//162.244.80.131%3a8020/stream
+#DESCRIPTION Mixed Channels - Radio Shadow Deep Tracks
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bestofrockfm.stream.vip/rammstein/mp3-192/bestofrock.fm/
+#DESCRIPTION Mixed Channels - Rammstein.FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.emisorasmusicales.net/radio/8060/rockstar.mp3
+#DESCRIPTION Mixed Channels - RockStar
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//64.71.133.122%3a8000/;
+#DESCRIPTION Mixed Channels - Soft Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.radiohelgoland.de%3a8002/live:17
+#DESCRIPTION Mixed Channels - The Rock! Radio Helgoland
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION ⇒ Mixed Channels Pop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamsrv-austrianpub.kechit.eu/main_lo
