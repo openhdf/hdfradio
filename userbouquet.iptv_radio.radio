@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 12.11.2025 17:43 by Team www.hdfreaks.cc
+#DESCRIPTION Update 13.11.2025 18:06 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2491,6 +2491,8 @@
 #DESCRIPTION Mixed Channels - Radio Wellenrausch
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge66.streamonkey.net/fho-schwarzwaldradiolive/stream/mp3
 #DESCRIPTION Mixed Channels - Schwarzwaldradio - Classic Hits & Super Oldies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamd.stream31.radiohost.de/streamd-live_mp3-192
+#DESCRIPTION Mixed Channels - StreamD - Radio aus Düsseldorf
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION ⇒ Mixed Channels Miscellaneous
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.104.6rtl.com/rtl-live/mp3-128/konsole/
