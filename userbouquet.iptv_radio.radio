@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 13.11.2025 18:06 by Team www.hdfreaks.cc
+#DESCRIPTION Update 18.11.2025 18:47 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -7105,20 +7105,26 @@
 #DESCRIPTION rbb - radioeins (Indie, Alternative)
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio Paloma
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.silvacast.com/RPLive/mp3-128
-#DESCRIPTION Radio Paloma live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pool.radiopaloma.de/RP-Partyschlager.mp3
-#DESCRIPTION Radio Paloma Partyschlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.silvacast.com/RPLive/mp3-128:181125dw
+#DESCRIPTION Radio Paloma - live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pool.radiopaloma.de/RADIOPALOMA-NRW.mp3
+#DESCRIPTION Radio Paloma - NRW
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pool.radiopaloma.de/RADIOPALOMA-SN.mp3
+#DESCRIPTION Radio Paloma - Sachsen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pool.radiopaloma.de/RP-PartyEXTREM.mp3
+#DESCRIPTION Radio Paloma - Party Extrem
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pool.radiopaloma.de/RP-Fresh.mp3
-#DESCRIPTION Radio Paloma Fresh
+#DESCRIPTION Radio Paloma - Fresh
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pool.radiopaloma.de/RP-Partyschlager.mp3
+#DESCRIPTION Radio Paloma - Party Schlager
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pool.radiopaloma.de/RP-Kultschlager.mp3
-#DESCRIPTION Radio Paloma Kultschlager
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pool.radiopaloma.de/RP-Kuschelschlager.mp3
-#DESCRIPTION Radio Paloma Kuschelschlager
+#DESCRIPTION Radio Paloma - Kult Schlager
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pool.radiopaloma.de/RP-Volksmusik.mp3
-#DESCRIPTION Radio Paloma Volksmusik
+#DESCRIPTION Radio Paloma - Volksmusik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pool.radiopaloma.de/RP-Kuschelschlager.mp3
+#DESCRIPTION Radio Paloma - Kuschel Schlager
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pool.radiopaloma.de/RP-XMAS.mp3
-#DESCRIPTION Radio Paloma X-Mas
+#DESCRIPTION Radio Paloma - X-Mas
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio Summernight
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiosummernight.stream.laut.fm/radiosummernight
