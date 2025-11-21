@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 18.11.2025 18:47 by Team www.hdfreaks.cc
+#DESCRIPTION Update 21.11.2025 14:25 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2527,10 +2527,14 @@
 #DESCRIPTION Mixed Channels - psyradio * fm - chillout
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamer.psyradio.org%3a8010/;listen.mp3
 #DESCRIPTION Mixed Channels - psyradio * fm - progressive
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.genx-stream.de%3a9902/stream
+#DESCRIPTION Mixed Channels - Radio Extasy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radio-matchbox.de/listen/matchbox/radio.mp3
 #DESCRIPTION Mixed Channels - RadioMatchbox
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-nflradio-mp3-192-6235135
 #DESCRIPTION Mixed Channels - RTL NFL Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen.radioking.com/radio/781186/stream/848801
+#DESCRIPTION Mixed Channels - T & T Infinity Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server31053.streamplus.de/;stream.mp3
 #DESCRIPTION Mixed Channels - TechnikRADIO-24 Stunden am Tag!
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio21.streamabc.net/radio21-radio21dabns-mp3-256-5529609
