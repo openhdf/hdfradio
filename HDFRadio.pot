@@ -157,6 +157,9 @@ msgstr ""
 msgid "After playing Youtube"
 msgstr ""
 
+msgid "Album infos"
+msgstr ""
+
 msgid "Album:"
 msgstr ""
 
@@ -196,6 +199,9 @@ msgid "Autoupdate"
 msgstr ""
 
 msgid "Back"
+msgstr ""
+
+msgid "Biography"
 msgstr ""
 
 msgid "Bitrate"
@@ -711,6 +717,9 @@ msgstr ""
 msgid "No Artist found"
 msgstr ""
 
+msgid "No biography could be found for this artist."
+msgstr ""
+
 msgid "No Songtitle found"
 msgstr ""
 
@@ -955,9 +964,6 @@ msgid ""
 msgstr ""
 
 msgid "Radio list not exists!"
-msgstr ""
-
-msgid "Radio list update failed!"
 msgstr ""
 
 msgid "Radio list update successful."
