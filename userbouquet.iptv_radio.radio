@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 21.11.2025 15:31 by Team www.hdfreaks.cc
+#DESCRIPTION Update 25.11.2025 21:00 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -7607,6 +7607,8 @@
 #DESCRIPTION Hirschmilch Radio - Chillout
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hirschmilch.de%3a7000/electronic.mp3;2
 #DESCRIPTION Hirschmilch Radio - Electronic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hirschmilch.de%3a7501/organic-house.mp3
+#DESCRIPTION Hirschmilch Radio - Organic-House
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hirschmilch.de%3a7000/prog-house.mp3
 #DESCRIPTION Hirschmilch Radio - Prog-House
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hirschmilch.de%3a7000/progressive.mp3
