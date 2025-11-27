@@ -9211,7 +9211,7 @@
 #DESCRIPTION Radio Sandels
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.madmenmedia.se/popfm_high
 #DESCRIPTION POP fm
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a/aud-stream-hitmix.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//aud-stream-hitmix.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
 #DESCRIPTION HitMix
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
 #DESCRIPTION Radio Rock
