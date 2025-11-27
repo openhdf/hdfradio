@@ -1,3 +1,9 @@
+v2.22.8:
+- added option to display the artist's biography
+- fixed an issue with calculating song length
+- translations updated (thanks @Warder, @Orlandox and @paps)
+- some small changes
+
 v2.22.7:
 - reshuffle playlist if playback repeats
 - fixed an issue when updating the radio list
