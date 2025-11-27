@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 25.11.2025 21:00 by Team www.hdfreaks.cc
+#DESCRIPTION Update 27.11.2025 20:00 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -9201,9 +9201,9 @@
 #DESCRIPTION YLE YLEX
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//yleradiolive.akamaized.net/hls/live/2027672/in-YleRadio1/256/variant.m3u8
 #DESCRIPTION YLE Radio 1
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ms-live-suomipop.nm-elemental.nelonenmedia.fi/master-256000.m3u8
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
 #DESCRIPTION Radio Suomipop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ms-live-loop.nm-elemental.nelonenmedia.fi/master-256000.m3u8
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//aud-stream-loop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
 #DESCRIPTION Loop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ext-stream-pl06.nm-elemental.nelonenmedia.fi/HEF/fragments/index-128k.m3u8
 #DESCRIPTION Aito Iskelmä - Finnhits
@@ -9211,9 +9211,9 @@
 #DESCRIPTION Radio Sandels
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.madmenmedia.se/popfm_high
 #DESCRIPTION POP fm
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ms-live-hitmix.nm-elemental.nelonenmedia.fi/master-256000.m3u8
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a/aud-stream-hitmix.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
 #DESCRIPTION HitMix
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ms-live-radiorock.nm-elemental.nelonenmedia.fi/master-256000.m3u8
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
 #DESCRIPTION Radio Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wr2.downtime.fi/kaakko.aac
 #DESCRIPTION RadioSE
