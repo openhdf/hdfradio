@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 27.11.2025 20:00 by Team www.hdfreaks.cc
+#DESCRIPTION Update 30.11.2025 19:46 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2061,14 +2061,6 @@
 #DESCRIPTION WeaReoNe - HARDBASE.FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.trancebase.fm/tunein-mp3
 #DESCRIPTION WeaReoNe - TRANCEBASE.FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.coretime.fm/tunein-mp3
-#DESCRIPTION WeaReoNe - CORETIME.FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.clubtime.fm/tunein-mp3
-#DESCRIPTION WeaReoNe - CLUBTIME.FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.teatime.fm/tunein-mp3
-#DESCRIPTION WeaReoNe - TEATIME.FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.replay.fm/tunein-mp3
-#DESCRIPTION WeaReoNe - REPLAY.FM
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION egoFM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cast.egofm.de/egofm.mp3
