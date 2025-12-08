@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 04.12.2025 18:57 by Team www.hdfreaks.cc
+#DESCRIPTION Update 08.12.2025 11:40 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1043,6 +1043,8 @@
 #DESCRIPTION Rock Antenne - Hamburg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1-webradio.rockantenne.de/rockantenne-bayern
 #DESCRIPTION Rock Antenne - Bayern
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s1-webradio.rockantenne.nrw/rockantenne-nrw/stream/mp3
+#DESCRIPTION Rock Antenne - NRW
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s2-webradio.rockantenne.at/rockantenne-oesterreich
 #DESCRIPTION Rock Antenne - Österreich
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s3-webradio.rockantenne.de/gothic
