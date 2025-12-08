@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 08.12.2025 11:40 by Team www.hdfreaks.cc
+#DESCRIPTION Update 08.12.2025 12:12 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2431,6 +2431,8 @@
 #DESCRIPTION Mixed Channels - Krautrock World
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//onairmediagroup.live24.gr/legend1016xanthi
 #DESCRIPTION Mixed Channels - Legend FM 101.6 Rock Oldies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.pcradio.ru/Linkin_Park-hi
+#DESCRIPTION Mixed Channels - Linkin Park
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//metallica.hostingradio.ru/metallica96.aacp
 #DESCRIPTION Mixed Channels - Maximum Metallica
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//munichhh.stream.vip/live/mp3-320/
