@@ -1,3 +1,8 @@
+v2.22.9:
+- info screen revised
+- searching for infos improved
+- some small changes
+
 v2.22.8:
 - added option to display the artist's biography
 - fixed an issue with calculating song length
