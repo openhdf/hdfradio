@@ -1,3 +1,15 @@
+v2.22.11:
+- added blacklist for YouTube video searches
+- added blacklist for information searches
+- improved determination of song length
+- some small changes
+
+v2.22.10:
+- improved recording function via Streamripper
+- fixed an issue when searching for infos in player
+- fixed issue with determining song length
+- some small changes and fixes
+
 v2.22.9:
 - info screen revised
 - searching for infos improved
