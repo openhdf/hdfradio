@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 08.12.2025 12:12 by Team www.hdfreaks.cc
+#DESCRIPTION Update 18.12.2025 20:10 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -335,6 +335,8 @@
 #DESCRIPTION Perfect Radio - Dancehits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n07.radiojar.com/asngk2sg798uv?
 #DESCRIPTION Perfect Radio - Deep House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n05.radiojar.com/fvn06kg1uucwv?:16122025
+#DESCRIPTION Perfect Radio - Eighties Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//n0a.radiojar.com/vz5fpmm0azuvv?
 #DESCRIPTION Perfect Radio - Elvis
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//n0d.radiojar.com/rpgbqv7hb52vv?
@@ -371,6 +373,8 @@
 #DESCRIPTION Perfect Radio - Softrock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n10.radiojar.com/2n44t88fkzzuv?
 #DESCRIPTION Perfect Radio - Soul Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n13.radiojar.com/kekymez99bcwv?:16122025
+#DESCRIPTION Perfect Radio - Trance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n01.radiojar.com/32m0y5ubt18uv?
 #DESCRIPTION Perfect Radio - Wavemusic
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
