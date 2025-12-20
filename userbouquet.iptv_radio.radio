@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 20.12.2025 20:34 by Team www.hdfreaks.cc
+#DESCRIPTION Update 20.12.2025 21:00 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -595,110 +595,110 @@
 #DESCRIPTION Antenne Bayern
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/antenne/stream/mp3
 #DESCRIPTION Antenne Bayern - Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/top-40/stream/mp3
-#DESCRIPTION Antenne Bayern - Top 40
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/80er-kulthits/stream/mp3
-#DESCRIPTION Antenne Bayern - 80er Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/in-the-mix/stream/mp3
-#DESCRIPTION Antenne Bayern - in the mix
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/90er-hits/stream/mp3
-#DESCRIPTION Antenne Bayern - 90er Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/classic-rock-live/stream/mp3
-#DESCRIPTION Antenne Bayern - Classic Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/2000er-hits/stream/mp3
-#DESCRIPTION Antenne Bayern - 2000er Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/2010er-hits/stream/mp3
-#DESCRIPTION Antenne Bayern - 2010er Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/nur-die-musik/stream/mp3
-#DESCRIPTION Antenne Bayern - Nur die Musik
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/weihnachts-hits/stream/mp3
-#DESCRIPTION Antenne Bayern - Weihnachtshits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/lounge/stream/mp3
-#DESCRIPTION Antenne Bayern - Weihnachtslounge
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/hits-fuer-kids/stream/mp3
-#DESCRIPTION Antenne Bayern - Weihnachtshits für Kids
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/bayerische-weihnacht/stream/mp3
-#DESCRIPTION Antenne Bayern - Bayerische Weihnacht
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/coffee/stream/mp3
-#DESCRIPTION Antenne Bayern - Coffee Music
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/happy-hits/stream/mp3
-#DESCRIPTION Antenne Bayern - Happy Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/greatest-hits/stream/mp3
-#DESCRIPTION Antenne Bayern - Greatest Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/fresh/stream/mp3
-#DESCRIPTION Antenne Bayern - Fresh
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/antenne-bayern-italo-hits/stream/mp3
-#DESCRIPTION Antenne Bayern - Italo Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/das-schlager-karussell/stream/mp3
-#DESCRIPTION Antenne Bayern - Schlagersahne
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/lovesongs/stream/mp3
-#DESCRIPTION Antenne Bayern - Lovesongs
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/event/stream/mp3
-#DESCRIPTION Antenne Bayern - Grill Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/workout-hits/stream/mp3
-#DESCRIPTION Antenne Bayern - Workout Mix
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/mallorca-party/stream/mp3
-#DESCRIPTION Antenne Bayern - Mallorca Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/party-hits/stream/mp3
-#DESCRIPTION Antenne Bayern - Party Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/halli-galli-gaudi/stream/mp3
-#DESCRIPTION Antenne Bayern - Halli Galli Gaudi
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/bayern-sound/stream/mp3
-#DESCRIPTION Antenne Bayern - Bayern Sound
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/deutsch-pop/stream/mp3
-#DESCRIPTION Antenne Bayern - Deutsch Pop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/pop-xxl/stream/mp3
-#DESCRIPTION Antenne Bayern - Pop XXL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/dance-xxl/stream/mp3
-#DESCRIPTION Antenne Bayern - Dance XXL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/top-1000/stream/mp3
-#DESCRIPTION Antenne Bayern - Top 1000
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/70er-hits/stream/mp3
 #DESCRIPTION Antenne Bayern - 70er Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/70er-rock/stream/mp3
 #DESCRIPTION Antenne Bayern - 70er Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/antenne-bayern-80er-disco-hits/stream/mp3
 #DESCRIPTION Antenne Bayern - 80er Disco Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/80er-rock/stream/mp3
-#DESCRIPTION Antenne Bayern - 80er Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/80er-kulthits/stream/mp3
+#DESCRIPTION Antenne Bayern - 80er Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/antenne-bayern-80er-party/stream/mp3
 #DESCRIPTION Antenne Bayern - 80er Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/90er-rock/stream/mp3
-#DESCRIPTION Antenne Bayern - 90er Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/80er-rock/stream/mp3
+#DESCRIPTION Antenne Bayern - 80er Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/antenne-bayern-90er-eurodance/stream/mp3
 #DESCRIPTION Antenne Bayern - 90er Eurodance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/90er-hits/stream/mp3
+#DESCRIPTION Antenne Bayern - 90er Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/antenne-bayern-90er-party/stream/mp3
 #DESCRIPTION Antenne Bayern - 90er Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/relax/stream/mp3
-#DESCRIPTION Antenne Bayern - Relax
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/black-beatz/stream/mp3
-#DESCRIPTION Antenne Bayern - Black Music
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/antenne-bayern-ndw/stream/mp3
-#DESCRIPTION Antenne Bayern - NDW
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/fruehlings-hits/stream/mp3
-#DESCRIPTION Antenne Bayern - Frühlings Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/rockantenne-bayern/stream/mp3
-#DESCRIPTION Antenne Bayern - ROCK ANTENNE Bayern
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/country-antenne/stream/mp3
-#DESCRIPTION Antenne Bayern - COUNTRY ANTENNE
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/xmas-rock/stream/mp3
-#DESCRIPTION Antenne Bayern - Xmas Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/chillout/stream/mp3
-#DESCRIPTION Antenne Bayern - CHILLOUT ANTENNE
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/oldie-antenne-event/stream/mp3
-#DESCRIPTION Antenne Bayern - Weihnachts-Classics
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/oldie-antenne/stream/mp3
-#DESCRIPTION Antenne Bayern - OLDIE ANTENNE Live - 60er, 70er, 80er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/sommer-hits/stream/mp3
-#DESCRIPTION Antenne Bayern - Sommer Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/faschings-hits/stream/mp3
-#DESCRIPTION Antenne Bayern - Faschings Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/oktoberfest-hits/stream/mp3
-#DESCRIPTION Antenne Bayern - Oktoberfest Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/90er-rock/stream/mp3
+#DESCRIPTION Antenne Bayern - 90er Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/2000er-hits/stream/mp3
+#DESCRIPTION Antenne Bayern - 2000er Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/2010er-hits/stream/mp3
+#DESCRIPTION Antenne Bayern - 2010er Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/apres-ski/stream/mp3
 #DESCRIPTION Antenne Bayern - Après Ski
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/bayerische-weihnacht/stream/mp3
+#DESCRIPTION Antenne Bayern - Bayerische Weihnacht
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/bayern-sound/stream/mp3
+#DESCRIPTION Antenne Bayern - Bayern Sound
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/black-beatz/stream/mp3
+#DESCRIPTION Antenne Bayern - Black Music
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/chillout/stream/mp3
+#DESCRIPTION Antenne Bayern - CHILLOUT ANTENNE
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/classic-rock-live/stream/mp3
+#DESCRIPTION Antenne Bayern - Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/coffee/stream/mp3
+#DESCRIPTION Antenne Bayern - Coffee Music
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/country-antenne/stream/mp3
+#DESCRIPTION Antenne Bayern - COUNTRY ANTENNE
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/dance-xxl/stream/mp3
+#DESCRIPTION Antenne Bayern - Dance XXL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/deutsch-pop/stream/mp3
+#DESCRIPTION Antenne Bayern - Deutsch Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/faschings-hits/stream/mp3
+#DESCRIPTION Antenne Bayern - Faschings Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/fresh/stream/mp3
+#DESCRIPTION Antenne Bayern - Fresh
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/fruehlings-hits/stream/mp3
+#DESCRIPTION Antenne Bayern - Frühlings Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/greatest-hits/stream/mp3
+#DESCRIPTION Antenne Bayern - Greatest Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/event/stream/mp3
+#DESCRIPTION Antenne Bayern - Grill Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/halli-galli-gaudi/stream/mp3
+#DESCRIPTION Antenne Bayern - Halli Galli Gaudi
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/happy-hits/stream/mp3
+#DESCRIPTION Antenne Bayern - Happy Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/herbst-hits/stream/mp3
 #DESCRIPTION Antenne Bayern - Herbst Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/in-the-mix/stream/mp3
+#DESCRIPTION Antenne Bayern - in the mix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/antenne-bayern-italo-hits/stream/mp3
+#DESCRIPTION Antenne Bayern - Italo Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/lovesongs/stream/mp3
+#DESCRIPTION Antenne Bayern - Lovesongs
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/mallorca-party/stream/mp3
+#DESCRIPTION Antenne Bayern - Mallorca Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/antenne-bayern-ndw/stream/mp3
+#DESCRIPTION Antenne Bayern - NDW
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/nur-die-musik/stream/mp3
+#DESCRIPTION Antenne Bayern - Nur die Musik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/oktoberfest-hits/stream/mp3
+#DESCRIPTION Antenne Bayern - Oktoberfest Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/oldie-antenne/stream/mp3
+#DESCRIPTION Antenne Bayern - OLDIE ANTENNE Live - 60er, 70er, 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/party-hits/stream/mp3
+#DESCRIPTION Antenne Bayern - Party Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/pop-xxl/stream/mp3
+#DESCRIPTION Antenne Bayern - Pop XXL
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/relax/stream/mp3
+#DESCRIPTION Antenne Bayern - Relax
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/rockantenne-bayern/stream/mp3
+#DESCRIPTION Antenne Bayern - ROCK ANTENNE Bayern
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/das-schlager-karussell/stream/mp3
+#DESCRIPTION Antenne Bayern - Schlagersahne
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/sommer-hits/stream/mp3
+#DESCRIPTION Antenne Bayern - Sommer Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/top-40/stream/mp3
+#DESCRIPTION Antenne Bayern - Top 40
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/top-1000/stream/mp3
+#DESCRIPTION Antenne Bayern - Top 1000
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/oldie-antenne-event/stream/mp3
+#DESCRIPTION Antenne Bayern - Weihnachts-Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/weihnachts-hits/stream/mp3
+#DESCRIPTION Antenne Bayern - Weihnachtshits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/hits-fuer-kids/stream/mp3
+#DESCRIPTION Antenne Bayern - Weihnachtshits für Kids
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/lounge/stream/mp3
+#DESCRIPTION Antenne Bayern - Weihnachtslounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/workout-hits/stream/mp3
+#DESCRIPTION Antenne Bayern - Workout Mix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/xmas-rock/stream/mp3
+#DESCRIPTION Antenne Bayern - Xmas Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/leikis-top-100/stream/mp3
 #DESCRIPTION Antenne Bayern - Leikis Top 100
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/indras-top-100/stream/mp3
