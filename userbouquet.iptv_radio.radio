@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 20.12.2025 11:56 by Team www.hdfreaks.cc
+#DESCRIPTION Update 20.12.2025 20:34 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -612,7 +612,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/nur-die-musik/stream/mp3
 #DESCRIPTION Antenne Bayern - Nur die Musik
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/weihnachts-hits/stream/mp3
-#DESCRIPTION Antenne Bayern - Weihnachts Hits
+#DESCRIPTION Antenne Bayern - Weihnachtshits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/lounge/stream/mp3
 #DESCRIPTION Antenne Bayern - Weihnachtslounge
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/hits-fuer-kids/stream/mp3
