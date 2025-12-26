@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 25.12.2025 19:50 by Team www.hdfreaks.cc
+#DESCRIPTION Update 26.12.2025 14:34 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2543,8 +2543,6 @@
 #DESCRIPTION Mixed Channels - Epic Radio - Hotel Lounge
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webstream.galaxy-oberfranken.de/galaxy-oberfranken.mp3
 #DESCRIPTION Mixed Channels - Galaxy-Oberfranken
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//a10.asurahosting.com%3a8850/radio.mp3
-#DESCRIPTION Mixed Channels - Hard Dance Family Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ukwesta.streaming.broadcast.radio/heatmallorca?1700222273501=
 #DESCRIPTION Mixed Channels - Heat Mallorca
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//air.jazz.w3.at/jazzw3.mp3
