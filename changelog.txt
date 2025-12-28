@@ -1,3 +1,11 @@
+v2.22.12:
+- genius.com added as backup for searching song lyrics
+- improved song lyric search on azlyrics.com
+- removed chartlyrics.com
+- DeepL authorization updated
+- filter rules for extracting artist and song expanded
+- some small changes
+
 v2.22.11:
 - added blacklist for YouTube video searches
 - added blacklist for information searches
