@@ -80,10 +80,10 @@ msgstr ""
 msgid "6 hours"
 msgstr ""
 
-msgid "A backup of the favourites was saved in '/tmp'."
+msgid "A backup of your previous logos has been created."
 msgstr ""
 
-msgid "A backup of your previous logos has been created."
+msgid "A backup was saved in '/tmp'."
 msgstr ""
 
 msgid ""
@@ -170,9 +170,6 @@ msgid "Also consider subfolders (sort by folder)."
 msgstr ""
 
 msgid "Also consider subfolders (sorting across all folders)."
-msgstr ""
-
-msgid "Also update the favourites lists?"
 msgstr ""
 
 msgid "Are you sure you want to stop recording?"
@@ -328,9 +325,6 @@ msgid "Choose whether radio logos displayed or not."
 msgstr ""
 
 msgid "Choose whether screensaver displayed or not."
-msgstr ""
-
-msgid "Choose whether the favourites lists should also be updated when the radio list is updated. The names and URLs are compared with the main list."
 msgstr ""
 
 msgid "Choose whether the log file '/tmp/hdfradio_log.txt' should be created or not."
@@ -568,6 +562,9 @@ msgid "Favourites list successfully renamed."
 msgstr ""
 
 msgid "File"
+msgstr ""
+
+msgid "First, update the main list."
 msgstr ""
 
 msgid "Genre:"
@@ -925,7 +922,12 @@ msgstr ""
 msgid "Press OK to rename a playlist."
 msgstr ""
 
-msgid "Press OK to update your radio list."
+msgid ""
+"Press OK to update your favourites list.\n"
+"The names are compared with the main list."
+msgstr ""
+
+msgid "Press OK to update the main list."
 msgstr ""
 
 msgid "Press OK, to delete incomplete recordings, advertisements and empty folders."
@@ -1093,6 +1095,9 @@ msgid "Select the favourites list you want to export."
 msgstr ""
 
 msgid "Select the favourites list you want to rename."
+msgstr ""
+
+msgid "Select the favourites list you want to update."
 msgstr ""
 
 msgid ""
@@ -1366,16 +1371,19 @@ msgstr ""
 msgid "Turn off the TV and let playback run"
 msgstr ""
 
+msgid "Update"
+msgstr ""
+
 msgid "Update check"
+msgstr ""
+
+msgid "Update favourites list"
 msgstr ""
 
 msgid "Update radio list"
 msgstr ""
 
 msgid "Update your image!"
-msgstr ""
-
-msgid "Updated favourites lists:"
 msgstr ""
 
 msgid ""
