@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 26.12.2025 14:34 by Team www.hdfreaks.cc
+#DESCRIPTION Update 04.01.2026 11:34 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -555,11 +555,11 @@
 #DESCRIPTION Antenne NRW - Disco Fever
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiogroup.de/radiogroup-bella-italia/mp3-192?
 #DESCRIPTION Antenne NRW - Bella Italia
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream32.radiohost.de/radiogroup-rock_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream09.radiohost.de/radiogroup-70er_mp3-192
 #DESCRIPTION Antenne NRW - 70er Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-80er-disco-hits/stream/aacp
 #DESCRIPTION Antenne NRW - 80er Disco Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream32.radiohost.de/radiogroup-rock_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream18.radiohost.de/radiogroup-rock_mp3-192
 #DESCRIPTION Antenne NRW - 80er Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream32.radiohost.de/radiogroup-flashback-80er_mp3-192?
 #DESCRIPTION Antenne NRW - 80er Party
@@ -2557,7 +2557,7 @@
 #DESCRIPTION Mixed Channels - psyradio * fm - chillout
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamer.psyradio.org%3a8010/;listen.mp3
 #DESCRIPTION Mixed Channels - psyradio * fm - progressive
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.genx-stream.de%3a9902/stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.radioextasy.de/listen/radioextasy/radio.mp3
 #DESCRIPTION Mixed Channels - Radio Extasy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radio-matchbox.de/listen/matchbox/radio.mp3
 #DESCRIPTION Mixed Channels - RadioMatchbox
@@ -3388,7 +3388,7 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice3.abradio.cz/shadowbox128.mp3
 #DESCRIPTION Drumandbass Radio SHADOWBOX
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice.actve.net/dance-radio128.mp3
-#DESCRIPTION Dance Radio
+#DESCRIPTION Dance Radio CZ
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.danceradio.nl%3a9920
 #DESCRIPTION Dance Radio FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice.abradio.cz%3a8000/helax128.mp3
@@ -3655,18 +3655,6 @@
 #DESCRIPTION Sanctuary Radio - Dark Electro Channel (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//66.94.113.88%3a8000/retro_ultra_hq
 #DESCRIPTION Sanctuary Radio - 80’s Alternative Channel (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro3.flac
-#DESCRIPTION ČRo Vltava (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro-d-dur.flac
-#DESCRIPTION ČRo D-dur (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro-jazz.flac
-#DESCRIPTION ČRo Jazz (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro-radio-wave.flac
-#DESCRIPTION ČRo Radio Wave (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro2-256.ogg
-#DESCRIPTION ČRo Dvojka (Vorbis)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//amp.cesnet.cz%3a8000/cro-radio-junior-256.ogg
-#DESCRIPTION ČRo Rádio Junior (Vorbis)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//secure.live-streams.nl/flac.ogg
 #DESCRIPTION Intense Radio - we love dance (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.linn.co.uk%3a8003/autodj
@@ -10151,8 +10139,6 @@
 #DESCRIPTION The Voice of the Cape
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//tijaniyyah.asuscomm.com%3a8000/?sid=1
 #DESCRIPTION Tijaniyyah Corner - Sudan
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/tiktoktrending/icecast.audio
-#DESCRIPTION Tik Tok Trending from Exclusive Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//185.105.4.106%3a1935/live/radio-95-0/playlist.m3u8
 #DESCRIPTION Traditional FM Music 95.0
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//hiplayer.hibridcdn.net/t/kwmedia-kwshaabiya.m3u8

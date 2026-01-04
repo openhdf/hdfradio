@@ -1,3 +1,9 @@
+v2.22.13:
+- added new method to update favorites list
+- fixed a bug when updating radio list
+- translations updated (thanks @Warder, @Orlandox and @paps)
+- some small changes and fixes
+
 v2.22.12:
 - genius.com added as backup for searching song lyrics
 - improved song lyric search on azlyrics.com
