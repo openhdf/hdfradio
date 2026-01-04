@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 04.01.2026 15:17 by Team www.hdfreaks.cc
+#DESCRIPTION Update 04.01.2026 15:54 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -6411,8 +6411,6 @@
 #DESCRIPTION 80er Zone
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server.bellaradio.it%3a8090/bellaradio.mp3
 #DESCRIPTION Bella Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.controradiolive.info%3a8190/stream/1/
-#DESCRIPTION Controradio Firenze
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//shoutcast.countrypowerstation.net%3a8000/stream/1/
 #DESCRIPTION Country Power Station ITALIA
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//78.129.226.12%3a8700
@@ -6517,8 +6515,6 @@
 #DESCRIPTION Radio Vallebelbo
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream2.vivafm.it%3a8002/stream/1/
 #DESCRIPTION Radio Viva Fm
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioyachtcapri.newradio.it/1
-#DESCRIPTION Radio Yacht Capri
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//116.202.241.212%3a8010/stream
 #DESCRIPTION Venice Classic Radio - Auditorium
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//uk2.streamingpulse.com/ssl/vcr2
@@ -6661,12 +6657,8 @@
 #DESCRIPTION Hits 94 - All The Hits!
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio-edge1.cdnstream.com/5163_128
 #DESCRIPTION Best Net Radio - Poppin Top 40
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//68.168.101.146%3a8415
-#DESCRIPTION Big Man Radio PR
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ais-sa2.cdnstream1.com/2365_128.mp3?
 #DESCRIPTION Boss Country Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ais-sa2.cdnstream1.com/1374_128
-#DESCRIPTION Carolina Classic Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiobash.net%3a2000/stream/wacq/stream
 #DESCRIPTION Classic Hits 580 WACQ and FM 101.1 live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ais-edge105-live365-dal02.cdnstream.com/a06375
@@ -6955,8 +6947,6 @@
 #DESCRIPTION LOUVOR PERFEITO - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com%3a80/Mediterraneo-SMOOTHJAZZ
 #DESCRIPTION Mediterraneo-SMOOTHJAZZ - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//198.245.50.150%3a7884/stream/1/
-#DESCRIPTION Radio Manantial de Vida 88.3FM - 160 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com%3a80/RadioIsletaValencia
 #DESCRIPTION RadioIsletaValencia - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/albumradiopop
@@ -7737,8 +7727,6 @@
 #DESCRIPTION Non Stop Gold Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-relay-geo.ntslive.net/stream
 #DESCRIPTION NTS Radio live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n28a-eu.rcs.revma.com/avg9pfvpxwuvv?
-#DESCRIPTION Pop Hits live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//str3.openstream.co/1386?
 #DESCRIPTION Puls Radio Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice1.streeemer.com%3a8030/radio.aac
@@ -7753,8 +7741,6 @@
 #DESCRIPTION Retrosounds Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming05.liveboxstream.uk/proxy/selectr1/stream
 #DESCRIPTION Select Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//admin.stream.rinse.fm/proxy/swu/stream
-#DESCRIPTION SWU UK
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice-sov.musicradio.com/SmoothUKMP3
 #DESCRIPTION Smooth Radio live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//media-ssl.musicradio.com/SmoothChill
@@ -9313,10 +9299,6 @@
 #DESCRIPTION Calgary Arabia Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.calmradio.com%3a5228/stream
 #DESCRIPTION Calm Radio Arabic
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//webradio.tda.dz/Chaine1_64K.mp3
-#DESCRIPTION Chaîne 1
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//webradio.tda.dz/Chaine2_64K.mp3
-#DESCRIPTION Chaîne 2
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//66.70.249.70%3a5784/stream/
 #DESCRIPTION Copt4G FM – Meditation
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//66.70.249.70%3a5828/stream
@@ -9569,10 +9551,6 @@
 #DESCRIPTION Mosaique FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.aiir.com/r9fyk1khuywtv
 #DESCRIPTION Muscat FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//2mfm.org.au/live
-#DESCRIPTION Muslim Community Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.medi1.com/medi1#.mp3
-#DESCRIPTION Médi 1 Radio Maghreb
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge.mixlr.com/channel/boaht
 #DESCRIPTION NOOR AL EMAN FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrjstreaming.ahmed-melege.com/nrjegypt
@@ -9607,8 +9585,6 @@
 #DESCRIPTION Panorama FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//yayin.asymedya.com%3a8020/
 #DESCRIPTION Park FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.arabicradio.net/hls/arabic_high.m3u8
-#DESCRIPTION Pars Today - Arabic
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//svs.itworkscdn.net/pulse95live/pulse96/chunks.m3u8
 #DESCRIPTION Pulse 95 Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//quraanfm-radio.mbc.net/quraanfm-radio.m3u8
