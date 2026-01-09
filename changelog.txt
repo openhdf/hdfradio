@@ -1,3 +1,8 @@
+v2.22.14:
+- added option to display own radio logos
+- help texts updated (thanks @Warder, @Orlandox and @paps)
+- some small changes and fixes
+
 v2.22.13:
 - added new method to update favorites list
 - fixed a bug when updating radio list
