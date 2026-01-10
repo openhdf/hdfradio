@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 04.01.2026 15:54 by Team www.hdfreaks.cc
+#DESCRIPTION Update 10.01.2026 13:39 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -5609,22 +5609,22 @@
 #DESCRIPTION bigFM - XMAS
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Schweiz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.srg-ssr.ch/m/regi_ost/mp3_128
-#DESCRIPTION SRF 1 Ostschweiz Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/regi_zentr/mp3_128
-#DESCRIPTION SRF 1 Zentralschweiz Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.swisstxt.ch/m/regi_gr/mp3_128
-#DESCRIPTION SRF 1 Graubünden Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/regi_zh_sh/aacp_96
-#DESCRIPTION SRF 1 Zürich Schaffhausen Live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/regi_ag_so/aacp_96
 #DESCRIPTION SRF 1 Aargau Solothurn Live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/regi_bs_bl/mp3_128
 #DESCRIPTION SRF 1 Basel Baselland Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/drs1/mp3_128
-#DESCRIPTION SRF 1 ohne RegionalJournal Live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/regi_be_fr_vs/aacp_96
 #DESCRIPTION SRF 1 Bern Freibourg Wallis Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.srg-ssr.ch/m/regi_ost/mp3_128
+#DESCRIPTION SRF 1 Ostschweiz Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.swisstxt.ch/m/regi_gr/mp3_128
+#DESCRIPTION SRF 1 Graubünden Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/regi_zentr/mp3_128
+#DESCRIPTION SRF 1 Zentralschweiz Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/regi_zh_sh/aacp_96
+#DESCRIPTION SRF 1 Zürich Schaffhausen Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/drs1/mp3_128
+#DESCRIPTION SRF 1 ohne RegionalJournal Live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/drs2/mp3_128
 #DESCRIPTION SRF 2 Kultur Live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.swisstxt.ch/m/drs3/mp3_128
@@ -5659,32 +5659,60 @@
 #DESCRIPTION RSI Rete Due Live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.srg-ssr.ch/m/retetre/mp3_128
 #DESCRIPTION RSI Rete Tre Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ---- Spoon Radio ----
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//spoonradio.ice.infomaniak.ch/spoonradio-high.mp3
 #DESCRIPTION Spoon Radio - Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//spoonradioclassicrock.ice.infomaniak.ch/spoon-classicrock-hd.aac
-#DESCRIPTION Spoon Radio - Classic Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac
-#DESCRIPTION Spoon Radio - Rock Ballads
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//spoonradiohardrock.ice.infomaniak.ch/spoon-hardrock-hd.aac
-#DESCRIPTION Spoon Radio - Hard Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//spoonradioacousticrock.ice.infomaniak.ch/spoon-acousticrock-hd.aac
 #DESCRIPTION Spoon Radio - Acoustic Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//spoonradiomodernrock.ice.infomaniak.ch/spoon-modernrock-hd.aac
-#DESCRIPTION Spoon Radio - Modern Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//spoonradioalternativerock.ice.infomaniak.ch/spoon-alternativerock-hd.aac
 #DESCRIPTION Spoon Radio - Alternative Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge06.streamonkey.net/radiozuerileu-live
-#DESCRIPTION Radio ZüriLEU
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//spoonradioclassicrock.ice.infomaniak.ch/spoon-classicrock-hd.aac
+#DESCRIPTION Spoon Radio - Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//spoonradiohardrock.ice.infomaniak.ch/spoon-hardrock-hd.aac
+#DESCRIPTION Spoon Radio - Hard Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//spoonradiomodernrock.ice.infomaniak.ch/spoon-modernrock-hd.aac
+#DESCRIPTION Spoon Radio - Modern Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac
+#DESCRIPTION Spoon Radio - Rock Ballads
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ---- CH Media ----
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio.upstream-cloud.ch/canal3allemand-192.mp3
+#DESCRIPTION Canal 3 CH
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//countryradioswitzerland.ice.infomaniak.ch/crs-128.mp3
+#DESCRIPTION Country Radio Switzerland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chmedia.streamabc.net/79-ffm-mp3-192-2470075?
 #DESCRIPTION Flashback FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//neo1.ice.infomaniak.ch/neo1.mp3
+#DESCRIPTION neo1 - Mein Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20min.dmd2streaming.com/20minuten_radio_64.aac
+#DESCRIPTION GOAT Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radio1.ch/128k
+#DESCRIPTION Radio 1 FM 93.6
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chmedia.streamabc.net/79-r24-mp3-192-6659699?
 #DESCRIPTION Radio 24
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chmedia.streamabc.net/79-r32-mp3-192-5284783?
 #DESCRIPTION Radio 32
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chmedia.streamabc.net/79-argovia-mp3-192-3024993
+#DESCRIPTION Radio Argovia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ohnewerbung.ice.infomaniak.ch/radiobasilisk-64-128-0.mp3
+#DESCRIPTION Radio Basilisk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chmedia.streamabc.net/79-rbern1-mp3-192-7860422
+#DESCRIPTION Radio Bern 1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.streambase.ch/rcentral/mp3-192/direct/
+#DESCRIPTION Radio Central
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.streambase.ch/reviva/mp3-192/direct/
+#DESCRIPTION Radio Eviva
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chmedia.streamabc.net/79-fm1-mp3-192-7523806?
 #DESCRIPTION Radio FM1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.streambase.ch/rm/mp3-192/direct/
+#DESCRIPTION Radio Melody
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chmedia.streamabc.net/79-pilatus-mp3-192-4664468?
 #DESCRIPTION Radio Pilatus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge06.streamonkey.net/radiozuerileu-live
+#DESCRIPTION Radio ZüriLEU
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.radio.ch/radiozuerisee128k
+#DESCRIPTION Radio Zürisee
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.streambase.ch/rsunshine/mp3-128/direct/?
 #DESCRIPTION Sunshine Radio CH
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
