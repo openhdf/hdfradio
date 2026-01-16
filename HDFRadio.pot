@@ -717,6 +717,9 @@ msgstr ""
 msgid "No biography could be found for this artist."
 msgstr ""
 
+msgid "No description could be found for this album."
+msgstr ""
+
 msgid "No Songtitle found"
 msgstr ""
 
