@@ -1,3 +1,12 @@
+v2.23.0:
+- info screen revised
+- added method for loading skin styles
+- skins updated
+- display of artist and song corrected for various Polish stations
+- filter rules for extracting artist and song expanded
+- 'Lyrics browser' removed
+- translations updated (thanks @Warder, @Orlandox and @paps)
+
 v2.22.15:
 - DeepL query revised
 - screensaver updated
