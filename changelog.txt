@@ -1,3 +1,6 @@
+v2.23.1:
+- loading skin styles removed
+
 v2.23.0:
 - info screen revised
 - added method for loading skin styles
