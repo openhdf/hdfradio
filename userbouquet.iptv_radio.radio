@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 10.01.2026 13:39 by Team www.hdfreaks.cc
+#DESCRIPTION Update 20.01.2026 17:44 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1345,6 +1345,10 @@
 #DESCRIPTION Sunshine Live - Charts
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sunsl.streamabc.net/sunsl-sslcalmflow-mp3-192-1521706
 #DESCRIPTION Sunshine Live - Calm Flow by Karmaloft
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/bounce/mp3-192
+#DESCRIPTION Sunshine Live - Bounce
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/schranz/mp3-192
+#DESCRIPTION Sunshine Live - Schranz
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION SWR Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dispatcher.rndfnk.com/swr/swraktuell/live/mp3/128/stream.mp3
