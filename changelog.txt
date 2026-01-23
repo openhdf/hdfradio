@@ -1,3 +1,8 @@
+v2.23.2:
+- added testoption to swap artist and song
+- reading the stream URL improved
+- many small changes
+
 v2.23.1:
 - loading skin styles removed
 
