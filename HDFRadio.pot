@@ -192,9 +192,6 @@ msgstr ""
 msgid "Autostart on Boot?"
 msgstr ""
 
-msgid "Autoupdate"
-msgstr ""
-
 msgid "Back"
 msgstr ""
 
@@ -267,6 +264,9 @@ msgid ""
 msgstr ""
 
 msgid "Choose the logos path"
+msgstr ""
+
+msgid "Choose the lyrics path"
 msgstr ""
 
 msgid ""
@@ -364,6 +364,9 @@ msgstr ""
 msgid "Consider only this folder."
 msgstr ""
 
+msgid "Continue"
+msgstr ""
+
 msgid "Corrupt radio list!"
 msgstr ""
 
@@ -397,9 +400,6 @@ msgstr ""
 msgid "Delete favourites list"
 msgstr ""
 
-msgid "Delete lyrics"
-msgstr ""
-
 msgid "Delete playlist"
 msgstr ""
 
@@ -423,9 +423,6 @@ msgstr ""
 
 #, python-format
 msgid "Do you really want to delete the favourites list '%s'?"
-msgstr ""
-
-msgid "Do you really want to delete the lyrics?"
 msgstr ""
 
 #, python-format
@@ -594,9 +591,6 @@ msgstr ""
 msgid "HDF Radio Lyrics"
 msgstr ""
 
-msgid "HDF Radio Lyrics Browser"
-msgstr ""
-
 msgid "HDF Radio Player"
 msgstr ""
 
@@ -681,9 +675,6 @@ msgstr ""
 msgid "Lyrics"
 msgstr ""
 
-msgid "Lyrics browser"
-msgstr ""
-
 msgid "Lyrics saved successfully."
 msgstr ""
 
@@ -720,12 +711,6 @@ msgstr ""
 msgid "No description could be found for this album."
 msgstr ""
 
-msgid "No Songtitle found"
-msgstr ""
-
-msgid "No YouTube favourites found."
-msgstr ""
-
 msgid "No description is available for this song."
 msgstr ""
 
@@ -743,13 +728,13 @@ msgid ""
 "Please solve the problem and try again later."
 msgstr ""
 
+msgid "No lyrics could be found online."
+msgstr ""
+
 msgid "No lyrics found"
 msgstr ""
 
 msgid "No playable video found."
-msgstr ""
-
-msgid "No saved lyrics found."
 msgstr ""
 
 msgid "No search results were found."
@@ -759,6 +744,9 @@ msgid "No song information available"
 msgstr ""
 
 msgid "No song is currently playing"
+msgstr ""
+
+msgid "No song title found"
 msgstr ""
 
 msgid "No stream found."
@@ -776,6 +764,9 @@ msgstr ""
 msgid "No video found."
 msgstr ""
 
+msgid "No YouTube favourites found."
+msgstr ""
+
 msgid "OK"
 msgstr ""
 
@@ -785,13 +776,13 @@ msgstr ""
 msgid "Offline"
 msgstr ""
 
-msgid "Open lyrics browser"
-msgstr ""
-
 msgid "Overwrite cover"
 msgstr ""
 
 msgid "Parent directory"
+msgstr ""
+
+msgid "Path to the lyrics"
 msgstr ""
 
 msgid "Play YouTube favourites"
@@ -860,6 +851,9 @@ msgstr ""
 msgid "Please choose another path for the radio logos!"
 msgstr ""
 
+msgid "Please set a valid path for the lyrics in the menu!"
+msgstr ""
+
 msgid "Please set the ServiceApp to 'Original', if you cannot see the cover or the title of song."
 msgstr ""
 
@@ -873,6 +867,15 @@ msgid "Press 'EPG/Guide' button to translate."
 msgstr ""
 
 msgid "Press 'Menu' to load the radio list."
+msgstr ""
+
+msgid "Press the blue button to display album information, if available."
+msgstr ""
+
+msgid "Press the blue button to display biography, if available."
+msgstr ""
+
+msgid "Press the blue button to display song information, if available."
 msgstr ""
 
 msgid "Press OK to add the selected song to your playlist. You can switch between the lists with the blue button. With OK in the playlist, the move mode is activated or deactivated."
@@ -906,9 +909,6 @@ msgid "Press OK to open 'Dream-Explorer'."
 msgstr ""
 
 msgid "Press OK to open 'FilebrowserVTi'."
-msgstr ""
-
-msgid "Press OK to open the lyrics browser."
 msgstr ""
 
 msgid ""
@@ -983,7 +983,7 @@ msgstr ""
 msgid "Reading the radio list failed!"
 msgstr ""
 
-msgid "Record Path (Songs & Lyrics)"
+msgid "Record Path"
 msgstr ""
 
 msgid "Record Time"
@@ -1061,6 +1061,9 @@ msgstr ""
 msgid "Screensaver "
 msgstr ""
 
+msgid "Search online"
+msgstr ""
+
 msgid "Search result:"
 msgstr ""
 
@@ -1106,7 +1109,13 @@ msgstr ""
 msgid ""
 "Select the path to save the covers found on 'theaudiodb.com'.\n"
 "Press OK to open the browser.\n"
-"A folder '%s' is automatically created for the path."
+"A folder 'coverimages' is automatically created for the path."
+msgstr ""
+
+msgid ""
+"Select the path where you want to save the lyrics.\n"
+"Press OK to open the browser.\n"
+"A folder 'hdfradio_lyrics' is automatically created for the path."
 msgstr ""
 
 msgid "Select the playlist to be played."
