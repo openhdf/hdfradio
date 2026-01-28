@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 25.01.2026 18:45 by Team www.hdfreaks.cc
+#DESCRIPTION Update 28.01.2026 18:12 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -7755,8 +7755,6 @@
 #DESCRIPTION NTS Radio live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//str3.openstream.co/1386?
 #DESCRIPTION Puls Radio Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice1.streeemer.com%3a8030/radio.aac
-#DESCRIPTION Today's Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//18863.live.streamtheworld.com/977_HITS_SC
 #DESCRIPTION Today's Hits Radio live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiocaroline.net/rc128/;?
