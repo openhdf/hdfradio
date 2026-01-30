@@ -684,9 +684,6 @@ msgstr ""
 msgid "Main list"
 msgstr ""
 
-msgid "Many thanks to 'Joerg1909' and 'Mr.TCT'."
-msgstr ""
-
 msgid "Maximum YouTube Resolution"
 msgstr ""
 
@@ -842,16 +839,16 @@ msgstr ""
 msgid "Please activate the ServiceApp in the Playback-Settings, if you cannot see the cover or the title of song."
 msgstr ""
 
-msgid "Please check your settings."
+msgid "Please choose a valid path for the covers in the menu so that they can be saved!"
+msgstr ""
+
+msgid "Please choose a valid path for the lyrics in the menu so that they can be saved!"
 msgstr ""
 
 msgid "Please choose a valid path for the radio logos!"
 msgstr ""
 
 msgid "Please choose another path for the radio logos!"
-msgstr ""
-
-msgid "Please set a valid path for the lyrics in the menu!"
 msgstr ""
 
 msgid "Please set the ServiceApp to 'Original', if you cannot see the cover or the title of song."
@@ -1266,9 +1263,6 @@ msgstr ""
 msgid "The cover file was successfully removed."
 msgstr ""
 
-msgid "The cover path does not exists."
-msgstr ""
-
 msgid "The current song does not include a video."
 msgstr ""
 
@@ -1310,27 +1304,7 @@ msgid ""
 "Not enough storage space available."
 msgstr ""
 
-msgid ""
-"The recording path has not been set.\n"
-"Do you really want to exit?"
-msgstr ""
-
-msgid ""
-"The recording path has not been set.\n"
-"Do you really want to save?"
-msgstr ""
-
 msgid "The search results are successfully saved as:"
-msgstr ""
-
-msgid ""
-"The selected recording path does not exists.\n"
-"Do you really want to exit?"
-msgstr ""
-
-msgid ""
-"The selected recording path does not exists.\n"
-"Do you really want to save?"
 msgstr ""
 
 msgid "The song is already in the playlist."
@@ -1457,11 +1431,6 @@ msgstr ""
 msgid ""
 "You have no permissions.\n"
 "Please choose another path."
-msgstr ""
-
-msgid ""
-"You have no permissions.\n"
-"Please choose another recording path."
 msgstr ""
 
 msgid "You just want to add all the songs in the following folder to your playlist."
