@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 30.01.2026 16:06 by Team www.hdfreaks.cc
+#DESCRIPTION Update 01.02.2026 16:06 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1923,6 +1923,8 @@
 #DESCRIPTION Antenne Tirol
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge01.radio.antennevorarlberg.at/av-christkindl
 #DESCRIPTION Antenne Vorarlberg - Christkindlradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge60.radio.antennevorarlberg.at/av-partymix
+#DESCRIPTION Antenne Vorarlberg - Partymix
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream01.matze-hosting.de/8006/stream
 #DESCRIPTION Crazy Burgenland Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//u1-tirol.stream06.radiohost.de/u1-tirol-live_mp3-192
