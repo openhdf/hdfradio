@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 01.02.2026 16:06 by Team www.hdfreaks.cc
+#DESCRIPTION Update 01.02.2026 22:54 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2483,6 +2483,8 @@
 #DESCRIPTION Mixed Channels - Radio Shadow Deep Tracks
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bestofrockfm.stream.vip/rammstein/mp3-192/bestofrock.fm/
 #DESCRIPTION Mixed Channels - Rammstein.FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s9.yesstreaming.net%3a2199/proxy/anyhowmo/;stream
+#DESCRIPTION Mixed Channels - Rock Radio 104.7
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.emisorasmusicales.net/radio/8060/rockstar.mp3
 #DESCRIPTION Mixed Channels - RockStar
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//64.71.133.122%3a8000/;
