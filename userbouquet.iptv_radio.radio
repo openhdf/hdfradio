@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 01.02.2026 22:54 by Team www.hdfreaks.cc
+#DESCRIPTION Update 03.02.2026 17:34 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -10249,3 +10249,101 @@
 #DESCRIPTION Radio Siamsa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//solid24.streamupsolutions.com/proxy/vbkiacud?mp=/live
 #DESCRIPTION Irish Pub Radio
+#SERVICE 1:64:D:0:0:0:0:0:0:0:
+#DESCRIPTION Ella Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream44.radiohost.de/ella-livestream_mp3-192:d_o_020226
+#DESCRIPTION Ella Radio - Ella Livestream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream45.radiohost.de/ella-afro-jazz_mp3-192
+#DESCRIPTION Ella Radio - Afro Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream45.radiohost.de/ella-bass-jazz_mp3-192
+#DESCRIPTION Ella Radio - Bass Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream46.radiohost.de/ella-bebop_mp3-192
+#DESCRIPTION Ella Radio - Bebop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream45.radiohost.de/ella-berlin-jazz_mp3-192
+#DESCRIPTION Ella Radio - Berlin Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream45.radiohost.de/ella-blues_mp3-192
+#DESCRIPTION Ella Radio - Blues
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream45.radiohost.de/ella-blues-rock_mp3-192
+#DESCRIPTION Ella Radio - Blues Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream45.radiohost.de/ella-bossa_mp3-192
+#DESCRIPTION Ella Radio - Bossa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream45.radiohost.de/ella-classic-jazz_mp3-192
+#DESCRIPTION Ella Radio - Classic Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream44.radiohost.de/ella-cocktail-jazz_mp3-192
+#DESCRIPTION Ella Radio - Cocktail Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream45.radiohost.de/ella-coffee-jazz_mp3-192
+#DESCRIPTION Ella Radio - Coffee Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream45.radiohost.de/ella-cool-jazz_mp3-192
+#DESCRIPTION Ella Radio - Cool Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream45.radiohost.de/ella-current-jazz_mp3-192
+#DESCRIPTION Ella Radio - Current Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream45.radiohost.de/ella-dave-coz-and-friends_mp3-192
+#DESCRIPTION Ella Radio - Dave Koz & Friends
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream44.radiohost.de/ella-fusion-lounge_mp3-192
+#DESCRIPTION Ella Radio - Fusion Lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream45.radiohost.de/ella-guitar-jazz_mp3-192
+#DESCRIPTION Ella Radio - Guitar Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream45.radiohost.de/ella-gypsy-jazz_mp3-192
+#DESCRIPTION Ella Radio - Gypsy Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream44.radiohost.de/ella-hard-bop_mp3-192
+#DESCRIPTION Ella Radio - Hard Bop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream44.radiohost.de/ella-jazz-ballads_mp3-192
+#DESCRIPTION Ella Radio - Jazz Ballads
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream46.radiohost.de/ella-jazz-hop_mp3-192
+#DESCRIPTION Ella Radio - Jazz Hop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream46.radiohost.de/ella-late-night-jazz_mp3-192
+#DESCRIPTION Ella Radio - Late Night Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream44.radiohost.de/ella-latin-jazz_mp3-192
+#DESCRIPTION Ella Radio - Latin Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream44.radiohost.de/ella-live-jazz_mp3-192
+#DESCRIPTION Ella Radio - Live Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream44.radiohost.de/ella-love-smooth-jazz_mp3-192
+#DESCRIPTION Ella Radio - Love Smooth Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream45.radiohost.de/ella-mellow-jazz_mp3-192
+#DESCRIPTION Ella Radio - Mellow Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream44.radiohost.de/ella-mellow-piano-jazz_mp3-192
+#DESCRIPTION Ella Radio - Mellow Piano Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream44.radiohost.de/ella-mellow-smooth-jazz_mp3-192
+#DESCRIPTION Ella Radio - Mellow Smooth Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream44.radiohost.de/ella-modern-big-band_mp3-192
+#DESCRIPTION Ella Radio - Modern Big Band
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream45.radiohost.de/ella-modern-vocal-jazz_mp3-192
+#DESCRIPTION Ella Radio - Modern Vocal Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream44.radiohost.de/ella-paris-cafe_mp3-192
+#DESCRIPTION Ella Radio - Paris Cafe
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream45.radiohost.de/ella-piano-jazz_mp3-192
+#DESCRIPTION Ella Radio - Piano Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream45.radiohost.de/ella-piano-trios_mp3-192
+#DESCRIPTION Ella Radio - Piano Trios
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream45.radiohost.de/ella-saxophon-jazz_mp3-192
+#DESCRIPTION Ella Radio - Saxophon Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream44.radiohost.de/ella-sinatra-style_mp3-192
+#DESCRIPTION Ella Radio - Sinatra Style
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream44.radiohost.de/ella-smooth-bossa-nova_mp3-192
+#DESCRIPTION Ella Radio - Smooth Bossa Nova
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream46.radiohost.de/ella-smooth-jazz_mp3-192
+#DESCRIPTION Ella Radio - Smooth Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream45.radiohost.de/ella-smooth-jazz-247_mp3-192
+#DESCRIPTION Ella Radio - Smooth Jazz 24/7
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream45.radiohost.de/ella-smooth-lounge_mp3-192
+#DESCRIPTION Ella Radio - Smooth Lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream44.radiohost.de/ella-smooth-uptempo_mp3-192
+#DESCRIPTION Ella Radio - Smooth Uptempo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream46.radiohost.de/ella-smooth-vocals_mp3-192
+#DESCRIPTION Ella Radio - Smooth Vocals
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream44.radiohost.de/ella-soul_mp3-192
+#DESCRIPTION Ella Radio - Soul
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream46.radiohost.de/ella-straight-ahead_mp3-192
+#DESCRIPTION Ella Radio - Straight Ahead
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream46.radiohost.de/ella-swing-and-bigband_mp3-192
+#DESCRIPTION Ella Radio - Swing & Big Band
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream45.radiohost.de/ella-till-bronner_mp3-192
+#DESCRIPTION Ella Radio - Till Brönner
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream45.radiohost.de/ella-timeless-classics_mp3-192
+#DESCRIPTION Ella Radio - Timeless Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream45.radiohost.de/ella-trumpet-jazz_mp3-192
+#DESCRIPTION Ella Radio - Trumpet Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream45.radiohost.de/ella-vibraphone-jazz_mp3-192
+#DESCRIPTION Ella Radio - Vibraphone Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream45.radiohost.de/ella-vocal-legends_mp3-192
+#DESCRIPTION Ella Radio - Vocal Legends
