@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 03.02.2026 17:34 by Team www.hdfreaks.cc
+#DESCRIPTION Update 07.02.2026 16:42 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2561,6 +2561,8 @@
 #DESCRIPTION Mixed Channels - psyradio * fm - chillout
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamer.psyradio.org%3a8010/;listen.mp3
 #DESCRIPTION Mixed Channels - psyradio * fm - progressive
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.radio-bamberg.de/radio-bamberg
+#DESCRIPTION Mixed Channels - Radio Bamberg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.radioextasy.de/listen/radioextasy/radio.mp3
 #DESCRIPTION Mixed Channels - Radio Extasy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radio-matchbox.de/listen/matchbox/radio.mp3
