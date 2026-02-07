@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 07.02.2026 16:42 by Team www.hdfreaks.cc
+#DESCRIPTION Update 07.02.2026 17:05 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -223,33 +223,33 @@
 #DESCRIPTION R.SA - Rolling Stones Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION HITRADIO RTL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge59.radio.hitradio-rtl.de/hrrtl-dresden/stream/mp3?aggregator=direktlink
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.hitradio-rtl.de/hrrtl-dresden/stream/mp3
 #DESCRIPTION HITRADIO RTL - Sachsen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge05.radio.hitradio-rtl.de/hrrtl-dresden/stream/mp3?aggregator=direktlink
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.hitradio-rtl.de/hrrtl-dresden/stream/mp3
 #DESCRIPTION HITRADIO RTL - Region Dresden
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge68.radio.hitradio-rtl.de/hrrtl-chemnitz/stream/mp3?aggregator=direktlink
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.hitradio-rtl.de/hrrtl-chemnitz/stream/mp3
 #DESCRIPTION HITRADIO RTL - Region Chemnitz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge63.radio.hitradio-rtl.de/hrrtl-leipzig/stream/mp3?aggregator=direktlink
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.hitradio-rtl.de/hrrtl-leipzig/stream/mp3
 #DESCRIPTION HITRADIO RTL - Region Leipzig
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge07.radio.hitradio-rtl.de/hrrtl-lausitz/stream/mp3?aggregator=direktlink
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.hitradio-rtl.de/hrrtl-lausitz/stream/mp3
 #DESCRIPTION HITRADIO RTL - Region Lausitz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge67.radio.hitradio-rtl.de/hrrtl-vogtland/stream/mp3?aggregator=direktlink
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.hitradio-rtl.de/hrrtl-vogtland/stream/mp3
 #DESCRIPTION HITRADIO RTL - Region Vogtland
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge70.radio.hitradio-rtl.de/hrrtl-top40/stream/mp3?aggregator=direktlink
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.hitradio-rtl.de/hrrtl-top40/stream/mp3
 #DESCRIPTION HITRADIO RTL - TOP40
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge60.radio.hitradio-rtl.de/hrrtl-oldies/stream/mp3?aggregator=direktlink
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.hitradio-rtl.de/hrrtl-oldies/stream/mp3
 #DESCRIPTION HITRADIO RTL - Oldies
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge67.radio.hitradio-rtl.de/hrrtl-maxis/stream/mp3?aggregator=direktlink
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.hitradio-rtl.de/hrrtl-maxis/stream/mp3
 #DESCRIPTION HITRADIO RTL - PartyMix
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge10.radio.hitradio-rtl.de/hrrtl-80er/stream/mp3?aggregator=direktlink
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.hitradio-rtl.de/hrrtl-80er/stream/mp3
 #DESCRIPTION HITRADIO RTL - 80er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge64.radio.hitradio-rtl.de/hrrtl-90er/stream/mp3?aggregator=direktlink
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.hitradio-rtl.de/hrrtl-90er/stream/mp3
 #DESCRIPTION HITRADIO RTL - 90er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge13.radio.hitradio-rtl.de/hrrtl-schlager/stream/mp3?aggregator=direktlink
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.hitradio-rtl.de/hrrtl-schlager/stream/mp3
 #DESCRIPTION HITRADIO RTL - Schlager
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge16.radio.hitradio-rtl.de/hrrtl-bis-heute/stream/mp3?aggregator=direktlink
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.hitradio-rtl.de/hrrtl-bis-heute/stream/mp3
 #DESCRIPTION HITRADIO RTL - 80er bis heute
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge14.radio.hitradio-rtl.de/hrrtl-xmas?aggregator=redirect
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.hitradio-rtl.de/hrrtl-xmas
 #DESCRIPTION HITRADIO RTL - Weihnachtsradio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION 80s80s
@@ -1849,33 +1849,33 @@
 #DESCRIPTION Radio Arabella AT - Arabella MAGIC
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio Arabella DE
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge59.stream.radioarabella.de/radioarabella-muenchen/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.radioarabella.de/radioarabella-muenchen/stream/mp3
 #DESCRIPTION Radio Arabella DE - München Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge67.stream.radioarabella.de/radioarabella-bayern/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.radioarabella.de/radioarabella-bayern/stream/mp3
 #DESCRIPTION Radio Arabella DE - Bayern Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge65.stream.radioarabella.de/radioarabella-80er/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.radioarabella.de/radioarabella-80er/stream/mp3
 #DESCRIPTION Radio Arabella DE - 80er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge05.stream.radioarabella.de/radioarabella-goldenoldies/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.radioarabella.de/radioarabella-goldenoldies/stream/mp3
 #DESCRIPTION Radio Arabella DE - Golden Oldies
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge61.stream.radioarabella.de/radioarabella-70er/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.radioarabella.de/radioarabella-70er/stream/mp3
 #DESCRIPTION Radio Arabella DE - 70er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge64.stream.radioarabella.de/radioarabella-classicrock/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.radioarabella.de/radioarabella-classicrock/stream/mp3
 #DESCRIPTION Radio Arabella DE - Classic Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge62.stream.radioarabella.de/radioarabella-latino/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.radioarabella.de/radioarabella-latino/stream/mp3
 #DESCRIPTION Radio Arabella DE - Latino
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge69.stream.radioarabella.de/radioarabella-90er/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.radioarabella.de/radioarabella-90er/stream/mp3
 #DESCRIPTION Radio Arabella DE - 90er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge62.stream.radioarabella.de/radioarabella-schlager/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.radioarabella.de/radioarabella-schlager/stream/mp3
 #DESCRIPTION Radio Arabella DE - Schlager
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge16.stream.radioarabella.de/radioarabella-disconight/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.radioarabella.de/radioarabella-disconight/stream/mp3
 #DESCRIPTION Radio Arabella DE - Disco Night
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge59.stream.radioarabella.de/radioarabella-oktoberfest/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.radioarabella.de/radioarabella-oktoberfest/stream/mp3
 #DESCRIPTION Radio Arabella DE - Oktoberfest
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge68.stream.radioarabella.de/radioarabella-weihnachten/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.radioarabella.de/radioarabella-weihnachten/stream/mp3
 #DESCRIPTION Radio Arabella DE - Christmas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge12.stream.radioarabella.de/radioarabella-modernrock/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.radioarabella.de/radioarabella-modernrock/stream/mp3
 #DESCRIPTION Radio Arabella DE - Modern Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge15.stream.radioarabella.de/radioarabella-austropop/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.radioarabella.de/radioarabella-austropop/stream/mp3
 #DESCRIPTION Radio Arabella DE - Austro Pop
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Österreich
@@ -1921,9 +1921,9 @@
 #DESCRIPTION Antenne Kärnten
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge82.streamonkey.net/anttirol-live
 #DESCRIPTION Antenne Tirol
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge01.radio.antennevorarlberg.at/av-christkindl
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.antennevorarlberg.at/av-christkindl
 #DESCRIPTION Antenne Vorarlberg - Christkindlradio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge60.radio.antennevorarlberg.at/av-partymix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.antennevorarlberg.at/av-partymix
 #DESCRIPTION Antenne Vorarlberg - Partymix
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream01.matze-hosting.de/8006/stream
 #DESCRIPTION Crazy Burgenland Radio
@@ -2179,23 +2179,23 @@
 #DESCRIPTION Absolut Radio - Relax
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//absolut-hot.live-sm.absolutradio.de/absolut-top/stream/mp3
 #DESCRIPTION Absolut Radio - Top
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge05.live-sm.absolutradio.de/absolut-coffeemusic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.live-sm.absolutradio.de/absolut-coffeemusic
 #DESCRIPTION Absolut Radio - Coffeemusic
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge70.live-sm.absolutradio.de/absolut-clubnight
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.live-sm.absolutradio.de/absolut-clubnight
 #DESCRIPTION Absolut Radio - Clubnight
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge67.live-sm.absolutradio.de/absolut-oldieclassics/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.live-sm.absolutradio.de/absolut-oldieclassics/stream/mp3
 #DESCRIPTION Absolut Radio - Oldie Classics
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge11.live-sm.absolutradio.de/absolut-80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.live-sm.absolutradio.de/absolut-80er
 #DESCRIPTION Absolut Radio - 80er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge59.live-sm.absolutradio.de/absolut-rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.live-sm.absolutradio.de/absolut-rock
 #DESCRIPTION Absolut Radio - Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge11.live-sm.absolutradio.de/absolut-musicxl/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.live-sm.absolutradio.de/absolut-musicxl/stream/mp3
 #DESCRIPTION Absolut Radio - Music XL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge07.live-sm.absolutradio.de/absolut-ai
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.live-sm.absolutradio.de/absolut-ai
 #DESCRIPTION Absolut Radio - Absolut Radio AI
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge59.live-sm.absolutradio.de/absolut-lovesongs
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.live-sm.absolutradio.de/absolut-lovesongs
 #DESCRIPTION Absolut Radio - Lovesongs
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge16.live-sm.absolutradio.de/absolut-christmastime/stream/aacp
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.live-sm.absolutradio.de/absolut-christmastime/stream/aacp
 #DESCRIPTION Absolut Radio - Christmastime
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio Hamburg
@@ -8003,21 +8003,21 @@
 #DESCRIPTION YouRadio Greatest Hits - 2020
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio Lausitz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge17.radio.radiolausitz.de/radiolausitz-live/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.radiolausitz.de/radiolausitz-live/stream/mp3
 #DESCRIPTION Radio Lausitz - Livestream
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.radiolausitz.de/radiolausitz-zwei?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.radiolausitz.de/radiolausitz-zwei/stream/mp3
 #DESCRIPTION Radio Lausitz - 2
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge17.radio.radiolausitz.de/radiolausitz-80er/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.radiolausitz.de/radiolausitz-80er/stream/mp3
 #DESCRIPTION Radio Lausitz - 80er Kulthits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge17.radio.radiolausitz.de/radiolausitz-90er/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.radiolausitz.de/radiolausitz-90er/stream/mp3
 #DESCRIPTION Radio Lausitz - 90erXXL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge17.radio.radiolausitz.de/radiolausitz-tophits/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.radiolausitz.de/radiolausitz-tophits/stream/mp3
 #DESCRIPTION Radio Lausitz - TopHits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge17.radio.radiolausitz.de/radiolausitz-freitagnacht/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.radiolausitz.de/radiolausitz-freitagnacht/stream/mp3
 #DESCRIPTION Radio Lausitz - FreitagNacht
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge17.radio.radiolausitz.de/radiolausitz-weihnachten/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.radiolausitz.de/radiolausitz-weihnachten/stream/mp3
 #DESCRIPTION Radio Lausitz - Weihnachtsradio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge17.radio.radiolausitz.de/radiolausitz-sommerradio/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.radiolausitz.de/radiolausitz-sommerradio/stream/mp3
 #DESCRIPTION Radio Lausitz - Sommerradio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION BB Radio
