@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 07.02.2026 17:15 by Team www.hdfreaks.cc
+#DESCRIPTION Update 10.02.2026 21:21 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -291,6 +291,8 @@
 #DESCRIPTION 80s80s - NDW
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/soul/mp3-192/homepage/
 #DESCRIPTION 80s80s - Funk & Soul
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streams.80s80s.de/soulballads/mp3-192/streams.80s80s.de/
+#DESCRIPTION 80s80s - Soul Ballads
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/hiphop/mp3-192/homepage/
 #DESCRIPTION 80s80s - HipHop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.80s80s.de/breakdance/mp3-192/homepage/
