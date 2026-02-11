@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 10.02.2026 21:21 by Team www.hdfreaks.cc
+#DESCRIPTION Update 11.02.2026 17:51 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2735,6 +2735,8 @@
 #DESCRIPTION 90s90s - Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90srnb9791660-mp3-192-2459421
 #DESCRIPTION 90s90s - Soul & RnB
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.90s90s.de/rnbballads/mp3-192/streams.90s90s.de/
+#DESCRIPTION 90s90s - RnB Ballads
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90seurodance7558633-mp3-192-3419489
 #DESCRIPTION 90s90s - Eurodance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90sboygroup4982406-mp3-192-8624034
