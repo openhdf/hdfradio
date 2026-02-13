@@ -38,7 +38,7 @@ msgstr ""
 msgid "     add own keywords"
 msgstr ""
 
-msgid " kbit/s"
+msgid "'AutoSave' started."
 msgstr ""
 
 msgid "(YouTube querys by Taapat)"
@@ -84,6 +84,9 @@ msgid "A backup of your previous logos has been created."
 msgstr ""
 
 msgid "A backup was saved in '/tmp'."
+msgstr ""
+
+msgid "A cover image has been found."
 msgstr ""
 
 msgid ""
@@ -178,6 +181,9 @@ msgstr ""
 msgid "Artist:"
 msgstr ""
 
+msgid "Attempt to download"
+msgstr ""
+
 msgid "Attention!"
 msgstr ""
 
@@ -220,9 +226,6 @@ msgid "Channel"
 msgstr ""
 
 msgid "Channel Mode"
-msgstr ""
-
-msgid "Checking"
 msgstr ""
 
 msgid "Choose a stream"
@@ -519,6 +522,9 @@ msgstr ""
 msgid "Exit"
 msgstr ""
 
+msgid "Exit 'AutoSave'"
+msgstr ""
+
 msgid "Export HDF radiolist as bouquet?"
 msgstr ""
 
@@ -648,10 +654,10 @@ msgstr ""
 msgid "Insert into MP3"
 msgstr ""
 
-msgid "Installed version"
+msgid "Installation in progress"
 msgstr ""
 
-msgid "Installing"
+msgid "Installed version"
 msgstr ""
 
 msgid "It's not possible to create a blank bouquet list."
@@ -679,6 +685,9 @@ msgid "Lyrics saved successfully."
 msgstr ""
 
 msgid "Lyrics successfully added to your MP3."
+msgstr ""
+
+msgid "Lyrics will now be automatically saved as a text file."
 msgstr ""
 
 msgid "Main list"
@@ -866,15 +875,6 @@ msgstr ""
 msgid "Press 'Menu' to load the radio list."
 msgstr ""
 
-msgid "Press the blue button to display album information, if available."
-msgstr ""
-
-msgid "Press the blue button to display biography, if available."
-msgstr ""
-
-msgid "Press the blue button to display song information, if available."
-msgstr ""
-
 msgid "Press OK to add the selected song to your playlist. You can switch between the lists with the blue button. With OK in the playlist, the move mode is activated or deactivated."
 msgstr ""
 
@@ -1040,6 +1040,9 @@ msgstr ""
 msgid "Replace file?"
 msgstr ""
 
+msgid "Review in progress"
+msgstr ""
+
 msgid "Save"
 msgstr ""
 
@@ -1049,13 +1052,13 @@ msgstr ""
 msgid "Save Lyrics"
 msgstr ""
 
-msgid "Saving the lyrics failed."
-msgstr ""
-
 msgid "Screensaver"
 msgstr ""
 
 msgid "Screensaver "
+msgstr ""
+
+msgid "Search in progress"
 msgstr ""
 
 msgid "Search online"
@@ -1244,6 +1247,9 @@ msgstr ""
 msgid "The 'recording duration' limits the time for a recording. After this time, the recording will stop automatically."
 msgstr ""
 
+msgid "The automatic saving of the lyrics was cancelled."
+msgstr ""
+
 #, python-format
 msgid "The bouquet list '%s' has been updated successfully."
 msgstr ""
@@ -1357,13 +1363,13 @@ msgstr ""
 msgid "Turn off the TV and let playback run"
 msgstr ""
 
-msgid "Update"
-msgstr ""
-
 msgid "Update check"
 msgstr ""
 
 msgid "Update favourites list"
+msgstr ""
+
+msgid "Update in progress"
 msgstr ""
 
 msgid "Update radio list"

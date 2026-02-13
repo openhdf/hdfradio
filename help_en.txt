@@ -19,7 +19,6 @@ Blue button long - opens the search in the currently displayed list
 Info button - shows information about the stream
 Info button long - shows the cover in full screen
 Text button - shows the lyrics for the current title, if available
-Text button long - shows the lyrics browser and the saved textfiles
 EPG/Guide button - opens the selection of favorite lists if there are several
 < button - switches back to the previous stream
 PVR/Video button long - plays all your YouTube favorites in random mode
@@ -29,6 +28,7 @@ Green button (during YouTube playback) - adds the video to your YouTube favorite
 Red button (during YouTube playback) - removes the video from your YouTube favorites
 Yellow button (during playback of YouTube favorites) - shows the playlist of your YouTube favorites
 Blue button - show/hide clock in the respective screen
+Green button long (lyrics screen) - starts the automatic saving of the lyrics to a text file
 
 Notes on the recording function:
 A folder HDF-Radio is automatically created for the recording path.
