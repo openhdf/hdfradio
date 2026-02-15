@@ -1,3 +1,10 @@
+v2.24.1:
+- search process for infos revised
+- caching of information added
+- added option to automatically save lyrics to a text file
+- translations and help texts updated (thanks @Warder, @Orlandox and @paps)
+- many small changes and improvements
+
 v2.24.0:
 - search process for lyrics revised
 - added separate path setting for saving lyrics files
