@@ -1,3 +1,11 @@
+v2.24.2:
+- added option to open the list in 'big coverart view'
+- fixed a bug in the option to swap artist and song
+- fixed an issue when opening a category in the screensaver
+- fixed an issue when closing YouTube favorites list
+- skins updated
+- some small changes
+
 v2.24.1:
 - search process for infos revised
 - caching of information added
