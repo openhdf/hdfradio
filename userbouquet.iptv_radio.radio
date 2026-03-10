@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 09.03.2026 17:56 by Team www.hdfreaks.cc
+#DESCRIPTION Update 10.03.2026 17:49 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2573,7 +2573,7 @@
 #DESCRIPTION Mixed Channels - Radio Extasy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radio-matchbox.de/listen/matchbox/radio.mp3
 #DESCRIPTION Mixed Channels - RadioMatchbox
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-nflradio-mp3-192-6235135
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//rtlberlin.streamabc.net/rtlb-nflradioevent-mp3-192-5031598
 #DESCRIPTION Mixed Channels - RTL NFL Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen.radioking.com/radio/781186/stream/848801
 #DESCRIPTION Mixed Channels - T & T Infinity Radio
