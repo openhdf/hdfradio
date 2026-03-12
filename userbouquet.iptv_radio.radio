@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 10.03.2026 17:49 by Team www.hdfreaks.cc
+#DESCRIPTION Update 12.03.2026 20:57 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1933,6 +1933,64 @@
 #DESCRIPTION U1 Tirol
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//c02.lexycast.de%3a4300/play.mp3
 #DESCRIPTION Generation Mix Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ---- ORF Sound - Privatradios ----
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge64.streams.arabella.at/arabella-hotsound?
+#DESCRIPTION arabella HOT
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge81.streams.arabella.at/arabella-magicsound?
+#DESCRIPTION arabella MAGIC
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.cr944.at/cr944-high
+#DESCRIPTION Campus & City Radio St. Pölten
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge08.stream.maxfive.com/max5-city23?
+#DESCRIPTION City23
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiotechnikum.at/CITYJAZZ
+#DESCRIPTION City Jazz Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.nrjaudio.fm/ousv8fm4z85f
+#DESCRIPTION ENERGY
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liferadio.streamabc.net/lfr-flash90s-mp3-192-3814105?
+#DESCRIPTION Flash 90s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.xaok.org/frs.mp3
+#DESCRIPTION Freies Radio Salzkammergut
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s35.derstream.net/inforadio.mp3
+#DESCRIPTION inforadio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge67.stream.maxfive.com/max5-joelive
+#DESCRIPTION jö.live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s35.derstream.net/ukw-wien.mp3
+#DESCRIPTION LoungeFM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiotechnikum.at/METALRadio
+#DESCRIPTION METAL Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.nrjaudio.fm/ou87rdgk7oiu
+#DESCRIPTION NOSTALGIE
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liferadio.streamabc.net/lfr-ooenow-mp3-192-7400410?
+#DESCRIPTION OÖNow
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//securestream.o94.at/live.mp3
+#DESCRIPTION ORANGE 94.0
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge21.streams.arabella.at/arabella-wiensound?
+#DESCRIPTION Radio Arabella
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.zogl.net/stream
+#DESCRIPTION Radio Radino - Mein Kinderradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge72.streamonkey.net/radio886-onair?
+#DESCRIPTION Radio 88.6
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mira.streamerr.co/listen/radiob138/radiob138_192
+#DESCRIPTION Radio B138
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiofabrik.at/rf_low.mp3
+#DESCRIPTION Radiofabrik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.radioflamingo.at/rf-orf.aac?
+#DESCRIPTION Radio Flamingo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server4.streamserver24.com/proxy/krkarall?mp=/stream
+#DESCRIPTION Radio Mora
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen.radiomax.technology/Radio_MediaMarkt_DAB
+#DESCRIPTION Radio Mediamarkt
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3
+#DESCRIPTION radio klassik Stephansdom
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiotechnikum.at/RADIOONE
+#DESCRIPTION Radio ONE
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiovm1.fluidstream.eu/radiovm1_a5.mp3
+#DESCRIPTION Radio VM1
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge70.stream.superfly.fm/superfly-livesound?
+#DESCRIPTION Radio Superfly
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liferadio.streamabc.net/lfr_w97ylbvwcps_45m7-mp3-192-1637662?
+#DESCRIPTION XXXLutz - Das Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Kronehit
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//secureonair.krone.at/kronehit1058.mp3
