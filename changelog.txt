@@ -1,3 +1,6 @@
+v2.24.4:
+- added fix for 'theaudiodb.com'
+
 v2.24.3:
 - added fix for YouTube
 - skins updated
