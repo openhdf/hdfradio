@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 20.03.2026 17:33 by Team www.hdfreaks.cc
+#DESCRIPTION Update 22.03.2026 09:03 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2555,8 +2555,10 @@
 #DESCRIPTION Mixed Channels - Rock Radio 104.7
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.emisorasmusicales.net/radio/8060/rockstar.mp3
 #DESCRIPTION Mixed Channels - RockStar
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//gold.streamguys1.com/softrock.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//64.71.133.122%3a8000/;
 #DESCRIPTION Mixed Channels - Soft Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//gold.streamguys1.com/softrock.mp3
+#DESCRIPTION Mixed Channels - Soft Rock Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.radiohelgoland.de%3a8002/live:17
 #DESCRIPTION Mixed Channels - The Rock! Radio Helgoland
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
