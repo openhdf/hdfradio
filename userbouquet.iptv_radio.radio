@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 22.03.2026 13:44 by Team www.hdfreaks.cc
+#DESCRIPTION Update 24.03.2026 17:46 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -10421,3 +10421,49 @@
 #DESCRIPTION Ella Radio - Vibraphone Jazz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ella.stream45.radiohost.de/ella-vocal-legends_mp3-192
 #DESCRIPTION Ella Radio - Vocal Legends
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-radio
+#DESCRIPTION TOWER TOWN - Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/dani-s-kulthitradio
+#DESCRIPTION TOWER TOWN - Danis Kulthitradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-extra
+#DESCRIPTION TOWER TOWN - Extra
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-rock
+#DESCRIPTION TOWER TOWN - Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-pop
+#DESCRIPTION TOWER TOWN - Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-hiphop
+#DESCRIPTION TOWER TOWN - Hiphop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-oldies
+#DESCRIPTION TOWER TOWN - Oldies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-hot
+#DESCRIPTION TOWER TOWN - Hot
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-fresh
+#DESCRIPTION TOWER TOWN - Fresh
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-classic-rock
+#DESCRIPTION TOWER TOWN - Classic Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-classic-pop
+#DESCRIPTION TOWER TOWN - Classic Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-hiphop-classics
+#DESCRIPTION TOWER TOWN - Hiphop Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-street
+#DESCRIPTION TOWER TOWN - Street
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-brand-new
+#DESCRIPTION TOWER TOWN - Brand New
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-new-rock
+#DESCRIPTION TOWER TOWN - New Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-new-pop
+#DESCRIPTION TOWER TOWN - New Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-new-hiphop
+#DESCRIPTION TOWER TOWN - New Hiphop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-plus
+#DESCRIPTION TOWER TOWN - Plus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-kult
+#DESCRIPTION TOWER TOWN - Kult
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-music-mix
+#DESCRIPTION TOWER TOWN - Music Mix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-hits
+#DESCRIPTION TOWER TOWN - Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-oberpfalzradio
+#DESCRIPTION TOWER TOWN - Oberpfalzradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-oberpfalzplus
+#DESCRIPTION TOWER TOWN - Oberpfalz plus
