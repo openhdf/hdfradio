@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 03.04.2026 18:46 by Team www.hdfreaks.cc
+#DESCRIPTION Update 05.04.2026 19:32 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -5933,8 +5933,8 @@
 #DESCRIPTION Delta Radio 60-70-80 Nijmegen NL (256 kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//azuraserv3.live-streams.nl%3a8040/stream.mp3
 #DESCRIPTION Echte Piraten
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//italo.live-streams.nl/
-#DESCRIPTION Fantasy Radio NL (256 kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//italo.live-streams.nl%3a80/extra
+#DESCRIPTION Fantasy Radio NL (320 kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast3.asurahosting.com/proxy/breakou1/stream
 #DESCRIPTION Funky Channel
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3?
