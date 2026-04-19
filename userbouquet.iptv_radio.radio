@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 17.04.2026 21:50 by Team www.hdfreaks.cc
+#DESCRIPTION Update 19.04.2026 12:21 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -5915,9 +5915,9 @@
 #DESCRIPTION ------ Radio Mix NL ------
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//27823.live.streamtheworld.com/100PNL_AAC.aac
 #DESCRIPTION 100% NL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//2fm.nl/ic2fm//main
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//2fm.nl/webstream//main
 #DESCRIPTION 2FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//2fm.nl/ic2fmretro//retro
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//2fm.nl/webstream//retro
 #DESCRIPTION 2FM Retro
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.player.arrow.nl/arrow
 #DESCRIPTION Arrow Classic Rock
@@ -5957,7 +5957,7 @@
 #DESCRIPTION SLAM!
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sonic.magicdragon.nl/8044/stream
 #DESCRIPTION Stadsradio.NL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamer.hosting078.nl%3a1365/stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//caster.hosting078.nl%3a1175/stream
 #DESCRIPTION Studio Grensstad NL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25293.live.streamtheworld.com/SUBLIME.mp3?
 #DESCRIPTION Sublime - live
