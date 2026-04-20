@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 19.04.2026 14:43 by Team www.hdfreaks.cc
+#DESCRIPTION Update 20.04.2026 18:09 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -5965,6 +5965,18 @@
 #DESCRIPTION The Retro Sound - EXTRA GOLD CLASSICS (192 kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.tukkerfm.nl/tukkerfm
 #DESCRIPTION Tukker FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ------ Radio Veronica themakanalen ------
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21223.live.streamtheworld.com/VERONICAAAC.aac
+#DESCRIPTION Radio Veronica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21633.live.streamtheworld.com/DAB02_AAC.aac
+#DESCRIPTION Veronica De beste 90s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//28573.live.streamtheworld.com/DAB01_AAC.aac
+#DESCRIPTION Veronica De beste 80s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25323.live.streamtheworld.com/WEB07_AAC.aac
+#DESCRIPTION Veronica Rock Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22713.live.streamtheworld.com/WEB06_AAC.aac
+#DESCRIPTION Veronica Top 3000
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Frankreich
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stric6.streamakaci.com/4uclassicrock.mp3
