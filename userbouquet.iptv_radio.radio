@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 20.04.2026 18:09 by Team www.hdfreaks.cc
+#DESCRIPTION Update 24.04.2026 19:54 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1535,21 +1535,21 @@
 #DESCRIPTION Star FM - Christmas Rock
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio Fantasy
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/fantasy-934
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/fantasy-934/stream/mp3
 #DESCRIPTION Radio Fantasy
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/fantasy-allgaeu
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/fantasy-allgaeu/stream/mp3
 #DESCRIPTION Radio Fantasy - Allgäu
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/fantasy-lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/fantasy-lounge/stream/mp3
 #DESCRIPTION Radio Fantasy - Lounge
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/fantasy-classix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/fantasy-classix/stream/mp3
 #DESCRIPTION Radio Fantasy - Classix
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/fantasy-dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/fantasy-dance/stream/mp3
 #DESCRIPTION Radio Fantasy - Dance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/fantasy-2000er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/fantasy-2000er/stream/mp3
 #DESCRIPTION Radio Fantasy - 2000er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/fantasy-clubhits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/fantasy-clubhits/stream/mp3
 #DESCRIPTION Radio Fantasy - Clubhits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/fantasy-feelgood
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/fantasy-feelgood/stream/mp3
 #DESCRIPTION Radio Fantasy - Feeld Good
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio Regenbogen
@@ -1773,11 +1773,11 @@
 #DESCRIPTION radio.de - Classic Rock Florida HD
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//eu10.fastcast4u.com%3a8120/stream/1/
 #DESCRIPTION radio.de - B4B Radio Disco Funk
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge59.streamonkey.net/gong-live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/gong-live/stream/mp3
 #DESCRIPTION radio.de - 106,9 Radio Gong Würzburg
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge10.streamonkey.net/gong-inthemix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/gong-inthemix/stream/mp3
 #DESCRIPTION radio.de - Radio Gong Würzburg - In The Mix
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge68.streamonkey.net/gong-oldschool
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/gong-oldschool/stream/mp3
 #DESCRIPTION radio.de - Radio Gong Würzburg - Oldschool Gong
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Deutschlandfunk
@@ -1923,7 +1923,7 @@
 #DESCRIPTION Antenne Steiermark
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.antenne.at/ak
 #DESCRIPTION Antenne Kärnten
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge82.streamonkey.net/anttirol-live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/anttirol-live/stream/mp3
 #DESCRIPTION Antenne Tirol
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.antennevorarlberg.at/av-christkindl
 #DESCRIPTION Antenne Vorarlberg - Christkindlradio
@@ -1971,8 +1971,6 @@
 #DESCRIPTION Radio Arabella
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.zogl.net/stream
 #DESCRIPTION Radio Radino - Mein Kinderradio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge72.streamonkey.net/radio886-onair?
-#DESCRIPTION Radio 88.6
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mira.streamerr.co/listen/radiob138/radiob138_192
 #DESCRIPTION Radio B138
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiofabrik.at/rf_low.mp3
@@ -2211,17 +2209,17 @@
 #DESCRIPTION JAM FM - 2010er
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio Energy
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge06.streamonkey.net/energy-digital/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/energy-digital/stream/mp3
 #DESCRIPTION Radio Energy - National
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge09.streamonkey.net/energy-summerhits/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/energy-summerhits/stream/mp3
 #DESCRIPTION Radio Energy - Summerhits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge07.streamonkey.net/energy-hits/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/energy-hits/stream/mp3
 #DESCRIPTION Radio Energy - Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge07.streamonkey.net/energy-dance/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/energy-dance/stream/mp3
 #DESCRIPTION Radio Energy - Dance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge03.streamonkey.net/energy-digital/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/energy-digital/stream/mp3
 #DESCRIPTION Radio Energy - Sachsen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge07.streamonkey.net/energy-stuttgart/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/energy-stuttgart/stream/mp3
 #DESCRIPTION Radio Energy - Stuttgart
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Los 40
@@ -2571,7 +2569,7 @@
 #DESCRIPTION Mixed Channels - Das Inselradio Mallorca
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s2.euer.tv/audio320
 #DESCRIPTION Mixed Channels - Euer Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge59.streamonkey.net/handwerkerradio-live/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/handwerkerradio-live/stream/mp3
 #DESCRIPTION Mixed Channels - Handwerker Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//karls.stream04.radiohost.de/karls-erlebnisradio_mp3-192
 #DESCRIPTION Mixed Channels - Karls Erlebnis - Radio!
@@ -2593,7 +2591,7 @@
 #DESCRIPTION Mixed Channels - Radio Mittelweser
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wellenrausch.streamabc.net/95-radiowellenrausch-mp3-192-8870646
 #DESCRIPTION Mixed Channels - Radio Wellenrausch
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge66.streamonkey.net/fho-schwarzwaldradiolive/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/fho-schwarzwaldradiolive/stream/mp3
 #DESCRIPTION Mixed Channels - Schwarzwaldradio - Classic Hits & Super Oldies
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamd.stream31.radiohost.de/streamd-live_mp3-192
 #DESCRIPTION Mixed Channels - StreamD - Radio aus Düsseldorf
@@ -5541,17 +5539,17 @@
 #DESCRIPTION Radio Żnin
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION kulthit Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge07.streamonkey.net/kulthitradio-nrw/stream/aacp
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/kulthitradio-nrw/stream/mp3
 #DESCRIPTION kulthit Radio - NRW
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge68.streamonkey.net/kulthitradio-akustikhits/stream/aacp
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/kulthitradio-akustikhits/stream/mp3
 #DESCRIPTION kulthit Radio - Akustik Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge05.streamonkey.net/kulthitradio-rockhits/stream/aacp
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/kulthitradio-rockhits/stream/mp3
 #DESCRIPTION kulthit Radio - Rock Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge59.streamonkey.net/kulthitradio-partynacht/stream/aacp
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/kulthitradio-partynacht/stream/mp3
 #DESCRIPTION kulthit Radio - Party Nacht
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge64.streamonkey.net/kulthitradio-kuschelpop/stream/aacp
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/kulthitradio-kuschelpop/stream/mp3
 #DESCRIPTION kulthit Radio - Kuschel Pop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//edge62.streamonkey.net/charthitradio-nrw/stream/aacp
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/charthitradio-nrw/stream/mp3
 #DESCRIPTION kulthit Radio charthit - NRW
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Schlager Radio
@@ -5783,7 +5781,7 @@
 #DESCRIPTION Radio Melody
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chmedia.streamabc.net/79-pilatus-mp3-192-4664468?
 #DESCRIPTION Radio Pilatus
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge06.streamonkey.net/radiozuerileu-live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/radiozuerileu-live/stream/mp3
 #DESCRIPTION Radio ZüriLEU
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.radio.ch/radiozuerisee128k
 #DESCRIPTION Radio Zürisee
@@ -7357,17 +7355,17 @@
 #DESCRIPTION Feierfreund - Autoscooter
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION radio 88.6
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge64.streamonkey.net/radio886-onair/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/radio886-onair/stream/mp3
 #DESCRIPTION radio 88.6 - OnAir
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge10.streamonkey.net/radio886-hardrock/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/radio886-hardrock/stream/mp3
 #DESCRIPTION radio 88.6 - Hard Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge67.streamonkey.net/radio886-classicrock/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/radio886-classicrock/stream/mp3
 #DESCRIPTION radio 88.6 - Classic Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge13.streamonkey.net/radio886-rotweissrock/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/radio886-rotweissrock/stream/mp3
 #DESCRIPTION radio 88.6 - Rot Weiss Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge67.streamonkey.net/radio886-newrock/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/radio886-newrock/stream/mp3
 #DESCRIPTION radio 88.6 - New Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge60.streamonkey.net/radio886-metal/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/radio886-metal/stream/mp3
 #DESCRIPTION radio 88.6 - Metal
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio ffn
@@ -7871,49 +7869,49 @@
 #DESCRIPTION Planet Rock
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION RT1
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge11.streamonkey.net/rt1-ch24/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch24/stream/mp3
 #DESCRIPTION RT1 - Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge60.streamonkey.net/rt1-ch13/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch13/stream/mp3
 #DESCRIPTION RT1 - Black
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge65.streamonkey.net/rt1-ch21/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch21/stream/mp3
 #DESCRIPTION RT1 - Oldies
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge67.streamonkey.net/rt1-ch11/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch11/stream/mp3
 #DESCRIPTION RT1 - 80er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge65.streamonkey.net/rt1-ch12/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch12/stream/mp3
 #DESCRIPTION RT1 - 90er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge85.streamonkey.net/rt1-ch01/stream/mp3?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch01/stream/mp3?
 #DESCRIPTION RT1 - 2000er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge14.streamonkey.net/rt1-ch16/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch16/stream/mp3
 #DESCRIPTION RT1 - Deutsche Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge59.streamonkey.net/rt1-ch34/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch34/stream/mp3
 #DESCRIPTION RT1 - Brandneu
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge66.streamonkey.net/rt1-ch18/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch18/stream/mp3
 #DESCRIPTION RT1 - Funk
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge84.streamonkey.net/rt1-ch25/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch25/stream/mp3
 #DESCRIPTION RT1 - Xmas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge09.streamonkey.net/rt1-ch22/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch22/stream/mp3
 #DESCRIPTION RT1 - Power Workout
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge22.streamonkey.net/rt1-ch28/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch28/stream/mp3
 #DESCRIPTION RT1 - Coffee
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge59.streamonkey.net/rt1-ch31/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch31/stream/mp3
 #DESCRIPTION RT1 - Dinner & Cocktail Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge60.streamonkey.net/rt1-ch14/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch14/stream/mp3
 #DESCRIPTION RT1 - Clubbing
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge21.streamonkey.net/rt1-ch17/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch17/stream/mp3
 #DESCRIPTION RT1 - Euro Dance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge17.streamonkey.net/rt1-ch15/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch15/stream/mp3
 #DESCRIPTION RT1 - Dance Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge11.streamonkey.net/rt1-ch19/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch19/stream/mp3
 #DESCRIPTION RT1 - In the Mix
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge16.streamonkey.net/rt1-ch37/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch37/stream/mp3
 #DESCRIPTION RT1 - Plärrer Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge18.streamonkey.net/rt1-ch20/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch20/stream/mp3
 #DESCRIPTION RT1 - Lounge
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge01.streamonkey.net/rt1-ch23/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch23/stream/mp3
 #DESCRIPTION RT1 - Relax
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge07.streamonkey.net/rt1-ch35/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch35/stream/mp3
 #DESCRIPTION RT1 - Synthwave
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge67.streamonkey.net/rt1-ch36/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch36/stream/mp3
 #DESCRIPTION RT1 - Ikarus Festival Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION HotMix France
@@ -8201,15 +8199,15 @@
 #DESCRIPTION Berliner Rundfunk 91.4 - Weihnachtsradio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Nostalgie Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge67.streamonkey.net/nostalgie-live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/nostalgie-live/stream/mp3
 #DESCRIPTION Nostalgie Radio - Livestream
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge61.streamonkey.net/nostalgie-80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/nostalgie-80er/stream/mp3
 #DESCRIPTION Nostalgie Radio - 80er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge59.streamonkey.net/nostalgie-90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/nostalgie-90er/stream/mp3
 #DESCRIPTION Nostalgie Radio - 90er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge09.streamonkey.net/nostalgie-danceparty
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/nostalgie-danceparty/stream/mp3
 #DESCRIPTION Nostalgie Radio - Dance Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge11.streamonkey.net/nostalgie-sommer
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/nostalgie-sommer/stream/mp3
 #DESCRIPTION Nostalgie Radio - Sommer
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION 1.FM
