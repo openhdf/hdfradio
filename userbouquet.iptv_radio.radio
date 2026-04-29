@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 28.04.2026 17:49 by Team www.hdfreaks.cc
+#DESCRIPTION Update 29.04.2026 17:56 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -321,59 +321,59 @@
 #DESCRIPTION 80s80s - Freestyle
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Perfect Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//n04.radiojar.com/0yxv39azat3vv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/0yxv39azat3vv
 #DESCRIPTION Perfect Radio - Blues
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n0a.radiojar.com/whwyhz188a0uv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/whwyhz188a0uv
 #DESCRIPTION Perfect Radio - Cillout
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n07.radiojar.com/5vtvu44swk8uv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/5vtvu44swk8uv
 #DESCRIPTION Perfect Radio - Christmas Music
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n13.radiojar.com/ep1yv9t3dxhvv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/ep1yv9t3dxhvv
 #DESCRIPTION Perfect Radio - Clubhits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n08.radiojar.com/1uqnt5zp1v8uv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/1uqnt5zp1v8uv
 #DESCRIPTION Perfect Radio - Coffeemusic
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n13.radiojar.com/4gexr8aqyd0uv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/4gexr8aqyd0uv
 #DESCRIPTION Perfect Radio - Dancehits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n07.radiojar.com/asngk2sg798uv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/asngk2sg798uv
 #DESCRIPTION Perfect Radio - Deep House
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n05.radiojar.com/fvn06kg1uucwv?:16122025
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/fvn06kg1uucwv
 #DESCRIPTION Perfect Radio - Eighties Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//n0a.radiojar.com/vz5fpmm0azuvv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/vz5fpmm0azuvv
 #DESCRIPTION Perfect Radio - Elvis
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//n06.radiojar.com/9fdycttep7uvv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/9fdycttep7uvv
 #DESCRIPTION Perfect Radio - Italian Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n05.radiojar.com/2fhqye2ez2hvv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/2fhqye2ez2hvv
 #DESCRIPTION Perfect Radio - Kizomba
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n04.radiojar.com/httms151kwzuv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/httms151kwzuv
 #DESCRIPTION Perfect Radio - Lovesongs
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n01.radiojar.com/5bdyvqa9bm8uv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/5bdyvqa9bm8uv
 #DESCRIPTION Perfect Radio - Lovesongs Reloaded
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n0d.radiojar.com/cxases7nabuvv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/cxases7nabuvv
 #DESCRIPTION Perfect Radio - New Age
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//n12.radiojar.com/yk729qbkzeruv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/yk729qbkzeruv
 #DESCRIPTION Perfect Radio - New Country
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n0c.radiojar.com/bdnkd1mqehruv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/bdnkd1mqehruv
 #DESCRIPTION Perfect Radio - Oldies
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//n10.radiojar.com/uevsbv2zcd3vv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/uevsbv2zcd3vv
 #DESCRIPTION Perfect Radio - Potpourry
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n01.radiojar.com/ezs0qr9m4qruv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/ezs0qr9m4qruv
 #DESCRIPTION Perfect Radio - Reggae
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n01.radiojar.com/98nue16kdq8uv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/98nue16kdq8uv
 #DESCRIPTION Perfect Radio - Radio Mix
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n05.radiojar.com/guxrfs477qruv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/guxrfs477qruv
 #DESCRIPTION Perfect Radio - Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n02.radiojar.com/kfsf1eexrf9uv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/kfsf1eexrf9uv
 #DESCRIPTION Perfect Radio - Salsa
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n01.radiojar.com/rk8e9x2vetzuv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/rk8e9x2vetzuv
 #DESCRIPTION Perfect Radio - Schlageroldies
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n12.radiojar.com/d3bcstqn9mruv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/d3bcstqn9mruv
 #DESCRIPTION Perfect Radio - Smooth Jazz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n04.radiojar.com/eq8txpg1b5zuv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/eq8txpg1b5zuv
 #DESCRIPTION Perfect Radio - Softrock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n10.radiojar.com/2n44t88fkzzuv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/2n44t88fkzzuv
 #DESCRIPTION Perfect Radio - Soul Classics
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n13.radiojar.com/kekymez99bcwv?:16122025
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/kekymez99bcwv
 #DESCRIPTION Perfect Radio - Trance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//n01.radiojar.com/32m0y5ubt18uv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/32m0y5ubt18uv
 #DESCRIPTION Perfect Radio - Wavemusic
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio Ton
@@ -2551,7 +2551,7 @@
 #DESCRIPTION Mixed Channels - Radio Shadow Deep Tracks
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bestofrockfm.stream.vip/rammstein/mp3-192/bestofrock.fm/
 #DESCRIPTION Mixed Channels - Rammstein.FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s9.yesstreaming.net%3a2199/proxy/anyhowmo/;stream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/0a7w29dm85nwv
 #DESCRIPTION Mixed Channels - Rock Radio 104.7
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.emisorasmusicales.net/radio/8060/rockstar.mp3
 #DESCRIPTION Mixed Channels - RockStar
@@ -5137,7 +5137,7 @@
 #DESCRIPTION Radio Złote Przeboje - Zielona Góra
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.rcs.revma.com/062uq3z3kwzuv
 #DESCRIPTION Radio Bielsko
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//n05.radiojar.com/q87xmtvrrg8uv
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/q87xmtvrrg8uv
 #DESCRIPTION Radio Elbląg
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ch.cdn.eurozet.pl/CHISWI.mp3
 #DESCRIPTION Chillizet Christmas /świąteczne/
@@ -5305,7 +5305,7 @@
 #DESCRIPTION Radio Kujawy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//51.255.8.139%3a9772/stream
 #DESCRIPTION Radio Kultura
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radiojar.com/ypspphhxfm8uv
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/ypspphhxfm8uv
 #DESCRIPTION Radio Kuropatwa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s3.slotex.pl/shoutcast/7374/stream
 #DESCRIPTION Radio Kwiatuszek
@@ -6853,7 +6853,7 @@
 #DESCRIPTION Got Radio - Urban Jamz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pureplay.cdnstream1.com/6053_64.aac
 #DESCRIPTION Got Radio - Urban Lounge
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//n11.radiojar.com/6pz06e8nv4zuv
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/6pz06e8nv4zuv
 #DESCRIPTION Greatest Hits Radio USA
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nexuscast.com%3a8139/;?1477430338630.mp3
 #DESCRIPTION Heart Beat Radio (USA)
@@ -9243,7 +9243,7 @@
 #DESCRIPTION Radio City
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radioplay.fi/radiomega/radiomega_64.aac?aw_0_1st.playerid=BMUK_tunein
 #DESCRIPTION Radio Mega
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/n6yg5q0z8vzuv.m4a
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/n6yg5q0z8vzuv
 #DESCRIPTION Radio Musa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radioplay.fi/radiopooki/radiopooki_64.aac?aw_0_1st.playerid=BMUK_tunein
 #DESCRIPTION Radio Pooki
@@ -9313,7 +9313,7 @@
 #DESCRIPTION Al Arabiya FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8
 #DESCRIPTION Al Jazeera Arabic
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radiojar.com/5wpf9e4erxquv
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/5wpf9e4erxquv
 #DESCRIPTION Al Khaleejiya
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiosunna.radioca.st/autodj
 #DESCRIPTION Al Menhaj Sunnah
@@ -9445,7 +9445,7 @@
 #DESCRIPTION Dream FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cast4.my-control-panel.com/proxy/dreamfmlebanon/stream
 #DESCRIPTION Dream FM Lebanon
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radiojar.com/8s5u5tpdtwzuv
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/8s5u5tpdtwzuv
 #DESCRIPTION ERTU Al-Quran Al-Karim
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//carina.streamerr.co%3a2020/stream/OnSportFM
 #DESCRIPTION ERTU Al-Shabab wal Riyadah
@@ -9705,7 +9705,7 @@
 #DESCRIPTION RaDio SaHaR
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.r4fm.ps%3a8044/;
 #DESCRIPTION Rabea FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radiojar.com/ps7z45v12k8uv
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/ps7z45v12k8uv
 #DESCRIPTION Radio 514
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//9090streaming.mobtada.com/9090FMEGYPT
 #DESCRIPTION Radio 9090
@@ -9733,7 +9733,7 @@
 #DESCRIPTION Radio Ainkawa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streamer.radio.co/sb38bf6e66/listen
 #DESCRIPTION Radio Al Bilad
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radiojar.com/78cxy6wkxtzuv
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/78cxy6wkxtzuv
 #DESCRIPTION Radio Al Hara
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live-hls-audio-web-aje.getaj.net/VOICE-AJE/index.m3u8
 #DESCRIPTION Radio Al Jazeera English
