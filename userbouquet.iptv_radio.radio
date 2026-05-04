@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 29.04.2026 17:56 by Team www.hdfreaks.cc
+#DESCRIPTION Update 04.05.2026 17:58 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1953,6 +1953,8 @@
 #DESCRIPTION Flash 90s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.xaok.org/frs.mp3
 #DESCRIPTION Freies Radio Salzkammergut
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.idem-fm.at/api/stream
+#DESCRIPTION Idem FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s35.derstream.net/inforadio.mp3
 #DESCRIPTION inforadio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge67.stream.maxfive.com/max5-joelive
@@ -6949,126 +6951,98 @@
 #DESCRIPTION West Coast Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Spanien
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp.com%3a8060/stream/1/
-#DESCRIPTION Radio Maria Spain - 48 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stm1.emiteonline.com%3a8008/spektrafm
-#DESCRIPTION Unspecified name - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiovoz.es/mp3/stream_coruna.mp3
-#DESCRIPTION Stream Radiovoz CoruÃ±a - 64 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/CITY-FUNK-RADIO
-#DESCRIPTION Jamendo Lounge - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s9.myradiostream.com%3a14296/stream/1/
-#DESCRIPTION Dance One Radio San Francisco - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com%3a80/ClassicRockMiami
-#DESCRIPTION CLASSIC ROCK MIAMI - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//84.232.4.5%3a19000/stream/1/
-#DESCRIPTION Efecto FM - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.radioradio.es%3a8000/stream/1/
-#DESCRIPTION Radio Radio Network - Marbella v2 - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/pilots-radio
-#DESCRIPTION Pilots Radio - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//securestreams4.autopo.st%3a1889/stream
-#DESCRIPTION Qfm Jazz - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/CITY-POP-RADIO
-#DESCRIPTION CITYPOPRADIO - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s0.radiohost.pl%3a9569/stream/1/
-#DESCRIPTION Radio MIRAGE ITALODANCE - 256 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//c4.auracast.net%3a8010/stream/1/
-#DESCRIPTION Best 50s Radio - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//213.32.121.35%3a8040/stream/1/
-#DESCRIPTION Best 70s - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//c4.auracast.net%3a8050/stream
-#DESCRIPTION Best 90s - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ibizaglobalradio.streaming-pro.com%3a8026/stream/1/
-#DESCRIPTION :Ibiza Global Radio HD: - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/LOVERADIOFM
-#DESCRIPTION LOVERADIOFM - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/City-80-Radio
-#DESCRIPTION City80Radio - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//157.230.221.44%3a9300/stream/1/
-#DESCRIPTION Azul Radio Dominicana - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/mixonline
-#DESCRIPTION The Groovy MIXX - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stm1.emiteonline.com%3a8004/hitelgrado
-#DESCRIPTION Hit Radio Zona Oriental 96.2 - 96 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//192.99.8.192%3a2296/stream/1/
-#DESCRIPTION TENIENTIKO.COM RADIO - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/1000-HITS-Sweet-Radio
-#DESCRIPTION 1000HITSSweetRadio - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//5.39.76.68%3a8050
-#DESCRIPTION DISTINTA FM - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/todocountryradio
-#DESCRIPTION The Fashion Place - LS Retail - Retail Music International - 128 kbit/s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stm1.emiteonline.com%3a8024/antenahuelva
-#DESCRIPTION Antena Huelva Radio - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server10.emitironline.com%3a10044/radio.mp3
-#DESCRIPTION no name - 192 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio4.cdm-radio.com%3a18008/stream-mp3-Funk
-#DESCRIPTION Costa Del Mar - Funky - 96 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radioserver11.profesionalhosting.com%3a9177
-#DESCRIPTION CANAL AXARQUIA - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingv2.shoutcast.com/999-valencia
-#DESCRIPTION Valencia Radio - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/TEEZ-FM
-#DESCRIPTION TEEZ-FM - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//str3.openstream.co/2142
-#DESCRIPTION PulsRadio 2000 - 192 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sc6.gergosnet.com/stream/10/
-#DESCRIPTION MagicRadio by PulsRadio - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming6.elitecomunicacion.es%3a8202/stream/1/
-#DESCRIPTION Radio Star Terrassa - 256 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.radiopego.com%3a8000
-#DESCRIPTION Radio Pego - 56 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//lyra.shoutca.st%3a8151/rfcmp3_autodj
-#DESCRIPTION RFC Radio mp3 - 160 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.guijuelo.es%3a8000/directo.ogg
-#DESCRIPTION Radio Guijuelo - 96 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/classicsradio
-#DESCRIPTION Cool Music Lounge - Deep Radio - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/A1ONESYMPHONY
-#DESCRIPTION A.1.ONE.SYMPHONY - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radios-online.info%3a3290
-#DESCRIPTION www.01global.com  RADIOCIEN Rivera Uruguay - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/B4BRadioSMOOTHJAZZ
-#DESCRIPTION Bravo!Opera - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//84.232.12.14%3a8000/caravacaradio
-#DESCRIPTION Caravaca Radio - 96 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sc6.gergosnet.com/stream/2/
-#DESCRIPTION PulsRadio LOUNGE - 96 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio4.cdm-radio.com%3a18024/stream-AAC-Smooth
-#DESCRIPTION Costa Del Mar - Smooth Sax - 96 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//79.148.125.91%3a8020/stream/2/
-#DESCRIPTION RADIO BALAGUER - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//securestream.radioshd.info%3a7095/stream/1/
-#DESCRIPTION Radio La Escandalosa - 64 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio4.cdm-radio.com%3a18020/stream-mp3-Chill
-#DESCRIPTION Costa Del Mar - Chillout - 96 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio4.cdm-radio.com%3a18012/stream-mp3-Deep
-#DESCRIPTION Costa Del Mar - Deep House - 96 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//2.139.144.101%3a8020/stream/1/
-#DESCRIPTION Star People - 256 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.capsulaimposible.com%3a8000/stream/2/canalebro.mp3
-#DESCRIPTION Unnamed Server ESP - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/AQUA-RADIO-ONLINE
-#DESCRIPTION AQUARADIOONLINE - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com%3a80/ACRADULTROCKNOW
-#DESCRIPTION SOUTHFLORIDAROCK - 128 kbit/s
+#DESCRIPTION Antena Huelva Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//kqof.out.airtime.pro%3a8000/kqof_a
-#DESCRIPTION Airtime! - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming17.hstbr.net%3a8104/live
-#DESCRIPTION LOUVOR PERFEITO - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com%3a80/Mediterraneo-SMOOTHJAZZ
-#DESCRIPTION Mediterraneo-SMOOTHJAZZ - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com%3a80/RadioIsletaValencia
-#DESCRIPTION RadioIsletaValencia - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/albumradiopop
-#DESCRIPTION AlbumRadioPOP - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.radionomy.com/GospelJazzRadio
-#DESCRIPTION #1JazzRadio - 128 kbit/s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.cuacfm.org%3a80/cuacfm.ogg
-#DESCRIPTION CUAC FM - 103.4 FM (OGG) - 96 kbit/s
+#DESCRIPTION Airtime!
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//157.230.221.44%3a9300/stream/1/
+#DESCRIPTION Azul Radio Dominicana
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radioserver11.profesionalhosting.com/proxy/pkg81083?mp=/stream&1777880324396
+#DESCRIPTION CANAL AXARQUIA
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.capsulaimposible.com%3a8000/stream/2/canalebro.mp3
+#DESCRIPTION Canal Ebro
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/classicsradio
+#DESCRIPTION Cool Music Lounge - Deep Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//84.232.12.14%3a8000/caravacaradio
+#DESCRIPTION Caravaca Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio4.cdm-radio.com%3a18020/stream-mp3-Chill
+#DESCRIPTION Costa Del Mar - Chillout
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio4.cdm-radio.com%3a18012/stream-mp3-Deep
+#DESCRIPTION Costa Del Mar - Deep House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio4.cdm-radio.com%3a18008/stream-mp3-Funk
+#DESCRIPTION Costa Del Mar - Funky
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio4.cdm-radio.com%3a18024/stream-AAC-Smooth
+#DESCRIPTION Costa Del Mar - Smooth Sax
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.cuacfm.org/cuacfm-128k.mp3
+#DESCRIPTION CUAC FM - 103.4 FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//c4.auracast.net%3a8010/stream/1/
+#DESCRIPTION Best 50s Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//213.32.121.35%3a8040/stream/1/
+#DESCRIPTION Best 70s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//c4.auracast.net%3a8050/stream
+#DESCRIPTION Best 90s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/B4BRadioSMOOTHJAZZ
+#DESCRIPTION Bravo!Opera
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s9.myradiostream.com%3a14296/stream/1/
+#DESCRIPTION Dance One Radio San Francisco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//5.39.76.68%3a8050
+#DESCRIPTION DISTINTA FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//84.232.4.5%3a19000/stream/1/
+#DESCRIPTION Efecto FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sc6.gergosnet.com/stream/3/
-#DESCRIPTION HitUkStation by PulsRadio - 192 kbit/s
+#DESCRIPTION HitUkStation by PulsRadio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stm1.emiteonline.com%3a8004/hitelgrado
+#DESCRIPTION Hit Radio Zona Oriental 96.2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sc6.gergosnet.com/stream/10/
+#DESCRIPTION MagicRadio by PulsRadio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.laut.fm/pilots-radio
+#DESCRIPTION Pilots Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//str3.openstream.co/2142
+#DESCRIPTION PulsRadio 2000
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//securestreams4.autopo.st%3a1889/stream
+#DESCRIPTION Qfm Jazz
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ibizaglobalradio.streaming-pro.com%3a8026/stream/1/
+#DESCRIPTION Ibiza Global Radio HD
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/LOVERADIOFM
+#DESCRIPTION LOVERADIOFM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming17.hstbr.net%3a8104/live
+#DESCRIPTION LOUVOR PERFEITO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//server10.emitironline.com%3a10044/radio.mp3
+#DESCRIPTION no name
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//sc6.gergosnet.com/stream/2/
+#DESCRIPTION PulsRadio LOUNGE
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//79.148.125.91%3a8020/stream/2/
+#DESCRIPTION RADIO BALAGUER
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radios-online.info%3a3290
+#DESCRIPTION RADIOCIEN Rivera Uruguay
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.guijuelo.es%3a8000/directo.ogg
+#DESCRIPTION Radio Guijuelo
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dreamsiteradiocp.com%3a8060/stream/1/
+#DESCRIPTION Radio Maria Spain
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s0.radiohost.pl%3a9569/stream/1/
+#DESCRIPTION Radio MIRAGE ITALODANCE
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.radioradio.es%3a8000/stream/1/
+#DESCRIPTION Radio Radio Network - Marbella v2
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//securestream.radioshd.info%3a7095/stream/1/
+#DESCRIPTION Radio La Escandalosa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming6.elitecomunicacion.es%3a8202/stream/1/
+#DESCRIPTION Radio Star Terrassa
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//lyra.shoutca.st%3a8151/rfcmp3_autodj
+#DESCRIPTION RFC Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stm1.emiteonline.com%3a8008/spektrafm
+#DESCRIPTION Spektra FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//2.139.144.101%3a8020/stream/1/
+#DESCRIPTION Star People
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.radiovoz.es/mp3/stream_coruna.mp3
+#DESCRIPTION Stream Radiovoz Coruna
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/mixonline
+#DESCRIPTION The Groovy MIXX
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//192.99.8.192%3a2296/stream/1/
+#DESCRIPTION TENIENTIKO.COM RADIO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/todocountryradio
+#DESCRIPTION The Fashion Place
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streamingv2.shoutcast.com/999-valencia
+#DESCRIPTION Valencia Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio Paradise
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.radioparadise.com/mp3-320
