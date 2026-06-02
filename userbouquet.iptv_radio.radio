@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 31.05.2026 22:00 by Team www.hdfreaks.cc
+#DESCRIPTION Update 02.06.2026 17:55 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -6843,21 +6843,21 @@
 #DESCRIPTION Got Radio - Urban Lounge
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/6pz06e8nv4zuv
 #DESCRIPTION Greatest Hits Radio USA
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nexuscast.com%3a8139/;?1477430338630.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nexuscast.com%3a8139/
 #DESCRIPTION Heart Beat Radio (USA)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nexuscast.com%3a8131/;?1477429899301.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nexuscast.com%3a8131/
 #DESCRIPTION Heart Beat Radio - Kiss FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nexuscast.com%3a8147/;?1477430072857.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nexuscast.com%3a8147/
 #DESCRIPTION Heart Beat Radio - Barnyard Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nexuscast.com%3a8145/;?1477428778121.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nexuscast.com%3a8145/
 #DESCRIPTION Heart Beat Radio - A Taste Of Portugal
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nexuscast.com%3a8135/;;audio.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nexuscast.com%3a8135/
 #DESCRIPTION Heart Beat Radio - Back To The 80's Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nexuscast.com%3a8137/;?1477429551105.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nexuscast.com%3a8137/
 #DESCRIPTION Heart Beat Radio - That 70's Station
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nexuscast.com%3a8133/;?1477429266687.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nexuscast.com%3a8133/
 #DESCRIPTION Heart Beat Radio - Graceland Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.56.185.82%3a8141/;stream.nsv
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.56.185.82%3a8141/
 #DESCRIPTION Heart Beat Radio - Beatle Radio!
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hdradioclassicrock-rfritschka.radioca.st/;
 #DESCRIPTION HD Radio - Classic Rock live
