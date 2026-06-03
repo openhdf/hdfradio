@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 02.06.2026 17:55 by Team www.hdfreaks.cc
+#DESCRIPTION Update 03.06.2026 19:57 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -33,37 +33,37 @@
 #DESCRIPTION Radio Westfalica
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiowestfalica--di--nacs-ais-lgc--09--cdn.cast.addradio.de/radiowestfalica/live/mp3/high
 #DESCRIPTION Radio Westfalica - Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/dein80er/mid/stream.aac?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/dein80er/mid/stream.aac
 #DESCRIPTION Radio Westfalica - Dein 80er Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/dein90er/mid/stream.aac?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/dein90er/mid/stream.aac
 #DESCRIPTION Radio Westfalica - Dein 90er Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinradio03/aac/mid/stream.aac?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinradio03/aac/mid/stream.aac
 #DESCRIPTION Radio Westfalica - Dein 2000er Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinradio02/mp3/high/stream.mp3?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinradio02/mp3/high/stream.mp3
 #DESCRIPTION Radio Westfalica - Dein Dance Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deindeutschpop/high/stream.mp3?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deindeutschpop/high/stream.mp3
 #DESCRIPTION Radio Westfalica - Dein Deutsch Pop Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinradio07/mp3/high/stream.mp3?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinradio07/mp3/high/stream.mp3
 #DESCRIPTION Radio Westfalica - Dein HIP HOP Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinlounge/mid/stream.aac?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinlounge/mid/stream.aac
 #DESCRIPTION Radio Westfalica - Dein Lounge Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinlove/mid/stream.aac?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinlove/mid/stream.aac
 #DESCRIPTION Radio Westfalica - Dein Love Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinradio06/aac/mid/stream.aac?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinradio06/aac/mid/stream.aac
 #DESCRIPTION Radio Westfalica - Dein New Country Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinrock/low/stream.mp3?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinrock/low/stream.mp3
 #DESCRIPTION Radio Westfalica - Dein Rock Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinradio04/aac/mid/stream.aac?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinradio04/aac/mid/stream.aac
 #DESCRIPTION Radio Westfalica - Dein Rock Classic Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinschlager/low/stream.mp3?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinschlager/low/stream.mp3
 #DESCRIPTION Radio Westfalica - Dein Schlager Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deintop40/mid/stream.aac?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deintop40/mid/stream.aac
 #DESCRIPTION Radio Westfalica - Dein Top40 Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinurban/mid/stream.aac?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinurban/mid/stream.aac
 #DESCRIPTION Radio Westfalica - Dein Urban Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinradio05/aac/mid/stream.aac?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinradio05/aac/mid/stream.aac
 #DESCRIPTION Radio Westfalica - Dein Sommer Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinevent/mid/stream.aac?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinevent/mid/stream.aac
 #DESCRIPTION Radio Westfalica - Dein Weihnachts Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Ostseewelle
@@ -313,9 +313,9 @@
 #DESCRIPTION 80s80s - NRW
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-80s80sebm-mp3-192-8711896
 #DESCRIPTION 80s80s - EBM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-80s80sreggae-mp3-192-3880321?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-80s80sreggae-mp3-192-3880321
 #DESCRIPTION 80s80s - Reggae
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc_vvopejosnr_rv4r-mp3-192-6705874?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc_vvopejosnr_rv4r-mp3-192-6705874
 #DESCRIPTION 80s80s - Alternative
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//regiocast.streamabc.net/regc_bljow2eoji_it5l-mp3-192-6893733
 #DESCRIPTION 80s80s - Freestyle
@@ -379,31 +379,31 @@
 #DESCRIPTION Radio Ton
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream29.radiohost.de/radioton-bw_mp3-192?:Doctor_Who_04_25
 #DESCRIPTION Radio Ton - Radio Ton Baden-Württemberg
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream29.radiohost.de/radioton-top_1000_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream29.radiohost.de/radioton-top_1000_mp3-192
 #DESCRIPTION Radio Ton - Top 1.000
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream29.radiohost.de/radioton-80er_disco_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream29.radiohost.de/radioton-80er_disco_mp3-192
 #DESCRIPTION Radio Ton - 80er Disco
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream24.radiohost.de/radioton-80er_rock_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream24.radiohost.de/radioton-80er_rock_mp3-192
 #DESCRIPTION Radio Ton - 80er Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream24.radiohost.de/radioton-80er_funky_friday_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream24.radiohost.de/radioton-80er_funky_friday_mp3-192
 #DESCRIPTION Radio Ton - 80er Funky Friday
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream29.radiohost.de/radioton-80er_germany_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream29.radiohost.de/radioton-80er_germany_mp3-192
 #DESCRIPTION Radio Ton - 80er Germany
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream29.radiohost.de/radioton-80er_zauberwrfel_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream29.radiohost.de/radioton-80er_zauberwrfel_mp3-192
 #DESCRIPTION Radio Ton - 80er Zauberwürfel
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream26.radiohost.de/radioton-80er_longplayer_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream26.radiohost.de/radioton-80er_longplayer_mp3-192
 #DESCRIPTION Radio Ton - 80er Longplayer
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream29.radiohost.de/radioton-80er_workout_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream29.radiohost.de/radioton-80er_workout_mp3-192
 #DESCRIPTION Radio Ton - 80er Workout
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream26.radiohost.de/radioton-80er_hollywood_mp3-192?:10
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream26.radiohost.de/radioton-80er_hollywood_mp3-192
 #DESCRIPTION Radio Ton - 80er Hollywood
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream26.radiohost.de/radioton-80er_live_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream26.radiohost.de/radioton-80er_live_mp3-192
 #DESCRIPTION Radio Ton - 80er Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream29.radiohost.de/radioton-80er_feelings_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream29.radiohost.de/radioton-80er_feelings_mp3-192
 #DESCRIPTION Radio Ton - 80er Feelings
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream26.radiohost.de/radioton-popup1_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream26.radiohost.de/radioton-popup1_mp3-192
 #DESCRIPTION Radio Ton - Weihnachten
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream24.radiohost.de/radioton-popup2_mp3-192?:14
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioton.stream24.radiohost.de/radioton-popup2_mp3-192
 #DESCRIPTION Radio Ton - Ukraine
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio BOB!
@@ -525,7 +525,7 @@
 #DESCRIPTION Radio BOB! - Livestream National
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-bobrockamring-mp3-192-7733672
 #DESCRIPTION Radio BOB! - Rock am Ring
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-bobozzy-mp3-192-9669457?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-bobozzy-mp3-192-9669457
 #DESCRIPTION Radio BOB! - Ozzy Osbourne
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-bobrmig-mp3-192-5006717
 #DESCRIPTION Radio BOB! - Made in Germany
@@ -553,7 +553,7 @@
 #DESCRIPTION Antenne NRW - Fetenhits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-disco-fever/stream/aacp
 #DESCRIPTION Antenne NRW - Disco Fever
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiogroup.de/radiogroup-bella-italia/mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiogroup.de/radiogroup-bella-italia/mp3-192
 #DESCRIPTION Antenne NRW - Bella Italia
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream09.radiohost.de/radiogroup-70er_mp3-192
 #DESCRIPTION Antenne NRW - 70er Rock
@@ -561,13 +561,13 @@
 #DESCRIPTION Antenne NRW - 80er Disco Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream18.radiohost.de/radiogroup-rock_mp3-192
 #DESCRIPTION Antenne NRW - 80er Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream32.radiohost.de/radiogroup-flashback-80er_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream32.radiohost.de/radiogroup-flashback-80er_mp3-192
 #DESCRIPTION Antenne NRW - 80er Party
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-90er-eurodance/stream/aacp
 #DESCRIPTION Antenne NRW - 90er Eurodance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream32.radiohost.de/radiogroup-90er_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream32.radiohost.de/radiogroup-90er_mp3-192
 #DESCRIPTION Antenne NRW - 90er Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream31.radiohost.de/radiogroup-90er_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream31.radiohost.de/radiogroup-90er_mp3-192
 #DESCRIPTION Antenne NRW - 90er Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-ue30-party/stream/aacp
 #DESCRIPTION Antenne NRW - Ü30 Party
@@ -1875,11 +1875,11 @@
 #DESCRIPTION Radio Arabella DE - Oktoberfest
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.radioarabella.de/radioarabella-weihnachten/stream/mp3
 #DESCRIPTION Radio Arabella DE - Christmas
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge10.stream.radioarabella.de/radioarabella-kuschelpop/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.stream.radioarabella.de/radioarabella-kuschelpop/stream/mp3
 #DESCRIPTION Radio Arabella DE - Kuschel Pop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.stream.radioarabella.de/radioarabella-austropop/stream/mp3
 #DESCRIPTION Radio Arabella DE - Austro Pop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge70.stream.radioarabella.de/radioarabella-liveclassics/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.stream.radioarabella.de/radioarabella-liveclassics/stream/mp3
 #DESCRIPTION Radio Arabella DE - Live Classics
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Österreich
@@ -1937,19 +1937,19 @@
 #DESCRIPTION Generation Mix Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
 #DESCRIPTION ---- ORF Sound - Privatradios ----
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge64.streams.arabella.at/arabella-hotsound?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streams.arabella.at/arabella-hotsound
 #DESCRIPTION arabella HOT
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge81.streams.arabella.at/arabella-magicsound?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streams.arabella.at/arabella-magicsound
 #DESCRIPTION arabella MAGIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.cr944.at/cr944-high
 #DESCRIPTION Campus & City Radio St. Pölten
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge08.stream.maxfive.com/max5-city23?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.stream.maxfive.com/max5-city23
 #DESCRIPTION City23
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiotechnikum.at/CITYJAZZ
 #DESCRIPTION City Jazz Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.nrjaudio.fm/ousv8fm4z85f
 #DESCRIPTION ENERGY
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liferadio.streamabc.net/lfr-flash90s-mp3-192-3814105?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liferadio.streamabc.net/lfr-flash90s-mp3-192-3814105
 #DESCRIPTION Flash 90s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.xaok.org/frs.mp3
 #DESCRIPTION Freies Radio Salzkammergut
@@ -1957,7 +1957,7 @@
 #DESCRIPTION Idem FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s35.derstream.net/inforadio.mp3
 #DESCRIPTION inforadio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge67.stream.maxfive.com/max5-joelive
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.stream.maxfive.com/max5-joelive
 #DESCRIPTION jö.live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s35.derstream.net/ukw-wien.mp3
 #DESCRIPTION LoungeFM
@@ -1965,11 +1965,11 @@
 #DESCRIPTION METAL Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.nrjaudio.fm/ou87rdgk7oiu
 #DESCRIPTION NOSTALGIE
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liferadio.streamabc.net/lfr-ooenow-mp3-192-7400410?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liferadio.streamabc.net/lfr-ooenow-mp3-192-7400410
 #DESCRIPTION OÖNow
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//securestream.o94.at/live.mp3
 #DESCRIPTION ORANGE 94.0
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge21.streams.arabella.at/arabella-wiensound?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streams.arabella.at/arabella-wiensound
 #DESCRIPTION Radio Arabella
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.zogl.net/stream
 #DESCRIPTION Radio Radino - Mein Kinderradio
@@ -1977,7 +1977,7 @@
 #DESCRIPTION Radio B138
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiofabrik.at/rf_low.mp3
 #DESCRIPTION Radiofabrik
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.radioflamingo.at/rf-orf.aac?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//live.radioflamingo.at/rf-orf.aac
 #DESCRIPTION Radio Flamingo
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//server4.streamserver24.com/proxy/krkarall?mp=/stream
 #DESCRIPTION Radio Mora
@@ -1989,9 +1989,9 @@
 #DESCRIPTION Radio ONE
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiovm1.fluidstream.eu/radiovm1_a5.mp3
 #DESCRIPTION Radio VM1
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//edge70.stream.superfly.fm/superfly-livesound?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.stream.superfly.fm/superfly-livesound
 #DESCRIPTION Radio Superfly
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liferadio.streamabc.net/lfr_w97ylbvwcps_45m7-mp3-192-1637662?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liferadio.streamabc.net/lfr_w97ylbvwcps_45m7-mp3-192-1637662
 #DESCRIPTION XXXLutz - Das Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Kronehit
@@ -2649,7 +2649,7 @@
 #DESCRIPTION ⇒ Mixed Channels International
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paineldj5.com.br%3a20087/stream
 #DESCRIPTION Mixed Channels - Rádio Huambo - RNA
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-176.zeno.fm/qtsv9imdittvv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-176.zeno.fm/qtsv9imdittvv
 #DESCRIPTION Mixed Channels - 80s FlashBack Radio (Chile)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s2.ssl-stream.com%3a8050/256.mp3
 #DESCRIPTION Mixed Channels - 80s Forever
@@ -2831,9 +2831,9 @@
 #DESCRIPTION 90s90s - Rave
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90ssommerhits7739935-mp3-192-4515340
 #DESCRIPTION 90s90s - Sommerhits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90sreggae-mp3-192-2403753?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90sreggae-mp3-192-2403753
 #DESCRIPTION 90s90s - Reggae
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90s90s00s-mp3-192-4732500?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90s90s00s-mp3-192-4732500
 #DESCRIPTION 90s90s - 90s00s Millenium Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-90s90schillout-mp3-192-9834343
 #DESCRIPTION 90s90s - Chill Out
@@ -5741,7 +5741,7 @@
 #DESCRIPTION Canal 3 CH
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//countryradioswitzerland.ice.infomaniak.ch/crs-128.mp3
 #DESCRIPTION Country Radio Switzerland
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chmedia.streamabc.net/79-ffm-mp3-192-2470075?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chmedia.streamabc.net/79-ffm-mp3-192-2470075
 #DESCRIPTION Flashback FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//neo1.ice.infomaniak.ch/neo1.mp3
 #DESCRIPTION neo1 - Mein Radio
@@ -5749,9 +5749,9 @@
 #DESCRIPTION GOAT Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radio1.ch/128k
 #DESCRIPTION Radio 1 FM 93.6
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chmedia.streamabc.net/79-r24-mp3-192-6659699?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chmedia.streamabc.net/79-r24-mp3-192-6659699
 #DESCRIPTION Radio 24
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chmedia.streamabc.net/79-r32-mp3-192-5284783?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chmedia.streamabc.net/79-r32-mp3-192-5284783
 #DESCRIPTION Radio 32
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chmedia.streamabc.net/79-argovia-mp3-192-3024993
 #DESCRIPTION Radio Argovia
@@ -5763,17 +5763,17 @@
 #DESCRIPTION Radio Central
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.streambase.ch/reviva/mp3-192/direct/
 #DESCRIPTION Radio Eviva
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chmedia.streamabc.net/79-fm1-mp3-192-7523806?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chmedia.streamabc.net/79-fm1-mp3-192-7523806
 #DESCRIPTION Radio FM1
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.streambase.ch/rm/mp3-192/direct/
 #DESCRIPTION Radio Melody
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chmedia.streamabc.net/79-pilatus-mp3-192-4664468?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//chmedia.streamabc.net/79-pilatus-mp3-192-4664468
 #DESCRIPTION Radio Pilatus
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/radiozuerileu-live/stream/mp3
 #DESCRIPTION Radio ZüriLEU
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.radio.ch/radiozuerisee128k
 #DESCRIPTION Radio Zürisee
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.streambase.ch/rsunshine/mp3-128/direct/?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.streambase.ch/rsunshine/mp3-128/direct/
 #DESCRIPTION Sunshine Radio CH
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Niederlande
@@ -5879,7 +5879,7 @@
 #DESCRIPTION Radio 10 - 60's & 70's Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25283.live.streamtheworld.com/TLPSTR20.mp3
 #DESCRIPTION Radio 10 - 80's Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25333.live.streamtheworld.com/TLPSTR22.mp3?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25333.live.streamtheworld.com/TLPSTR22.mp3
 #DESCRIPTION Radio 10 - 90´er Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25303.live.streamtheworld.com/TLPSTR23.mp3
 #DESCRIPTION Radio 10 - Disco Classics
@@ -5887,7 +5887,7 @@
 #DESCRIPTION Radio 10 - Love Songs
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22553.live.streamtheworld.com/TLPSTR15.mp3
 #DESCRIPTION Radio 10 - Non-stop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25233.live.streamtheworld.com/TLPSTR24.mp3?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25233.live.streamtheworld.com/TLPSTR24.mp3
 #DESCRIPTION Radio 10 - Top 4000
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
 #DESCRIPTION ------ Radio Nordzee ------
@@ -5923,15 +5923,15 @@
 #DESCRIPTION Fantasy Radio NL (320 kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast3.asurahosting.com/proxy/breakou1/stream
 #DESCRIPTION Funky Channel
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3
 #DESCRIPTION JOE Nederland
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_nonstop_high.aac?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_nonstop_high.aac
 #DESCRIPTION JOE non-stop Nederland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.joyradio.nl/joyradio
 #DESCRIPTION Joy Radio NL Hits Only!
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25233.live.streamtheworld.com/KINKAAC.aac?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25233.live.streamtheworld.com/KINKAAC.aac
 #DESCRIPTION KINK live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25333.live.streamtheworld.com/KINK_DISTORTIONAAC.aac?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25333.live.streamtheworld.com/KINK_DISTORTIONAAC.aac
 #DESCRIPTION KINK Distortion
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream2.music-radio4all.nl%3a8443/stream.mp3
 #DESCRIPTION Radio4All
@@ -5945,7 +5945,7 @@
 #DESCRIPTION Stadsradio.NL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//caster.hosting078.nl%3a1175/stream
 #DESCRIPTION Studio Grensstad NL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25293.live.streamtheworld.com/SUBLIME.mp3?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25293.live.streamtheworld.com/SUBLIME.mp3
 #DESCRIPTION Sublime - live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//extragold.stream-server.nl
 #DESCRIPTION The Retro Sound - EXTRA GOLD CLASSICS (192 kbps)
@@ -6163,25 +6163,25 @@
 #DESCRIPTION Yo Yo Honey Singh
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio Paradiso
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-paradisoberlin-mp3-128-5481878?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-paradisoberlin-mp3-128-5481878
 #DESCRIPTION Radio Paradiso - 98.2 Berlin live on air
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-80er-mp3-192-9891797?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-80er-mp3-192-9891797
 #DESCRIPTION Radio Paradiso - 80er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-cinema-mp3-192-5789353?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-cinema-mp3-192-5789353
 #DESCRIPTION Radio Paradiso - Cinema
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-klassiker-mp3-192-9185535?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-klassiker-mp3-192-9185535
 #DESCRIPTION Radio Paradiso - Klassiker
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-lovesongs-mp3-192-1165872?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-lovesongs-mp3-192-1165872
 #DESCRIPTION Radio Paradiso - Lovesongs
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-paradisopur-mp3-192-5158258?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-paradisopur-mp3-192-5158258
 #DESCRIPTION Radio Paradiso - Paradiso pur
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-summer-mp3-192-5180614?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-summer-mp3-192-5180614
 #DESCRIPTION Radio Paradiso - Summer Feeling
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-ffo-mp3-192-5149238?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-ffo-mp3-192-5149238
 #DESCRIPTION Radio Paradiso - FFO
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-nord-mp3-192-6107756?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-nord-mp3-192-6107756
 #DESCRIPTION Radio Paradiso - Nord
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-paradisonrw-mp3-192-1501490?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-paradisonrw-mp3-192-1501490
 #DESCRIPTION Radio Paradiso - NRW
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-paraxmas-mp3-192-6291169
 #DESCRIPTION Radio Paradiso - Weihnachtsradio
@@ -6757,7 +6757,7 @@
 #DESCRIPTION Hits 94 - All The Hits!
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bigrradio-edge1.cdnstream.com/5163_128
 #DESCRIPTION Best Net Radio - Poppin Top 40
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ais-sa2.cdnstream1.com/2365_128.mp3?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ais-sa2.cdnstream1.com/2365_128.mp3
 #DESCRIPTION Boss Country Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiobash.net%3a2000/stream/wacq/stream
 #DESCRIPTION Classic Hits 580 WACQ and FM 101.1 live
@@ -6861,7 +6861,7 @@
 #DESCRIPTION Heart Beat Radio - Beatle Radio!
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hdradioclassicrock-rfritschka.radioca.st/;
 #DESCRIPTION HD Radio - Classic Rock live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-147.zeno.fm/e3pd2ve4by8uv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-147.zeno.fm/e3pd2ve4by8uv
 #DESCRIPTION Hits247 Atlanta
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ais-sa2.cdnstream1.com/1984_128.mp3
 #DESCRIPTION Hits Mixx
@@ -6923,7 +6923,7 @@
 #DESCRIPTION Songs Lover
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ais-sa2.cdnstream1.com/1100_128
 #DESCRIPTION Star 107.9 FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-151.zeno.fm/nxxk883r1nhvv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-151.zeno.fm/nxxk883r1nhvv
 #DESCRIPTION Sunrise Radio Massachusetts
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//192.111.140.11%3a8323/;
 #DESCRIPTION Super CFL Radio Chicago US (320 kbps)
@@ -6931,7 +6931,7 @@
 #DESCRIPTION The Choice - 80's Hair & 80's Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//online.radiodifusion.net%3a8020/stream/1/
 #DESCRIPTION Top Latino Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-152.zeno.fm/w0yevqdqkkhvv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-152.zeno.fm/w0yevqdqkkhvv
 #DESCRIPTION VIP Radio Louisiana
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio10.pro-fhi.net/flux-qlvuthph/128stream
 #DESCRIPTION West Coast Radio
@@ -7329,46 +7329,48 @@
 #DESCRIPTION radio 88.6 - Metal
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio ffn
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream05.radiohost.de/ffn_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream05.radiohost.de/ffn_mp3-192
 #DESCRIPTION Radio ffn - live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream40.radiohost.de/radiobollerwagen_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream40.radiohost.de/radiobollerwagen_mp3-192
 #DESCRIPTION Radio ffn - Radio Bollerwagen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream04.radiohost.de/ffn-607080radio_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream04.radiohost.de/ffn-607080radio_mp3-192
 #DESCRIPTION Radio ffn - 60/70/80
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn-stream10.radiohost.de/ffn-708090_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn-stream10.radiohost.de/ffn-708090_mp3-192
 #DESCRIPTION Radio ffn - 70/80/90
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream36.radiohost.de/ffn-hits_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream36.radiohost.de/ffn-hits_mp3-192
 #DESCRIPTION Radio ffn - ffn Hits*
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream15.radiohost.de/neunziger_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream15.radiohost.de/neunziger_mp3-192
 #DESCRIPTION Radio ffn - ffn 90er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream41.radiohost.de/ffn-80er_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream41.radiohost.de/ffn-80er_mp3-192
 #DESCRIPTION Radio ffn - ffn 80er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream36.radiohost.de/ffn-dance_only_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream36.radiohost.de/ffn-dance_only_mp3-192
 #DESCRIPTION Radio ffn - ffn Dance only
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream41.radiohost.de/ffn-rockt_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream41.radiohost.de/ffn-rockt_mp3-192
 #DESCRIPTION Radio ffn - ffn rockt!
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream41.radiohost.de/ffn-gold_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream41.radiohost.de/ffn-gold_mp3-192
 #DESCRIPTION Radio ffn - ffn Gold
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream20.radiohost.de/ffn-comedy_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream20.radiohost.de/ffn-comedy_mp3-192
 #DESCRIPTION Radio ffn - ffn Frühstyx Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream19.radiohost.de/ffn-radio_rotkaeppchen_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream19.radiohost.de/ffn-radio_rotkaeppchen_mp3-192
 #DESCRIPTION Radio ffn - Radio Rotkäppchen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream36.radiohost.de/ffn-auszeit_fm_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream36.radiohost.de/ffn-auszeit_fm_mp3-192
 #DESCRIPTION Radio ffn - Aus Zeit FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream15.radiohost.de/peppermintfm_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream15.radiohost.de/peppermintfm_mp3-192
 #DESCRIPTION Radio ffn - Peppermint FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream03.radiohost.de/ffn-diesdasfm_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream03.radiohost.de/ffn-diesdasfm_mp3-192
 #DESCRIPTION Radio ffn - dies das FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream38.radiohost.de/storiesfm_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream38.radiohost.de/storiesfm_mp3-192
 #DESCRIPTION Radio ffn - stories.fm
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream27.radiohost.de/tannenbaum_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream27.radiohost.de/tannenbaum_mp3-192
 #DESCRIPTION Radio ffn - ffn Tannen Baum
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream38.radiohost.de/ffn-das_gelbe_vom_ei_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream38.radiohost.de/ffn-das_gelbe_vom_ei_mp3-192
 #DESCRIPTION Radio ffn - ffn Das Gelbe vom Ei
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream27.radiohost.de/radioroland_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream27.radiohost.de/radioroland_mp3-192
 #DESCRIPTION Radio ffn - Radio Roland
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream41.radiohost.de/energybremen_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream41.radiohost.de/energybremen_mp3-192
 #DESCRIPTION Radio ffn - NRJ Bremen Hit Music only
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn.stream36.radiohost.de/ffn-radio-arschbombe_mp3-192
+#DESCRIPTION Radio ffn - Arschbombe
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION RMNradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rmnradio.schlagerparadies.de/rmnradio
@@ -7637,7 +7639,7 @@
 #DESCRIPTION Hirschmilch Radio - Techno
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION 105'5 Spreeradio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-spreeradiolive-mp3-128-6206893?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-spreeradiolive-mp3-128-6206893
 #DESCRIPTION 105'5 Spreeradio - Livestream Berlin
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.spreeradio.de/spree-80er/mp3-128
 #DESCRIPTION 105'5 Spreeradio - 80er
@@ -7775,7 +7777,7 @@
 #DESCRIPTION Awesome 80s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dancestream.danceradiouk.com/;
 #DESCRIPTION Dance Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-15.aiir.com/he5hocuryqbvv?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-15.aiir.com/he5hocuryqbvv
 #DESCRIPTION Classic Hits (UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//uk01.discovertrance.com/;.mp3
 #DESCRIPTION Discover Trance Radio
@@ -7801,13 +7803,13 @@
 #DESCRIPTION Non Stop Gold Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-relay-geo.ntslive.net/stream
 #DESCRIPTION NTS Radio live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//str3.openstream.co/1386?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//str3.openstream.co/1386
 #DESCRIPTION Puls Radio Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//18863.live.streamtheworld.com/977_HITS_SC
 #DESCRIPTION Today's Hits Radio live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiocaroline.net/rc128/;?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiocaroline.net/rc128/;
 #DESCRIPTION Radio Caroline
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiocaroline.net/fb128/;?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiocaroline.net/fb128/;
 #DESCRIPTION Radio Caroline Flashback
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//listen.radioking.com/radio/34544/stream/70739
 #DESCRIPTION Retrosounds Radio
@@ -7839,7 +7841,7 @@
 #DESCRIPTION RT1 - 80er
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch12/stream/mp3
 #DESCRIPTION RT1 - 90er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch01/stream/mp3?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch01/stream/mp3
 #DESCRIPTION RT1 - 2000er
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/rt1-ch16/stream/mp3
 #DESCRIPTION RT1 - Deutsche Hits
@@ -8127,35 +8129,35 @@
 #DESCRIPTION Berliner Rundfunk 91.4
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream10.radiohost.de/brf_mp3-192
 #DESCRIPTION Berliner Rundfunk 91.4 - Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream07.radiohost.de/brf-disco_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream07.radiohost.de/brf-disco_mp3-192
 #DESCRIPTION Berliner Rundfunk 91.4 - Disco
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream08.radiohost.de/brf-pure_mp3-128?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream08.radiohost.de/brf-pure_mp3-128
 #DESCRIPTION Berliner Rundfunk 91.4 - Nur die Musik
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream03.radiohost.de/brf-ndw_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream03.radiohost.de/brf-ndw_mp3-192
 #DESCRIPTION Berliner Rundfunk 91.4 - NDW
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream03.radiohost.de/brf-kuschelrock_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream03.radiohost.de/brf-kuschelrock_mp3-192
 #DESCRIPTION Berliner Rundfunk 91.4 - Kuschelrock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream32.radiohost.de/brf-ostrock-pop_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream32.radiohost.de/brf-ostrock-pop_mp3-192
 #DESCRIPTION Berliner Rundfunk 91.4 - Ostrock & Pop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio.stream02.radiohost.de/brf-oldies_mp3-128?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio.stream02.radiohost.de/brf-oldies_mp3-128
 #DESCRIPTION Berliner Rundfunk 91.4 - Oldies
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream08.radiohost.de/brf-60er-70er_mp3-128?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream08.radiohost.de/brf-60er-70er_mp3-128
 #DESCRIPTION Berliner Rundfunk 91.4 - 60er & 70er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream32.radiohost.de/brf-70er_mp3-128?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream32.radiohost.de/brf-70er_mp3-128
 #DESCRIPTION Berliner Rundfunk 91.4 - 70er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream03.radiohost.de/brf-80er_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream03.radiohost.de/brf-80er_mp3-192
 #DESCRIPTION Berliner Rundfunk 91.4 - 80er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream08.radiohost.de/brf-80er-party_mp3-128?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream08.radiohost.de/brf-80er-party_mp3-128
 #DESCRIPTION Berliner Rundfunk 91.4 - 80er Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream10.radiohost.de/brf-90er-pop_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream10.radiohost.de/brf-90er-pop_mp3-192
 #DESCRIPTION Berliner Rundfunk 91.4 - 90er Pop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream03.radiohost.de/brf-100prozent-deutsch_mp3-128?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream03.radiohost.de/brf-100prozent-deutsch_mp3-128
 #DESCRIPTION Berliner Rundfunk 91.4 - 100% Deutsch
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream05.radiohost.de/brf-rik_mp3-128?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream05.radiohost.de/brf-rik_mp3-128
 #DESCRIPTION Berliner Rundfunk 91.4 - Rick de Lis - le Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream03.radiohost.de/brf-event_mp3-192?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream03.radiohost.de/brf-event_mp3-192
 #DESCRIPTION Berliner Rundfunk 91.4 - Simone & Ihrem Berliner Rundfunk
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream32.radiohost.de/brf-weihnachten_mp3-128?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//topradio-stream32.radiohost.de/brf-weihnachten_mp3-128
 #DESCRIPTION Berliner Rundfunk 91.4 - Weihnachtsradio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Nostalgie Radio
@@ -10757,7 +10759,7 @@
 #DESCRIPTION Folk Alley - Halloween Scream Stream
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
 #DESCRIPTION ----- Mixed Stations -----
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast02.siamsa.ie%3a8000/radio.mp3?
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast02.siamsa.ie%3a8000/radio.mp3
 #DESCRIPTION Radio Siamsa
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//solid24.streamupsolutions.com/proxy/vbkiacud?mp=/live
 #DESCRIPTION Irish Pub Radio
