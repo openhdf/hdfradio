@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 04.06.2026 14:43 by Team www.hdfreaks.cc
+#DESCRIPTION Update 05.06.2026 12:57 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1258,11 +1258,11 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wdr-cosmo-chillout.icecastssl.wdr.de/wdr/cosmo/chillout/mp3/128/stream.mp3
 #DESCRIPTION WDR - COSMO - Chill
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wdr-cosmo-special.icecastssl.wdr.de/wdr/cosmo/special/mp3/128/stream.mp3
-#DESCRIPTION WDR - Cosmo - Summer Vibes
+#DESCRIPTION WDR - COSMO - Summer Vibes
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wdr-cosmo-dance.icecastssl.wdr.de/wdr/cosmo/dance/mp3/128/stream.mp3
 #DESCRIPTION WDR - COSMO - Dance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//dispatcher.rndfnk.com/wdr/cosmo/italia/mp3/128/stream.mp3
-#DESCRIPTION WDR - Cosmo - Soulfood
+#DESCRIPTION WDR - COSMO - Soulfood
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wdr-cosmo-coslive.icecastssl.wdr.de/wdr/cosmo/coslive/mp3/128/stream.mp3
 #DESCRIPTION WDR - COSMO Konzerte
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
