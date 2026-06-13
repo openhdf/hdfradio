@@ -38,7 +38,10 @@ msgstr ""
 msgid "     add own keywords"
 msgstr ""
 
-msgid "'AutoSave' started."
+msgid "'%s' started."
+msgstr ""
+
+msgid "'Show song information' and 'Save track list', if available."
 msgstr ""
 
 msgid "(YouTube querys by Taapat)"
@@ -115,13 +118,16 @@ msgstr ""
 msgid "About"
 msgstr ""
 
+msgid "Activate the 'Extended information' in the menu."
+msgstr ""
+
 msgid "Activate this option to be able to choose 'additional keywords'."
 msgstr ""
 
 msgid "Activate this option to use the compatible mode for YouTube playback."
 msgstr ""
 
-msgid "Add Lyrics?"
+msgid "Add lyrics?"
 msgstr ""
 
 msgid "Add Stream to favourite list"
@@ -163,7 +169,13 @@ msgstr ""
 msgid "Album infos"
 msgstr ""
 
+msgid "Album, artist, or song title not found."
+msgstr ""
+
 msgid "Album:"
+msgstr ""
+
+msgid "Albums"
 msgstr ""
 
 msgid "All directories (shuffle)"
@@ -207,6 +219,12 @@ msgstr ""
 msgid "Bitrate"
 msgstr ""
 
+msgid "Button 2, to import a album."
+msgstr ""
+
+msgid "Button 5, to export the album."
+msgstr ""
+
 msgid "Cancel"
 msgstr ""
 
@@ -228,10 +246,16 @@ msgstr ""
 msgid "Channel Mode"
 msgstr ""
 
+msgid "Choose a album:"
+msgstr ""
+
 msgid "Choose a stream"
 msgstr ""
 
 msgid "Choose a stream from the list."
+msgstr ""
+
+msgid "Choose a valid 'Path to the covers'."
 msgstr ""
 
 msgid "Choose a YouTube video:"
@@ -391,6 +415,9 @@ msgstr ""
 msgid "Current version"
 msgstr ""
 
+msgid "Database Viewer"
+msgstr ""
+
 msgid "Default"
 msgstr ""
 
@@ -447,6 +474,12 @@ msgstr ""
 msgid "Do you really want to remove all videos?"
 msgstr ""
 
+msgid "Do you really want to remove this album?"
+msgstr ""
+
+msgid "Do you really want to remove this artist?"
+msgstr ""
+
 msgid "Do you really want to remove this separator line?"
 msgstr ""
 
@@ -474,13 +507,13 @@ msgstr ""
 msgid "Edit playlist"
 msgstr ""
 
-msgid "Embedded Lyrics"
+msgid "Embedded lyrics"
 msgstr ""
 
-msgid "Embedded Lyrics & "
+msgid "Embedded lyrics & "
 msgstr ""
 
-msgid "Embedded Lyrics & textfile"
+msgid "Embedded lyrics & textfile"
 msgstr ""
 
 msgid "Embedded, textfile & "
@@ -519,16 +552,22 @@ msgstr ""
 msgid "Enter the new name of the playlist:"
 msgstr ""
 
+msgid "Enter the new name of the title:"
+msgstr ""
+
 msgid "Exit"
 msgstr ""
 
-msgid "Exit 'AutoSave'"
+msgid "Exit '%s'"
 msgstr ""
 
 msgid "Export HDF radiolist as bouquet?"
 msgstr ""
 
 msgid "Export favourites list as bouquet"
+msgstr ""
+
+msgid "Extended information"
 msgstr ""
 
 msgid "Extended playlist (Plugin restart required)"
@@ -570,6 +609,9 @@ msgstr ""
 msgid "First, update the main list."
 msgstr ""
 
+msgid "For these tracks, the cover image for this album is preferred."
+msgstr ""
+
 msgid "Genre:"
 msgstr ""
 
@@ -609,13 +651,13 @@ msgstr ""
 msgid "HdmiCEC-Plugin is not installed!"
 msgstr ""
 
-msgid "Hide extended tags"
-msgstr ""
-
 msgid "Hide player"
 msgstr ""
 
 msgid "Hold"
+msgstr ""
+
+msgid "How to add albums:"
 msgstr ""
 
 msgid "IP radio list was not found!"
@@ -643,9 +685,6 @@ msgid ""
 msgstr ""
 
 msgid "Info"
-msgstr ""
-
-msgid "Info button"
 msgstr ""
 
 msgid "Information"
@@ -708,7 +747,13 @@ msgstr ""
 msgid "No"
 msgstr ""
 
-msgid "No Artist found"
+msgid "No album is specified in the selected file."
+msgstr ""
+
+msgid "No artist found"
+msgstr ""
+
+msgid "No artist is specified in the selected file."
 msgstr ""
 
 msgid "No biography could be found for this artist."
@@ -724,6 +769,9 @@ msgid "No directories available"
 msgstr ""
 
 msgid "No directory has been selected yet."
+msgstr ""
+
+msgid "No cover URL is specified in the selected file."
 msgstr ""
 
 msgid "No internet connection available!"
@@ -755,6 +803,9 @@ msgstr ""
 msgid "No song title found"
 msgstr ""
 
+msgid "No song titles are specified in the selected file."
+msgstr ""
+
 msgid "No stream found."
 msgstr ""
 
@@ -773,16 +824,22 @@ msgstr ""
 msgid "No YouTube favourites found."
 msgstr ""
 
+msgid "Offline"
+msgstr ""
+
+msgid "Open 'Database Viewer'"
+msgstr ""
+
+msgid "Or press '2' to import a album."
+msgstr ""
+
+msgid "Overwrite cover"
+msgstr ""
+
 msgid "OK"
 msgstr ""
 
 msgid "OK, to add the stream to the favourites list. OK in the favourites list, to activate the move mode. Button 2, to rename. 5, to add a separator line. 8, to add the stream to another list. EPG, to choose a favourites list."
-msgstr ""
-
-msgid "Offline"
-msgstr ""
-
-msgid "Overwrite cover"
 msgstr ""
 
 msgid "Parent directory"
@@ -893,6 +950,9 @@ msgstr ""
 msgid "Press OK to delete a playlist."
 msgstr ""
 
+msgid "Press OK to download the cover image."
+msgstr ""
+
 msgid "Press OK to edit a favourites list."
 msgstr ""
 
@@ -922,12 +982,18 @@ msgstr ""
 msgid "Press OK to rename a playlist."
 msgstr ""
 
+msgid "Press OK to rename the title."
+msgstr ""
+
 msgid ""
 "Press OK to update your favourites list.\n"
 "The names are compared with the main list."
 msgstr ""
 
 msgid "Press OK to update the main list."
+msgstr ""
+
+msgid "Press OK to view the cover."
 msgstr ""
 
 msgid "Press OK, to delete incomplete recordings, advertisements and empty folders."
@@ -1013,10 +1079,7 @@ msgstr ""
 msgid "Remove"
 msgstr ""
 
-msgid "Remove Stream from favourite list"
-msgstr ""
-
-msgid "Remove YouTube favourites"
+msgid "Remove album"
 msgstr ""
 
 msgid "Remove all"
@@ -1025,7 +1088,19 @@ msgstr ""
 msgid "Remove all songs from the playlist"
 msgstr ""
 
+msgid "Remove artist"
+msgstr ""
+
+msgid "Remove song"
+msgstr ""
+
 msgid "Remove song from the playlist"
+msgstr ""
+
+msgid "Remove Stream from favourite list"
+msgstr ""
+
+msgid "Remove YouTube favourites"
 msgstr ""
 
 msgid "Remove?"
@@ -1049,7 +1124,19 @@ msgstr ""
 msgid "Save cover"
 msgstr ""
 
-msgid "Save Lyrics"
+msgid "Save lyrics"
+msgstr ""
+
+msgid "Save the album's track list"
+msgstr ""
+
+msgid "Save track list"
+msgstr ""
+
+msgid "Saving the cover failed."
+msgstr ""
+
+msgid "Saving the track list failed."
 msgstr ""
 
 msgid "Screensaver"
@@ -1080,6 +1167,9 @@ msgid "Searching for Lyrics ..."
 msgstr ""
 
 msgid "Select a favourites list."
+msgstr ""
+
+msgid "Select the album you want to import."
 msgstr ""
 
 msgid "Select the country for downloading the radio list."
@@ -1154,10 +1244,10 @@ msgstr ""
 msgid "Show 'HDF Radio' in mainmenu?"
 msgstr ""
 
-msgid "Show clock in screensaver"
+msgid "Show big cover"
 msgstr ""
 
-msgid "Show cover in fullscreen"
+msgid "Show clock in screensaver"
 msgstr ""
 
 msgid "Show extended tags"
@@ -1208,10 +1298,16 @@ msgstr ""
 msgid "Song title or artist not available."
 msgstr ""
 
+msgid "Songs"
+msgstr ""
+
 msgid "Start YouTube Party Mode"
 msgstr ""
 
 msgid "Start recording"
+msgstr ""
+
+msgid "Starting YouTube Album Mode ..."
 msgstr ""
 
 msgid "Starting YouTube Favourites ..."
@@ -1247,6 +1343,12 @@ msgstr ""
 msgid "The 'recording duration' limits the time for a recording. After this time, the recording will stop automatically."
 msgstr ""
 
+msgid "The album '%s' is already in the database."
+msgstr ""
+
+msgid "The album '%s' was successfully exported."
+msgstr ""
+
 msgid "The automatic saving of the lyrics was cancelled."
 msgstr ""
 
@@ -1272,6 +1374,9 @@ msgstr ""
 msgid "The current song does not include a video."
 msgstr ""
 
+msgid "The database is empty."
+msgstr ""
+
 msgid "The directory does not have to be opened to select the desired path. The full path can be seen in the preview text."
 msgstr ""
 
@@ -1279,6 +1384,11 @@ msgstr ""
 msgid ""
 "The file '%s.txt' already exists.\n"
 "Do you want to overwrite the file?"
+msgstr ""
+
+msgid ""
+"The folder '%s' already exists.\n"
+"Please choose another path."
 msgstr ""
 
 msgid "The folder '%s' was created successfully."
@@ -1313,6 +1423,9 @@ msgstr ""
 msgid "The search results are successfully saved as:"
 msgstr ""
 
+msgid "The selected file does not exist."
+msgstr ""
+
 msgid "The song is already in the playlist."
 msgstr ""
 
@@ -1328,6 +1441,17 @@ msgstr ""
 msgid "The stream was successfully added to your favourites list."
 msgstr ""
 
+msgid ""
+"The title already exists.\n"
+"Please choose a different name."
+msgstr ""
+
+msgid "The title has been successfully renamed."
+msgstr ""
+
+msgid "The track list has been successfully added to the database."
+msgstr ""
+
 msgid "The verification of the radio logos on the server has failed!"
 msgstr ""
 
@@ -1337,9 +1461,15 @@ msgstr ""
 msgid "There is no current plugin available for this Python version!"
 msgstr ""
 
+msgid "There is not enough storage space available in '%s'."
+msgstr ""
+
 msgid ""
 "This favourites list is empty.\n"
 "Please choose another list."
+msgstr ""
+
+msgid "This option displays tags such as album, genre, year, and track in the player, if available."
 msgstr ""
 
 msgid "This option displays the tag names in the playlist. The sorting of the local folders is done by the track number, if available."
