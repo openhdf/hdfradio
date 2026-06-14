@@ -17,7 +17,7 @@ Yellow/Video button - try to find a video for the current song on youtube and pl
 Blue/FAV button - switches between main list and your own favorites
 Blue button long - opens the search in the currently displayed list
 Info button - shows information about the stream
-Info button long - shows the cover in full screen
+Info button long - shows the cover in large format
 Text button - shows the lyrics for the current title, if available
 EPG/Guide button - opens the selection of favorite lists if there are several
 < button - switches back to the previous stream
@@ -53,6 +53,15 @@ You can save your own logos there.
 These logos will then always be preferred.
 The name of the logo must match the stream name.
 Supportet formats are 'jpg' and 'png'. The size should be about 150x150px.
+
+Information about the database function:
+This function allows you to create your own database (/etc/enigma2/hdfradio.db).
+It stores the artist, album, year, track list, and the URL of the cover art.
+In the info screen (Album infos), you can save this infos by clicking 'green'.
+You can view the collected information using the 'Database Viewer'.
+It also includes import and export functions.
+You can also easily download the cover art from here.
+These cover images are preferred for the songs of the respective album.
 
 Additional Information:
 To display the title and cover, the ServiceApp must be set to Original or only the ServiceHisilicon must be installed.

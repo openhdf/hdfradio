@@ -7,7 +7,7 @@ The player has 3 different modes to choose from:
 
 Key assignments:
 Menu button - shows the menu for the settings
-Button 2 - change the view for the list mode/information
+Button 2 - saves the album's tracklist to the database, if available
 Button 5 - removes the selected song from the own playlist
 Button 5 (on folder) - add folders and subfolders to playlist
 Button 8 - activates the random mode for the files in the playlist
@@ -24,7 +24,7 @@ Blue button long - open the search function
 Text button - shows the lyrics for the current title, if available
 EPG/Guide button - opens the selection of own playlists if there are several
 Info button - shows various title information
-Info button long - shows the cover in full screen
+Info button long - shows the cover in large format
 Help button - shows this help
 PVR/Video button long - plays all your YouTube favorites in random mode
 Power button - turns the TV off and on, if the TV Power option has been activated in the radio plugin
@@ -40,6 +40,15 @@ By default, your own playlist is saved in the file /etc/enigma2/hdfradio_userpla
 Additional playlists can also be created in the menu.
 The file /etc/enigma2/hdfradio_userplaylist_{new name} is created.
 Furthermore, the playlists can be renamed, edited or deleted in the menu.
+
+Information about the database function:
+This function allows you to create your own database (/etc/enigma2/hdfradio.db).
+It stores the artist, album, year, track list, and the URL of the cover art.
+In the info screen (Album infos), you can save this infos by clicking 'green'.
+You can view the collected information using the 'Database Viewer'.
+It also includes import and export functions.
+You can also easily download the cover art from here.
+These cover images are preferred for the songs of the respective album.
 
 Additional Information:
 The Youtube player uses the queries from the Taapat Youtube plugin.
