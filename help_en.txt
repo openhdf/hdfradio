@@ -19,6 +19,7 @@ Blue button long - opens the search in the currently displayed list
 Info button - shows information about the stream
 Info button long - shows the cover in large format
 Text button - shows the lyrics for the current title, if available
+Text button long - opens the 'Database Viewer'
 EPG/Guide button - opens the selection of favorite lists if there are several
 < button - switches back to the previous stream
 PVR/Video button long - plays all your YouTube favorites in random mode

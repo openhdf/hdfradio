@@ -22,6 +22,7 @@ Yellow long/Video button - try to find a video for the current song on youtube a
 Blue button - switch between directories and playlist
 Blue button long - open the search function
 Text button - shows the lyrics for the current title, if available
+Text button long - opens the 'Database Viewer'
 EPG/Guide button - opens the selection of own playlists if there are several
 Info button - shows various title information
 Info button long - shows the cover in large format
