@@ -1,3 +1,16 @@
+v2.25.1:
+- fixed show/hide tag names in player
+- fixed blue button text in info screen
+
+v2.25.0:
+- Database function added
+- searching for cover picture improved
+- added OK button in info screen to view the cover
+- the extended tags for the player can now be turned on and off in the menu
+- skins updated
+- translations and help texts updated (thanks @Warder, @Orlandox and @paps)
+- many small changes and fixes
+
 v2.24.4:
 - added fix for 'theaudiodb.com'
 
