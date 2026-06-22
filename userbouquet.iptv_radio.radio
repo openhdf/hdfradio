@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 21.06.2026 09:18 by Team www.hdfreaks.cc
+#DESCRIPTION Update 22.06.2026 17:53 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2225,18 +2225,102 @@
 #DESCRIPTION JAM FM - 2010er
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio Energy
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/energy-digital/stream/mp3
-#DESCRIPTION Radio Energy - National
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/energy-summerhits/stream/mp3
-#DESCRIPTION Radio Energy - Summerhits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/energy-hits/stream/mp3
-#DESCRIPTION Radio Energy - Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/energy-dance/stream/mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/berlin
+#DESCRIPTION Radio Energy - ENERGY Berlin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/bremen
+#DESCRIPTION Radio Energy - ENERGY Bremen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/digital
+#DESCRIPTION Radio Energy - Digital
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/hamburg
+#DESCRIPTION Radio Energy - ENERGY Hamburg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/muenchen
+#DESCRIPTION Radio Energy - ENERGY München
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/nuernberg
+#DESCRIPTION Radio Energy - ENERGY Nürnberg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/nrw
+#DESCRIPTION Radio Energy - ENERGY NRW
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/sachsen
+#DESCRIPTION Radio Energy - NRj Sachsen live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/stuttgart
+#DESCRIPTION Radio Energy - ENERGY Stuttgart
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/afrobeats
+#DESCRIPTION Radio Energy - Afrobeats
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/tiktok
+#DESCRIPTION Radio Energy - Tik Tok
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/germanytop40
+#DESCRIPTION Radio Energy - Germany Top 40
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/madeingermany
+#DESCRIPTION Radio Energy - Made in Germany
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/deutschrap
+#DESCRIPTION Radio Energy - Deutsch Rap
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/hits2000
+#DESCRIPTION Radio Energy - Hits 2000
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/rnb
+#DESCRIPTION Radio Energy - RNB
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/dance
 #DESCRIPTION Radio Energy - Dance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/energy-digital/stream/mp3
-#DESCRIPTION Radio Energy - Sachsen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//frontend.streamonkey.net/energy-stuttgart/stream/mp3
-#DESCRIPTION Radio Energy - Stuttgart
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/hits
+#DESCRIPTION Radio Energy - Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/rock
+#DESCRIPTION Radio Energy - Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/extravadance
+#DESCRIPTION Radio Energy - Extravadance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/classicrock
+#DESCRIPTION Radio Energy - Classik Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/urban
+#DESCRIPTION Radio Energy - Urban
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/love
+#DESCRIPTION Radio Energy - Love
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/reggaeton
+#DESCRIPTION Radio Energy - Reggaeton
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/clubbin
+#DESCRIPTION Radio Energy - Clubbin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/homeoffice
+#DESCRIPTION Radio Energy - Home Office
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/hitsremix
+#DESCRIPTION Radio Energy - Hits Remix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/partyhits
+#DESCRIPTION Radio Energy - Party Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/xmas
+#DESCRIPTION Radio Energy - Xmas
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/eh30
+#DESCRIPTION Radio Energy - EH 30
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/funky
+#DESCRIPTION Radio Energy - Funky
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/pop
+#DESCRIPTION Radio Energy - Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/fitness
+#DESCRIPTION Radio Energy - Fitness
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/acoustic
+#DESCRIPTION Radio Energy - Acoustic
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/latino
+#DESCRIPTION Radio Energy - Latino
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/reggae
+#DESCRIPTION Radio Energy - Reggae
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/rapus
+#DESCRIPTION Radio Energy - Rap US
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/deephouse
+#DESCRIPTION Radio Energy - Deephouse
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/classicrapus
+#DESCRIPTION Radio Energy - Classic Rap US
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/classicrnb
+#DESCRIPTION Radio Energy - Classic RNB
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/oriental
+#DESCRIPTION Radio Energy - Oriental
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/hits90
+#DESCRIPTION Radio Energy - Hits 90
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/hits80
+#DESCRIPTION Radio Energy - Hits 80
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/summerhits
+#DESCRIPTION Radio Energy - Summerhits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/kpop
+#DESCRIPTION Radio Energy - K-Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/hits2010
+#DESCRIPTION Radio Energy - Hits 2010
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/hitsoftheyear
+#DESCRIPTION Radio Energy - Hits of the Year
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//nrj.de/disneyhits
+#DESCRIPTION Radio Energy - Disney Hits
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Los 40
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25493.live.streamtheworld.com/LOS40AAC.aac
