@@ -219,6 +219,9 @@ msgstr ""
 msgid "Bitrate"
 msgstr ""
 
+msgid "Button 1, to download the YouTube audio."
+msgstr ""
+
 msgid "Button 2, to import a album."
 msgstr ""
 
@@ -498,6 +501,9 @@ msgstr ""
 msgid "Do you want to overwrite the contents of the folder?"
 msgstr ""
 
+msgid "Download YouTube audio"
+msgstr ""
+
 msgid "Download from 'radio-browser.info'"
 msgstr ""
 
@@ -754,6 +760,9 @@ msgid "No artist found"
 msgstr ""
 
 msgid "No artist is specified in the selected file."
+msgstr ""
+
+msgid "No audio URL found."
 msgstr ""
 
 msgid "No biography could be found for this artist."
@@ -1349,6 +1358,12 @@ msgstr ""
 msgid "The album '%s' was successfully exported."
 msgstr ""
 
+msgid "The audio file already exists."
+msgstr ""
+
+msgid "The audio file was downloaded successfully."
+msgstr ""
+
 msgid "The automatic saving of the lyrics was cancelled."
 msgstr ""
 
@@ -1461,6 +1476,9 @@ msgstr ""
 msgid "There is no current plugin available for this Python version!"
 msgstr ""
 
+msgid "There is no import file available."
+msgstr ""
+
 msgid "There is not enough storage space available in '%s'."
 msgstr ""
 
@@ -1543,10 +1561,10 @@ msgstr ""
 msgid "With this option, the playlist will be repeated."
 msgstr ""
 
-msgid "Would you like to save the favourites list?"
+msgid "Would you like to download the audio file for '%s'?"
 msgstr ""
 
-msgid "Would you like to save the playlist?"
+msgid "Would you like to save the changes?"
 msgstr ""
 
 msgid "Year:"
