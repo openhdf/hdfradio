@@ -1,3 +1,9 @@
+v2.26.0:
+- added option to download YouTube audio
+- fixed song lyric search on azlyrics.com
+- translations updated (thanks @Warder, @Orlandox and @paps)
+- some small changes
+
 v2.25.1:
 - fixed show/hide tag names in player
 - fixed blue button text in info screen
