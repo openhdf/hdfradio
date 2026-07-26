@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 06.07.2026 18:06 by Team www.hdfreaks.cc
+#DESCRIPTION Update 26.07.2026 10:54 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -6831,6 +6831,30 @@
 #DESCRIPTION Viva 83 - Katerini / Greece / Greek
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ice.streams.ovh/volosrtv
 #DESCRIPTION Volos RTV 87.9 RADIO - 320 kbit/s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.newageradio.gr/listen/hq/radio.flac
+#DESCRIPTION 1st Greek Hits FLAC Non-Stop Radio 
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.newageradio.gr/listen/hq/radio.aac
+#DESCRIPTION 1st Greek Hits FLAC Non-Stop Radio (AAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.newageradio.gr/listen/hq/radio.mp3
+#DESCRIPTION 1st Greek Hits FLAC Non-Stop Radio (mp3)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.newageradio.gr/listen/flac_gr/radio.flac
+#DESCRIPTION 1st Greek New Age FLAC Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.newageradio.gr/listen/flac_gr/radio.aac
+#DESCRIPTION 1st Greek New Age FLAC Radio (AAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.newageradio.gr/listen/flac_gr/radio.mp3
+#DESCRIPTION 1st Greek New Age FLAC Radio (mp3)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.newageradio.gr/listen/jazz/radio.flac
+#DESCRIPTION 1st Greek Jazz FLAC Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.newageradio.gr/listen/jazz/radio.aac
+#DESCRIPTION 1st Greek Jazz FLAC Radio (AAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.newageradio.gr/listen/jazz/radio.mp3
+#DESCRIPTION 1st Greek Jazz FLAC Radio (mp3)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.newageradio.gr/listen/80s/radio.flac
+#DESCRIPTION 1st Greek 80s FLAC Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.newageradio.gr/listen/80s/radio.aac
+#DESCRIPTION 1st Greek 80s FLAC Radio (AAC)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.newageradio.gr/listen/80s/radio.mp3
+#DESCRIPTION 1st Greek 80s FLAC Radio (mp3)
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION USA
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//gr02.cdnstream.com%3a9090
@@ -11003,8 +11027,6 @@
 #DESCRIPTION TOWER TOWN - Street
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-brand-new
 #DESCRIPTION TOWER TOWN - Brand New
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-new-rock
-#DESCRIPTION TOWER TOWN - New Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-new-pop
 #DESCRIPTION TOWER TOWN - New Pop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-new-hiphop
