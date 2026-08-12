@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 26.07.2026 10:54 by Team www.hdfreaks.cc
+#DESCRIPTION Update 12.08.2026 18:11 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -184,11 +184,19 @@
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION R.SA Sachsen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/rsa-live/mp3-192/homepage/
-#DESCRIPTION R.SA - Livestream
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/mix-nonstop/mp3-192/homepage/
-#DESCRIPTION R.SA - Musik Mix Nonstop
+#DESCRIPTION R.SA - Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/80er1000/mp3-192/homepage/
+#DESCRIPTION R.SA - 1.000 Achtziger
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rsa.streamabc.net/regc-rsa1000neunziger-mp3-192-5678094
+#DESCRIPTION R.SA - 1.000 Neunziger
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/maxis/mp3-192/homepage/
 #DESCRIPTION R.SA - Maxis Maximal
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/80er-italo/mp3-192/homepage/
+#DESCRIPTION R.SA - Italo Disco Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/mix-nonstop/mp3-192/homepage/
+#DESCRIPTION R.SA - Musik Mix Nonstop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/launeclass/mp3-192/homepage/
+#DESCRIPTION R.SA - Gute Laune Classics
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/classicrock/mp3-192/homepage/
 #DESCRIPTION R.SA - Classic Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/rsa-oldies/mp3-192/homepage/
@@ -197,30 +205,20 @@
 #DESCRIPTION R.SA - Rockzirkus
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/rsa-ostrock/mp3-192/homepage/
 #DESCRIPTION R.SA - Ostrock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/rsa-beatles/mp3-192/homepage/
-#DESCRIPTION R.SA - Beatles Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/disco/mp3-192/homepage/
-#DESCRIPTION R.SA - Disco
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/80erdisco/mp3-192/homepage/
-#DESCRIPTION R.SA - 80er Disco
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/80erhits/mp3-192/homepage/
-#DESCRIPTION R.SA - 80er Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/60er/mp3-192/homepage/
 #DESCRIPTION R.SA - 60er Oldies
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/70er/mp3-192/homepage/
 #DESCRIPTION R.SA - 70er Oldies
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/schlager/mp3-192/homepage/
-#DESCRIPTION R.SA - Schlager
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/country/mp3-192/homepage/
-#DESCRIPTION R.SA - Country
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/80er-italo/mp3-192/homepage/
-#DESCRIPTION R.SA - Italo Disco Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/launeclass/mp3-192/homepage/
-#DESCRIPTION R.SA - Die Gute Laune Classics
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/80er1000/mp3-192/homepage/
-#DESCRIPTION R.SA - 1000 Achtziger
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/stones/mp3-192/homepage/
-#DESCRIPTION R.SA - Rolling Stones Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/80erhits/mp3-192/homepage/
+#DESCRIPTION R.SA - 80er Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/80erdisco/mp3-192/homepage/
+#DESCRIPTION R.SA - 80er Disco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/rsa-beatles/mp3-192/homepage/
+#DESCRIPTION R.SA - Beatles Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streams.rsa-sachsen.de/disco/mp3-192/homepage/
+#DESCRIPTION R.SA - Disco
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rsa.streamabc.net/regc-rsasachsenhinhoer1324234-mp3-192-6238970
+#DESCRIPTION R.SA - Hinhörkanal
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION HITRADIO RTL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//web.radio.hitradio-rtl.de/hrrtl-dresden/stream/mp3
