@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 12.08.2026 18:11 by Team www.hdfreaks.cc
+#DESCRIPTION Update 16.08.2026 11:57 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -7055,7 +7055,7 @@
 #DESCRIPTION Star 107.9 FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-151.zeno.fm/nxxk883r1nhvv
 #DESCRIPTION Sunrise Radio Massachusetts
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//192.111.140.11%3a8323/;
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//pavo.prostreaming.net%3a8052/stream
 #DESCRIPTION Super CFL Radio Chicago US (320 kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ais-edge101-live365-dal02.cdnstream.com/a36545
 #DESCRIPTION The Choice - 80's Hair & 80's Hits
