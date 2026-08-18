@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 16.08.2026 11:57 by Team www.hdfreaks.cc
+#DESCRIPTION Update 18.08.2026 18:03 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -6269,27 +6269,25 @@
 #DESCRIPTION Yo Yo Honey Singh
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio Paradiso
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-paradisoberlin-mp3-128-5481878
-#DESCRIPTION Radio Paradiso - 98.2 Berlin live on air
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-80er-mp3-192-9891797
-#DESCRIPTION Radio Paradiso - 80er
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-cinema-mp3-192-5789353
-#DESCRIPTION Radio Paradiso - Cinema
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-klassiker-mp3-192-9185535
-#DESCRIPTION Radio Paradiso - Klassiker
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-lovesongs-mp3-192-1165872
-#DESCRIPTION Radio Paradiso - Lovesongs
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-paradisopur-mp3-192-5158258
-#DESCRIPTION Radio Paradiso - Paradiso pur
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-summer-mp3-192-5180614
-#DESCRIPTION Radio Paradiso - Summer Feeling
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-ffo-mp3-192-5149238
-#DESCRIPTION Radio Paradiso - FFO
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-nord-mp3-192-6107756
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradiso.stream02.radiohost.de/paradiso-berlin_aac-64
+#DESCRIPTION Radio Paradiso - 98.2 Berlin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradiso.stream02.radiohost.de/paradiso-nord_aac-64
 #DESCRIPTION Radio Paradiso - Nord
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-paradisonrw-mp3-192-1501490
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradiso.stream46.radiohost.de/paradiso-para-nrw_aac-64
 #DESCRIPTION Radio Paradiso - NRW
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradisode.streamabc.net/para-paraxmas-mp3-192-6291169
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradiso.stream02.radiohost.de/paradiso-ffo_aac-64
+#DESCRIPTION Radio Paradiso - FFO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradiso.stream44.radiohost.de/paradiso-80er_aac-64
+#DESCRIPTION Radio Paradiso - 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradiso.stream46.radiohost.de/paradiso-klassiker_aac-64
+#DESCRIPTION Radio Paradiso - Klassiker
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradiso.stream45.radiohost.de/paradiso-lovesong_aac-64
+#DESCRIPTION Radio Paradiso - Lovesongs
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradiso.stream45.radiohost.de/paradiso-pur_aac-64
+#DESCRIPTION Radio Paradiso - Pur
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradiso.stream44.radiohost.de/paradiso-summer_aac-64
+#DESCRIPTION Radio Paradiso - Summer Feeling
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//paradiso.stream02.radiohost.de/paradiso-xmas_aac-64
 #DESCRIPTION Radio Paradiso - Weihnachtsradio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Starbox Radio
