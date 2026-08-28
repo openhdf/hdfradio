@@ -1061,6 +1061,9 @@ msgstr ""
 msgid "Record Time"
 msgstr ""
 
+msgid "Recorder"
+msgstr ""
+
 msgid "Recording"
 msgstr ""
 
@@ -1069,7 +1072,7 @@ msgid "Recording duration according to the settings (%s)"
 msgstr ""
 
 #, python-format
-msgid "Recording in %s/HDF-Radio/%s/"
+msgid "Recording in %s/"
 msgstr ""
 
 msgid "Recording is already in progress."
@@ -1230,6 +1233,9 @@ msgid "Select the playlist you want to edit."
 msgstr ""
 
 msgid "Select the playlist you want to rename."
+msgstr ""
+
+msgid "Select the recorder for the radio streams."
 msgstr ""
 
 msgid "Select the stream you want to add."
@@ -1433,6 +1439,11 @@ msgstr ""
 msgid ""
 "The recording has ended.\n"
 "Not enough storage space available."
+msgstr ""
+
+msgid ""
+"The recording was aborted.\n"
+"It's not possible to record the stream."
 msgstr ""
 
 msgid "The search results are successfully saved as:"
