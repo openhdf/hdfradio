@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 28.08.2026 14:33 by Team www.hdfreaks.cc
+#DESCRIPTION Update 28.08.2026 16:03 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2709,6 +2709,8 @@
 #DESCRIPTION Mixed Channels - Autozugradio Sylt
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//bytefm.cast.addradio.de/bytefm/main/mid/stream.mp3
 #DESCRIPTION Mixed Channels - ByteFM - für gute Musik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.chillhouse-live.com/live
+#DESCRIPTION Mixed Channels - Chill House Radio - 24/7
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//kathy.torontocast.com%3a1825/stream
 #DESCRIPTION Mixed Channels - CINEMIX - Film Music Station
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream1-epic-lounge.radiohost.de/hotel-lounge?ref=keepone
