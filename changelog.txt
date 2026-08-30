@@ -1,3 +1,9 @@
+v2.27.0:
+- added new option to record radio streams
+- skins updated
+- translations updated (thanks @Warder, @Orlandox and @paps)
+- some small changes
+
 v2.26.2:
 - added detection for WQHD resolution
 - added Xion skin for WQHD resolution
