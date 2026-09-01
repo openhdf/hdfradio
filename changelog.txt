@@ -1,3 +1,6 @@
+v2.27.1:
+- some fixes for the new radio recorder
+
 v2.27.0:
 - added new option to record radio streams
 - skins updated
