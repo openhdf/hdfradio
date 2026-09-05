@@ -1,3 +1,9 @@
+v2.27.2:
+- added detection of stream delays
+- detection of bitrate improved
+- streamripper removed
+- many small changes and fixes
+
 v2.27.1:
 - some fixes for the new radio recorder
 
