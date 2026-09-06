@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 31.08.2026 09:44 by Team www.hdfreaks.cc
+#DESCRIPTION Update 06.09.2026 18:03 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -703,6 +703,28 @@
 #DESCRIPTION Antenne Bayern - Indras Top 100
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antenne.de/meixners-top-100/stream/mp3
 #DESCRIPTION Antenne Bayern - Meixners Top 100
+#SERVICE 1:64:D:0:0:0:0:0:0:0:
+#DESCRIPTION OLDIE ANTENNE
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.oldie-antenne.de/oldie-antenne/stream/mp3:OLDIE ANTENNE - Hauptprogramm
+#DESCRIPTION OLDIE ANTENNE - Hauptprogramm
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.de/60er-hits/stream/mp3:OLDIE ANTENNE - 60er Hits
+#DESCRIPTION OLDIE ANTENNE - 60er Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.de/70er-hits/stream/mp3:OLDIE ANTENNE - 70er Hits
+#DESCRIPTION OLDIE ANTENNE - 70er Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.de/80er-kulthits/stream/mp3:OLDIE ANTENNE - 80er Hits
+#DESCRIPTION OLDIE ANTENNE - 80er Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.de/90er-hits/stream/mp3:OLDIE ANTENNE - 90er Hits
+#DESCRIPTION OLDIE ANTENNE - 90er Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.de/antenne-bayern-80er-rock/stream/mp3:OLDIE ANTENNE - Rock Classics
+#DESCRIPTION OLDIE ANTENNE - Rock Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.de/antenne-bayern-80er-party/stream/mp3:OLDIE ANTENNE - Fetenhits / Disco Fever
+#DESCRIPTION OLDIE ANTENNE - Fetenhits / Disco Fever
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.de/antenne-bayern-ndw/stream/mp3:OLDIE ANTENNE - NDW (Neue Deutsche Welle)
+#DESCRIPTION OLDIE ANTENNE - NDW (Neue Deutsche Welle)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.de/italo-hits/stream/mp3:OLDIE ANTENNE - Bella Italia
+#DESCRIPTION OLDIE ANTENNE - Bella Italia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.de/oldie-antenne-event/stream/mp3:OLDIE ANTENNE - Weihnachten
+#DESCRIPTION OLDIE ANTENNE - Weihnachten
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION 181.fm
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//listen.181fm.com/181-awesome80s_128k.mp3
