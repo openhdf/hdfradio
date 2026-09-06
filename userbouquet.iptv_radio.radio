@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 06.09.2026 18:03 by Team www.hdfreaks.cc
+#DESCRIPTION Update 06.09.2026 21:23 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -721,8 +721,10 @@
 #DESCRIPTION OLDIE ANTENNE - Fetenhits / Disco Fever
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.de/antenne-bayern-ndw/stream/mp3:OLDIE ANTENNE - NDW (Neue Deutsche Welle)
 #DESCRIPTION OLDIE ANTENNE - NDW (Neue Deutsche Welle)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.de/italo-hits/stream/mp3:OLDIE ANTENNE - Bella Italia
-#DESCRIPTION OLDIE ANTENNE - Bella Italia
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.oldie-antenne.de/oldie-antenne-bella-italia/stream/mp3:OLDIE ANTENNE - Bella Italia (mp3)
+#DESCRIPTION OLDIE ANTENNE - Bella Italia (mp3)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.oldie-antenne.de/oldie-antenne-bella-italia/stream/aacp:OLDIE ANTENNE - Bella Italia (AAC+)
+#DESCRIPTION OLDIE ANTENNE - Bella Italia (AAC+)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.de/oldie-antenne-event/stream/mp3:OLDIE ANTENNE - Weihnachten
 #DESCRIPTION OLDIE ANTENNE - Weihnachten
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
