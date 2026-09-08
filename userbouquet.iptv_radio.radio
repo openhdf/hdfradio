@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 06.09.2026 21:23 by Team www.hdfreaks.cc
+#DESCRIPTION Update 08.09.2026 23:39 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -3779,14 +3779,6 @@
 #DESCRIPTION Magic Radio Oldies Hits (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//maxxima.mine.nu%3a8000/maxx.ogg
 #DESCRIPTION MaXXima (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.motherearthradio.de/listen/motherearth/motherearth.flac-lo
-#DESCRIPTION Mother Earth Radio (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.motherearthradio.de/listen/motherearth_klassik/motherearth.klassik.flac-lo
-#DESCRIPTION Mother Earth Klassik (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.motherearthradio.de/listen/motherearth_instrumental/motherearth.instrumental.flac-lo
-#DESCRIPTION Mother Earth Instrumental (FLAC)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.motherearthradio.de/listen/motherearth_jazz/motherearth.jazz.flac-lo
-#DESCRIPTION Mother Earth Jazz (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mscp3.live-streams.nl%3a8360/flac.flac
 #DESCRIPTION Naim Radio (FLAC)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mscp3.live-streams.nl%3a8250/class-flac.flac
