@@ -181,6 +181,9 @@ msgstr ""
 msgid "All directories (shuffle)"
 msgstr ""
 
+msgid "Allow duplicate recordings?"
+msgstr ""
+
 msgid "Also consider subfolders (sort by folder)."
 msgstr ""
 
@@ -349,6 +352,11 @@ msgid "Choose whether 'HDF Radio Player' should be shown in the mainmenu or not.
 msgstr ""
 
 msgid "Choose whether 'HDF Radio' should be shown in the mainmenu or not."
+msgstr ""
+
+msgid ""
+"Choose whether duplicate recordings are allowed or not.\n"
+"If so, they will be numbered consecutively."
 msgstr ""
 
 msgid "Choose whether radio logos displayed or not."
@@ -1061,9 +1069,6 @@ msgstr ""
 msgid "Record Time"
 msgstr ""
 
-msgid "Recorder"
-msgstr ""
-
 msgid "Recording"
 msgstr ""
 
@@ -1233,9 +1238,6 @@ msgid "Select the playlist you want to edit."
 msgstr ""
 
 msgid "Select the playlist you want to rename."
-msgstr ""
-
-msgid "Select the recorder for the radio streams."
 msgstr ""
 
 msgid "Select the stream you want to add."
