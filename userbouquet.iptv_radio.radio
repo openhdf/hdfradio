@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 08.09.2026 23:39 by Team www.hdfreaks.cc
+#DESCRIPTION Update 14.09.2026 20:18 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -11043,3 +11043,17 @@
 #DESCRIPTION TOWER TOWN - Oberpfalzradio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.laut.fm/tower-town-oberpfalzplus
 #DESCRIPTION TOWER TOWN - Oberpfalz plus
+#SERVICE 1:64:D:0:0:0:0:0:0:0:
+#DESCRIPTION Radio Potsdam
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream09.radiohost.de/radio-potsdam_mp3-192
+#DESCRIPTION Radio Potsdam - live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//extraradio.streams.radio-app.eu/listen/radio_potsdam__osthits/radio.mp3
+#DESCRIPTION Radio Potsdam - Osthits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//extraradio.streams.radio-app.eu/listen/radio_potsdam_lokal/radio.mp3
+#DESCRIPTION Radio Potsdam - Lokal Heroes
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//extraradio.streams.radio-app.eu/listen/radio_potsdam__kids/radio.mp3
+#DESCRIPTION Radio Potsdam - Kids
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//extraradio.streams.radio-app.eu/listen/radio_potsdam___clubbing/radio.mp3
+#DESCRIPTION Radio Potsdam - Clubbing
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//extraradio.streams.radio-app.eu/listen/radio_potsdam__weihnachten/radio.mp3
+#DESCRIPTION Radio Potsdam - Weihnachten
