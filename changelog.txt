@@ -1,3 +1,9 @@
+v2.27.3:
+- recording function for radio streams revised
+- added option to allow duplicate recordings
+- translations updated (thanks @Warder and @Orlandox)
+- many small changes and fixes
+
 v2.27.2:
 - added detection of stream delays
 - detection of bitrate improved
