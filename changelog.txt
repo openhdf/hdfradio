@@ -1,3 +1,10 @@
+v2.27.4:
+- detection for stream title via gstplayer revised
+- fixed song lyric search on genius.com
+- fixed an issue with setting ID3 tags when recording MP3 radio streams
+- translations updated (thanks @paps)
+- some small changes and fixes
+
 v2.27.3:
 - recording function for radio streams revised
 - added option to allow duplicate recordings
