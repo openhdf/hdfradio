@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 16.09.2026 18:00 by Team www.hdfreaks.cc
+#DESCRIPTION Update 16.09.2026 12:41 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -11059,3 +11059,21 @@
 #DESCRIPTION Radio Potsdam - Clubbing
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//extraradio.streams.radio-app.eu/listen/radio_potsdam__weihnachten/radio.mp3
 #DESCRIPTION Radio Potsdam - Weihnachten
+#SERVICE 1:64:D:0:0:0:0:0:0:0:
+#DESCRIPTION Ballermann® Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.bmr-radio.de/ballermann-radio.mp3:K.S.0926
+#DESCRIPTION Ballermann® Radio – Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.bmr-radio.de/bmr-ab18.mp3
+#DESCRIPTION Ballermann® Radio – Ab 18
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bmr.streamabc.net/bmr-bmrclassicsady-mp3-192-1412113
+#DESCRIPTION Ballermann® Radio – Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.bmr-radio.de/bmr-clubstyle.mp3
+#DESCRIPTION Ballermann® Radio – ClubStyle
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.bmr-radio.de/bmr-top30.mp3
+#DESCRIPTION Ballermann® Radio – Top 30
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//webstream.schlagerparadies.de/schlagerparadies128k.mp3
+#DESCRIPTION Ballermann® Radio – Radio Schlagerparadies
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bmr.streamabc.net/bmr-bmrfussball-mp3-192-8189065
+#DESCRIPTION Ballermann® Radio – Fußball Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//bmr.streamabc.net/bmr-bmrapresskiady-mp3-192-6386046
+#DESCRIPTION Ballermann® Radio – Après Ski
