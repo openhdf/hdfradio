@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 18.09.2026 17:11 by Team www.hdfreaks.cc
+#DESCRIPTION Update 20.09.2026 20:51 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -2777,6 +2777,8 @@
 #DESCRIPTION Mixed Channels - Rádio Huambo - RNA
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//142.4.219.8%3a8350/stream
 #DESCRIPTION Mixed Channels - Radio Mi Amigo International
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//lion.radioca.st/;
+#DESCRIPTION Mixed Channels - Radio Mi Amigo Int. (320kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream-176.zeno.fm/qtsv9imdittvv
 #DESCRIPTION Mixed Channels - 80s FlashBack Radio (Chile)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s2.ssl-stream.com%3a8050/256.mp3
