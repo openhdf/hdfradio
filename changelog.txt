@@ -1,3 +1,9 @@
+v2.27.5:
+- for radio recordings, the cover image is now saved in the 'cover' subdirectory
+- stream information detection has been revised
+- added a new path for favorites list backups
+- some small changes
+
 v2.27.4:
 - detection for stream title via gstplayer revised
 - fixed song lyric search on genius.com
