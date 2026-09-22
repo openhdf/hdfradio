@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 20.09.2026 20:51 by Team www.hdfreaks.cc
+#DESCRIPTION Update 22.09.2026 20:28 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -6981,19 +6981,19 @@
 #DESCRIPTION Got Radio - Urban Lounge
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/6pz06e8nv4zuv
 #DESCRIPTION Greatest Hits Radio USA
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nexuscast.com%3a8139/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.56.185.82%3a8139/
 #DESCRIPTION Heart Beat Radio (USA)
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nexuscast.com%3a8131/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.56.185.82%3a8131/
 #DESCRIPTION Heart Beat Radio - Kiss FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nexuscast.com%3a8147/
-#DESCRIPTION Heart Beat Radio - Barnyard Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nexuscast.com%3a8145/
-#DESCRIPTION Heart Beat Radio - A Taste Of Portugal
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nexuscast.com%3a8135/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.56.185.82%3a8147/
+#DESCRIPTION Heart Beat Radio - Kiss FM Country
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.56.185.82%3a8145/
+#DESCRIPTION Heart Beat Radio - I Love the 90s Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.56.185.82%3a8135/
 #DESCRIPTION Heart Beat Radio - Back To The 80's Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nexuscast.com%3a8137/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.56.185.82%3a8137/
 #DESCRIPTION Heart Beat Radio - That 70's Station
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//s1.nexuscast.com%3a8133/
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.56.185.82%3a8133/
 #DESCRIPTION Heart Beat Radio - Graceland Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.56.185.82%3a8141/
 #DESCRIPTION Heart Beat Radio - Beatle Radio!
