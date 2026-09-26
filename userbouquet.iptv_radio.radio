@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 22.09.2026 20:28 by Team www.hdfreaks.cc
+#DESCRIPTION Update 26.09.2026 17:20 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -5943,7 +5943,7 @@
 #DESCRIPTION Radio 538 - 538
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22353.live.streamtheworld.com/TLPSTR09.mp3
 #DESCRIPTION Radio 538 - Non Stop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25273.live.streamtheworld.com/TLPSTR13.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//29003.live.streamtheworld.com/TLPSTR13.mp3
 #DESCRIPTION Radio 538 - Top50
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//29043.live.streamtheworld.com/TLPSTR19.mp3
 #DESCRIPTION Radio 538 - Ibiza
@@ -5957,7 +5957,7 @@
 #DESCRIPTION Radio 538 - Dance Dept
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22723.live.streamtheworld.com/TLPSTR08.mp3
 #DESCRIPTION Radio 538 - Greatest Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25323.live.streamtheworld.com/TLPSTR21.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22713.live.streamtheworld.com/TLPSTR21.mp3
 #DESCRIPTION Radio 538 - 90s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
 #DESCRIPTION ------ SKY Radio ------
@@ -5965,7 +5965,7 @@
 #DESCRIPTION Sky Radio - Sky Radio (live)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22713.live.streamtheworld.com/SRGSTR01.mp3
 #DESCRIPTION Sky Radio - Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25303.live.streamtheworld.com/SRGSTR24.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25253.live.streamtheworld.com/SRGSTR24_SC
 #DESCRIPTION Sky Radio - @Work
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//29093.live.streamtheworld.com/SRGSTR05.mp3
 #DESCRIPTION Sky Radio - 00´s & 10´s
@@ -5975,26 +5975,26 @@
 #DESCRIPTION Sky Radio - Summer Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//29093.live.streamtheworld.com/SRGSTR07.mp3
 #DESCRIPTION Sky Radio - Top 1000
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25273.live.streamtheworld.com/SRGSTR15.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25243.live.streamtheworld.com/SRGSTR15_SC
 #DESCRIPTION Sky Radio - Smooth Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25243.live.streamtheworld.com/SRGSTR04.mp3
 #DESCRIPTION Sky Radio - 80´s Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25273.live.streamtheworld.com/SRGSTR08.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22673.live.streamtheworld.com/SRGSTR08.mp3
 #DESCRIPTION Sky Radio - Christmas
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
 #DESCRIPTION ------ Radio 10 NL ------
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25273.live.streamtheworld.com/RADIO10.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//29043.live.streamtheworld.com/RADIO10.mp3
 #DESCRIPTION Radio 10 - live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22553.live.streamtheworld.com/TLPSTR18.mp3
 #DESCRIPTION Radio 10 - 60's & 70's Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25283.live.streamtheworld.com/TLPSTR20.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25223.live.streamtheworld.com/TLPSTR20.mp3
 #DESCRIPTION Radio 10 - 80's Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25333.live.streamtheworld.com/TLPSTR22.mp3
 #DESCRIPTION Radio 10 - 90´er Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25303.live.streamtheworld.com/TLPSTR23.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22613.live.streamtheworld.com/TLPSTR23.mp3
 #DESCRIPTION Radio 10 - Disco Classics
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22603.live.streamtheworld.com/TLPSTR04.mp3
-#DESCRIPTION Radio 10 - Love Songs
+#DESCRIPTION Radio 10 - Soul & Jazz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22553.live.streamtheworld.com/TLPSTR15.mp3
 #DESCRIPTION Radio 10 - Non-stop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25233.live.streamtheworld.com/TLPSTR24.mp3
