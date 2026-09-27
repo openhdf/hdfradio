@@ -32,9 +32,6 @@ msgstr ""
 msgid "     Screensaver starts in ..."
 msgstr ""
 
-msgid "     Show information and cover"
-msgstr ""
-
 msgid "     add own keywords"
 msgstr ""
 
@@ -86,7 +83,7 @@ msgstr ""
 msgid "A backup of your previous logos has been created."
 msgstr ""
 
-msgid "A backup was saved in '/tmp'."
+msgid "A backup was saved in '%s'."
 msgstr ""
 
 msgid "A cover image has been found."
@@ -247,9 +244,6 @@ msgid "Changelog"
 msgstr ""
 
 msgid "Channel"
-msgstr ""
-
-msgid "Channel Mode"
 msgstr ""
 
 msgid "Choose a album:"
@@ -448,6 +442,9 @@ msgstr ""
 msgid ""
 "Deleted directories: %s\n"
 "Deleted files: %s"
+msgstr ""
+
+msgid "Description"
 msgstr ""
 
 msgid "Directories"
@@ -1252,6 +1249,9 @@ msgstr ""
 msgid "Select whether the CEC control should be activated for the TV."
 msgstr ""
 
+msgid "Server Type"
+msgstr ""
+
 msgid "Shift"
 msgstr ""
 
@@ -1560,9 +1560,6 @@ msgid "Waiting for new title ..."
 msgstr ""
 
 msgid "Webradio Plugin"
-msgstr ""
-
-msgid "With this option, information and cover are displayed."
 msgstr ""
 
 msgid "With this option, information will be searched at 'theaudiodb.com'."
