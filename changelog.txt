@@ -1,3 +1,10 @@
+v2.27.6:
+- various adjustments for Shoutcast streams
+- the stream information has been expanded
+- fixed song lyric search on azlyrics.com
+- translations updated (thanks @Warder, @Orlandox and @paps)
+- some small changes
+
 v2.27.5:
 - for radio recordings, the cover image is now saved in the 'cover' subdirectory
 - stream information detection has been revised
