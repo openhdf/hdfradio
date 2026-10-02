@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 27.09.2026 12:21 by Team www.hdfreaks.cc
+#DESCRIPTION Update 02.10.2026 18:27 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -65,6 +65,8 @@
 #DESCRIPTION Radio Westfalica - Dein Sommer Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-0198/deinevent/mid/stream.aac
 #DESCRIPTION Radio Westfalica - Dein Weihnachts Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.radiowestfalica.de/audiodata/news.mp3
+#DESCRIPTION Radio Westfalica - Lokal Nachrichten
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Ostseewelle
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ostseewelle.stream11.radiohost.de/ostseewelle-nord_mp3-192
