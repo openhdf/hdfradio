@@ -1,3 +1,9 @@
+v2.27.8:
+- fixed an issue in stream title detection via gstplayer
+- detection of bitrate improved
+- detection of audio codec improved
+- some small changes and fixes
+
 v2.27.6:
 - various adjustments for Shoutcast streams
 - the stream information has been expanded
