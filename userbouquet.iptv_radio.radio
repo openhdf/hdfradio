@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 02.10.2026 18:27 by Team www.hdfreaks.cc
+#DESCRIPTION Update 08.10.2026 18:53 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -67,6 +67,8 @@
 #DESCRIPTION Radio Westfalica - Dein Weihnachts Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//www.radiowestfalica.de/audiodata/news.mp3
 #DESCRIPTION Radio Westfalica - Lokal Nachrichten
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//www.radioherford.de/audiodata-hf/news.mp3
+#DESCRIPTION Radio Herford - Lokal Nachrichten
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Ostseewelle
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ostseewelle.stream11.radiohost.de/ostseewelle-nord_mp3-192
@@ -5901,8 +5903,6 @@
 #DESCRIPTION NPO Radio 4 Klassiek
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.omroep.nl/radio5-bb-mp3
 #DESCRIPTION NPO Radio 5 De beste Evergreens
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.omroep.nl/radio6-bb-mp3
-#DESCRIPTION NPO Radio 6 Soul & Jazz
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.omroep.nl/funx-bb-mp3
 #DESCRIPTION NPO FunX
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.omroep.nl/funx-arab-bb-mp3
@@ -5917,8 +5917,6 @@
 #DESCRIPTION NPO FunX Afro
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.omroep.nl/funx-slowjamz-bb-mp3
 #DESCRIPTION NPO FunX Slow Jamz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast.omroep.nl/3fm-serioustalent-mp3
-#DESCRIPTION NPO Campus
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//icecast.omroep.nl/radio2-sterrennl-mp3
 #DESCRIPTION NPO Sterren NL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
@@ -6010,6 +6008,40 @@
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.noordzee105.be/gold
 #DESCRIPTION Radio Nordzee - Gold
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ------ Radio Veronica themakanalen ------
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21223.live.streamtheworld.com/VERONICAAAC.aac
+#DESCRIPTION Radio Veronica
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21633.live.streamtheworld.com/DAB02_AAC.aac
+#DESCRIPTION Veronica De beste 90s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//28573.live.streamtheworld.com/DAB01_AAC.aac
+#DESCRIPTION Veronica De beste 80s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22713.live.streamtheworld.com/WEB07_AAC.aac
+#DESCRIPTION Veronica Rock Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22713.live.streamtheworld.com/WEB06_AAC.aac
+#DESCRIPTION Veronica Top 3000
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ---- KINK----
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25253.live.streamtheworld.com%3a443/KINK_SC
+#DESCRIPTION KINK Live
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//22613.live.streamtheworld.com%3a443/KINK_DISTORTION_SC
+#DESCRIPTION KINK Distortion
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//22333.live.streamtheworld.com%3a443/KINK_DNA_SC
+#DESCRIPTION KINK 80s
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//22323.live.streamtheworld.com%3a443/KINK_90S_SC
+#DESCRIPTION KINK 90s
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ---- Sublime----
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//29033.live.streamtheworld.com/SUBLIMEAAC.aac
+#DESCRIPTION Sublime Live
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//28973.live.streamtheworld.com/WEB21_AAC.aac
+#DESCRIPTION Sublime New Jazz
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//22333.live.streamtheworld.com/WEB20_AAC.aac
+#DESCRIPTION Sublime R&B '90s & '00s
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//22713.live.streamtheworld.com/WEB22_AAC.aac
+#DESCRIPTION Sublime Soul Classics
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//22713.live.streamtheworld.com/WEB23_AAC.aac
+#DESCRIPTION Sublime Sunday Chill
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
 #DESCRIPTION ------ Radio Mix NL ------
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//27823.live.streamtheworld.com/100PNL_AAC.aac
 #DESCRIPTION 100% NL
@@ -6037,8 +6069,8 @@
 #DESCRIPTION Delta Radio 60-70-80 Nijmegen NL (256 kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//azuraserv3.live-streams.nl%3a8040/stream.mp3
 #DESCRIPTION Echte Piraten
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//italo.live-streams.nl%3a80/extra
-#DESCRIPTION Fantasy Radio NL (320 kbps)
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//italo.live-streams.nl/fantasy
+#DESCRIPTION Fantasy Radio NL (256kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//cast3.asurahosting.com/proxy/breakou1/stream
 #DESCRIPTION Funky Channel
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3
@@ -6047,10 +6079,6 @@
 #DESCRIPTION JOE non-stop Nederland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.joyradio.nl/joyradio
 #DESCRIPTION Joy Radio NL Hits Only!
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25233.live.streamtheworld.com/KINKAAC.aac
-#DESCRIPTION KINK live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//25333.live.streamtheworld.com/KINK_DISTORTIONAAC.aac
-#DESCRIPTION KINK Distortion
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream2.music-radio4all.nl%3a8443/stream.mp3
 #DESCRIPTION Radio4All
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radionl.fm/radionl
@@ -6063,24 +6091,10 @@
 #DESCRIPTION Stadsradio.NL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//caster.hosting078.nl%3a1175/stream
 #DESCRIPTION Studio Grensstad NL
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//25293.live.streamtheworld.com/SUBLIME.mp3
-#DESCRIPTION Sublime - live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//extragold.stream-server.nl
 #DESCRIPTION The Retro Sound - EXTRA GOLD CLASSICS (192 kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.tukkerfm.nl/tukkerfm
 #DESCRIPTION Tukker FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
-#DESCRIPTION ------ Radio Veronica themakanalen ------
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21223.live.streamtheworld.com/VERONICAAAC.aac
-#DESCRIPTION Radio Veronica
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//21633.live.streamtheworld.com/DAB02_AAC.aac
-#DESCRIPTION Veronica De beste 90s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//28573.live.streamtheworld.com/DAB01_AAC.aac
-#DESCRIPTION Veronica De beste 80s
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22713.live.streamtheworld.com/WEB07_AAC.aac
-#DESCRIPTION Veronica Rock Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22713.live.streamtheworld.com/WEB06_AAC.aac
-#DESCRIPTION Veronica Top 3000
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Frankreich
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stric6.streamakaci.com/4uclassicrock.mp3
