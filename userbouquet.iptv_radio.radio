@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 08.10.2026 18:53 by Team www.hdfreaks.cc
+#DESCRIPTION Update 13.10.2026 19:12 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -321,6 +321,8 @@
 #DESCRIPTION 80s80s - Alternative
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//regiocast.streamabc.net/regc_bljow2eoji_it5l-mp3-192-6893733
 #DESCRIPTION 80s80s - Freestyle
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-80s80ssynthiepop-mp3-192-6219643
+#DESCRIPTION 80s80s - Synthiepop
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Perfect Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiojar.com/0yxv39azat3vv
