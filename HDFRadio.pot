@@ -453,10 +453,10 @@ msgstr ""
 msgid "Do you really want to add the lyrics into your MP3?"
 msgstr ""
 
-msgid "Do you really want to add this song?"
+msgid "Do you really want to add this song to your playlist?"
 msgstr ""
 
-msgid "Do you really want to add this stream?"
+msgid "Do you really want to add this stream to your favourites list?"
 msgstr ""
 
 #, python-format
@@ -844,6 +844,9 @@ msgstr ""
 msgid "Open 'Database Viewer'"
 msgstr ""
 
+msgid "Open the settings to define the recording path."
+msgstr ""
+
 msgid "Or press '2' to import a album."
 msgstr ""
 
@@ -1077,17 +1080,7 @@ msgstr ""
 msgid "Recording in %s/"
 msgstr ""
 
-msgid "Recording is already in progress."
-msgstr ""
-
-msgid ""
-"Recording not possible.\n"
-"Open the settings to define the recording path."
-msgstr ""
-
-msgid ""
-"Recording not possible.\n"
-"There is not enough space available."
+msgid "Recording not possible."
 msgstr ""
 
 msgid "Remove"
@@ -1454,13 +1447,13 @@ msgstr ""
 msgid "The selected file does not exist."
 msgstr ""
 
-msgid "The song is already in the playlist."
+msgid "The song is already in your playlist."
 msgstr ""
 
 msgid "The song is currently playing."
 msgstr ""
 
-msgid "The song was successfully added to the playlist."
+msgid "The song was successfully added to your playlist."
 msgstr ""
 
 msgid "The stream is already in your favourites list."
@@ -1490,6 +1483,9 @@ msgid "There is no current plugin available for this Python version!"
 msgstr ""
 
 msgid "There is no import file available."
+msgstr ""
+
+msgid "There is not enough space available."
 msgstr ""
 
 msgid "There is not enough storage space available in '%s'."
