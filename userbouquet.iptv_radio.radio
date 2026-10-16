@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 13.10.2026 19:12 by Team www.hdfreaks.cc
+#DESCRIPTION Update 16.10.2026 19:00 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1711,6 +1711,10 @@
 #DESCRIPTION planet radio - nightwax
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.planetradio.de/plrchannels/hqblackbeats.aac
 #DESCRIPTION planet radio - black beats
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.planetradio.de/plrplus/hqdance.aac
+#DESCRIPTION planet radio - dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//mp3.planetradio.de/plrplus/hqdeutschrap.aac
+#DESCRIPTION planet radio - deutschrap
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION HIT RADIO FFH und FFH+
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/radioffh/hqlivestream.aac
