@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 22.10.2026 17:52 by Team www.hdfreaks.cc
+#DESCRIPTION Update 23.10.2026 17:43 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -537,50 +537,24 @@
 #DESCRIPTION Radio BOB! - Gaming Rock-Stream
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Antenne NRW
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream18.radiohost.de/radiogroup-antenne-nrw_mp3-192:k.s.210725
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiogroup.de/radiogroup-antenne-nrw_mp3-192
 #DESCRIPTION Antenne NRW - Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-70er-hits/stream/aacp
-#DESCRIPTION Antenne NRW - 70er Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiogroup.de/radiogroup-chill-out_mp3-192
+#DESCRIPTION Antenne NRW - Chill Out
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiogroup.de/radiogroup-70er_mp3-192
+#DESCRIPTION Antenne NRW - 70er
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiogroup.de/radiogroup-flashback-80er/mp3-192
-#DESCRIPTION Antenne NRW - 80er Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-90er-hits/stream/aacp
-#DESCRIPTION Antenne NRW - 90er Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-2000er-hits/stream/aacp
-#DESCRIPTION Antenne NRW - 2000er Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s8-webradio.oldie-antenne.de/oldie-antenne
-#DESCRIPTION Antenne NRW - OLDIE ANTENNE
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiogroup.de/radiogroup-rock/mp3-192/
-#DESCRIPTION Antenne NRW - Rock Classics
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-ndw/stream/aacp
-#DESCRIPTION Antenne NRW - NDW
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-fetenhits/stream/aacp
-#DESCRIPTION Antenne NRW - Fetenhits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-disco-fever/stream/aacp
-#DESCRIPTION Antenne NRW - Disco Fever
+#DESCRIPTION Antenne NRW - 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiogroup.de/radiogroup-90er_mp3-192
+#DESCRIPTION Antenne NRW - 90er
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiogroup.de/radiogroup-bella-italia/mp3-192
 #DESCRIPTION Antenne NRW - Bella Italia
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream09.radiohost.de/radiogroup-70er_mp3-192
-#DESCRIPTION Antenne NRW - 70er Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-80er-disco-hits/stream/aacp
-#DESCRIPTION Antenne NRW - 80er Disco Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream18.radiohost.de/radiogroup-rock_mp3-192
-#DESCRIPTION Antenne NRW - 80er Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream32.radiohost.de/radiogroup-flashback-80er_mp3-192
-#DESCRIPTION Antenne NRW - 80er Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-90er-eurodance/stream/aacp
-#DESCRIPTION Antenne NRW - 90er Eurodance
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream32.radiohost.de/radiogroup-90er_mp3-192
-#DESCRIPTION Antenne NRW - 90er Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream31.radiohost.de/radiogroup-90er_mp3-192
-#DESCRIPTION Antenne NRW - 90er Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-ue30-party/stream/aacp
-#DESCRIPTION Antenne NRW - Ü30 Party
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-karneval/stream/aacp
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiogroup.de/radiogroup-rock_mp3-192
+#DESCRIPTION Antenne NRW - Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiogroup.de/radiogroup-karneval_mp3-192
 #DESCRIPTION Antenne NRW - Karneval
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.antenne.nrw/antenne-nrw-weihnachts-hits/stream/aacp
-#DESCRIPTION Antenne NRW - Weihnachts-Hits
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream32.radiohost.de/radiogroup-chill-out_mp3-192
-#DESCRIPTION Antenne NRW - Chill Out
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiogroup.de/radiogroup-weihnachts-hits_mp3-192
+#DESCRIPTION Antenne NRW - Weihnachts Hits
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Antenne Thüringen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.antennethueringen.de/live/mp3-192/web/
@@ -2725,7 +2699,7 @@
 #DESCRIPTION Mixed Channels - Radio fresh80s
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//c30.radioboss.fm%3a8173/hifi.mp3
 #DESCRIPTION Mixed Channels - RadioFREIZEIT
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream09.radiohost.de/radio-holiday_mp3-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiogroup.de/radio-holiday_mp3-192
 #DESCRIPTION Mixed Channels - Radio Holiday
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//wellenrausch.streamabc.net/95-radiowellenrausch-mp3-192-8870646
 #DESCRIPTION Mixed Channels - Radio Wellenrausch
@@ -11073,7 +11047,7 @@
 #DESCRIPTION TOWER TOWN - Oberpfalz plus
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio Potsdam
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radiogroup.stream09.radiohost.de/radio-potsdam_mp3-192
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.radiogroup.de/radio-potsdam_mp3-192
 #DESCRIPTION Radio Potsdam - live
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//extraradio.streams.radio-app.eu/listen/radio_potsdam__osthits/radio.mp3
 #DESCRIPTION Radio Potsdam - Osthits
