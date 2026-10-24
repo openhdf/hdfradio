@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 23.10.2026 17:43 by Team www.hdfreaks.cc
+#DESCRIPTION Update 24.10.2026 12:20 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1573,52 +1573,76 @@
 #DESCRIPTION Radio Fantasy - Feeld Good
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio Regenbogen
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen.de/karlsruhe/aac-128
-#DESCRIPTION Radio Regenbogen - Baden die Pfalz
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.regenbogen.de/freiburg/aac-128
-#DESCRIPTION Radio Regenbogen - Sdbaden Schwarzwald
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-dab-aac-128-7631046 : K.S.23102026
+#DESCRIPTION Radio Regenbogen - DAB
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-regenbogenlive-aac-128-5535317 
+#DESCRIPTION Radio Regenbogen - Baden-Württemberg
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-regenbogen1028-aac-128-5324158
+#DESCRIPTION Radio Regenbogen - Rhein-Neckar
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-regenbogen1004-aac-128-3101919
+#DESCRIPTION Radio Regenbogen - Mittelbaden
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-regenbogen1011-aac-128-5471011
+#DESCRIPTION Radio Regenbogen - Südbaden
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-modernrockrr-aac-128-4674446
+#DESCRIPTION Radio Regenbogen - Modern Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-70errockrr-aac-128-4431765
+#DESCRIPTION Radio Regenbogen - 70er Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-kuschelrock-aac-128-9356950
+#DESCRIPTION Radio Regenbogen - Kuschelrock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-softlazy-aac-128-5484078
-#DESCRIPTION Radio Regenbogen - Soft and Lazy
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-top40-aac-128-2919565
-#DESCRIPTION Radio Regenbogen - Top 40
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-musical-aac-128-6749248
-#DESCRIPTION Radio Regenbogen - Musical and Film Hits
+#DESCRIPTION Radio Regenbogen - Soft & Lazy
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-unplugged-aac-128-4241587
 #DESCRIPTION Radio Regenbogen - Unplugged
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-kuschelrock-aac-128-9356950
-#DESCRIPTION Radio Regenbogen - Kuschelrock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-modernpop-aac-128-3237457
-#DESCRIPTION Radio Regenbogen - Modern Pop
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-edsheeran-aac-128-6341992
-#DESCRIPTION Radio Regenbogen - Ed Sheeran
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-spotlight-aac-128-4101694
-#DESCRIPTION Radio Regenbogen - Spotlight
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-regenbogenflashback-aac-128-3865255
+#DESCRIPTION Radio Regenbogen - Flashback
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-oldies-aac-128-9511176
 #DESCRIPTION Radio Regenbogen - Oldies
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//audiotainment-sw.streamabc.net/atsw-2010er-aac-128-1077012
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-80er-aac-128-8659286
+#DESCRIPTION Radio Regenbogen - 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-90er-aac-128-1157777
+#DESCRIPTION Radio Regenbogen - 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-2000er-aac-128-3176605
+#DESCRIPTION Radio Regenbogen - 2000er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-2010er-aac-128-1077012
 #DESCRIPTION Radio Regenbogen - 2010er
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-inthemix-aac-128-6946417
-#DESCRIPTION Radio Regenbogen - In The Mix
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-konfetti-aac-128-2414600
-#DESCRIPTION Radio Regenbogen - Konfetti-Party
+#DESCRIPTION Radio Regenbogen - In the Mix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-90erdance-aac-128-1882794
+#DESCRIPTION Radio Regenbogen - 90er Dance
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-latin-aac-128-1269018
 #DESCRIPTION Radio Regenbogen - Latin Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-top40-aac-128-2919565
+#DESCRIPTION Radio Regenbogen - Top 40
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-konfetti-aac-128-2414600
+#DESCRIPTION Radio Regenbogen - Konfetti-Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-shakefm-aac-128-6704475
+#DESCRIPTION Radio Regenbogen - Shake!FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-sommerhits-aac-128-2385172
+#DESCRIPTION Radio Regenbogen - Sommerhits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-christmas-aac-128-1387064
+#DESCRIPTION Radio Regenbogen - Christmas Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-schlager-aac-128-1773375
 #DESCRIPTION Radio Regenbogen - Schlager
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-deutschpop-aac-128-1474027
 #DESCRIPTION Radio Regenbogen - Deutsch Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-modernrockrr-aac-128-4674446
+#DESCRIPTION Radio Regenbogen - Modern Rock
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-classicrockrr-aac-128-2809334
 #DESCRIPTION Radio Regenbogen - Classic Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-70errockrr-aac-128-1260178
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-80erpoprock-aac-128-5408742
+#DESCRIPTION Radio Regenbogen - 80er Pop Rock
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-70errockrr-aac-128-4431765
 #DESCRIPTION Radio Regenbogen - 70er Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-modernrockrr-aac-128-9602877
-#DESCRIPTION Radio Regenbogen - Modern Rock
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-hiphop-aac-128-9752208
-#DESCRIPTION Radio Regenbogen - Hip-Hop an R`n`B
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-christmas-aac-128-1387064
-#DESCRIPTION Radio Regenbogen - Christmas Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-musik-aac-128-2092402
+#DESCRIPTION Radio Regenbogen - Nur die Musik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-morgensbisabends-aac-128-5150947
+#DESCRIPTION Radio Regenbogen - Von Morgens bis Abends
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-workout-aac-128-2440877
+#DESCRIPTION Radio Regenbogen - Workout
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-kinderlieder-aac-128-4251343
 #DESCRIPTION Radio Regenbogen - Kinderlieder
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-christmas-aac-128-1387064
+#DESCRIPTION Radio Regenbogen - Christmas Hits
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audiotainment-sw.streamabc.net/atsw-adler-aac-128-2022130
 #DESCRIPTION Radio Regenbogen - Adler Mannheim
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
