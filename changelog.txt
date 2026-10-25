@@ -1,3 +1,13 @@
+v2.28.0:
+- Xion skins updated
+- path settings revised
+- search process for lyrics revised
+- changed yellow button in info screen
+- added start screen
+- Google translate removed
+- translations updated (thanks @Warder, @Orlandox and @paps)
+- many small changes and fixes
+
 v2.27.8:
 - fixed an issue in stream title detection via gstplayer
 - detection of bitrate improved
