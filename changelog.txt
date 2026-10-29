@@ -1,3 +1,7 @@
+v2.28.1:
+- Shoutcast stream identification improved
+- some small changes and fixes
+
 v2.28.0:
 - Xion skins updated
 - path settings revised
