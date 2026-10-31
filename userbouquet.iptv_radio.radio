@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 29.10.2026 19:50 by Team www.hdfreaks.cc
+#DESCRIPTION Update 31.10.2026 11:16 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -121,6 +121,8 @@
 #DESCRIPTION Brainflowermedia
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//hoerbuchzauber.stream.laut.fm/hoerbuchzauber
 #DESCRIPTION Hoerbuchzauber
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//andreasnacht.de/radio/stream
+#DESCRIPTION Andreas’ Nacht – Hörbücher zum Einschlafen
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Radio Schlagerparadies
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radioplayer-schlagerparty.schlagerparadies.de/schlagerparty
@@ -2719,6 +2721,8 @@
 #DESCRIPTION Mixed Channels - Meer Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio-streaming.jsc-service.com/nice-main-256
 #DESCRIPTION Mixed Channels - Nice Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//c01.lexycast.de%3a2210/;?
+#DESCRIPTION Mixed Channels - Radio 101 FM (320kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ffn-de-hz-fal-stream08-cluster01.radiohost.de/radiobollerwagen_mp3-192
 #DESCRIPTION Mixed Channels - Radio Bollerwagen
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//ice4.abradio.cz/depeche128.mp3
@@ -6205,6 +6209,8 @@
 #DESCRIPTION Morow
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radio.mosaiquefm.net%3a8000/mosalive
 #DESCRIPTION Mosaique FM LIVE
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radionetwork.freeboxos.fr/rnyf
+#DESCRIPTION New York Floor FR (320kbps)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionomy.com/rjm-lounge
 #DESCRIPTION Not Gaming FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.radionti.com/nti-128.mp3
