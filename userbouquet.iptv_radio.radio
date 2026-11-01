@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 31.10.2026 11:16 by Team www.hdfreaks.cc
+#DESCRIPTION Update 01.11.2026 17:15 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -6361,153 +6361,153 @@
 #DESCRIPTION Starbox Radio - Soul
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Tick Tock Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1950/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1950/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1950
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1951/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1951/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1951
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1952/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1952/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1952
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1953/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1953/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1953
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1954/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1954/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1954
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1955/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1955/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1955
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1956/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1956/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1956
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1957/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1957/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1957
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1958/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1958/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1958
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1959/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1959/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1959
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1960/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1960/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1960
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1961/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1961/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1961
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1962/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1962/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1962
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1963/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1963/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1963
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1964/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1964/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1964
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1965/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1965/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1965
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1966/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1966/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1966
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1967/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1967/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1967
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1968/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1968/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1968
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1969/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1969/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1969
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1970/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1970/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1970
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1971/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1971/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1971
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1972/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1972/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1972
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1973/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1973/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1973
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1974/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1974/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1974
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1975/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1975/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1975
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1976/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1976/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1976
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1977/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1977/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1977
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1978/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1978/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1978
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1979/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1979/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1979
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1980/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1980/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1980
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1981/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1981/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1981
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1982/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1982/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1982
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1983/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1983/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1983
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1984/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1984/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1984
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1985/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1985/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1985
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1986/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1986/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1986
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1987/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1987/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1987
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1988/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1988/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1988
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1989/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1989/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1989
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1990/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1990/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1990
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1991/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1991/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1991
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1992/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1992/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1992
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1993/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1993/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1993
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1994/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1994/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1994
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1995/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1995/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1995
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1996/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1996/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1996
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1997/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1997/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1997
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1998/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1998/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1998
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/1999/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/1999/icecast.audio
 #DESCRIPTION Tick Tock Radio - 1999
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2000/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/2000/icecast.audio
 #DESCRIPTION Tick Tock Radio - 2000
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2001/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/2001/icecast.audio
 #DESCRIPTION Tick Tock Radio - 2001
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2002/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/2002/icecast.audio
 #DESCRIPTION Tick Tock Radio - 2002
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2003/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/2003/icecast.audio
 #DESCRIPTION Tick Tock Radio - 2003
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2004/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/2004/icecast.audio
 #DESCRIPTION Tick Tock Radio - 2004
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2005/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/2005/icecast.audio
 #DESCRIPTION Tick Tock Radio - 2005
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2006/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/2006/icecast.audio
 #DESCRIPTION Tick Tock Radio - 2006
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2007/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/2007/icecast.audio
 #DESCRIPTION Tick Tock Radio - 2007
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2008/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/2008/icecast.audio
 #DESCRIPTION Tick Tock Radio - 2008
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2009/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/2009/icecast.audio
 #DESCRIPTION Tick Tock Radio - 2009
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2010/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/2010/icecast.audio
 #DESCRIPTION Tick Tock Radio - 2010
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2011/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/2011/icecast.audio
 #DESCRIPTION Tick Tock Radio - 2011
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2012/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/2012/icecast.audio
 #DESCRIPTION Tick Tock Radio - 2012
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2013/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/2013/icecast.audio
 #DESCRIPTION Tick Tock Radio - 2013
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2014/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/2014/icecast.audio
 #DESCRIPTION Tick Tock Radio - 2014
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2015/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/2015/icecast.audio
 #DESCRIPTION Tick Tock Radio - 2015
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2016/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/2016/icecast.audio
 #DESCRIPTION Tick Tock Radio - 2016
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2017/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/2017/icecast.audio
 #DESCRIPTION Tick Tock Radio - 2017
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2018/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/2018/icecast.audio
 #DESCRIPTION Tick Tock Radio - 2018
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2019/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/2019/icecast.audio
 #DESCRIPTION Tick Tock Radio - 2019
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2020/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/2020/icecast.audio
 #DESCRIPTION Tick Tock Radio - 2020
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2021/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/2021/icecast.audio
 #DESCRIPTION Tick Tock Radio - 2021
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2022/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/2022/icecast.audio
 #DESCRIPTION Tick Tock Radio - 2022
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//streaming.ticktock.radio/tt/2023/icecast.audio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.mystreaming.net/tt/2023/icecast.audio
 #DESCRIPTION Tick Tock Radio - 2023
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Tinder Radio
