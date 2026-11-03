@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 01.11.2026 17:15 by Team www.hdfreaks.cc
+#DESCRIPTION Update 03.11.2026 19:55 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -9335,18 +9335,24 @@
 #DESCRIPTION ESC Radio
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Trigger.FM
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//triggerfm.ice.infomaniak.ch/triggerfm-256.mp3
-#DESCRIPTION Trigger.FM - Hauptprogramm
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//triggerfmmax.ice.infomaniak.ch/triggerfmmax-256.mp3
-#DESCRIPTION Trigger.FM - 80er & 90er Max
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//triggerfmhartmut.ice.infomaniak.ch/triggerfmhartmut-256.mp3
-#DESCRIPTION Trigger.FM - Oldies & deutsche Musik
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//triggerfmderbeat.ice.infomaniak.ch/triggerfmderbeat-256.mp3
-#DESCRIPTION Trigger.FM - Der Beat
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ponyradio.ice.infomaniak.ch/ponyradio-256.mp3
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio-streaming.jsc-service.com/triggerfm-pony-256:K.S.03.11.26
 #DESCRIPTION Trigger.FM - Pony Radio
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//app.radionewsai.com/api/newscasters/9e11b9e1-6fd3-4ec5-93eb-a3542e8516c1/latest.mp3
-#DESCRIPTION Trigger.FM - Kurzmeldungen
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio-streaming.jsc-service.com/triggerfm-info-256:02
+#DESCRIPTION Trigger.FM - Nachrichten & Talks
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio-streaming.jsc-service.com/triggerfm-paul-256:03
+#DESCRIPTION Trigger.FM - Electro / House / Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio-streaming.jsc-service.com/triggerfm-simon-256:04
+#DESCRIPTION Trigger.FM - Rock / Country / Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio-streaming.jsc-service.com/triggerfm-hartmut-256:05
+#DESCRIPTION Trigger.FM - Oldies & deutsche Musik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio-streaming.jsc-service.com/triggerfm-soufisticated-256:06
+#DESCRIPTION Trigger.FM - Chill & Vibes
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio-streaming.jsc-service.com/triggerfm-radio-muenchen-256:07
+#DESCRIPTION Trigger.FM - Radio München
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio-streaming.jsc-service.com/triggerfm-max-256:08
+#DESCRIPTION Trigger.FM - 80er / 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio-streaming.jsc-service.com/triggerfm-bobstv-256:09
+#DESCRIPTION Trigger.FM - BYB´s Radio TV
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Finland
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//ext-stream-pl06.nm-elemental.nelonenmedia.fi/HEF/fragments/index-128k.m3u8
