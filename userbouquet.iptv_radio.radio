@@ -1,6 +1,6 @@
 #NAME HDF Radio Streams
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
-#DESCRIPTION Update 05.11.2026 19:01 by Team www.hdfreaks.cc
+#DESCRIPTION Update 11.11.2026 18:06 by Team www.hdfreaks.cc
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION DELUXE MUSIC
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//regiocast.streamabc.net/regc-deluxelounge1592295-aacplus-64-5676935
@@ -1219,8 +1219,6 @@
 #DESCRIPTION BR Radio - BR24
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dispatcher.rndfnk.com/br/br24live/live/mp3/mid
 #DESCRIPTION BR Radio - BR24Live
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dispatcher.rndfnk.com/br/brschlager/live/mp3/mid
-#DESCRIPTION BR Radio - BR Schlager
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//dispatcher.rndfnk.com/br/brheimat/live/mp3/mid
 #DESCRIPTION BR Radio - BR Heimat
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
@@ -2047,6 +2045,16 @@
 #DESCRIPTION Radio Superfly
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//liferadio.streamabc.net/lfr_w97ylbvwcps_45m7-mp3-192-1637662
 #DESCRIPTION XXXLutz - Das Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//127.0.0.1/hdfradio
+#DESCRIPTION ---- Radio Grün Weiß ----
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.gruen-weiss.at/rgw.mp3
+#DESCRIPTION Radio Grün Weiß - Live / Steiermark
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.gruen-weiss.at/rgw-schl.mp3
+#DESCRIPTION Radio Grün Weiß - Mehr Schlager
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.gruen-weiss.at/rgw-aufg.mp3
+#DESCRIPTION Radio Grün Weiß - Aufg'spielt wird
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.gruen-weiss.at/rgw-kult.mp3
+#DESCRIPTION Radio Grün Weiß - Kulthits
 #SERVICE 1:64:D:0:0:0:0:0:0:0:
 #DESCRIPTION Kronehit
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//secureonair.krone.at/kronehit1058.mp3
